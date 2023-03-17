@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/Users/hrmussa/projects",
+  "_template": "gh:AGMoller/cookiecutter-hypermodern-python",
+  "author": "Anders Giovanni M\u00f8ller & Jacob Aarup Dalsgaard",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "agmo@itu.dk & jacd@itu.dk",
+  "friendly_name": "Worker vs. GPT",
+  "github_user": "AGMoller",
+  "license": "MIT",
+  "package_name": "worker_vs_gpt",
+  "project_name": "worker_vs_gpt",
+  "version": "0.0.0"
+}
