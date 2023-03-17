@@ -16,8 +16,16 @@ classifiers = [
 Changelog = "https://github.com/AGMoller/worker_vs_gpt/releases"
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.8"
 click = ">=8.0.1"
+transformers = "^4.27.1"
+torch = "^2.0.0"
+numpy = "^1.24.2"
+pandas = "^1.5.3"
+datasets = "^2.10.1"
+wandb = "^0.14.0"
+sentence-transformers = "^2.2.2"
+scikit-learn = "^1.2.2"
 
 [tool.poetry.dev-dependencies]
 Pygments = ">=2.10.0"
