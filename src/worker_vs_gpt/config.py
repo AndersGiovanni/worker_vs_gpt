@@ -6,68 +6,14 @@ ROOT_DIR = Path(__file__).resolve().parent.parent.parent
 
 DATA_DIR = ROOT_DIR / "data"
 
-DATA_DIR_RAW = DATA_DIR / "raw"
+ANALYSE_TAL_DATA_DIR = DATA_DIR / "analyse-tal"
 
-DATA_DIR_PROCESSED = DATA_DIR / "processed"
+SENTIMENT_DATA_DIR = DATA_DIR / "sentiment"
+
+TEN_DIM_DATA_DIR = DATA_DIR / "ten-dim"
 
 SRC_DIR = ROOT_DIR / "src"
 
 MODELS_DIR = ROOT_DIR / "models"
 
-TEN_SOCIAL_DIM_DIR = SRC_DIR / "ten_social_dim"
-
-
-# Defining dataclasses
-@dataclass
-class Experiment:
-    """Experiment parameters."""
-
-    exp_type: str
-    text_selection: str
-    label_strategy: int
-    ckpt: str
-    dataset_train: str
-    dataset_test: str
-    dataset_augmented: str
-    wandb_project: str
-    wandb_entity: str
-    use_augmented_data: bool
-
-
-@dataclass
-class SetfitParams:
-    """Setfit parameters."""
-
-    batch_size: int
-    lr_body: float
-    lr_head: float
-    num_iterations: int
-    num_epochs_body: int
-    num_epochs_head: int
-    ckpt: str
-    text_selection: str
-    wandb_project: str
-    wandb_entity: str
-
-
-@dataclass
-class MultilabelParams:
-    """Multilabel parameters."""
-
-    batch_size: int
-    lr: float
-    num_epochs: int
-    ckpt: str
-    weight_decay: float
-    text_selection: str
-    wandb_project: str
-    wandb_entity: str
-
-
-@dataclass
-class TrainersConfig:
-    """Trainers configuration."""
-
-    experiment: Experiment
-    setfit_params: SetfitParams
-    multilabel_params: MultilabelParams
+WORKER_VS_GPT_DIR = SRC_DIR / "worker_vs_gpt"
