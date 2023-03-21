@@ -12,6 +12,8 @@ SENTIMENT_DATA_DIR = DATA_DIR / "sentiment"
 
 TEN_DIM_DATA_DIR = DATA_DIR / "ten-dim"
 
+HATE_SPEECH_DATA_DIR = DATA_DIR / "hate-speech"
+
 SRC_DIR = ROOT_DIR / "src"
 
 MODELS_DIR = ROOT_DIR / "models"
