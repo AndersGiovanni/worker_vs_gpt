@@ -12,5 +12,8 @@
       "**/.venv/**": true
     },
     "python.linting.enabled": true,
-    "python.linting.pylintEnabled": true
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Args": [
+      "--max-line-length=120"
+    ],
   }
