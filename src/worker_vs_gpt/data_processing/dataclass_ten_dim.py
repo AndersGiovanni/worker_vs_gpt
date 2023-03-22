@@ -10,6 +10,12 @@ from transformers import AutoTokenizer
 
 from worker_vs_gpt.data_processing.dataclass import DataClassWorkerVsGPT
 
+from worker_vs_gpt.config import ANALYSE_TAL_DATA_DIR
+from worker_vs_gpt.config import HATE_SPEECH_DATA_DIR
+from worker_vs_gpt.config import MODELS_DIR
+from worker_vs_gpt.config import SENTIMENT_DATA_DIR
+from worker_vs_gpt.config import TEN_DIM_DATA_DIR
+
 torch.manual_seed(42)
 
 
@@ -24,9 +30,8 @@ class SocialDataset(DataClassWorkerVsGPT):
     def preprocess(
         self,
         model_name: str,
-        label_strategy: int = 1,
         text_selection: str = "h_text",
-        use_other_column: bool = False,
+        use_neutral_column: bool = True,
     ) -> None:
         """Preprocess the data for the model. This includes tokenization, label preprocessing, and column formatting
         Parameters
@@ -37,8 +42,8 @@ class SocialDataset(DataClassWorkerVsGPT):
             How do we preprocess the labels, by default 1
         text_selection : str, optional
             Which text do we want to use, by default "h_text"
-        use_other_column : bool, optional
-            Whether we want to use the 'other' column, by default False
+        use_neutral_column : bool, optional
+            Whether we want to use the 'neutral' column, by default True
         Raises
         ------
         ValueError
@@ -55,15 +60,14 @@ class SocialDataset(DataClassWorkerVsGPT):
         # Shuffle the data
         self.data = self.data.shuffle(seed=42)
 
-        # if use_other_column is False, remove the "other" label
-        if not use_other_column:
-            self.labels.remove("other")
+        # if use_neutral_column is False, remove the "neutral" label
+        if not use_neutral_column:
+            self.labels.remove("neutral")
 
         # Check if valid input
         assert text_selection in ["text", "h_text"], ValueError(
             "Invalid text selection"
         )
-        assert label_strategy in [1, 2, 3], ValueError("Invalid label strategy")
 
         # tokenize the text
         self.data = self.data.map(
@@ -82,74 +86,41 @@ class SocialDataset(DataClassWorkerVsGPT):
             batched=True,
         )
 
-        # combine all the labels into one tensor
+        # Convert labels to ints
         self.data = self.data.map(
-            lambda x: {
-                "labels": torch.stack([torch.tensor(x[label]) for label in self.labels])
-            },
+            lambda x: {"labels": self._label_preprocessing(x["label"])},
         )
-
-        # Label preprocessing strategies
-        if label_strategy == 1:
-            self.data = self.data.map(
-                lambda x: {"labels": self._label_strategy_1(x["labels"])},
-            )
-        elif label_strategy == 2:
-            self.data = self.data.map(
-                lambda x: {"labels": self._label_strategy_2(x["labels"])},
-            )
-        elif label_strategy == 3:
-            self.data = self.data.map(
-                lambda x: {"labels": self._label_strategy_3(x["labels"])},
-            )
-        else:
-            raise ValueError("Invalid label strategy")
 
         # Format columns to torch tensors
         self.data.set_format("torch")
 
-        # Format labels column to torch tensor with dtype float32
-        self.data = self.data.map(
-            lambda x: {"float_labels": x["labels"].to(torch.float)},
-            remove_columns=["labels"],
-        ).rename_column("float_labels", "labels")
+    def _label_preprocessing(self, label: str) -> int:
+        """Preprocessing the labels"""
+        return self.labels.index(label)
 
-    def _label_strategy_1(self, input: List[str]) -> List[int]:
-        """If ≥ 2, set to 1. Otherwise, set to 0.
-        Parameters
-        ----------
-        input : List[str]
-            Labels for a single post
-        Returns
-        -------
-        List[int]
-            Processed labels for a single post
-        """
-        return [1 if int(label) >= 2 else 0 for label in input]
 
-    def _label_strategy_2(self, input: List[str]) -> List[int]:
-        """If ≥ 1, set to 1. Otherwise, set to 0.
-        Parameters
-        ----------
-        input : List[str]
-            Labels for a single post
-        Returns
-        -------
-        List[int]
-            Processed labels for a single post
-        """
-        return [1 if int(label) >= 1 else 0 for label in input]
+if __name__ == "__main__":
+    print("Hello world!")
 
-    def _label_strategy_3(self, input: List[str]) -> List[int]:
-        """If >= 2, set to 1, disregard all 1, otherwise set to 0.
-        Parameters
-        ----------
-        input : List[str]
-            Labels for a single post
-        Returns
-        -------
-        List[int]
-            Processed labels for a single post
-        """
+    labels = [
+        "social_support",
+        "conflict",
+        "trust",
+        "neutral",
+        "fun",
+        "respect",
+        "knowledge",
+        "power",
+    ]
 
-        return [1 if int(label) >= 2 else 0 for label in input]
+    path = TEN_DIM_DATA_DIR / "labeled_dataset_multiclass.json"
+
+    data = SocialDataset(path)
+
+    data.set_labels(labels)
+
+    data.preprocess(model_name="sentence-transformers/paraphrase-MiniLM-L3-v2")
+
+    processed_data = data.get_data()
+
+    a = 1
