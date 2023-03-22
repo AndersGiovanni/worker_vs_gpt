@@ -1,7 +1,8 @@
-from typing import Dict, Tuple, List, Union
+from typing import Dict, Optional, Tuple, List, Union, NamedTuple
 
 import datasets
 import numpy as np
+import pandas as pd
 import torch
 from sentence_transformers.losses import CosineSimilarityLoss
 from sklearn.metrics import (
@@ -19,38 +20,48 @@ from transformers import (
 )
 import wandb
 
-from worker_vs_gpt.config import MODELS_DIR, MultilabelParams
+from worker_vs_gpt.config import MODELS_DIR, TrainerConfig
 from worker_vs_gpt.utils import get_device
-from worker_vs_gpt.multilabel_classification.custom_callbacks import CustomWandbCallback
+from worker_vs_gpt.classification.custom_callbacks import CustomWandbCallback
+from worker_vs_gpt.data_processing.dataclass import DataClassWorkerVsGPT
 
 
-class MultiLabel:
-    """Multi-label classification model."""
+class PredictionOutput(NamedTuple):
+    """Prediction output."""
+
+    predictions: np.ndarray
+    label_ids: Optional[np.ndarray]
+    metrics: Optional[Dict[str, float]]
+
+
+class ExperimentTrainer:
+    """Experiment Trainer."""
 
     def __init__(
-        self, dataset: datasets.dataset_dict.DatasetDict, config: MultilabelParams
+        self,
+        data: DataClassWorkerVsGPT,
+        config: TrainerConfig,
     ) -> None:
-        self.config: MultilabelParams = config
+        self.config: TrainerConfig = config
         self.ckpt: str = config.ckpt
         self.batch_size: int = config.batch_size
         self.lr: float = config.lr
         self.num_epochs: int = config.num_epochs
         self.weight_decay: float = config.weight_decay
-        self.tokenizer = AutoTokenizer.from_pretrained(
-            self.ckpt, problem_type="multi_label_classification"
-        )
-        self.dataset: datasets.dataset_dict.DatasetDict = dataset
+        self.tokenizer = AutoTokenizer.from_pretrained(self.ckpt)
+        self.dataset: datasets.dataset_dict.DatasetDict = data.get_data()
         self.device: torch.device = get_device()
-        self.num_labels: int = dataset["train"]["labels"].size()[1]
+        self.num_labels: int = len(data.labels)
+        self.labels: List[str] = data.labels
+        self.dataset_name: str = config.dataset
 
         self.model = AutoModelForSequenceClassification.from_pretrained(
             self.ckpt,
-            problem_type="multi_label_classification",
             num_labels=self.num_labels,
         ).to(self.device)
 
-    def multi_label_metrics(
-        self, predictions: torch.tensor, labels: torch.tensor, threshold: float = 0.5
+    def _compute_metrics(
+        self, predictions: np.ndarray, labels: np.ndarray, threshold: float = 0.5
     ) -> Dict[str, float]:
         """
         Compute metrics for multi-label classification (F1, AUC, ACC).
@@ -71,19 +82,22 @@ class MultiLabel:
         Dict[str, float]
             Dictionary with metrics.
         """
-        # first, apply sigmoid on predictions which are of shape (batch_size, num_labels)
-        sigmoid = torch.nn.Sigmoid()
-        probs = sigmoid(torch.Tensor(predictions))
-        loss_fn = torch.nn.BCEWithLogitsLoss()
+        # first, apply softmax on predictions which are of shape (batch_size, num_labels)
+        softmax = torch.nn.Softmax(dim=1)
+        probs = softmax(torch.Tensor(predictions))
+        loss_fn = torch.nn.CrossEntropyLoss()
+
         # next, use threshold to turn them into integer predictions
         y_pred = np.zeros(probs.shape)
         y_pred[np.where(probs >= threshold)] = 1
+
         # finally, compute metrics
         y_true = labels
         loss = loss_fn(torch.from_numpy(y_pred), torch.from_numpy(y_true))
         f1_micro_average = f1_score(y_true=y_true, y_pred=y_pred, average="micro")
         roc_auc = roc_auc_score(y_true, probs, average="micro")
         accuracy = accuracy_score(y_true, y_pred)
+
         # return as dictionary
         metrics = {
             "f1": f1_micro_average,
@@ -95,7 +109,7 @@ class MultiLabel:
 
     def compute_metrics(self, p: EvalPrediction) -> Dict[str, float]:
         """
-        Compute metrics for multi-label classification (F1, AUC, ACC).
+        Compute metrics for classification (F1, AUC, ACC, loss).
 
         Parameters
         ----------
@@ -110,21 +124,33 @@ class MultiLabel:
         preds: torch.tensor = (
             p.predictions[0] if isinstance(p.predictions, tuple) else p.predictions
         )
-        result: Dict[str, float] = self.multi_label_metrics(
+        result: Dict[str, float] = self._compute_metrics(
             predictions=preds, labels=p.label_ids
         )
         return result
 
     def train(self) -> None:
+        """Train model. We save the model in the MODELS_DIR directory and log the results to wandb."""
         wandb.init(
             project=self.config.wandb_project,
             entity=self.config.wandb_entity,
-            name=f"MultiLabel_{self.ckpt}_test",
-            group="multilabel",
+            name=f"{self.ckpt}_size:{self.dataset['train'].num_rows}",
+            group=f"{self.dataset_name}",
+            config={
+                "ckpt": self.ckpt,
+                "batch_size": self.batch_size,
+                "lr": self.lr,
+                "num_epochs": self.num_epochs,
+                "weight_decay": self.weight_decay,
+                "train_size": self.dataset["train"].num_rows,
+            },
         )
 
         args = TrainingArguments(
-            str(MODELS_DIR / f"MultiLabel_{self.ckpt}"),
+            str(
+                MODELS_DIR
+                / f"{self.dataset_name}_size:{len(self.dataset['train'])}_{self.ckpt}"
+            ),
             evaluation_strategy="epoch",
             logging_strategy="epoch",
             save_strategy="epoch",
@@ -153,12 +179,49 @@ class MultiLabel:
         print(trainer.evaluate())
         self.trainer = trainer
 
-    def test(self) -> None:
-        prediction_output: Tuple[
-            np.ndarray, np.ndarray, Dict[str, float]
-        ] = self.trainer.predict(self.dataset["test"], metric_key_prefix="")
+    def test(
+        self,
+    ) -> PredictionOutput:
+        """Test the trained model on the test set and log to wandb."""
+        prediction_output: PredictionOutput = self.trainer.predict(
+            self.dataset["test"], metric_key_prefix=""
+        )
 
-        return prediction_output  # type: ignore
+        metrics, y_pred_logits, y_true = (
+            prediction_output.metrics,
+            prediction_output.predictions,
+            prediction_output.label_ids,
+        )
 
-    def predict(self, x: torch.Tensor) -> np.ndarray:
+        # Convert logits to probabilities
+        softmax = torch.nn.Softmax()
+        probs = softmax(torch.Tensor(y_pred_logits)).numpy()
+        y_pred = np.zeros(probs.shape)
+        y_pred[np.where(probs >= 0.5)] = 1
+
+        clf_report = classification_report(
+            y_true=y_true, y_pred=y_pred, target_names=self.labels, output_dict=True
+        )
+
+        # Add prefix to metrics "test/"
+        metrics = {f"test/{k[1:]}": v for k, v in metrics.items()}
+        # Log results
+        wandb.log(
+            metrics,
+        )
+
+        df = pd.DataFrame(clf_report)
+        df["metric"] = df.index
+        table = wandb.Table(data=df)
+
+        wandb.log(
+            {
+                "classification_report": table,
+            }
+        )
+
+        return prediction_output
+
+    def predict(self, x: torch.Tensor) -> PredictionOutput:
+        """Predict"""
         return self.trainer.predict(x)
