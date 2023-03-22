@@ -1,10 +1,9 @@
-trainer:
-  ckpt: sentence-transformers/paraphrase-MiniLM-L3-v2
-  dataset: hate-speech # can be 'analyse-tal', 'hate-speech', 'sentiment', 'ten-dim'
-  use_augmented_data: False
-  wandb_project: ten_social_dim
-  wandb_entity: cocoons
-  batch_size: 32
-  lr: 2e-5
-  num_epochs: 5
-  weight_decay: 0
+ckpt: bert-base-cased
+dataset: ten-dim # can be 'analyse-tal', 'hate-speech', 'sentiment', 'ten-dim'
+use_augmented_data: False
+wandb_project: worker_vs_gpt
+wandb_entity: cocoons
+batch_size: 32
+lr: 2e-5
+num_epochs: 10
+weight_decay: 0
