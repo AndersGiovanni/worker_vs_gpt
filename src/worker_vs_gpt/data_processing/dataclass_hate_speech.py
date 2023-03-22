@@ -55,13 +55,22 @@ class HateSpeechDataset(DataClassWorkerVsGPT):
             batched=True,
         )
 
-    def _label_preprocessing(self, label: str) -> int:
+        # Format columns to torch tensors
+        self.data.set_format("torch")
+
+        # Format labels column to torch tensor with dtype float32
+        self.data = self.data.map(
+            lambda x: {"float_labels": x["labels"].to(torch.float)},
+            remove_columns=["labels"],
+        ).rename_column("float_labels", "labels")
+
+    def _label_preprocessing(self, label: str) -> List[int]:
         """Preprocessing the labels"""
 
         if label == "OFF":
-            return 1
+            return [0, 1]
         else:
-            return 0
+            return [1, 0]
 
 
 if __name__ == "__main__":
