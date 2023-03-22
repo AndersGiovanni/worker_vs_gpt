@@ -19,3 +19,18 @@ SRC_DIR = ROOT_DIR / "src"
 MODELS_DIR = ROOT_DIR / "models"
 
 WORKER_VS_GPT_DIR = SRC_DIR / "worker_vs_gpt"
+
+
+@dataclass
+class TrainerConfig:
+    """Trainer config class."""
+
+    ckpt: str
+    dataset: str
+    use_augmentation_data: bool
+    wandb_project: str
+    wandb_entity: str
+    batch_size: int
+    num_epochs: int
+    lr: float
+    weight_decay: float
