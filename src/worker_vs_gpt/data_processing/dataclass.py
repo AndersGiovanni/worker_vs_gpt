@@ -1,10 +1,18 @@
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Dict, List, Union
+from typing import Dict
+from typing import List
+from typing import Union
 
 import datasets
+from datasets import concatenate_datasets
+import numpy as np
 import torch
 from torch.utils.data import Dataset
+
+# Set random seeds
+torch.manual_seed(42)
+np.random.seed(42)
 
 
 class DataClassWorkerVsGPT(Dataset):
@@ -13,8 +21,10 @@ class DataClassWorkerVsGPT(Dataset):
     def __init__(self, path: Union[Path, None]) -> None:
         super().__init__()
         self.data: datasets.DatasetDict = datasets.load_dataset(
-            "json", data_files=str(path)
+            "json",
+            data_files=str(path),
         )
+        self.data.shuffle(seed=42)
         self.labels: List[str] = []
 
     def preprocess(self) -> None:
@@ -41,7 +51,7 @@ class DataClassWorkerVsGPT(Dataset):
 
     def train_test_split(
         self,
-        train_size: float = 0.9,
+        train_size: Union[float, int] = 0.9,
         seed: int = 42,
         test_split_name: str = "validation",
     ) -> None:
@@ -56,14 +66,67 @@ class DataClassWorkerVsGPT(Dataset):
         -------
         None
         """
+
+        if isinstance(train_size, float):
+            train_size = int(len(self.data["train"]) * train_size)
+        if isinstance(train_size, int):
+            assert train_size <= len(self.data["train"]), "Train size is too large"
+
         ds_splitter = self.data["train"].train_test_split(
-            test_size=1 - train_size, seed=seed
+            train_size=train_size, seed=seed
         )
         train = ds_splitter["train"]
         test = ds_splitter["test"]
 
         self.data["train"] = train
         self.data[test_split_name] = test
+
+    def exp_datasize_split(
+        self, train_size: int = 500, validation_size: int = 500
+    ) -> None:
+        """Split the dataset into train, validation, and test
+        Parameters
+        ----------
+        size : int, optional
+            Size of the train set, by default 500
+        Returns
+        -------
+        None
+        """
+
+        # Assert that the size is not to large
+        assert train_size + validation_size <= len(
+            self.data["original_train"]
+        ), f"Train and validation ({train_size + validation_size}) is to large (max: {len(self.data['original_train'])}))"
+
+        # generate random seed numpy
+        seed = np.random.randint(0, 100000)
+
+        # shuflle the dataset
+        self.data["train"] = self.data["original_train"].shuffle(seed=seed)
+
+        # Select samples for validation
+        self.data["validation"] = self.data["train"].select(range(validation_size))
+
+        # Select samples for train
+        self.data["train"] = self.data["train"].select(
+            range(validation_size, train_size + validation_size)
+        )
+
+        # Add static base set to train
+        self.data["train"] = concatenate_datasets(
+            [self.data["base"], self.data["train"]]
+        )
+
+    def make_static_baseset(self, size: int = 500) -> None:
+        """Make a static base set"""
+        assert size <= len(
+            self.data["train"]
+        ), "The size of the base set is larger than the train set"
+        self.data["original_train"] = self.data["train"].select(
+            range(size, len(self.data["train"]))
+        )
+        self.data["base"] = self.data["train"].select(range(size))
 
     def _label_preprocessing(self, label: str) -> List[int]:
         """Preprocessing the labels"""

@@ -90,9 +90,22 @@ if __name__ == "__main__":
 
     data = SentimentDataset(path)
 
-    data.set_labels(labels=["negative", "neutral", "positive"])
-
     data.preprocess(model_name="sentence-transformers/paraphrase-MiniLM-L3-v2")
+
+    data.make_static_baseset()
+
+    # Specify the length of train and validation set
+    baseset_length = 500
+    validation_length = 500
+    total_train_length = len(data.data["train"]) - validation_length - baseset_length
+
+    # generate list of indices jumping by 500, and the last index is the length of the dataset
+    indices = list(range(0, total_train_length, 500)) + [total_train_length]
+
+    for idx in indices:
+        data.exp_datasize_split(idx, validation_length)
+        print(data.data)
+        print("------------")
 
     processed_data = data.get_data()
 
