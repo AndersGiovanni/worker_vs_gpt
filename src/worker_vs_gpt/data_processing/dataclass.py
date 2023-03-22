@@ -82,7 +82,7 @@ class DataClassWorkerVsGPT(Dataset):
         self.data[test_split_name] = test
 
     def exp_datasize_split(
-        self, train_size: int = 500, validation_size: int = 500
+        self, train_size: int = 500, validation_size: int = 500, seed: int = 42
     ) -> None:
         """Split the dataset into train, validation, and test
         Parameters
@@ -99,8 +99,7 @@ class DataClassWorkerVsGPT(Dataset):
             self.data["original_train"]
         ), f"Train and validation ({train_size + validation_size}) is to large (max: {len(self.data['original_train'])}))"
 
-        # generate random seed numpy
-        seed = np.random.randint(0, 100000)
+        print(f"Seed: {seed}")
 
         # shuflle the dataset
         self.data["train"] = self.data["original_train"].shuffle(seed=seed)

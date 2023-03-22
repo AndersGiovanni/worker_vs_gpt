@@ -100,7 +100,7 @@ class SocialDataset(DataClassWorkerVsGPT):
 
         # Convert labels to ints
         self.data = self.data.map(
-            lambda x: {"labels": self._label_preprocessing(x["label"])},
+            lambda x: {"labels": self._label_preprocessing(x["target"])},
         )
 
         # Format columns to torch tensors

@@ -8,6 +8,7 @@ from datasets import concatenate_datasets
 from dotenv import load_dotenv
 from hydra.core.config_store import ConfigStore
 from sklearn.metrics import classification_report
+import random
 
 from worker_vs_gpt.data_processing import (
     dataclass_hate_speech,
@@ -35,6 +36,7 @@ cs.store(name="config", node=TrainerConfig)
 # Set random seeds
 torch.manual_seed(42)
 np.random.seed(42)
+random.seed(42)
 
 # @click.command()
 # @click.version_option()
@@ -79,10 +81,14 @@ def main(cfg: TrainerConfig) -> None:
     # generate list of indices jumping by 500, and the last index is the length of the dataset
     indices = list(range(0, total_train_length, 500)) + [total_train_length]
 
+    # Select only indices with value 5000 or less
+    indices = [idx for idx in indices if idx <= 5000]
+    seeds = random.sample(range(1, 10000000), len(indices))
+
     dataset.make_static_baseset(size=baseset_length)
 
-    for idx in indices:
-        dataset.exp_datasize_split(idx, validation_length)
+    for seed, idx in zip(seeds, indices):
+        dataset.exp_datasize_split(idx, validation_length, seed)
 
         model = ExperimentTrainer(data=dataset, config=cfg)
 

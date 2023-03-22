@@ -40,7 +40,7 @@ class SentimentDataset(DataClassWorkerVsGPT):
     def preprocess(self, model_name: str) -> None:
         # Convert labels to ints
         self.data = self.data.map(
-            lambda x: {"labels": self._label_preprocessing(x["label"])},
+            lambda x: {"labels": self._label_preprocessing(x["target"])},
         )
 
         # Define tokenizer
@@ -71,16 +71,6 @@ class SentimentDataset(DataClassWorkerVsGPT):
             lambda x: {"float_labels": x["labels"].to(torch.float)},
             remove_columns=["labels"],
         ).rename_column("float_labels", "labels")
-
-    def _label_preprocessing(self, label: str) -> List[int]:
-        """Preprocessing the labels"""
-
-        if label == "negative":
-            return [1, 0, 0]
-        elif label == "neutral":
-            return [0, 1, 0]
-        else:
-            return [0, 0, 1]
 
 
 if __name__ == "__main__":
