@@ -11,3 +11,4 @@ __pycache__/
 
 /outputs/
 /models/
+/wandb/
