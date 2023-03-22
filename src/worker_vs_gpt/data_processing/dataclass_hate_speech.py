@@ -29,7 +29,6 @@ class HateSpeechDataset(DataClassWorkerVsGPT):
         super().__init__(path)
 
     def preprocess(self, model_name: str) -> None:
-
         # Convert labels to ints
         self.data = self.data.map(
             lambda x: {"labels": self._label_preprocessing(x["subtask_a"])},
