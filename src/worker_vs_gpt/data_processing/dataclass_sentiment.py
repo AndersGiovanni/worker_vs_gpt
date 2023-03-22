@@ -25,8 +25,17 @@ from worker_vs_gpt.config import TEN_DIM_DATA_DIR
 class SentimentDataset(DataClassWorkerVsGPT):
     """Dataclass for hatespeech dataset."""
 
-    def __init__(self, path: Union[Path, None]) -> None:
+    def __init__(
+        self,
+        path: Union[Path, None],
+        labels: List[str] = [
+            "negative",
+            "neutral",
+            "positive",
+        ],
+    ) -> None:
         super().__init__(path)
+        self.labels: List[str] = labels
 
     def preprocess(self, model_name: str) -> None:
         # Convert labels to ints
@@ -54,15 +63,24 @@ class SentimentDataset(DataClassWorkerVsGPT):
             batched=True,
         )
 
-    def _label_preprocessing(self, label: str) -> int:
+        # Format columns to torch tensors
+        self.data.set_format("torch")
+
+        # Format labels column to torch tensor with dtype float32
+        self.data = self.data.map(
+            lambda x: {"float_labels": x["labels"].to(torch.float)},
+            remove_columns=["labels"],
+        ).rename_column("float_labels", "labels")
+
+    def _label_preprocessing(self, label: str) -> List[int]:
         """Preprocessing the labels"""
 
         if label == "negative":
-            return 0
+            return [1, 0, 0]
         elif label == "neutral":
-            return 1
-        elif label == "positive":
-            return 2
+            return [0, 1, 0]
+        else:
+            return [0, 0, 1]
 
 
 if __name__ == "__main__":

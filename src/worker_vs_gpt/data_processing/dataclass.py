@@ -12,10 +12,10 @@ class DataClassWorkerVsGPT(Dataset):
 
     def __init__(self, path: Union[Path, None]) -> None:
         super().__init__()
-        self.data: datasets.Dataset = datasets.load_dataset(
+        self.data: datasets.DatasetDict = datasets.load_dataset(
             "json", data_files=str(path)
         )
-        self.labels: Union[None, List[str]] = None
+        self.labels: List[str] = []
 
     def preprocess(self) -> None:
         """This function should be overwritten by the child class.
@@ -23,18 +23,18 @@ class DataClassWorkerVsGPT(Dataset):
         This includes tokenization, label preprocessing, and column formatting"""
         raise NotImplementedError
 
-    def get_data(self) -> datasets.Dataset:
+    def get_data(self) -> datasets.DatasetDict:
         return self.data
 
     def label_to_idx_mapper(self) -> Dict[str, int]:
         assert self.labels is not None, "Labels are not set"
 
-        return {label: idx for label, idx in enumerate(self.labels)}
+        return {label: idx for idx, label in enumerate(self.labels)}
 
     def idx_to_label_mapper(self) -> Dict[int, str]:
         assert self.labels is not None, "Labels are not set"
 
-        return {idx: label for label, idx in enumerate(self.labels)}
+        return {idx: label for idx, label in enumerate(self.labels)}
 
     def set_labels(self, labels: List[str]) -> None:
         self.labels = labels
@@ -64,3 +64,9 @@ class DataClassWorkerVsGPT(Dataset):
 
         self.data["train"] = train
         self.data[test_split_name] = test
+
+    def _label_preprocessing(self, label: str) -> List[int]:
+        """Preprocessing the labels"""
+        label_list: List[int] = [0] * len(self.labels)
+        label_list[self.labels.index(label)] = 1
+        return label_list

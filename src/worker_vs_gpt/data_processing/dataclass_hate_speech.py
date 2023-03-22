@@ -25,11 +25,15 @@ from worker_vs_gpt.config import TEN_DIM_DATA_DIR
 class HateSpeechDataset(DataClassWorkerVsGPT):
     """Dataclass for hatespeech dataset."""
 
-    def __init__(self, path: Union[Path, None]) -> None:
+    def __init__(
+        self, path: Union[Path, None], labels: List[str] = ["NOT", "OFF"]
+    ) -> None:
         super().__init__(path)
+        self.labels = labels
 
     def preprocess(self, model_name: str) -> None:
-        # Convert labels to ints
+
+        # Convert labels to list of ints
         self.data = self.data.map(
             lambda x: {"labels": self._label_preprocessing(x["subtask_a"])},
         )
@@ -62,14 +66,6 @@ class HateSpeechDataset(DataClassWorkerVsGPT):
             lambda x: {"float_labels": x["labels"].to(torch.float)},
             remove_columns=["labels"],
         ).rename_column("float_labels", "labels")
-
-    def _label_preprocessing(self, label: str) -> List[int]:
-        """Preprocessing the labels"""
-
-        if label == "OFF":
-            return [0, 1]
-        else:
-            return [1, 0]
 
 
 if __name__ == "__main__":
