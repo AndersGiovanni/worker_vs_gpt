@@ -87,3 +87,6 @@ show_error_context = true
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+[virtualenvs]
+in-project = true
