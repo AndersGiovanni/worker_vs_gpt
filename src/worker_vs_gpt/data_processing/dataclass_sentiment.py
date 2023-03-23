@@ -25,13 +25,22 @@ from worker_vs_gpt.config import TEN_DIM_DATA_DIR
 class SentimentDataset(DataClassWorkerVsGPT):
     """Dataclass for hatespeech dataset."""
 
-    def __init__(self, path: Union[Path, None]) -> None:
+    def __init__(
+        self,
+        path: Union[Path, None],
+        labels: List[str] = [
+            "negative",
+            "neutral",
+            "positive",
+        ],
+    ) -> None:
         super().__init__(path)
+        self.labels: List[str] = labels
 
     def preprocess(self, model_name: str) -> None:
         # Convert labels to ints
         self.data = self.data.map(
-            lambda x: {"labels": self._label_preprocessing(x["label"])},
+            lambda x: {"labels": self._label_preprocessing(x["target"])},
         )
 
         # Define tokenizer
@@ -54,15 +63,14 @@ class SentimentDataset(DataClassWorkerVsGPT):
             batched=True,
         )
 
-    def _label_preprocessing(self, label: str) -> int:
-        """Preprocessing the labels"""
+        # Format columns to torch tensors
+        self.data.set_format("torch")
 
-        if label == "negative":
-            return 0
-        elif label == "neutral":
-            return 1
-        elif label == "positive":
-            return 2
+        # Format labels column to torch tensor with dtype float32
+        self.data = self.data.map(
+            lambda x: {"float_labels": x["labels"].to(torch.float)},
+            remove_columns=["labels"],
+        ).rename_column("float_labels", "labels")
 
 
 if __name__ == "__main__":
@@ -72,9 +80,22 @@ if __name__ == "__main__":
 
     data = SentimentDataset(path)
 
-    data.set_labels(labels=["negative", "neutral", "positive"])
-
     data.preprocess(model_name="sentence-transformers/paraphrase-MiniLM-L3-v2")
+
+    data.make_static_baseset()
+
+    # Specify the length of train and validation set
+    baseset_length = 500
+    validation_length = 500
+    total_train_length = len(data.data["train"]) - validation_length - baseset_length
+
+    # generate list of indices jumping by 500, and the last index is the length of the dataset
+    indices = list(range(0, total_train_length, 500)) + [total_train_length]
+
+    for idx in indices:
+        data.exp_datasize_split(idx, validation_length)
+        print(data.data)
+        print("------------")
 
     processed_data = data.get_data()
 

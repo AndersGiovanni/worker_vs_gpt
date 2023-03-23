@@ -1,0 +1,9 @@
+ckpt: bert-base-cased
+dataset: ten-dim # can be 'analyse-tal', 'hate-speech', 'sentiment', 'ten-dim'
+use_augmented_data: False
+wandb_project: worker_vs_gpt
+wandb_entity: cocoons
+batch_size: 32
+lr: 2e-5
+num_epochs: 10
+weight_decay: 0

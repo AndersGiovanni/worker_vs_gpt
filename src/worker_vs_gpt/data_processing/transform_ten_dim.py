@@ -42,6 +42,7 @@ def main():
         "respect",
         "knowledge",
         "power",
+        "similarity_identity",
     ]
 
     # convert to multiclass
@@ -52,10 +53,22 @@ def main():
     data = data.drop(columns=["value", "round"])
 
     # shuffle the data
-    data = data.sample(frac=1, random_state = 42).reset_index(drop=True)
+    data = data.sample(frac=1, random_state=42).reset_index(drop=True)
 
     # save the data
-    data.to_json(TEN_DIM_DATA_DIR / "labeled_dataset_multiclass.json", orient="records")
+    data.to_json(
+        TEN_DIM_DATA_DIR / "labeled_dataset_multiclass_v1.json", orient="records"
+    )
+
+    # Make a 20% test split
+    test_data = data.sample(frac=0.2, random_state=42).reset_index(drop=True)
+
+    # Remove the test data from the original data
+    data = data.drop(test_data.index).reset_index(drop=True)
+
+    # Save train and test data
+    data.to_json(TEN_DIM_DATA_DIR / "train.json", orient="records")
+    test_data.to_json(TEN_DIM_DATA_DIR / "test.json", orient="records")
 
     print("Done")
 

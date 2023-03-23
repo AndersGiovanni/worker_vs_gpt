@@ -8,3 +8,8 @@
 /docs/_build/
 /src/*.egg-info/
 __pycache__/
+
+/outputs/
+/models/
+/wandb/
+/run_outputs/
