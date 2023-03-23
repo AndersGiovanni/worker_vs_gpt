@@ -72,7 +72,7 @@ def main(cfg: TrainerConfig) -> None:
 
     # Specify the length of train and validation set
     baseset_length = 500
-    validation_length = 500
+    validation_length = 750
     total_train_length = len(dataset.data["train"]) - validation_length - baseset_length
 
     # generate list of indices to slice from
@@ -80,12 +80,11 @@ def main(cfg: TrainerConfig) -> None:
 
     # Select only indices with value 5000 or less
     indices = [idx for idx in indices if idx <= 5000]
-    seeds = random.sample(range(1, 10000000), len(indices))
 
     dataset.make_static_baseset(size=baseset_length)
 
-    for seed, idx in zip(seeds, indices):
-        dataset.exp_datasize_split(idx, validation_length, seed)
+    for idx in indices:
+        dataset.exp_datasize_split(idx, validation_length)
 
         model = ExperimentTrainer(data=dataset, config=cfg)
 
