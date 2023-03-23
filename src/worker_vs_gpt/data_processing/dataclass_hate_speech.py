@@ -32,10 +32,9 @@ class HateSpeechDataset(DataClassWorkerVsGPT):
         self.labels = labels
 
     def preprocess(self, model_name: str) -> None:
-
         # Convert labels to list of ints
         self.data = self.data.map(
-            lambda x: {"labels": self._label_preprocessing(x["subtask_a"])},
+            lambda x: {"labels": self._label_preprocessing(x["target"])},
         )
 
         # Define tokenizer
@@ -66,6 +65,11 @@ class HateSpeechDataset(DataClassWorkerVsGPT):
             lambda x: {"float_labels": x["labels"].to(torch.float)},
             remove_columns=["labels"],
         ).rename_column("float_labels", "labels")
+
+        # Cast target to ClassLabel
+        self.data = self.data.cast_column(
+            "target", datasets.ClassLabel(names=self.labels)
+        )
 
 
 if __name__ == "__main__":

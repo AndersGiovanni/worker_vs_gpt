@@ -70,7 +70,7 @@ class DataClassWorkerVsGPT(Dataset):
         if isinstance(train_size, int):
             assert train_size <= len(self.data["train"]), "Train size is too large"
 
-        ds_splitter = self.data["train"].train_test_split(
+        ds_splitter = self.data["train_original"].train_test_split(
             train_size=train_size, seed=seed
         )
         train = ds_splitter["train"]
@@ -80,7 +80,7 @@ class DataClassWorkerVsGPT(Dataset):
         self.data[test_split_name] = test
 
     def exp_datasize_split(
-        self, train_size: int = 500, validation_size: int = 500, seed: int = 42
+        self, train_size: int = 500, validation_size: int = 500
     ) -> None:
         """Split the dataset into train, validation, and test
         Parameters
@@ -97,16 +97,13 @@ class DataClassWorkerVsGPT(Dataset):
             self.data["original_train"]
         ), f"Train and validation ({train_size + validation_size}) is to large (max: {len(self.data['original_train'])}))"
 
-        print(f"Seed: {seed}")
-
-        # shuflle the dataset
-        self.data["train"] = self.data["original_train"].shuffle(seed=seed)
-
         # Select samples for validation
-        self.data["validation"] = self.data["train"].select(range(validation_size))
+        self.data["validation"] = self.data["original_train"].select(
+            range(validation_size)
+        )
 
         # Select samples for train
-        self.data["train"] = self.data["train"].select(
+        self.data["train"] = self.data["original_train"].select(
             range(validation_size, train_size + validation_size)
         )
 
@@ -120,11 +117,18 @@ class DataClassWorkerVsGPT(Dataset):
         assert size <= len(
             self.data["train"]
         ), "The size of the base set is larger than the train set"
-        self.data["base"] = self.data["train"].select(range(size))
 
-        self.data["original_train"] = self.data["train"].select(
-            range(size, len(self.data["train"]))
+        # Shuffle the dataset
+        self.data["train"] = self.data["train"].shuffle(seed=42)
+
+        # Stratified train test split
+        splitter = self.data["train"].train_test_split(
+            train_size=size, seed=42, stratify_by_column="target"
         )
+
+        self.data["base"] = splitter["train"]
+
+        self.data["original_train"] = splitter["test"]
 
     def _label_preprocessing(self, label: str) -> List[int]:
         """Preprocessing the labels"""

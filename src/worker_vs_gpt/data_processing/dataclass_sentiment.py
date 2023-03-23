@@ -72,6 +72,11 @@ class SentimentDataset(DataClassWorkerVsGPT):
             remove_columns=["labels"],
         ).rename_column("float_labels", "labels")
 
+        # Cast target to ClassLabel
+        self.data = self.data.cast_column(
+            "target", datasets.ClassLabel(names=self.labels)
+        )
+
 
 if __name__ == "__main__":
     print("Hello world!")
