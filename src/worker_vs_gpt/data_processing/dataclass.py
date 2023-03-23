@@ -80,7 +80,10 @@ class DataClassWorkerVsGPT(Dataset):
         self.data[test_split_name] = test
 
     def exp_datasize_split(
-        self, train_size: int = 500, validation_size: int = 500
+        self,
+        train_size: int = 500,
+        validation_size: int = 500,
+        use_augmented_data: bool = False,
     ) -> None:
         """Split the dataset into train, validation, and test
         Parameters
@@ -103,8 +106,12 @@ class DataClassWorkerVsGPT(Dataset):
         )
 
         # Select samples for train
-        self.data["train"] = self.data["original_train"].select(
-            range(validation_size, train_size + validation_size)
+        self.data["train"] = (
+            self.data["augmented_train"].select(range(train_size))
+            if use_augmented_data
+            else self.data["original_train"].select(
+                range(validation_size, train_size + validation_size)
+            )
         )
 
         # Add static base set to train
@@ -130,8 +137,12 @@ class DataClassWorkerVsGPT(Dataset):
 
         self.data["original_train"] = splitter["test"]
 
-    def _label_preprocessing(self, label: str) -> List[int]:
+    def _label_preprocessing(self, label: Union[str, int]) -> List[int]:
         """Preprocessing the labels"""
+
+        if isinstance(label, int):
+            label = self.idx_to_label_mapper()[label]
+
         label_list: List[int] = [0] * len(self.labels)
         label_list[self.labels.index(label)] = 1
         return label_list

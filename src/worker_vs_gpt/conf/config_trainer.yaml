@@ -1,4 +1,4 @@
-ckpt: bert-base-cased
+ckpt: intfloat/e5-base
 dataset: ten-dim # can be 'analyse-tal', 'hate-speech', 'sentiment', 'ten-dim'
 use_augmented_data: False
 wandb_project: worker_vs_gpt
