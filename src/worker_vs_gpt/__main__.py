@@ -48,32 +48,52 @@ def main(cfg: TrainerConfig) -> None:
         raise NotImplementedError
     elif cfg.dataset == "hate-speech":
         dataset = dataclass_hate_speech.HateSpeechDataset(
-            HATE_SPEECH_DATA_DIR / "train.json"
+            HATE_SPEECH_DATA_DIR / "original_train.json"
         )
         test_dataset = dataclass_hate_speech.HateSpeechDataset(
             HATE_SPEECH_DATA_DIR / "test.json"
         )
+        base_dataset = dataclass_hate_speech.HateSpeechDataset(
+            HATE_SPEECH_DATA_DIR / "base.json"
+        )
+        augmented_dataset = dataclass_hate_speech.HateSpeechDataset(
+            HATE_SPEECH_DATA_DIR / "augmented.json"
+        )
     elif cfg.dataset == "sentiment":
         dataset = dataclass_sentiment.SentimentDataset(
-            SENTIMENT_DATA_DIR / "train.json"
+            SENTIMENT_DATA_DIR / "original_train.json"
         )
         test_dataset = dataclass_sentiment.SentimentDataset(
             SENTIMENT_DATA_DIR / "test.json"
         )
+        base_dataset = dataclass_sentiment.SentimentDataset(
+            SENTIMENT_DATA_DIR / "base.json"
+        )
+        augmented_dataset = dataclass_sentiment.SentimentDataset(
+            SENTIMENT_DATA_DIR / "augmented.json"
+        )
     elif cfg.dataset == "ten-dim":
-        dataset = dataclass_ten_dim.SocialDataset(TEN_DIM_DATA_DIR / "train.json")
+        dataset = dataclass_ten_dim.SocialDataset(
+            TEN_DIM_DATA_DIR / "original_train.json"
+        )
         test_dataset = dataclass_ten_dim.SocialDataset(TEN_DIM_DATA_DIR / "test.json")
+        base_dataset = dataclass_ten_dim.SocialDataset(TEN_DIM_DATA_DIR / "base.json")
+        augmented_dataset = dataclass_ten_dim.SocialDataset(
+            TEN_DIM_DATA_DIR / "augmented.json"
+        )
     else:
         raise ValueError("Dataset not found")
 
     dataset.data["test"] = test_dataset.data["train"]
+    dataset.data["base"] = base_dataset.data["train"]
+    dataset.data["original_train"] = dataset.data["train"]
+    dataset.data["augmented_train"] = augmented_dataset.data["train"]
 
     dataset.preprocess(model_name=cfg.ckpt)
 
     # Specify the length of train and validation set
-    baseset_length = 500
     validation_length = 750
-    total_train_length = len(dataset.data["train"]) - validation_length - baseset_length
+    total_train_length = len(dataset.data["train"]) - validation_length
 
     # generate list of indices to slice from
     indices = list(range(0, total_train_length, 500)) + [total_train_length]
@@ -81,10 +101,8 @@ def main(cfg: TrainerConfig) -> None:
     # Select only indices with value 5000 or less
     indices = [idx for idx in indices if idx <= 5000]
 
-    dataset.make_static_baseset(size=baseset_length)
-
     for idx in indices:
-        dataset.exp_datasize_split(idx, validation_length)
+        dataset.exp_datasize_split(idx, validation_length, cfg.use_augmented_data)
 
         model = ExperimentTrainer(data=dataset, config=cfg)
 
