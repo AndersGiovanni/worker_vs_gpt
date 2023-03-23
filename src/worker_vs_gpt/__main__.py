@@ -1,13 +1,9 @@
 """Command-line interface."""
-import click
 import hydra
 import numpy as np
-import pandas as pd
 import torch
-from datasets import concatenate_datasets
 from dotenv import load_dotenv
 from hydra.core.config_store import ConfigStore
-from sklearn.metrics import classification_report
 import random
 
 from worker_vs_gpt.data_processing import (
@@ -37,6 +33,7 @@ cs.store(name="config", node=TrainerConfig)
 torch.manual_seed(42)
 np.random.seed(42)
 random.seed(42)
+
 
 # @click.command()
 # @click.version_option()
