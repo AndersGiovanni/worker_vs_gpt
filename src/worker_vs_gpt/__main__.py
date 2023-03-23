@@ -48,7 +48,7 @@ def main(cfg: TrainerConfig) -> None:
         raise NotImplementedError
     elif cfg.dataset == "hate-speech":
         dataset = dataclass_hate_speech.HateSpeechDataset(
-            HATE_SPEECH_DATA_DIR / "original_train.json"
+            HATE_SPEECH_DATA_DIR / "train.json"
         )
         test_dataset = dataclass_hate_speech.HateSpeechDataset(
             HATE_SPEECH_DATA_DIR / "test.json"
@@ -61,7 +61,7 @@ def main(cfg: TrainerConfig) -> None:
         )
     elif cfg.dataset == "sentiment":
         dataset = dataclass_sentiment.SentimentDataset(
-            SENTIMENT_DATA_DIR / "original_train.json"
+            SENTIMENT_DATA_DIR / "train.json"
         )
         test_dataset = dataclass_sentiment.SentimentDataset(
             SENTIMENT_DATA_DIR / "test.json"
@@ -73,9 +73,7 @@ def main(cfg: TrainerConfig) -> None:
             SENTIMENT_DATA_DIR / "augmented.json"
         )
     elif cfg.dataset == "ten-dim":
-        dataset = dataclass_ten_dim.SocialDataset(
-            TEN_DIM_DATA_DIR / "original_train.json"
-        )
+        dataset = dataclass_ten_dim.SocialDataset(TEN_DIM_DATA_DIR / "train.json")
         test_dataset = dataclass_ten_dim.SocialDataset(TEN_DIM_DATA_DIR / "test.json")
         base_dataset = dataclass_ten_dim.SocialDataset(TEN_DIM_DATA_DIR / "base.json")
         augmented_dataset = dataclass_ten_dim.SocialDataset(
@@ -104,13 +102,13 @@ def main(cfg: TrainerConfig) -> None:
     for idx in indices:
         dataset.exp_datasize_split(idx, validation_length, cfg.use_augmented_data)
 
-        model = ExperimentTrainer(data=dataset, config=cfg)
+        # model = ExperimentTrainer(data=dataset, config=cfg)
 
-        model.train()
+        # model.train()
 
-        model.test()
+        # model.test()
 
-        wandb.finish()
+        # wandb.finish()
 
 
 if __name__ == "__main__":
