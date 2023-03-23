@@ -1,14 +1,12 @@
-from dataclasses import dataclass
 from pathlib import Path
-from typing import Dict
-from typing import List
-from typing import Union
+from typing import Dict, List, Union
 
 import datasets
-from datasets import concatenate_datasets
 import numpy as np
 import torch
+from datasets import concatenate_datasets
 from torch.utils.data import Dataset
+
 
 # Set random seeds
 torch.manual_seed(42)
@@ -122,10 +120,11 @@ class DataClassWorkerVsGPT(Dataset):
         assert size <= len(
             self.data["train"]
         ), "The size of the base set is larger than the train set"
+        self.data["base"] = self.data["train"].select(range(size))
+
         self.data["original_train"] = self.data["train"].select(
             range(size, len(self.data["train"]))
         )
-        self.data["base"] = self.data["train"].select(range(size))
 
     def _label_preprocessing(self, label: str) -> List[int]:
         """Preprocessing the labels"""
