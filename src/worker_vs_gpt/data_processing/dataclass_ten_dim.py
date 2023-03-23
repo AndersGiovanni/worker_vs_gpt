@@ -46,7 +46,7 @@ class SocialDataset(DataClassWorkerVsGPT):
         self,
         model_name: str,
         text_selection: str = "h_text",
-        use_neutral_column: bool = False,
+        use_neutral_column: bool = True,
     ) -> None:
         """Preprocess the data for the model. This includes tokenization, label preprocessing, and column formatting
         Parameters
