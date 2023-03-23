@@ -1,5 +1,6 @@
 import pandas as pd
 from worker_vs_gpt.config import SENTIMENT_DATA_DIR
+from sklearn.model_selection import train_test_split
 
 
 def main():
@@ -25,7 +26,8 @@ def main():
         header=None,
         names=["label"],
     )["label"]
-    test["label"] = test["label"].map(lambda x: id2label[str(x)])
+    test["target"] = test["label"].map(lambda x: id2label[str(x)])
+    test.drop(columns=["label"], inplace=True)
 
     test.to_json(SENTIMENT_DATA_DIR / "test.json", orient="records")
 
@@ -64,9 +66,14 @@ def main():
         ]
     )["label"]
 
-    train["label"] = train["label"].map(lambda x: id2label[str(x)])
+    train["target"] = train["label"].map(lambda x: id2label[str(x)])
+    train.drop(columns=["label"], inplace=True)
+
+    # Make stratified train and test splits with size 500
+    train, base = train_test_split(train, test_size=500, stratify=train["target"])
 
     train.to_json(SENTIMENT_DATA_DIR / "train.json", orient="records")
+    base.to_json(SENTIMENT_DATA_DIR / "base.json", orient="records")
 
     print("Done")
 

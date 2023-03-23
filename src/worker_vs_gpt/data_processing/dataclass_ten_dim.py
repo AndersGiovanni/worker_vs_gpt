@@ -75,6 +75,8 @@ class SocialDataset(DataClassWorkerVsGPT):
         # if use_neutral_column is False, remove the "neutral" label
         if not use_neutral_column:
             self.labels.remove("neutral")
+            # filter out the rows with the "neutral" label
+            self.data = self.data.filter(lambda x: x["target"] != "neutral")
 
         # Check if valid input
         assert text_selection in ["text", "h_text"], ValueError(
@@ -111,6 +113,11 @@ class SocialDataset(DataClassWorkerVsGPT):
             lambda x: {"float_labels": x["labels"].to(torch.float)},
             remove_columns=["labels"],
         ).rename_column("float_labels", "labels")
+
+        # Cast target to ClassLabel
+        self.data = self.data.cast_column(
+            "target", datasets.ClassLabel(names=self.labels)
+        )
 
 
 if __name__ == "__main__":
