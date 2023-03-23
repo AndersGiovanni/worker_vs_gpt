@@ -1,10 +1,9 @@
-from typing import Dict, Optional, Tuple, List, Union, NamedTuple
+from typing import Dict, Optional, List, NamedTuple
 
 import datasets
 import numpy as np
 import pandas as pd
 import torch
-from sentence_transformers.losses import CosineSimilarityLoss
 from sklearn.metrics import (
     accuracy_score,
     f1_score,
@@ -43,12 +42,7 @@ class ExperimentTrainer:
         config: TrainerConfig,
     ) -> None:
         self.config: TrainerConfig = config
-        self.ckpt: str = config.ckpt
-        self.batch_size: int = config.batch_size
-        self.lr: float = config.lr
-        self.num_epochs: int = config.num_epochs
-        self.weight_decay: float = config.weight_decay
-        self.tokenizer = AutoTokenizer.from_pretrained(self.ckpt)
+        self.tokenizer = AutoTokenizer.from_pretrained(self.config.ckpt)
         self.dataset: datasets.dataset_dict.DatasetDict = data.get_data()
         self.device: torch.device = get_device()
         self.num_labels: int = len(data.labels)
@@ -56,7 +50,7 @@ class ExperimentTrainer:
         self.dataset_name: str = config.dataset
 
         self.model = AutoModelForSequenceClassification.from_pretrained(
-            self.ckpt,
+            self.config.ckpt,
             num_labels=self.num_labels,
         ).to(self.device)
 
@@ -134,14 +128,14 @@ class ExperimentTrainer:
         wandb.init(
             project=self.config.wandb_project,
             entity=self.config.wandb_entity,
-            name=f"{self.ckpt}_size:{self.dataset['train'].num_rows}",
-            group=f"{self.dataset_name}",
+            name=f"{self.config.ckpt}_size:{self.dataset['train'].num_rows}",
+            group=f"{self.config.dataset}",
             config={
-                "ckpt": self.ckpt,
-                "batch_size": self.batch_size,
-                "lr": self.lr,
-                "num_epochs": self.num_epochs,
-                "weight_decay": self.weight_decay,
+                "ckpt": self.config.ckpt,
+                "batch_size": self.config.batch_size,
+                "lr": self.config.lr,
+                "num_epochs": self.config.num_epochs,
+                "weight_decay": self.config.weight_decay,
                 "train_size": self.dataset["train"].num_rows,
             },
         )
@@ -149,18 +143,18 @@ class ExperimentTrainer:
         args = TrainingArguments(
             str(
                 MODELS_DIR
-                / f"{self.dataset_name}_size:{len(self.dataset['train'])}_{self.ckpt}"
+                / f"{self.config.dataset}_size:{len(self.dataset['train'])}_{self.config.ckpt}"
             ),
             evaluation_strategy="epoch",
             logging_strategy="epoch",
             save_strategy="epoch",
             save_total_limit=2,
-            learning_rate=self.lr,
+            learning_rate=self.config.lr,
             load_best_model_at_end=True,
-            per_device_train_batch_size=self.batch_size,
-            per_device_eval_batch_size=self.batch_size,
-            num_train_epochs=self.num_epochs,
-            weight_decay=self.weight_decay,
+            per_device_train_batch_size=self.config.batch_size,
+            per_device_eval_batch_size=self.config.batch_size,
+            num_train_epochs=self.config.num_epochs,
+            weight_decay=self.config.weight_decay,
             metric_for_best_model="eval_loss",
             push_to_hub=False,
             seed=42,
