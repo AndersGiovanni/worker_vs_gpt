@@ -97,5 +97,4 @@ def main(cfg: TrainerConfig) -> None:
 
 
 if __name__ == "__main__":
-    # main(prog_name="ten_social_dim")  # pragma: no cover
     main()  # pragma: no cover
