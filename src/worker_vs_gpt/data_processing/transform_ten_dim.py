@@ -1,12 +1,12 @@
 import pandas as pd
 from worker_vs_gpt.config import TEN_DIM_DATA_DIR
+from sklearn.model_selection import train_test_split
 
 
 def main():
     # load a json file from ten-dim to a pandas dataframe
     data = pd.read_json(TEN_DIM_DATA_DIR / "labeled_dataset.json", orient="records")
     # drop the columns that are not needed
-    data = data.drop(columns=["other", "romance"])
 
     # convert the labels to binary
     labels = [
@@ -19,12 +19,15 @@ def main():
         "respect",
         "knowledge",
         "power",
+        "other",
+        "romance",
     ]
     for label in labels:
         data[label] = data[label].map(lambda x: 1 if x >= 2 else 0)
 
     # find neutral comments
-    data["neutral"] = (~(data[labels].sum(axis=1) > 0)).astype(int)
+    data["neutral"] = (data[labels].sum(axis=1) == 0).astype(int)
+    data = data.drop(columns=["other", "romance"])
 
     # combine similarity and identity
     data["similarity_identity"] = data.apply(
@@ -47,7 +50,7 @@ def main():
 
     # convert to multiclass
     data = data.melt(
-        id_vars=["text", "h_text", "round"], var_name="label", value_vars=labels
+        id_vars=["text", "h_text", "round"], var_name="target", value_vars=labels
     )
     data = data[data["value"] == 1]
     data = data.drop(columns=["value", "round"])
@@ -55,20 +58,15 @@ def main():
     # shuffle the data
     data = data.sample(frac=1, random_state=42).reset_index(drop=True)
 
-    # save the data
-    data.to_json(
-        TEN_DIM_DATA_DIR / "labeled_dataset_multiclass_v1.json", orient="records"
-    )
+    # Select 20% for test
+    train, test = train_test_split(data, test_size=0.2, stratify=data["target"])
 
-    # Make a 20% test split
-    test_data = data.sample(frac=0.2, random_state=42).reset_index(drop=True)
+    # Make stratified train and test splits with size 500
+    train, base = train_test_split(train, test_size=500, stratify=train["target"])
 
-    # Remove the test data from the original data
-    data = data.drop(test_data.index).reset_index(drop=True)
-
-    # Save train and test data
-    data.to_json(TEN_DIM_DATA_DIR / "train.json", orient="records")
-    test_data.to_json(TEN_DIM_DATA_DIR / "test.json", orient="records")
+    train.to_json(TEN_DIM_DATA_DIR / "train.json", orient="records")
+    base.to_json(TEN_DIM_DATA_DIR / "base.json", orient="records")
+    test.to_json(TEN_DIM_DATA_DIR / "test.json", orient="records")
 
     print("Done")
 

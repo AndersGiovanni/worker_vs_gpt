@@ -76,7 +76,7 @@ class SocialDataset(DataClassWorkerVsGPT):
         if not use_neutral_column:
             self.labels.remove("neutral")
             # filter out the rows with the "neutral" label
-            self.data = self.data.filter(lambda x: x["target"] != "neutral")
+            self.data = self.data.filter(lambda x: x["target"] not in ["neutral", 8])
 
         # Check if valid input
         assert text_selection in ["text", "h_text"], ValueError(
