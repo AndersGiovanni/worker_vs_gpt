@@ -12,3 +12,4 @@ __pycache__/
 /outputs/
 /models/
 /wandb/
+/run_outputs/
