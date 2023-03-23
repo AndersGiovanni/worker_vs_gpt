@@ -88,8 +88,8 @@ class ExperimentTrainer:
         # finally, compute metrics
         y_true = labels
         loss = loss_fn(torch.from_numpy(y_pred), torch.from_numpy(y_true))
-        f1_micro_average = f1_score(y_true=y_true, y_pred=y_pred, average="micro")
-        roc_auc = roc_auc_score(y_true, probs, average="micro")
+        f1_micro_average = f1_score(y_true=y_true, y_pred=y_pred, average="macro")
+        roc_auc = roc_auc_score(y_true, probs, average="macro")
         accuracy = accuracy_score(y_true, y_pred)
 
         # return as dictionary
