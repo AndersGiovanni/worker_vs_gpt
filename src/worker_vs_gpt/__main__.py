@@ -75,7 +75,7 @@ def main(cfg: TrainerConfig) -> None:
     validation_length = 500
     total_train_length = len(dataset.data["train"]) - validation_length - baseset_length
 
-    # generate list of indices jumping by 500, and the last index is the length of the dataset
+    # generate list of indices to slice from
     indices = list(range(0, total_train_length, 500)) + [total_train_length]
 
     # Select only indices with value 5000 or less
