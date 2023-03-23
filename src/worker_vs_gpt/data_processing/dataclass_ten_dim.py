@@ -23,9 +23,24 @@ torch.manual_seed(42)
 class SocialDataset(DataClassWorkerVsGPT):
     """Ten-dim dataset class."""
 
-    def __init__(self, path: Union[Path, None]) -> None:
+    def __init__(
+        self,
+        path: Union[Path, None],
+        labels: List[str] = [
+            "social_support",
+            "conflict",
+            "trust",
+            "neutral",
+            "fun",
+            "respect",
+            "knowledge",
+            "power",
+            "similarity_identity",
+        ],
+    ) -> None:
         # If None we just wanna use the class to preprocess data (prompt classification)
         super().__init__(path)
+        self.labels = labels
 
     def preprocess(
         self,
@@ -57,9 +72,6 @@ class SocialDataset(DataClassWorkerVsGPT):
         # load tokenizer
         tokenizer = AutoTokenizer.from_pretrained(model_name)
 
-        # Shuffle the data
-        self.data = self.data.shuffle(seed=42)
-
         # if use_neutral_column is False, remove the "neutral" label
         if not use_neutral_column:
             self.labels.remove("neutral")
@@ -88,38 +100,42 @@ class SocialDataset(DataClassWorkerVsGPT):
 
         # Convert labels to ints
         self.data = self.data.map(
-            lambda x: {"labels": self._label_preprocessing(x["label"])},
+            lambda x: {"labels": self._label_preprocessing(x["target"])},
         )
 
         # Format columns to torch tensors
         self.data.set_format("torch")
 
-    def _label_preprocessing(self, label: str) -> int:
-        """Preprocessing the labels"""
-        return self.labels.index(label)
+        # Format labels column to torch tensor with dtype float32
+        self.data = self.data.map(
+            lambda x: {"float_labels": x["labels"].to(torch.float)},
+            remove_columns=["labels"],
+        ).rename_column("float_labels", "labels")
 
 
 if __name__ == "__main__":
     print("Hello world!")
 
-    labels = [
-        "social_support",
-        "conflict",
-        "trust",
-        "neutral",
-        "fun",
-        "respect",
-        "knowledge",
-        "power",
-    ]
-
     path = TEN_DIM_DATA_DIR / "labeled_dataset_multiclass.json"
 
     data = SocialDataset(path)
 
-    data.set_labels(labels)
-
     data.preprocess(model_name="sentence-transformers/paraphrase-MiniLM-L3-v2")
+
+    # Make static baseset
+    data.make_static_baseset()
+
+    # Specify the length of train and validation set
+    baseset_length = 500
+    validation_length = 500
+    total_train_length = len(data.data["train"]) - validation_length - baseset_length
+
+    # generate list of indices jumping by 500, and the last index is the length of the dataset
+    indices = list(range(0, total_train_length, 500)) + [total_train_length]
+
+    for idx in indices:
+        data.exp_datasize_split(idx, validation_length)
+        print(data.data)
 
     processed_data = data.get_data()
 
