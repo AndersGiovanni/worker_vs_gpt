@@ -7,12 +7,6 @@ import openai
 from dotenv import load_dotenv
 from openai.openai_object import OpenAIObject
 
-from ten_social_dim.prompting.prompts import (
-    ClassificationPrompts,
-    DataAugmentationPrompts,
-    PromptGenerator,
-)
-
 load_dotenv()
 
 
