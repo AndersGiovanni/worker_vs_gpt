@@ -13,3 +13,4 @@ __pycache__/
 /models/
 /wandb/
 /run_outputs/
+.env
