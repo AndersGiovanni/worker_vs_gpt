@@ -102,13 +102,13 @@ def main(cfg: TrainerConfig) -> None:
     for idx in indices:
         dataset.exp_datasize_split(idx, validation_length, cfg.use_augmented_data)
 
-        # model = ExperimentTrainer(data=dataset, config=cfg)
+        model = ExperimentTrainer(data=dataset, config=cfg)
 
-        # model.train()
+        model.train()
 
-        # model.test()
+        model.test()
 
-        # wandb.finish()
+        wandb.finish()
 
 
 if __name__ == "__main__":
