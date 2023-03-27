@@ -34,3 +34,13 @@ class TrainerConfig:
     num_epochs: int
     lr: float
     weight_decay: float
+
+
+@dataclass
+class PromptConfig:
+    """Config for prompting classification."""
+
+    model: str
+    dataset: str
+    wandb_project: str
+    wandb_entity: str
