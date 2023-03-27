@@ -79,7 +79,7 @@ Answer:
                         Your job is to classify the social dimension of a text. The social dimensions are: social support (social_support), conflict, trust, neutral, fun, respect, knowledge, power, similarity and identity (similarity_identity).
 
 
-Based on the following social media text, classify the social dimension of the text. You answer MUST only be one of the dimensions and how certain you are on a scale from 0 to 1. Answer in the style [answer]---[probability]. The output must be lowercased.
+Based on the following social media text, classify the social dimension of the text. You answer MUST only be one of the social dimensions and how certain you are on a scale from 0 to 1. Answer in the style [answer]---[probability]. Your answer can be "social_support", "conflict", "trust", "neutral", "fun", "respect", "knowledge", "power", "similarity_identity".
 Text: {text}
 
 Answer:
