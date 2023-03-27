@@ -90,13 +90,16 @@ def main(cfg: PromptConfig) -> None:
     accuracy = accuracy_score(y_true, y_pred)
     f1 = f1_score(y_true, y_pred, average="macro")
     # roc_auc = roc_auc_score(y_true, y_pred, average="macro", multi_class="ovo")
-    report = classification_report(y_true, y_pred, labels=labels, output_dict=True)
+    report = classification_report(
+        y_true=y_true, y_pred=y_pred, target_names=labels, output_dict=True
+    )
+    # report = classification_report(y_true, y_pred, labels=labels, output_dict=True)
 
     # Initialize wandb
     wandb.init(
         project=cfg.wandb_project,
         entity=cfg.wandb_entity,
-        name=f"{cfg.model}",
+        name=f"{cfg.model}_v2",
         group=f"{cfg.dataset}",
         tags=["prompt_classification"],
         config={
