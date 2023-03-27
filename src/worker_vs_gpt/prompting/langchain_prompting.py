@@ -8,6 +8,8 @@ load_dotenv()
 
 
 class DataTemplates:
+    """Class for storing the templates for the different generation tasks."""
+
     def get_ten_dim_prompt(self) -> PromptTemplate:
         return PromptTemplate(
             input_variables=["social_dimension", "text"],
@@ -40,22 +42,76 @@ Answer:
         )
 
 
+class ClassificationTemplates:
+    """Class for storing the templates for the different classification tasks."""
+
+    def classify_hate_speech(self) -> PromptTemplate:
+        return PromptTemplate(
+            input_variables=["text"],
+            template="""
+                        The following is a comment on a social media post. Classify whether the post is offensive (OFF) or not (NOT). Your answer must be one of the two options and how certain you are on a scale from 0 to 1. Answer in the style [answer]---[probability].
+
+Text: {text}
+
+
+Answer:
+                    """,
+        )
+
+    def classify_sentiment(self) -> PromptTemplate:
+        return PromptTemplate(
+            input_variables=["text"],
+            template="""
+                        Your job is to classify the sentiment of a text. 
+Classify the following social media comment into either “negative”, “neutral” or “positive”. Your answer MUST be either one of the three and how certain you are on a scale from 0 to 1. Answer in the style [answer]---[probability]. THe output must be lowercased.
+
+Text: {text}
+
+Answer:
+                    """,
+        )
+
+    def classify_ten_dim(self) -> PromptTemplate:
+        """Work in progress"""
+        return PromptTemplate(
+            input_variables=["text"],
+            template="""
+                        Your job is to classify the social dimension of a text. The social dimensions are: social support (social_support), conflict, trust, neutral, fun, respect, knowledge, power, similarity and identity (similarity_identity).
+
+
+Based on the following social media text, classify the social dimension of the text. You answer MUST only be one of the dimensions and how certain you are on a scale from 0 to 1. Answer in the style [answer]---[probability]. The output must be lowercased.
+Text: {text}
+
+Answer:
+                    """,
+        )
+
+
 if __name__ == "__main__":
     ten_dim_template = DataTemplates().get_ten_dim_prompt()
 
+    classify_ten_dim = ClassificationTemplates().classify_sentiment()
+
     print(
-        ten_dim_template.format(
-            social_dimension="FAKE SOCIAL DIMENSION", text="FAKE TEXT"
+        classify_ten_dim.format(
+            text="Happy 22nd Birthday to the cuddy Peyton Siva aka PEY PEY!! #FumatuBloodline #AllStar #GoLouisville"
         )
     )
 
     llm = OpenAI(model_name="gpt-3.5-turbo", temperature=0.05)
 
-    llm_chain = LLMChain(prompt=ten_dim_template, llm=llm)
+    llm_chain = LLMChain(prompt=classify_ten_dim, llm=llm)
 
     social_dimension = "trust"
-    text = "I need you to trust that I understand my own feelings."
+    text = [
+        "Happy 22nd Birthday to the cuddy Peyton Siva aka PEY PEY!! #FumatuBloodline #AllStar #GoLouisville",
+        "She would rather see Beyonce with me anyway ... I would make a great step mother.",
+    ]
 
-    output = llm_chain.run({"social_dimension": social_dimension, "text": text})
+    for i in text:
+        output = llm_chain.run({"text": i})
+        print(f"Input: {i}")
+        print(f"Output: {output}")
+        print("-------")
 
     a = 1
