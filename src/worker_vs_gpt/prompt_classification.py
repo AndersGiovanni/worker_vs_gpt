@@ -70,7 +70,7 @@ def main(cfg: PromptConfig) -> None:
     idx = 0
     for input_text in tqdm(dataset[text]):
         # Sometimes refresh the model
-        if idx % 300 == 0:
+        if idx % 200 == 0:
             llm = OpenAI(model_name=cfg.model, temperature=0.05)
             llm_chain = LLMChain(prompt=classification_prompt, llm=llm)
 
