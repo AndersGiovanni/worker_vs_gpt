@@ -12,11 +12,19 @@ class DataTemplates:
 
     def get_ten_dim_prompt(self) -> PromptTemplate:
         return PromptTemplate(
-            input_variables=["social_dimension", "text"],
-            template="""Based on the following social media text conveying {social_dimension}, write 10 new similar examples in style of a social media comment, that show the same intent. Separate
-                        the texts by newline.
+            input_variables=[
+                "social_dimension",
+                "social_dimension_description",
+                "text",
+            ],
+            template="""The following social media text conveys the social dimension {social_dimension}. {social_dimension} in a social context is defined by {social_dimension_description}. Write 10 new semantically similar examples in style of a social media comment, that show the same intent and social dimension.
+ Do NOT enumerate your answer and separate your answer by
+ “///“
+.
 
 Text: {text}
+
+
 
 Answer:
 """,
