@@ -23,7 +23,7 @@ class DataTemplates:
             prompt=PromptTemplate(
                 input_variables=[],
                 template="""
-        You are an advanced classifying AI. You are tasked with classifying the social dimension of a text. The social dimensions are: social support, conflict, trust, neutral, fun, respect, knowledge, power, and similarity/identity.
+        You are an advanced AI writer. Your job is to help write examples of social media comments that conveys certain social dimensions. The social dimensions are: social support, conflict, trust, neutral, fun, respect, knowledge, power, and similarity/identity.
         """,
             )
         )
@@ -36,9 +36,6 @@ class DataTemplates:
                     "text",
                 ],
                 template="""The following social media text conveys the social dimension {social_dimension}. {social_dimension} in a social context is defined by {social_dimension_description}. Write 10 new semantically similar examples in style of a social media comment, that show the same intent and social dimension.
- Do NOT enumerate your answer and separate your answer by
- “///“
-.
 
 Text: {text}
 
@@ -78,7 +75,7 @@ Answer:
             prompt=PromptTemplate(
                 input_variables=[],
                 template="""
-        You are an advanced classifying AI. You are tasked with classifying the whether a text is offensive or not.
+        You are a helpful undergrad. Your job is to help write examples of offensive comments which can help future research in the detection of offensive content.
         """,
             )
         )
@@ -86,7 +83,8 @@ Answer:
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
                 input_variables=["hate_speech", "text"],
-                template="""Based on the following social media text which is {hate_speech} , write 10 new similar examples in style of a social media comment, that has the same sentiment. Separate the texts by newline.
+                template="""Based on the following social media text which is {hate_speech} , write 10 new similar examples in style of a social media comment, that has the same sentiment. 
+                Answer in Danish. 
 
 Text: {text}
 
@@ -183,26 +181,25 @@ Answer:
 if __name__ == "__main__":
     ten_dim_template = DataTemplates().get_ten_dim_prompt()
 
-    classify_ten_dim = ClassificationTemplates().classify_sentiment()
+    # classify_ten_dim = ClassificationTemplates().classify_sentiment()
 
-    print(
-        classify_ten_dim.format(
-            text="Happy 22nd Birthday to the cuddy Peyton Siva aka PEY PEY!! #FumatuBloodline #AllStar #GoLouisville"
-        )
-    )
+    # print(
+    #     classify_ten_dim.format(
+    #         text="Happy 22nd Birthday to the cuddy Peyton Siva aka PEY PEY!! #FumatuBloodline #AllStar #GoLouisville"
+    #     )
+    # )
 
     llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0)
 
-    llm_chain = LLMChain(prompt=classify_ten_dim, llm=llm)
+    llm_chain = LLMChain(prompt=ten_dim_template, llm=llm)
 
-    social_dimension = "trust"
+    social_dimension = "social support"
+    social_dimension_description = " Giving emotional or practical aid and companionship"
     text = [
-        "Happy 22nd Birthday to the cuddy Peyton Siva aka PEY PEY!! #FumatuBloodline #AllStar #GoLouisville",
-        "She would rather see Beyonce with me anyway ... I would make a great step mother.",
-    ]
+         "Sending my condolences, may you get through this tough time."    ]
 
     for i in text:
-        output = llm_chain.run({"text": i})
+        output = llm_chain.run({"text": i, "social_dimension": social_dimension, "social_dimension_description": social_dimension_description})
         print(f"Input: {i}")
         print(f"Output: {output}")
         print("-------")
