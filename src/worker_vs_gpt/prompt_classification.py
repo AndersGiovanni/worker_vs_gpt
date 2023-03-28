@@ -80,7 +80,7 @@ def main(cfg: PromptConfig) -> None:
 
     for input_text in tqdm(dataset[text]):
         # Sometimes refresh the model
-        if idx % 200 == 0:
+        if idx % 100 == 0:
             llm = OpenAI(model_name=cfg.model, temperature=0.05)
             llm_chain = LLMChain(prompt=classification_prompt, llm=llm)
 
@@ -101,7 +101,7 @@ def main(cfg: PromptConfig) -> None:
     wandb.init(
         project=cfg.wandb_project,
         entity=cfg.wandb_entity,
-        name=f"{cfg.model}_v2",
+        name=f"{cfg.model}",
         group=f"{cfg.dataset}",
         tags=["prompt_classification"],
         config={
