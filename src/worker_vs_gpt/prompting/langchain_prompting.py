@@ -86,8 +86,8 @@ Answer:
             template="""
                         Your job is to classify the social dimension of a text. The social dimensions are: social support, conflict, trust, neutral, fun, respect, knowledge, power, similarity and identity.
 
+Based on the following social media text, classify the social dimension of the text. You answer MUST only be one of the social dimensions and how certain you are on a scale from 0 to 1. Answer in the style [answer]---[probability]. Your answer MUST be exactly one of ["social_support", "conflict", "trust", "neutral", "fun", "respect", "knowledge", "power", "similarity_identity"]. The answer must be lowercased.
 
-Based on the following social media text, classify the social dimension of the text. You answer MUST only be one of the social dimensions and how certain you are on a scale from 0 to 1. Answer in the style [answer]---[probability]. Your answer MUST be exactly one of "social_support", "conflict", "trust", "neutral", "fun", "respect", "knowledge", "power", "similarity_identity". The answer must be lowercased.
 Text: {text}
 
 Answer:
@@ -106,7 +106,7 @@ if __name__ == "__main__":
         )
     )
 
-    llm = OpenAI(model_name="gpt-3.5-turbo", temperature=0.05)
+    llm = OpenAI(model_name="gpt-3.5-turbo", temperature=0)
 
     llm_chain = LLMChain(prompt=classify_ten_dim, llm=llm)
 
