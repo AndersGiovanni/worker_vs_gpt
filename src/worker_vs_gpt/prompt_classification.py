@@ -1,7 +1,7 @@
 import json
 import os
 import time
-from typing import Callable, Dict, List
+from typing import Callable, Dict, List, Tuple
 
 from langchain import PromptTemplate, LLMChain
 from langchain.llms import OpenAI
@@ -68,6 +68,13 @@ def main(cfg: PromptConfig) -> None:
     y_pred = []
     y_probs = []
     idx = 0
+    # Evaluate
+    y_true = dataset["target"].values
+    # Get all unique labels
+    labels = list(set(y_true))
+    non_existing_predictions: List[
+        Tuple[str, str]
+    ] = []  # predictions that are not in the labels
     for input_text in tqdm(dataset[text]):
         # Sometimes refresh the model
         if idx % 200 == 0:
@@ -80,11 +87,8 @@ def main(cfg: PromptConfig) -> None:
         y_probs.append(float(prob))
         idx += 1
 
-    # Evaluate
-    y_true = dataset["target"].values
-
-    # Get all unique labels
-    labels = list(set(y_true))
+        if pred not in labels:
+            non_existing_predictions.append((pred, input_text))
 
     # Compute metrics
     accuracy = accuracy_score(y_true, y_pred)
@@ -124,6 +128,9 @@ def main(cfg: PromptConfig) -> None:
             "classification_report": table,
         }
     )
+
+    for i in non_existing_predictions:
+        print(i)
 
     wandb.finish()
 
