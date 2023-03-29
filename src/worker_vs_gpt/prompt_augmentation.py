@@ -25,7 +25,7 @@ from worker_vs_gpt.config import (
     AugmentConfig,
 )
 
-from worker_vs_gpt.utils import balanced_sample_df, parse_output
+from worker_vs_gpt.utils import balanced_sample_df, parse_output, rng
 
 load_dotenv()
 
@@ -58,7 +58,7 @@ def main(cfg: AugmentConfig) -> None:
         label_to_description = {
             "knowledge": "Exchange of ideas or information",
             "power": "Having power over the behavior and outcomes of another",
-            "status": "Conferring status, appreciation, gratitude, or admiration upon another",
+            "respect": "Conferring status, appreciation, gratitude, or admiration upon another",
             "trust": "Will of relying on the actions or judgments of another",
             "social_support": "Giving emotional or practical aid and companionship",
             "similarity_identity": "Shared interests, motivations, outlooks or Shared sense of belonging to the same community or group",
@@ -76,38 +76,61 @@ def main(cfg: AugmentConfig) -> None:
     if cfg.sampling == "balanced":
         dataset = balanced_sample_df(dataset, 500)
 
+        # get all duplicate rows
+        duplicateRowsDF = dataset[dataset.duplicated([text])]
+
     df = pd.DataFrame(columns=[f"{text}", "target", f"augmented_{text}"])
 
+    # Select the first 5 rows where target is OFF
+    # dataset = dataset.head(5)
+
     for idx, input_text in tqdm(dataset[text].items()):
-        # Sometimes refresh the model
-        if idx % 100 == 0:
-            llm = ChatOpenAI(model_name=cfg.model, temperature=0)
-            llm_chain = LLMChain(prompt=augmentation_prompt, llm=llm)
+        # Refresh the model
+        llm = ChatOpenAI(model_name=cfg.model, temperature=0)
+        llm_chain = LLMChain(prompt=augmentation_prompt, llm=llm)
 
         if cfg.dataset == "ten-dim":
             description = label_to_description[dataset["target"][idx]]
-            output = llm_chain.run(
-                {
-                    "text": input_text,
-                    "social_dimension": dataset["target"][idx],
-                    "social_dimension_description": description,
-                }
-            )
+            try:
+                output = llm_chain.run(
+                    {
+                        "text": input_text,
+                        "social_dimension": dataset["target"][idx],
+                        "social_dimension_description": description,
+                    }
+                )
+            except Exception as e:
+                print(e)
+                print(f"Error with text: {input_text}")
+                print("-------")
+                continue
         elif cfg.dataset == "sentiment":
-            output = llm_chain.run(
-                {
-                    "text": input_text,
-                    "sentiment": dataset["target"][idx],
-                }
-            )
+            try:
+                output = llm_chain.run(
+                    {
+                        "text": input_text,
+                        "sentiment": dataset["target"][idx],
+                    }
+                )
+            except Exception as e:
+                print(e)
+                print(f"Error with text: {input_text}")
+                print("-------")
+                continue
         elif cfg.dataset == "hate-speech":
             label = HS_dict[dataset["target"][idx]]
-            output = llm_chain.run(
-                {
-                    "text": input_text,
-                    "hate_speech": label,
-                }
-            )
+            try:
+                output = llm_chain.run(
+                    {
+                        "text": input_text,
+                        "hate_speech": label,
+                    }
+                )
+            except Exception as e:
+                print(e)
+                print(f"Error with {input_text}")
+                print("-------")
+                continue
         else:
             raise NotImplementedError
 
@@ -126,15 +149,18 @@ def main(cfg: AugmentConfig) -> None:
         raise NotImplementedError
     elif cfg.dataset == "hate-speech":
         df.to_json(
-            HATE_SPEECH_DATA_DIR / f"{cfg.sampling}_augmented.json", orient="records"
+            HATE_SPEECH_DATA_DIR / f"{cfg.sampling}_{cfg.model}_augmented.json",
+            orient="records",
         )
     elif cfg.dataset == "sentiment":
         df.to_json(
-            SENTIMENT_DATA_DIR / f"{cfg.sampling}_augmented.json", orient="records"
+            SENTIMENT_DATA_DIR / f"{cfg.sampling}_{cfg.model}_augmented.json",
+            orient="records",
         )
     elif cfg.dataset == "ten-dim":
         df.to_json(
-            TEN_DIM_DATA_DIR / f"{cfg.sampling}_augmented.json", orient="records"
+            TEN_DIM_DATA_DIR / f"{cfg.sampling}_{cfg.model}_augmented.json",
+            orient="records",
         )
 
 

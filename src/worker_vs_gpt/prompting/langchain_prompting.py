@@ -94,13 +94,6 @@ Answer:
         )
         return ChatPromptTemplate.from_messages([system_message, human_message])
 
-        PromptTemplate(
-            input_variables=["hate_speech", "text"],
-            template="""
-                        WORK IN PROGRESS
-                    """,
-        )
-
 
 class ClassificationTemplates:
     """Class for storing the templates for the different classification tasks."""
