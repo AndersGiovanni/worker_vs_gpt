@@ -54,6 +54,8 @@ class LabelMatcher:
         if self.task == "hate-speech":
             if label.lower() == "off":
                 return "OFF"
+            elif label.lower() == "not":
+                return "NOT"
             print(f"Label not found: {label}, for text: {text}")
             return "NOT"
 

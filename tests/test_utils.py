@@ -60,9 +60,21 @@ def test_task_not_found():
 
 
 def test_hate_speech_task(label_matcher_hate_speech):
-    label = "off"
+    label = "OFF"
     text = "This is hate speech."
     assert label_matcher_hate_speech(label, text) == "OFF"
+
+
+def test_hate_speech_task(label_matcher_hate_speech):
+    label = "NOT"
+    text = "This is not hate speech."
+    assert label_matcher_hate_speech(label, text) == "NOT"
+
+
+def test_hate_speech_task(label_matcher_hate_speech):
+    label = "NOT_EXISTING"
+    text = "This is not hate speech."
+    assert label_matcher_hate_speech(label, text) == "NOT"
 
 
 def test_sentiment_task(label_matcher_sentiment):
