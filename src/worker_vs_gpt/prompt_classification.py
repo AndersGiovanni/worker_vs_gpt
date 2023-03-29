@@ -69,7 +69,6 @@ def main(cfg: PromptConfig) -> None:
 
     # Predict
     y_pred = []
-    y_probs = []
     idx = 0
     # Evaluate
     y_true = dataset["target"].values
@@ -81,14 +80,12 @@ def main(cfg: PromptConfig) -> None:
     for input_text in tqdm(dataset[text]):
         # Sometimes refresh the model
         if idx % 100 == 0:
-            llm = OpenAI(model_name=cfg.model, temperature=0.05)
+            llm = OpenAI(model_name=cfg.model, temperature=0.0)
             llm_chain = LLMChain(prompt=classification_prompt, llm=llm)
 
         output = llm_chain.run({"text": input_text})
-        pred, prob = output.split("---")
-        pred = label_mathcer(pred, input_text)
+        pred = label_mathcer(output, input_text)
         y_pred.append(pred)
-        y_probs.append(float(prob))
         idx += 1
 
     # Compute metrics

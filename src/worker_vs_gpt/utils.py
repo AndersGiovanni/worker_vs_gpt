@@ -7,6 +7,7 @@ from numpy import random
 
 rng = random.RandomState(42)
 
+
 def get_device() -> torch.device:
     """Get device."""
     if torch.cuda.is_available():
@@ -40,6 +41,7 @@ class LabelMatcher:
     def __init__(self, labels: List[str], task: str = "ten-dim"):
         self.labels = labels
         self.task = task
+        self._assert_task()
 
     def __call__(self, label: str, text: str) -> str:
         if self.task == "ten-dim":
@@ -63,7 +65,9 @@ class LabelMatcher:
             print(f"Label not found: {label}, for text: {text}")
             return "neutral"
 
-        raise ValueError(f"Task not found: {self.task}")
+    def _assert_task(self):
+        if self.task not in ["ten-dim", "hate-speech", "sentiment"]:
+            raise ValueError(f"Task not found: {self.task}")
 
 
 def parse_output(input_string: str) -> List[str]:
@@ -78,7 +82,7 @@ def parse_output(input_string: str) -> List[str]:
     return output_list
 
 
-def balanced_sample_df(df: pd.DataFrame, n: int) -> pd.DataFrame: 
+def balanced_sample_df(df: pd.DataFrame, n: int) -> pd.DataFrame:
     class_counts = df["target"].value_counts()
     min_samples_per_class = class_counts.min()
     num_classes = class_counts.size
@@ -105,4 +109,4 @@ def balanced_sample_df(df: pd.DataFrame, n: int) -> pd.DataFrame:
         ]
         df_sampled = pd.concat([df_sampled, remaining_samples_df])
 
-    return df_sampled.sample(frac=1, random_state = rng).reset_index(drop=True)
+    return df_sampled.sample(frac=1, random_state=rng).reset_index(drop=True)
