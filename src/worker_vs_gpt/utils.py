@@ -56,16 +56,20 @@ class LabelMatcher:
                 return "OFF"
             elif label.lower() == "not":
                 return "NOT"
-            print(f"Label not found: {label}, for text: {text}")
-            return "NOT"
+            else:
+                print(f"Label not found: {label}, for text: {text}")
+                return "NOT"
 
         if self.task == "sentiment":
             if label.lower() == "positive":
                 return "positive"
             elif label.lower() == "negative":
                 return "negative"
-            print(f"Label not found: {label}, for text: {text}")
-            return "neutral"
+            elif label.lower() == "neutral":
+                return "neutral"
+            else:
+                print(f"Label not found: {label}, for text: {text}")
+                return "neutral"
 
     def _assert_task(self):
         if self.task not in ["ten-dim", "hate-speech", "sentiment"]:
