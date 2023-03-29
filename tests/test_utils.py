@@ -114,3 +114,9 @@ def test_parse_output_no_items():
     input_string = ""
     expected_output = []
     assert parse_output(input_string) == expected_output
+
+
+def test_parse_output_high_enumerations():
+    input_string = "1. Item one\n2.    \n3. Item three\n4.  \n521. Item five"
+    expected_output = ["Item one", "Item three", "Item five"]
+    assert parse_output(input_string) == expected_output
