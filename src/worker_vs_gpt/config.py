@@ -20,6 +20,8 @@ MODELS_DIR = ROOT_DIR / "models"
 
 WORKER_VS_GPT_DIR = SRC_DIR / "worker_vs_gpt"
 
+LORA_WEIGHTS_DIR = MODELS_DIR / "lora"
+
 
 @dataclass
 class TrainerConfig:
