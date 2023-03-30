@@ -5,6 +5,7 @@ from typing import Callable, Dict, List, Tuple
 
 from langchain import PromptTemplate, LLMChain
 from langchain.llms import OpenAI
+from langchain.chat_models import ChatOpenAI
 
 from dotenv import load_dotenv
 import pandas as pd
@@ -29,6 +30,8 @@ from worker_vs_gpt.config import (
     TEN_DIM_DATA_DIR,
     PromptConfig,
 )
+
+from worker_vs_gpt.utils import LabelMatcher
 
 load_dotenv()
 
@@ -60,48 +63,42 @@ def main(cfg: PromptConfig) -> None:
     else:
         raise ValueError(f"Dataset not found: {cfg.dataset}")
 
-    llm = OpenAI(model_name=cfg.model, temperature=0.05)
+    llm = ChatOpenAI(model_name=cfg.model, temperature=0)
 
     llm_chain = LLMChain(prompt=classification_prompt, llm=llm)
 
     # Predict
     y_pred = []
-    y_probs = []
     idx = 0
     # Evaluate
     y_true = dataset["target"].values
     # Get all unique labels
     labels = list(set(y_true))
-    non_existing_predictions: List[
-        Tuple[str, str]
-    ] = []  # predictions that are not in the labels
+
+    label_mathcer = LabelMatcher(labels=labels, task=cfg.dataset)
+
     for input_text in tqdm(dataset[text]):
         # Sometimes refresh the model
-        if idx % 200 == 0:
-            llm = OpenAI(model_name=cfg.model, temperature=0.05)
+        if idx % 100 == 0:
+            llm = OpenAI(model_name=cfg.model, temperature=0.0)
             llm_chain = LLMChain(prompt=classification_prompt, llm=llm)
 
         output = llm_chain.run({"text": input_text})
-        pred, prob = output.split("---")
+        pred = label_mathcer(output, input_text)
         y_pred.append(pred)
-        y_probs.append(float(prob))
         idx += 1
-
-        if pred not in labels:
-            non_existing_predictions.append((pred, input_text))
 
     # Compute metrics
     accuracy = accuracy_score(y_true, y_pred)
     f1 = f1_score(y_true, y_pred, average="macro")
-    # roc_auc = roc_auc_score(y_true, y_pred, average="macro", multi_class="ovo")
+    # roc_auc = roc_auc_score(y_true, y_probs, average="macro")
     report = classification_report(y_true=y_true, y_pred=y_pred, output_dict=True)
-    # report = classification_report(y_true, y_pred, labels=labels, output_dict=True)
 
     # Initialize wandb
     wandb.init(
         project=cfg.wandb_project,
         entity=cfg.wandb_entity,
-        name=f"{cfg.model}_v2",
+        name=f"{cfg.model}",
         group=f"{cfg.dataset}",
         tags=["prompt_classification"],
         config={
@@ -109,7 +106,6 @@ def main(cfg: PromptConfig) -> None:
             "dataset": cfg.dataset,
             "text_column": text,
         },
-        notes=f"Prompt: {classification_prompt.template}",
     )
 
     metrics = {"test/accuracy": accuracy, "test/f1": f1}
@@ -128,9 +124,6 @@ def main(cfg: PromptConfig) -> None:
             "classification_report": table,
         }
     )
-
-    for i in non_existing_predictions:
-        print(i)
 
     wandb.finish()
 

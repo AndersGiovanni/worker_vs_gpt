@@ -1,4 +1,4 @@
 model: gpt-3.5-turbo
-dataset: ten-dim # can be hate-speech, sentiment, ten-dim, analyse-tal
+dataset: sentiment # can be hate-speech, sentiment, ten-dim, analyse-tal
 wandb_project: worker_vs_gpt
 wandb_entity: cocoons
