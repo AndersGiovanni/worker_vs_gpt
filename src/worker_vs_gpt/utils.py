@@ -1,11 +1,19 @@
 import json
+import os
 from pathlib import Path
 from typing import Dict, Iterable, List, Union
 import torch
 import pandas as pd
 from numpy import random
+from worker_vs_gpt.config import TEN_DIM_DATA_DIR
 
 rng = random.RandomState(42)
+
+from worker_vs_gpt.prompting.langchain_prompting import DataTemplates
+
+from langchain.llms import HuggingFacePipeline
+from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
+from peft import PeftModelForCausalLM
 
 
 def get_device() -> torch.device:
@@ -116,3 +124,63 @@ def balanced_sample_df(df: pd.DataFrame, n: int) -> pd.DataFrame:
         df_sampled = pd.concat([df_sampled, remaining_samples_df])
 
     return df_sampled.sample(frac=1, random_state=rng).reset_index(drop=True)
+
+
+def get_class_count_needed(df: pd.DataFrame, n: int = 5000) -> Dict[str, int]:
+    """This function returns a dictionary of class counts needed to balance a dataset."""
+    n_classes = df["target"].nunique()
+    n_per_class = n // n_classes
+    class_counts = df["target"].value_counts()
+
+    class_counts_needed = n_per_class / class_counts
+
+    # Round up to nearest integer
+    class_counts_needed = class_counts_needed.apply(lambda x: int(x) + 1)
+
+    return class_counts_needed.to_dict()
+
+
+def get_pipeline(model_id: str, lora_wieghts_path: str) -> HuggingFacePipeline:
+    tokenizer = AutoTokenizer.from_pretrained(model_id)
+    model = AutoModelForCausalLM.from_pretrained(model_id)
+    added_tokens = tokenizer.add_special_tokens(
+        {"bos_token": "<s>", "eos_token": "</s>", "pad_token": "<pad>"}
+    )
+
+    if added_tokens > 0:
+        model.resize_token_embeddings(len(tokenizer))
+
+    model = PeftModelForCausalLM.from_pretrained(
+        model, lora_wieghts_path, device_map="auto", torch_dtype=torch.float16
+    )
+    model.to(dtype=torch.float16)
+
+    print(f"Mem needed: {model.get_memory_footprint() / 1024 / 1024 / 1024:.2f} GB")
+
+    pipe = pipeline(
+        "text-generation", model=model, tokenizer=tokenizer, max_new_tokens=10
+    )
+    hf = HuggingFacePipeline(pipeline=pipe)
+
+    return hf
+
+
+if __name__ == "__main__":
+    augmentation_templates = DataTemplates()
+
+    text = "h_text"  # text column (can be text or h_text)
+    dataset = pd.read_json(os.path.join(TEN_DIM_DATA_DIR, "base.json"))
+    augmentation_prompt = augmentation_templates.get_ten_dim_prompt()
+    label_to_description = {
+        "knowledge": "Exchange of ideas or information",
+        "power": "Having power over the behavior and outcomes of another",
+        "status": "Conferring status, appreciation, gratitude, or admiration upon another",
+        "trust": "Will of relying on the actions or judgments of another",
+        "social_support": "Giving emotional or practical aid and companionship",
+        "similarity_identity": "Shared interests, motivations, outlooks or Shared sense of belonging to the same community or group",
+        "fun": "Experiencing leisure, laughter, and joy",
+        "conflict": "Contrast or diverging views",
+        "neutral": "neutral communication",
+    }
+
+    balance_generation_df(dataset, n=5000)
