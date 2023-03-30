@@ -10,6 +10,7 @@ from worker_vs_gpt.data_processing import (
     dataclass_hate_speech,
     dataclass_sentiment,
     dataclass_ten_dim,
+    dataclass_analyse_tal,
 )
 
 from worker_vs_gpt.config import (
@@ -45,7 +46,18 @@ def main(cfg: TrainerConfig) -> None:
 
     # can be 'analyse-tal', 'hate-speech', 'sentiment', 'ten-dim'
     if cfg.dataset == "analyse-tal":
-        raise NotImplementedError
+        dataset = dataclass_analyse_tal.AnalyseTalDataset(
+            ANALYSE_TAL_DATA_DIR / "train.json"
+        )
+        test_dataset = dataclass_analyse_tal.AnalyseTalDataset(
+            ANALYSE_TAL_DATA_DIR / "test.json"
+        )
+        base_dataset = dataclass_analyse_tal.AnalyseTalDataset(
+            ANALYSE_TAL_DATA_DIR / "base.json"
+        )
+        augmented_dataset = dataclass_analyse_tal.AnalyseTalDataset(
+            ANALYSE_TAL_DATA_DIR / "augmented.json"
+        )
     elif cfg.dataset == "hate-speech":
         dataset = dataclass_hate_speech.HateSpeechDataset(
             HATE_SPEECH_DATA_DIR / "train.json"
