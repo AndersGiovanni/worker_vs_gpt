@@ -135,11 +135,6 @@ class DataClassWorkerVsGPT(Dataset):
         None
         """
 
-        # Assert that the size is not to large
-        assert train_size + validation_size <= len(
-            self.data["original_train"]
-        ), f"Train and validation ({train_size + validation_size}) is to large (max: {len(self.data['original_train'])}))"
-
         # Select samples for validation
         self.data["validation"] = self.data["original_train"].select(
             range(validation_size)
