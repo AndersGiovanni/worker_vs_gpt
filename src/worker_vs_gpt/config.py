@@ -44,3 +44,12 @@ class PromptConfig:
     dataset: str
     wandb_project: str
     wandb_entity: str
+
+
+@dataclass
+class AugmentConfig:
+    """Config for prompting augmentation."""
+
+    model: str
+    dataset: str
+    sampling: str
