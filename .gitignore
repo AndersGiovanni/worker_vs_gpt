@@ -14,3 +14,6 @@ __pycache__/
 /wandb/
 /run_outputs/
 .env
+/data/analyse-tal/*.csv
+/data/analyse-tal/mini/
+/data/analyse-tal/*.pdf
