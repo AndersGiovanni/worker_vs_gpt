@@ -137,6 +137,9 @@ class ExperimentTrainer:
                 "num_epochs": self.config.num_epochs,
                 "weight_decay": self.config.weight_decay,
                 "train_size": self.dataset["train"].num_rows,
+                "use_augmented_data": self.config.use_augmented_data,
+                "sampling": self.config.sampling,
+                "augmentation_model": self.config.augmentation_model,
             },
         )
 
