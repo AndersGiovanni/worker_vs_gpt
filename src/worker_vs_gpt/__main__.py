@@ -56,7 +56,9 @@ def main(cfg: TrainerConfig) -> None:
             ANALYSE_TAL_DATA_DIR / "base.json"
         )
         augmented_dataset = dataclass_analyse_tal.AnalyseTalDataset(
-            ANALYSE_TAL_DATA_DIR / "augmented.json"
+            ANALYSE_TAL_DATA_DIR
+            / f"{cfg.sampling}_{cfg.augmentation_model}_augmented_FAKE.json",
+            is_augmented=True,
         )
     elif cfg.dataset == "hate-speech":
         dataset = dataclass_hate_speech.HateSpeechDataset(
@@ -69,7 +71,9 @@ def main(cfg: TrainerConfig) -> None:
             HATE_SPEECH_DATA_DIR / "base.json"
         )
         augmented_dataset = dataclass_hate_speech.HateSpeechDataset(
-            HATE_SPEECH_DATA_DIR / "augmented.json"
+            HATE_SPEECH_DATA_DIR
+            / f"{cfg.sampling}_{cfg.augmentation_model}_augmented.json",
+            is_augmented=True,
         )
     elif cfg.dataset == "sentiment":
         dataset = dataclass_sentiment.SentimentDataset(
@@ -82,14 +86,18 @@ def main(cfg: TrainerConfig) -> None:
             SENTIMENT_DATA_DIR / "base.json"
         )
         augmented_dataset = dataclass_sentiment.SentimentDataset(
-            SENTIMENT_DATA_DIR / "augmented.json"
+            SENTIMENT_DATA_DIR
+            / f"{cfg.sampling}_{cfg.augmentation_model}_augmented.json",
+            is_augmented=True,
         )
     elif cfg.dataset == "ten-dim":
         dataset = dataclass_ten_dim.SocialDataset(TEN_DIM_DATA_DIR / "train.json")
         test_dataset = dataclass_ten_dim.SocialDataset(TEN_DIM_DATA_DIR / "test.json")
         base_dataset = dataclass_ten_dim.SocialDataset(TEN_DIM_DATA_DIR / "base.json")
         augmented_dataset = dataclass_ten_dim.SocialDataset(
-            TEN_DIM_DATA_DIR / "augmented.json"
+            TEN_DIM_DATA_DIR
+            / f"{cfg.sampling}_{cfg.augmentation_model}_augmented.json",
+            is_augmented=True,
         )
     else:
         raise ValueError("Dataset not found")
@@ -103,7 +111,10 @@ def main(cfg: TrainerConfig) -> None:
 
     # Specify the length of train and validation set
     validation_length = 750
-    total_train_length = len(dataset.data["train"]) - validation_length
+    if cfg.use_augmented_data:
+        total_train_length = len(dataset.data["augmented_train"])
+    else:
+        total_train_length = len(dataset.data["train"]) - validation_length
 
     # generate list of indices to slice from
     indices = list(range(0, total_train_length, 500)) + [total_train_length]
@@ -112,7 +123,12 @@ def main(cfg: TrainerConfig) -> None:
     indices = [idx for idx in indices if idx <= 5000]
 
     for idx in indices:
-        dataset.exp_datasize_split(idx, validation_length, cfg.use_augmented_data)
+        if cfg.use_augmented_data:
+            if idx == 0:
+                continue
+            dataset.exp_datasize_split_aug(idx, validation_length)
+        else:
+            dataset.exp_datasize_split(idx, validation_length, cfg.use_augmented_data)
 
         model = ExperimentTrainer(data=dataset, config=cfg)
 

@@ -26,10 +26,14 @@ class HateSpeechDataset(DataClassWorkerVsGPT):
     """Dataclass for hatespeech dataset."""
 
     def __init__(
-        self, path: Union[Path, None], labels: List[str] = ["NOT", "OFF"]
+        self,
+        path: Union[Path, None],
+        labels: List[str] = ["NOT", "OFF"],
+        is_augmented: bool = False,
     ) -> None:
-        super().__init__(path)
+        super().__init__(path, is_augmented)
         self.labels = labels
+        self.is_augmented = is_augmented
 
     def preprocess(self, model_name: str) -> None:
         # Convert labels to list of ints
@@ -41,8 +45,13 @@ class HateSpeechDataset(DataClassWorkerVsGPT):
         tokenizer = AutoTokenizer.from_pretrained(model_name)
 
         # tokenize the text
+        if self.is_augmented:
+            text_column = "augmented_tweet"
+        else:
+            text_column = "tweet"
+
         self.data = self.data.map(
-            lambda x: tokenizer(x["tweet"], truncation=True, padding=True),
+            lambda x: tokenizer(x[text_column], truncation=True, padding=True),
             batched=True,
         )
         # convert the text to tensor
