@@ -33,9 +33,11 @@ class SentimentDataset(DataClassWorkerVsGPT):
             "neutral",
             "positive",
         ],
+        is_augmented: bool = False,
     ) -> None:
-        super().__init__(path)
+        super().__init__(path, is_augmented)
         self.labels: List[str] = labels
+        self.is_augmented: bool = is_augmented
 
     def preprocess(self, model_name: str) -> None:
         # Convert labels to ints
@@ -47,8 +49,12 @@ class SentimentDataset(DataClassWorkerVsGPT):
         tokenizer = AutoTokenizer.from_pretrained(model_name)
 
         # tokenize the text
+        if self.is_augmented:
+            text_column = "augmented_text"
+        else:
+            text_column = "text"
         self.data = self.data.map(
-            lambda x: tokenizer(x["text"], truncation=True, padding=True),
+            lambda x: tokenizer(x[text_column], truncation=True, padding=True),
             batched=True,
         )
         # convert the text to tensor

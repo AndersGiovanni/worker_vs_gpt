@@ -30,6 +30,8 @@ class TrainerConfig:
     ckpt: str
     dataset: str
     use_augmented_data: bool
+    sampling: str
+    augmentation_model: str
     wandb_project: str
     wandb_entity: str
     batch_size: int

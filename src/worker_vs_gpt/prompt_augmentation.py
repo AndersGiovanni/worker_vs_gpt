@@ -23,9 +23,10 @@ from worker_vs_gpt.config import (
     SENTIMENT_DATA_DIR,
     TEN_DIM_DATA_DIR,
     AugmentConfig,
+    LORA_WEIGHTS_DIR,
 )
 
-from worker_vs_gpt.utils import balanced_sample_df, parse_output, rng
+from worker_vs_gpt.utils import balanced_sample_df, parse_output, rng, get_pipeline
 
 load_dotenv()
 
@@ -69,24 +70,26 @@ def main(cfg: AugmentConfig) -> None:
     else:
         raise ValueError(f"Dataset not found: {cfg.dataset}")
 
-    llm = ChatOpenAI(model_name=cfg.model, temperature=0)
-
-    llm_chain = LLMChain(prompt=augmentation_prompt, llm=llm)
-
+    temperature = 0
     if cfg.sampling == "balanced":
         dataset = balanced_sample_df(dataset, 500)
+        temperature = 1
 
         # get all duplicate rows
         duplicateRowsDF = dataset[dataset.duplicated([text])]
 
     df = pd.DataFrame(columns=[f"{text}", "target", f"augmented_{text}"])
 
-    # Select the first 5 rows where target is OFF
-    # dataset = dataset.head(5)
-
     for idx, input_text in tqdm(dataset[text].items()):
         # Refresh the model
-        llm = ChatOpenAI(model_name=cfg.model, temperature=0)
+        if cfg.model != "alpaca":
+            llm = ChatOpenAI(model_name=cfg.model, temperature=temperature)
+        else:
+            pass
+            # llm = get_pipeline(
+            #     model_id="decapoda-research/llama-7b-hf",
+            #     lora_wieghts_path=LORA_WEIGHTS_DIR,
+            # )
         llm_chain = LLMChain(prompt=augmentation_prompt, llm=llm)
 
         if cfg.dataset == "ten-dim":

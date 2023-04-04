@@ -16,7 +16,7 @@ np.random.seed(42)
 class DataClassWorkerVsGPT(Dataset):
     """Dataclass abstraction for the worker_vs_gpt datasets. This gives us a unified framework."""
 
-    def __init__(self, path: Union[Path, None]) -> None:
+    def __init__(self, path: Union[Path, None], is_augmented: bool = False) -> None:
         super().__init__()
         self.data: datasets.DatasetDict = datasets.load_dataset(
             "json",
@@ -24,6 +24,7 @@ class DataClassWorkerVsGPT(Dataset):
         )
         self.data.shuffle(seed=42)
         self.labels: List[str] = []
+        self.is_augmented: bool = False
 
     def preprocess(self) -> None:
         """This function should be overwritten by the child class.
@@ -118,6 +119,29 @@ class DataClassWorkerVsGPT(Dataset):
         self.data["train"] = concatenate_datasets(
             [self.data["base"], self.data["train"]]
         )
+
+    def exp_datasize_split_aug(
+        self,
+        train_size: int = 500,
+        validation_size: int = 500,
+    ) -> None:
+        """Split the dataset into train, validation, and test
+        Parameters
+        ----------
+        size : int, optional
+            Size of the train set, by default 500
+        Returns
+        -------
+        None
+        """
+
+        # Select samples for validation
+        self.data["validation"] = self.data["original_train"].select(
+            range(validation_size)
+        )
+
+        # Select samples for train
+        self.data["train"] = self.data["augmented_train"].select(range(train_size))
 
     def make_static_baseset(self, size: int = 500) -> None:
         """Make a static base set"""
