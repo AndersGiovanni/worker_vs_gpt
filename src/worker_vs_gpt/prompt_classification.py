@@ -64,7 +64,6 @@ def main(cfg: PromptConfig) -> None:
         raise ValueError(f"Dataset not found: {cfg.dataset}")
 
     llm = ChatOpenAI(model_name=cfg.model, temperature=0)
-
     llm_chain = LLMChain(prompt=classification_prompt, llm=llm)
 
     # Predict
@@ -79,9 +78,8 @@ def main(cfg: PromptConfig) -> None:
 
     for input_text in tqdm(dataset[text]):
         # Sometimes refresh the model
-        if idx % 100 == 0:
-            llm = OpenAI(model_name=cfg.model, temperature=0.0)
-            llm_chain = LLMChain(prompt=classification_prompt, llm=llm)
+        llm = ChatOpenAI(model_name=cfg.model, temperature=0)
+        llm_chain = LLMChain(prompt=classification_prompt, llm=llm)
 
         output = llm_chain.run({"text": input_text})
         pred = label_mathcer(output, input_text)
