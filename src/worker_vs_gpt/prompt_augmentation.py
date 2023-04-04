@@ -45,7 +45,10 @@ def main(cfg: AugmentConfig) -> None:
     if cfg.dataset == "analyse-tal":
         text = "tweet"  # text column
         language = "Danish"
-        AT_dict = {"anerkendelse": "that express acknowledgement", "andet": ""}
+        AT_dict = {
+            "anerkendelse": "acknowledgement and appreciation",
+            "andet": "the same meaning",
+        }
         dataset = pd.read_json(os.path.join(ANALYSE_TAL_DATA_DIR, "base.json"))
         augmentation_prompt = augmentation_templates.get_alpaca_input_prompt()
     elif cfg.dataset == "hate-speech":
