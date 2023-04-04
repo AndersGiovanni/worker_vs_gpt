@@ -98,7 +98,7 @@ Answer:
         input_template = """Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
 
         ### Instruction:
-        Rewrite the following {language} text in 5 different ways {class}. The answer must be in {language}.
+        Rewrite the following {language} text in 5 different ways{label}. The answer must be in {language}.
 
         ### Input:
         {text}
@@ -106,7 +106,8 @@ Answer:
         ### Response:"""
 
         return PromptTemplate(
-            input_variables=["text", "language", "class"], template=input_template)
+            input_variables=["text", "language", "label"], template=input_template
+        )
 
 
 class ClassificationTemplates:
