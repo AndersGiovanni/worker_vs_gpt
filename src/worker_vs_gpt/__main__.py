@@ -112,7 +112,7 @@ def main(cfg: TrainerConfig) -> None:
     # Specify the length of train and validation set
     validation_length = 750
     if cfg.use_augmented_data:
-        total_train_length = len(dataset.data["augmented_train"]) - validation_length
+        total_train_length = len(dataset.data["augmented_train"])
     else:
         total_train_length = len(dataset.data["train"]) - validation_length
 
