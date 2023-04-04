@@ -94,6 +94,20 @@ Answer:
         )
         return ChatPromptTemplate.from_messages([system_message, human_message])
 
+    def get_alpaca_input_prompt(self) -> PromptTemplate:
+        input_template = """Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+        ### Instruction:
+        Rewrite the following {language} text in 5 different ways {class}. The answer must be in {language}.
+
+        ### Input:
+        {text}
+
+        ### Response:"""
+
+        return PromptTemplate(
+            input_variables=["text", "language", "class"], template=input_template)
+
 
 class ClassificationTemplates:
     """Class for storing the templates for the different classification tasks."""
