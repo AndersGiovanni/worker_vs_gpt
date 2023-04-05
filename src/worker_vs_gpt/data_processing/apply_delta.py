@@ -3,7 +3,7 @@ Usage:
 python3 -m worker_vs_gpt.data_processing.apply_delta --base decapoda-research/llama-13b-hf --target ~/models/vicuna/vicuna-13b --delta lmsys/vicuna-13b-delta
 """
 import argparse
-
+from transformers import LlamaTokenizer, LlamaForCausalLM
 import torch
 from tqdm import tqdm
 from transformers import AutoTokenizer, AutoModelForCausalLM
@@ -11,7 +11,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 
 def apply_delta(base_model_path, target_model_path, delta_path):
     print("Loading base model")
-    base = AutoModelForCausalLM.from_pretrained(
+    base = LlamaForCausalLM.from_pretrained(
         base_model_path, torch_dtype=torch.float16, low_cpu_mem_usage=True
     )
 
@@ -22,7 +22,7 @@ def apply_delta(base_model_path, target_model_path, delta_path):
     delta_tokenizer = AutoTokenizer.from_pretrained(delta_path)
 
     DEFAULT_PAD_TOKEN = "[PAD]"
-    base_tokenizer = AutoTokenizer.from_pretrained(base_model_path)
+    base_tokenizer = LlamaTokenizer.from_pretrained(base_model_path)
     num_new_tokens = base_tokenizer.add_special_tokens(
         dict(pad_token=DEFAULT_PAD_TOKEN)
     )
