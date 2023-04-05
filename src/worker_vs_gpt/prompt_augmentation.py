@@ -26,7 +26,7 @@ from worker_vs_gpt.config import (
     AugmentConfig,
     LORA_WEIGHTS_DIR,
 )
-from worker_vs_gpt.prompting.alpaca import load_alpaca
+from worker_vs_gpt.prompting.alpaca import load_alpaca, load_vicuna_13b
 
 from worker_vs_gpt.utils import balanced_sample_df, parse_output, rng, get_pipeline
 
@@ -91,10 +91,12 @@ def main(cfg: AugmentConfig) -> None:
 
     for idx, input_text in tqdm(dataset[text].items()):
         # Refresh the model
-        if cfg.model != "alpaca":
-            llm = ChatOpenAI(model_name=cfg.model, temperature=temperature)
+        if cfg.model == "alpaca":
+            llm = load_alpaca(temperature=temperature)
+        elif cfg.model == "vicuna":
+            llm = load_vicuna_13b(temperature=temperature)
         else:
-            llm = load_alpaca()
+            llm = ChatOpenAI(model_name=cfg.model, temperature=temperature)
 
         llm_chain = LLMChain(prompt=augmentation_prompt, llm=llm)
 
