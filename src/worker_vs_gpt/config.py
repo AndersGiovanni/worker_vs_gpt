@@ -22,6 +22,10 @@ WORKER_VS_GPT_DIR = SRC_DIR / "worker_vs_gpt"
 
 LORA_WEIGHTS_DIR = MODELS_DIR / "lora"
 
+LLAMA_CPP_DIR = MODELS_DIR / "llama_cpp"
+
+VICUNA_DIR = MODELS_DIR / "vicuna"
+
 
 @dataclass
 class TrainerConfig:
