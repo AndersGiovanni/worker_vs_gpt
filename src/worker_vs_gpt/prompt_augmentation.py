@@ -22,9 +22,11 @@ from worker_vs_gpt.config import (
     HATE_SPEECH_DATA_DIR,
     SENTIMENT_DATA_DIR,
     TEN_DIM_DATA_DIR,
+    ANALYSE_TAL_DATA_DIR,
     AugmentConfig,
     LORA_WEIGHTS_DIR,
 )
+from worker_vs_gpt.prompting.alpaca import load_alpaca, load_vicuna_13b
 
 from worker_vs_gpt.utils import balanced_sample_df, parse_output, rng, get_pipeline
 
@@ -41,7 +43,14 @@ def main(cfg: AugmentConfig) -> None:
 
     # Load data and template
     if cfg.dataset == "analyse-tal":
-        raise NotImplementedError
+        text = "tweet"  # text column
+        language = "Danish"
+        AT_dict = {
+            "anerkendelse": "acknowledgement and appreciation",
+            "andet": "the same meaning",
+        }
+        dataset = pd.read_json(os.path.join(ANALYSE_TAL_DATA_DIR, "base.json"))
+        augmentation_prompt = augmentation_templates.get_alpaca_input_prompt()
     elif cfg.dataset == "hate-speech":
         # read json
         text = "tweet"  # text column
@@ -82,14 +91,13 @@ def main(cfg: AugmentConfig) -> None:
 
     for idx, input_text in tqdm(dataset[text].items()):
         # Refresh the model
-        if cfg.model != "alpaca":
-            llm = ChatOpenAI(model_name=cfg.model, temperature=temperature)
+        if cfg.model == "alpaca":
+            llm = load_alpaca(temperature=temperature)
+        elif cfg.model == "vicuna":
+            llm = load_vicuna_13b(temperature=temperature)
         else:
-            pass
-            # llm = get_pipeline(
-            #     model_id="decapoda-research/llama-7b-hf",
-            #     lora_wieghts_path=LORA_WEIGHTS_DIR,
-            # )
+            llm = ChatOpenAI(model_name=cfg.model, temperature=temperature)
+
         llm_chain = LLMChain(prompt=augmentation_prompt, llm=llm)
 
         if cfg.dataset == "ten-dim":
@@ -127,6 +135,21 @@ def main(cfg: AugmentConfig) -> None:
                     {
                         "text": input_text,
                         "hate_speech": label,
+                    }
+                )
+            except Exception as e:
+                print(e)
+                print(f"Error with {input_text}")
+                print("-------")
+                continue
+        elif cfg.dataset == "analyse-tal":
+            label = AT_dict[dataset["target"][idx]]
+            try:
+                output = llm_chain.run(
+                    {
+                        "text": input_text,
+                        "language": language,
+                        "label": label,
                     }
                 )
             except Exception as e:

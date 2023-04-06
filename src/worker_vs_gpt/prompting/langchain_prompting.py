@@ -94,6 +94,21 @@ Answer:
         )
         return ChatPromptTemplate.from_messages([system_message, human_message])
 
+    def get_alpaca_input_prompt(self) -> PromptTemplate:
+        input_template = """Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+        ### Instruction:
+        Rewrite the following social media comment in 5 different ways to express {label}. The output must be in {language} only.
+
+        ### Input:
+        {text}
+
+        ### Response:"""
+
+        return PromptTemplate(
+            input_variables=["text", "language", "label"], template=input_template
+        )
+
 
 class ClassificationTemplates:
     """Class for storing the templates for the different classification tasks."""
@@ -169,6 +184,19 @@ Answer:
             )
         )
         return ChatPromptTemplate.from_messages([system_message, human_message])
+
+    def classify_analyse_tal(self) -> PromptTemplate:
+        input_template = """Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+        ### Instruction:
+        "Classify the following danish sentence as either acknowledgement, appreciation or other. Give a one word answer"
+
+        ### Input:
+        {text}
+
+        ### Response:"""
+
+        return PromptTemplate(input_variables=["text"], template=input_template)
 
 
 if __name__ == "__main__":
