@@ -19,3 +19,6 @@ __pycache__/
 /data/analyse-tal/mini/
 /data/analyse-tal/*.pdf
 /data/ten-dim/testing/
+/data/analyse-tal/
+/visuals/
+models_results/
