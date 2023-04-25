@@ -1,0 +1,3 @@
+model: intfloat/e5-base # 
+dataset: sentiment # can be hate-speech, sentiment, ten-dim, analyse-tal
+augmentation: balanced_gpt-4_augmented 
