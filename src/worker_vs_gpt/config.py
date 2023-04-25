@@ -44,3 +44,12 @@ class PromptConfig:
     dataset: str
     wandb_project: str
     wandb_entity: str
+
+
+@dataclass
+class SimilarityConfig:
+    """Config for prompting classification."""
+
+    model: str
+    dataset: str
+    augmentation: str
