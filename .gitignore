@@ -11,6 +11,14 @@ __pycache__/
 
 /outputs/
 /models/
+
 /wandb/
 /run_outputs/
 .env
+/data/analyse-tal/*.csv
+/data/analyse-tal/mini/
+/data/analyse-tal/*.pdf
+/data/ten-dim/testing/
+/data/analyse-tal/
+/visuals/
+models_results/
