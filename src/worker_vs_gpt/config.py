@@ -20,6 +20,12 @@ MODELS_DIR = ROOT_DIR / "models"
 
 WORKER_VS_GPT_DIR = SRC_DIR / "worker_vs_gpt"
 
+LORA_WEIGHTS_DIR = MODELS_DIR / "lora"
+
+LLAMA_CPP_DIR = MODELS_DIR / "llama_cpp"
+
+VICUNA_DIR = MODELS_DIR / "vicuna"
+
 
 @dataclass
 class TrainerConfig:
@@ -28,6 +34,8 @@ class TrainerConfig:
     ckpt: str
     dataset: str
     use_augmented_data: bool
+    sampling: str
+    augmentation_model: str
     wandb_project: str
     wandb_entity: str
     batch_size: int
@@ -53,3 +61,9 @@ class SimilarityConfig:
     model: str
     dataset: str
     augmentation: str
+class AugmentConfig:
+    """Config for prompting augmentation."""
+
+    model: str
+    dataset: str
+    sampling: str
