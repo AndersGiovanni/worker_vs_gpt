@@ -37,10 +37,12 @@ class SocialDataset(DataClassWorkerVsGPT):
             "power",
             "similarity_identity",
         ],
+        is_augmented: bool = False,
     ) -> None:
         # If None we just wanna use the class to preprocess data (prompt classification)
-        super().__init__(path)
+        super().__init__(path, is_augmented)
         self.labels = labels
+        self.is_augmented = is_augmented
 
     def preprocess(
         self,
@@ -82,6 +84,11 @@ class SocialDataset(DataClassWorkerVsGPT):
         assert text_selection in ["text", "h_text"], ValueError(
             "Invalid text selection"
         )
+
+        if self.is_augmented:
+            text_selection = "augmented_" + text_selection
+        else:
+            text_selection = text_selection
 
         # tokenize the text
         self.data = self.data.map(

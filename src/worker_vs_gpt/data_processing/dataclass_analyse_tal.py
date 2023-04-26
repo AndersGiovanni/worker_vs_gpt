@@ -22,25 +22,21 @@ from worker_vs_gpt.config import SENTIMENT_DATA_DIR
 from worker_vs_gpt.config import TEN_DIM_DATA_DIR
 
 
-class SentimentDataset(DataClassWorkerVsGPT):
-    """Dataclass for hatespeech dataset."""
+class AnalyseTalDataset(DataClassWorkerVsGPT):
+    """Dataclass for analyse og tal."""
 
     def __init__(
         self,
         path: Union[Path, None],
-        labels: List[str] = [
-            "negative",
-            "neutral",
-            "positive",
-        ],
+        labels: List[str] = ["andet", "anerkendelse"],
         is_augmented: bool = False,
     ) -> None:
         super().__init__(path, is_augmented)
-        self.labels: List[str] = labels
-        self.is_augmented: bool = is_augmented
+        self.labels = labels
+        self.is_augmented = is_augmented
 
     def preprocess(self, model_name: str) -> None:
-        # Convert labels to ints
+        # Convert labels to list of ints
         self.data = self.data.map(
             lambda x: {"labels": self._label_preprocessing(x["target"])},
         )
@@ -49,10 +45,12 @@ class SentimentDataset(DataClassWorkerVsGPT):
         tokenizer = AutoTokenizer.from_pretrained(model_name)
 
         # tokenize the text
+
         if self.is_augmented:
             text_column = "augmented_text"
         else:
             text_column = "text"
+
         self.data = self.data.map(
             lambda x: tokenizer(x[text_column], truncation=True, padding=True),
             batched=True,
@@ -87,27 +85,8 @@ class SentimentDataset(DataClassWorkerVsGPT):
 if __name__ == "__main__":
     print("Hello world!")
 
-    path = SENTIMENT_DATA_DIR / "train.json"
+    path = ANALYSE_TAL_DATA_DIR / "train.json"
 
-    data = SentimentDataset(path)
+    data = AnalyseTalDataset(path)
 
     data.preprocess(model_name="sentence-transformers/paraphrase-MiniLM-L3-v2")
-
-    data.make_static_baseset()
-
-    # Specify the length of train and validation set
-    baseset_length = 500
-    validation_length = 500
-    total_train_length = len(data.data["train"]) - validation_length - baseset_length
-
-    # generate list of indices jumping by 500, and the last index is the length of the dataset
-    indices = list(range(0, total_train_length, 500)) + [total_train_length]
-
-    for idx in indices:
-        data.exp_datasize_split(idx, validation_length)
-        print(data.data)
-        print("------------")
-
-    processed_data = data.get_data()
-
-    a = 1

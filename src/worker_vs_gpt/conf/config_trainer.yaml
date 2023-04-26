@@ -1,6 +1,8 @@
 ckpt: intfloat/e5-base
-dataset: sentiment # can be 'analyse-tal', 'hate-speech', 'sentiment', 'ten-dim'
-use_augmented_data: False
+dataset: ten-dim # can be 'analyse-tal', 'hate-speech', 'sentiment', 'ten-dim'
+use_augmented_data: True
+sampling: proportional # can be proportional or balanced
+augmentation_model: gpt-3.5-turbo # can be gpt-3.5-turbo or gpt-4
 wandb_project: worker_vs_gpt
 wandb_entity: cocoons
 batch_size: 32
