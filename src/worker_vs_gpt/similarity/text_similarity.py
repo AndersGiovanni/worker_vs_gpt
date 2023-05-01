@@ -54,3 +54,22 @@ class SentenceSimilarity:
             return diag.cpu().detach().numpy()
         else:
             return diag.detach().numpy()
+
+    def prepare_features_labels(self, text, labels):
+        # Compute embedding for both lists
+        self.features = self.model.encode(text, convert_to_tensor=True)
+        return
+    
+    def compute_TransRate(self):
+        # matrix multiplication of features and transposed of features
+        self.feature_mat = torch.mul(torch.matmul(self.features.T, self.features), 1/(self.features.shape[0]))
+        
+        self.feature_mat = torch.add(torch.eye(self.features.shape[1]).to(self.device), self.feature_mat)
+        #determinant of feature matrix
+        self.R_feature = torch.det(self.feature_mat)
+        #log of determinant
+        self.R_feature = torch.log(self.R_feature)
+        #multiply by 1/2
+        self.R_feature = torch.mul(self.R_feature, 1/2)
+
+        

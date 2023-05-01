@@ -1,3 +1,4 @@
 model: intfloat/e5-base # 
-dataset: sentiment # can be hate-speech, sentiment, ten-dim, analyse-tal
-augmentation: balanced_gpt-4_augmented 
+dataset: hate-speech # can be hate-speech, sentiment, ten-dim, analyse-tal
+augmentation: train 
+use_augmented_data: False # True or False
