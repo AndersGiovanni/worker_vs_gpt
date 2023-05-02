@@ -72,3 +72,23 @@ class AugmentConfig:
     model: str
     dataset: str
     sampling: str
+
+
+@dataclass
+class SetfitParams:
+    """Setfit parameters."""
+
+    batch_size: int
+    lr_body: float
+    lr_head: float
+    num_iterations: int
+    num_epochs_body: int
+    num_epochs_head: int
+    weight_decay: float
+    ckpt: str
+    text_selection: str
+    wandb_project: str
+    wandb_entity: str
+    experiment_type: str
+    sampling: str
+    augmentation_model: str
