@@ -72,6 +72,7 @@ def main(cfg: SimilarityConfig) -> None:
             HATE_SPEECH_DATA_DIR / f"{cfg.augmentation}.json",
             is_augmented=True,
         )
+        labels: List[str] = ["NOT", "OFF"]
     elif cfg.dataset == "sentiment":
         text = "text"
         dataset = dataclass_sentiment.SentimentDataset(
@@ -87,6 +88,11 @@ def main(cfg: SimilarityConfig) -> None:
             SENTIMENT_DATA_DIR / f"{cfg.augmentation}.json",
             is_augmented=True,
         )
+        labels: List[str] = [
+            "negative",
+            "neutral",
+            "positive",
+        ]
     elif cfg.dataset == "ten-dim":
         text = "h_text"
         dataset = dataclass_ten_dim.SocialDataset(TEN_DIM_DATA_DIR / "train.json")
@@ -96,6 +102,17 @@ def main(cfg: SimilarityConfig) -> None:
             TEN_DIM_DATA_DIR / f"{cfg.augmentation}.json",
             is_augmented=True,
         )
+        labels: List[str] = [
+            "social_support",
+            "conflict",
+            "trust",
+            "neutral",
+            "fun",
+            "respect",
+            "knowledge",
+            "power",
+            "similarity_identity",
+        ]
     else:
         raise ValueError("Dataset not found")
 
@@ -106,57 +123,19 @@ def main(cfg: SimilarityConfig) -> None:
 
     dataset.preprocess(model_name=cfg.model)
 
-    base_dataset = dataset.data["base"].to_pandas()
-    train_dataset = dataset.data["original_train"].to_pandas()
-    augmented_dataset = dataset.data["augmented_train"].to_pandas()
-
-    del dataset
-
     Sentence_sim = SentenceSimilarity(cfg.model)
 
-    # Specify the length of train and validation set
-    validation_length = 750
-    if cfg.use_augmented_data:
-        text = "augmented_" + text
-        total_train_length = len(augmented_dataset[text])
-    else:
-        total_train_length = len(train_dataset[text]) - validation_length
+    similarities = Sentence_sim.compute_similarity_individual(
+        dataset.data["augmented_train"], labels, text
+    )
 
-    # generate list of indices to slice from
-    indices = list(range(0, total_train_length, 500)) + [total_train_length]
-
-    # Select only indices with value 5000 or less
-    indices = [4000]
-    res = {k: [] for k in ["size", "similarity"]}
-
-    for idx in indices:
-        if cfg.use_augmented_data:
-            if idx == 0:
-                continue
-            data = augmented_dataset.iloc[validation_length : idx + validation_length]
-        else:
-            data = pd.concat(
-                [
-                    base_dataset,
-                    train_dataset.iloc[validation_length : idx + validation_length],
-                ],
-            )
-
-        Sentence_sim.prepare_features_labels(data[text].values, data["target"].values)
-        Sentence_sim.compute_TransRate()
-
-        Sentence_sim.compute_sim_matrix(data[text].values, data[text].values)
-
-        res["size"].append(idx)
-        res["similarity"].append(Sentence_sim.get_similarity_sources_targets().mean())
-
-    # turn dict into dataframe and save as json
-    res = pd.DataFrame(res)
-    res.to_json(
+    with open(
         os.path.join(
             SIMILARITY_DIR, f"{cfg.dataset}_{cfg.augmentation}_similarity.json"
-        )
-    )
+        ),
+        "w",
+    ) as f:
+        json.dump(similarities, f)
 
 
 if __name__ == "__main__":
