@@ -14,6 +14,8 @@ TEN_DIM_DATA_DIR = DATA_DIR / "ten-dim"
 
 HATE_SPEECH_DATA_DIR = DATA_DIR / "hate-speech"
 
+SIMILARITY_DIR = DATA_DIR / "similarity_results"
+
 SRC_DIR = ROOT_DIR / "src"
 
 MODELS_DIR = ROOT_DIR / "models"
@@ -55,6 +57,15 @@ class PromptConfig:
 
 
 @dataclass
+class SimilarityConfig:
+    """Config for prompting classification."""
+
+    model: str
+    dataset: str
+    augmentation: str
+    use_augmented_data: bool
+
+
 class AugmentConfig:
     """Config for prompting augmentation."""
 
