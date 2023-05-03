@@ -57,7 +57,7 @@ def main(cfg: SetfitParams) -> None:
     dataset.data["original_train"] = dataset.data["train"]
     dataset.data["augmented_train"] = augmented_dataset.data["train"]
 
-    dataset.preprocess(model_name=cfg.ckpt)
+    dataset.setfit_preprocess(model_name=cfg.ckpt)
 
     # We have to map the augmented data to the same name as the original data (SetFit only works with one name)
     dataset.data["augmented_train"] = dataset.data["augmented_train"].map(
@@ -71,11 +71,18 @@ def main(cfg: SetfitParams) -> None:
         cfg.experiment_type, validation_length=validation_length
     )
 
-    # prepare dataset
+    wandb.init(
+        project=cfg.wandb_project,
+        entity=cfg.wandb_entity,
+        name=f"SetFitMultiLabel_{cfg.ckpt}",
+        group="SetFitMultiLabel",
+        config={**cfg},
+        tags=[cfg.experiment_type, cfg.sampling, cfg.augmentation_model],
+    )
 
     model = SetFitClassificationTrainer(dataset=dataset, config=cfg)
 
-    model.train()
+    model.train(evaluate_test_set=False)
 
     model.test()
 
