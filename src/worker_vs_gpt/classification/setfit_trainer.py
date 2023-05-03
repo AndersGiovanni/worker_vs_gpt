@@ -196,7 +196,7 @@ class SetFitClassificationTrainer:
         )
 
         # Add prefix to metrics "test/"
-        metrics = {f"test/{k[1:]}": v for k, v in test_restuls.items()}
+        metrics = {f"test/{k}": v for k, v in test_restuls.items()}
         # Log results
         if wandb.run is not None:
             wandb.log(
