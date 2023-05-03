@@ -141,16 +141,18 @@ class SetFitClassificationTrainer:
         trainer.freeze()
         trainer.train(
             body_learning_rate=self.config.lr_body,
+            learning_rate=self.config.lr_head,
             num_epochs=self.config.num_epochs_body,
             batch_size=self.config.batch_size,
         )
         print("Body training finished.")
 
-        # Unfreeze model and train the head
+        # # Unfreeze model and train the head
         print("Training head...")
-        trainer.unfreeze(keep_body_frozen=False)
+        trainer.unfreeze(keep_body_frozen=True)
         trainer.train(
-            learning_rate=self.config.num_epochs_head,
+            learning_rate=self.config.lr_head,
+            body_learning_rate=self.config.lr_body,
             num_epochs=self.config.num_epochs_head,
             batch_size=self.config.batch_size,
             l2_weight=self.config.weight_decay,
@@ -173,13 +175,45 @@ class SetFitClassificationTrainer:
 
     def test(self) -> None:
         preds = self.model.predict_proba(self.dataset["test"][self.text_selection])
-        y_true = self.dataset["test"]["labels"]
+        y_true = torch.tensor(self.dataset["test"]["labels"], dtype=torch.float32)
         print("---------Test set results---------")
-        test_testuls: Dict[str, float] = self.metrics_setfit(
+        test_restuls: Dict[str, float] = self.metrics_setfit(
             preds, y_true, is_test=True
         )
 
-        print(test_testuls)
+        # get the index of the entry with the highest probability in each row
+        max_indices = torch.argmax(preds, dim=1)
+
+        # create a new matrix with 1 on the max probability entry in each row and 0 elsewhere
+        y_pred = torch.zeros_like(preds)
+        y_pred[torch.arange(preds.size(0)), max_indices] = 1
+
+        clf_report = classification_report(
+            y_true=y_true,
+            y_pred=y_pred,
+            target_names=self.labels,
+            output_dict=True,
+        )
+
+        # Add prefix to metrics "test/"
+        metrics = {f"test/{k[1:]}": v for k, v in test_restuls.items()}
+        # Log results
+        if wandb.run is not None:
+            wandb.log(
+                metrics,
+            )
+
+            df = pd.DataFrame(clf_report)
+            df["metric"] = df.index
+            table = wandb.Table(data=df)
+
+            wandb.log(
+                {
+                    "classification_report": table,
+                }
+            )
+
+        print(test_restuls)
 
     def predict(self, x: List[str]) -> np.ndarray:
         return self.trainer.model.predict_proba(x)
@@ -210,27 +244,39 @@ class SetFitClassificationTrainer:
         Dict[str, float]
             Dictionary with metrics.
         """
-        # first, apply softmax on predictions which are of shape (batch_size, num_labels)
-        softmax = torch.nn.Softmax(dim=1)
-        probs = softmax(torch.Tensor(predictions))
         loss_fn = torch.nn.CrossEntropyLoss()
 
-        # next, use threshold to turn them into integer predictions
-        y_pred = np.zeros(probs.shape)
-        y_pred[np.where(probs >= threshold)] = 1
+        if is_test:
+            probs = predictions
+        else:
+            # first, apply softmax on predictions which are of shape (batch_size, num_labels)
+            softmax = torch.nn.Softmax(dim=1)
+            probs = softmax(torch.Tensor(predictions))
+
+        # get the index of the entry with the highest probability in each row
+        max_indices = torch.argmax(probs, dim=1)
+
+        # create a new matrix with 1 on the max probability entry in each row and 0 elsewhere
+        y_pred = torch.zeros_like(probs)
+        y_pred[torch.arange(probs.size(0)), max_indices] = 1
 
         # finally, compute metrics
         y_true = labels
-        loss = loss_fn(torch.from_numpy(y_pred), torch.from_numpy(y_true))
-        f1_micro_average = f1_score(y_true=y_true, y_pred=y_pred, average="macro")
-        roc_auc = roc_auc_score(y_true, probs, average="macro")
+        loss = loss_fn(probs, y_true)
+        f1_ = f1_score(y_true=y_true, y_pred=y_pred, average="macro")
+        try:
+            roc_auc = roc_auc_score(
+                y_true.numpy(), probs.detach().numpy(), average="macro"
+            )
+        except ValueError:  # Of
+            roc_auc = 0.0
         accuracy = accuracy_score(y_true, y_pred)
 
         # return as dictionary
         metrics = {
-            "f1": f1_micro_average,
+            "f1": f1_,
             "roc_auc": roc_auc,
             "accuracy": accuracy,
-            "loss": loss,
+            "loss": loss.item() / len(y_true),
         }
         return metrics

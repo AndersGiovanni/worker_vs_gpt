@@ -32,6 +32,9 @@ class DataClassWorkerVsGPT(Dataset):
         This includes tokenization, label preprocessing, and column formatting"""
         raise NotImplementedError
 
+    def __getitem__(self, index: int):
+        return self.data[index]
+
     def get_data(self) -> datasets.DatasetDict:
         return self.data
 
