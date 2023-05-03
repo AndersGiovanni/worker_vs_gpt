@@ -81,9 +81,12 @@ class ExperimentTrainer:
         probs = softmax(torch.Tensor(predictions))
         loss_fn = torch.nn.CrossEntropyLoss()
 
-        # next, use threshold to turn them into integer predictions
-        y_pred = np.zeros(probs.shape)
-        y_pred[np.where(probs >= threshold)] = 1
+        # get the index of the entry with the highest probability in each row
+        max_indices = np.argmax(probs, axis=1)
+
+        # create a new matrix with 1 on the max probability entry in each row and 0 elsewhere
+        y_pred = np.zeros_like(probs)
+        y_pred[np.arange(len(probs)), max_indices] = 1
 
         # finally, compute metrics
         y_true = labels
@@ -193,8 +196,13 @@ class ExperimentTrainer:
         # Convert logits to probabilities
         softmax = torch.nn.Softmax()
         probs = softmax(torch.Tensor(y_pred_logits)).numpy()
-        y_pred = np.zeros(probs.shape)
-        y_pred[np.where(probs >= 0.5)] = 1
+
+        # get the index of the entry with the highest probability in each row
+        max_indices = np.argmax(probs, axis=1)
+
+        # create a new matrix with 1 on the max probability entry in each row and 0 elsewhere
+        y_pred = np.zeros_like(probs)
+        y_pred[np.arange(len(probs)), max_indices] = 1
 
         clf_report = classification_report(
             y_true=y_true, y_pred=y_pred, target_names=self.labels, output_dict=True
