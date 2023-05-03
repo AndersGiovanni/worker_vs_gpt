@@ -126,6 +126,59 @@ class SocialDataset(DataClassWorkerVsGPT):
             "target", datasets.ClassLabel(names=self.labels)
         )
 
+    def setfit_preprocess(
+        self,
+        model_name: str,
+        text_selection: str = "h_text",
+        use_neutral_column: bool = True,
+    ) -> None:
+        """Preprocess the data for the model. This includes tokenization, label preprocessing, and column formatting
+        Parameters
+        ----------
+        model_name : str
+            Model name to use for tokenization
+        label_strategy : int, optional
+            How do we preprocess the labels, by default 1
+        text_selection : str, optional
+            Which text do we want to use, by default "h_text"
+        use_neutral_column : bool, optional
+            Whether we want to use the 'neutral' column, by default True
+        Raises
+        ------
+        ValueError
+            Invalid text selection
+        ValueError
+            Invalid label strategy
+        Returns
+        -------
+        None
+        """
+        # if use_neutral_column is False, remove the "neutral" label
+        if not use_neutral_column:
+            self.labels.remove("neutral")
+            # filter out the rows with the "neutral" label
+            self.data = self.data.filter(lambda x: x["target"] != "neutral")
+
+        # Check if valid input
+        assert text_selection in ["text", "h_text"], ValueError(
+            "Invalid text selection"
+        )
+
+        if self.is_augmented:
+            text_selection = "augmented_" + text_selection
+        else:
+            text_selection = text_selection
+
+        # Convert labels to ints
+        self.data = self.data.map(
+            lambda x: {"labels": self._label_preprocessing(x["target"])},
+        )
+
+        # Cast target to ClassLabel
+        self.data = self.data.cast_column(
+            "target", datasets.ClassLabel(names=self.labels)
+        )
+
 
 if __name__ == "__main__":
     print("Hello world!")
