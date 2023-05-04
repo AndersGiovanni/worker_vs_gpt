@@ -189,8 +189,8 @@ class SetFitClassificationTrainer:
         y_pred[torch.arange(preds.size(0)), max_indices] = 1
 
         clf_report = classification_report(
-            y_true=y_true,
-            y_pred=y_pred,
+            y_true=y_true.cpu(),
+            y_pred=y_pred.cpu(),
             target_names=self.labels,
             output_dict=True,
         )
@@ -262,6 +262,7 @@ class SetFitClassificationTrainer:
 
         # finally, compute metrics
         y_true = labels
+        y_true, y_pred, probs = y_true.cpu(), y_pred.cpu(), probs.cpu()
         loss = loss_fn(probs, y_true)
         f1_ = f1_score(y_true=y_true, y_pred=y_pred, average="macro")
         try:
