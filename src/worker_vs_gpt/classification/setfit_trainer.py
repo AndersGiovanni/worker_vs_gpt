@@ -164,7 +164,7 @@ class SetFitClassificationTrainer:
 
         if self.device == torch.device("mps"):
             self.model.to("cpu")
-        self.model._save_pretrained(str(MODELS_DIR / f"SetFitMultiLabel_{self.ckpt}"))
+        self.model._save_pretrained(str(MODELS_DIR / f"SetFitMultiLabel_{self.ckpt}_{self.config.experiment_type}_{self.config.sampling}_{self.config.augmentation_model}"))
 
         # Evaluate on test set
         if evaluate_test_set:
