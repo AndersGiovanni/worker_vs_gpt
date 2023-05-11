@@ -5,6 +5,7 @@ import torch
 from dotenv import load_dotenv
 from hydra.core.config_store import ConfigStore
 import random
+from datasets import concatenate_datasets
 
 from worker_vs_gpt.data_processing import (
     dataclass_hate_speech,
@@ -51,11 +52,30 @@ def main(cfg: SetfitParams) -> None:
         TEN_DIM_DATA_DIR / f"{cfg.sampling}_{cfg.augmentation_model}_augmented.json",
         is_augmented=True,
     )
+    aug1 = dataclass_ten_dim.SocialDataset(
+        TEN_DIM_DATA_DIR / f"balanced_gpt-3.5-turbo_augmented.json",
+        is_augmented=True,
+    )
+    aug2 = dataclass_ten_dim.SocialDataset(
+        TEN_DIM_DATA_DIR / f"proportional_gpt-3.5-turbo_augmented.json",
+        is_augmented=True,
+    )
+    aug3 = dataclass_ten_dim.SocialDataset(
+        TEN_DIM_DATA_DIR / f"balanced_gpt-4_augmented.json",
+        is_augmented=True,
+    )
+    aug4 = dataclass_ten_dim.SocialDataset(
+        TEN_DIM_DATA_DIR / f"proportional_gpt-4_augmented.json",
+        is_augmented=True,
+    )
 
     dataset.data["test"] = test_dataset.data["train"]
     dataset.data["base"] = base_dataset.data["train"]
     dataset.data["original_train"] = dataset.data["train"]
-    dataset.data["augmented_train"] = augmented_dataset.data["train"]
+    # dataset.data["augmented_train"] = augmented_dataset.data["train"]
+    dataset.data["augmented_train"] = concatenate_datasets(
+        [aug1.data["train"], aug2.data["train"], aug3.data["train"], aug4.data["train"]]
+    )
 
     dataset.setfit_preprocess(model_name=cfg.ckpt)
 
@@ -67,14 +87,12 @@ def main(cfg: SetfitParams) -> None:
     # Specify the length of train and validation set
     validation_length = 750
 
-    dataset.prepare_dataset_setfit(
-        cfg.experiment_type, validation_length=validation_length
-    )
+    dataset.prepare_dataset_setfit("both", validation_length=validation_length)
 
     wandb.init(
         project=cfg.wandb_project,
         entity=cfg.wandb_entity,
-        name=f"SetFitMultiLabel_{cfg.ckpt}",
+        name=f"SetFitMultiLabel_{cfg.ckpt}_all_augmented",
         group="SetFitMultiLabel",
         config={**cfg},
         tags=[cfg.experiment_type, cfg.sampling, cfg.augmentation_model],
