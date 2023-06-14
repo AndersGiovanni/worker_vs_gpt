@@ -131,7 +131,8 @@ class ExperimentTrainer:
         wandb.init(
             project=self.config.wandb_project,
             entity=self.config.wandb_entity,
-            name=f"{self.config.ckpt}_{self.config.sampling}_{self.config.augmentation_model}_combined",
+            # name=f"{self.config.ckpt}_{self.config.sampling}_{self.config.augmentation_model}_combined", Used for combined training
+            name=f"{self.config.ckpt}_size:{self.dataset['train'].num_rows}",  # Used for data size experiment
             group=f"{self.config.dataset}",
             config={
                 "ckpt": self.config.ckpt,
