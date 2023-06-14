@@ -1,10 +1,21 @@
-"""Command-line interface."""
-import hydra
-import numpy as np
-import torch
+import json
+import os
+import time
+from typing import Callable, Dict, List, Tuple
+
+
 from dotenv import load_dotenv
-from hydra.core.config_store import ConfigStore
-import random
+import pandas as pd
+
+from tqdm import tqdm
+
+import hydra
+
+from worker_vs_gpt.prompting.langchain_prompting import (
+    DataTemplates,
+)
+from worker_vs_gpt.similarity.text_similarity import SentenceSimilarity
+from transformers import AutoTokenizer
 
 from worker_vs_gpt.data_processing import (
     dataclass_hate_speech,
@@ -14,36 +25,23 @@ from worker_vs_gpt.data_processing import (
 )
 
 from worker_vs_gpt.config import (
-    ANALYSE_TAL_DATA_DIR,
     HATE_SPEECH_DATA_DIR,
     SENTIMENT_DATA_DIR,
     TEN_DIM_DATA_DIR,
+    ANALYSE_TAL_DATA_DIR,
+    SIMILARITY_DIR,
+    SimilarityConfig,
 )
-
-import wandb
-from worker_vs_gpt.config import TrainerConfig
-
-from worker_vs_gpt.classification.trainers import ExperimentTrainer
 
 load_dotenv()
 
-cs = ConfigStore.instance()
-cs.store(name="config", node=TrainerConfig)
 
-# Set random seeds
-torch.manual_seed(42)
-np.random.seed(42)
-random.seed(42)
-
-
-# @click.command()
-# @click.version_option()
-@hydra.main(version_base=None, config_path="conf", config_name="config_trainer.yaml")
-def main(cfg: TrainerConfig) -> None:
-    """Ten Social Dim."""
-
-    print(cfg)
-
+@hydra.main(
+    version_base=None,
+    config_path="conf",
+    config_name="config_similarity.yaml",
+)
+def main(cfg: SimilarityConfig) -> None:
     # can be 'analyse-tal', 'hate-speech', 'sentiment', 'ten-dim'
     if cfg.dataset == "analyse-tal":
         dataset = dataclass_analyse_tal.AnalyseTalDataset(
@@ -56,11 +54,11 @@ def main(cfg: TrainerConfig) -> None:
             ANALYSE_TAL_DATA_DIR / "base.json"
         )
         augmented_dataset = dataclass_analyse_tal.AnalyseTalDataset(
-            ANALYSE_TAL_DATA_DIR
-            / f"{cfg.sampling}_{cfg.augmentation_model}_augmented_FAKE.json",
+            ANALYSE_TAL_DATA_DIR / f"{cfg.augmentation}_FAKE.json",
             is_augmented=True,
         )
     elif cfg.dataset == "hate-speech":
+        text = "tweet"
         dataset = dataclass_hate_speech.HateSpeechDataset(
             HATE_SPEECH_DATA_DIR / "train.json"
         )
@@ -71,11 +69,12 @@ def main(cfg: TrainerConfig) -> None:
             HATE_SPEECH_DATA_DIR / "base.json"
         )
         augmented_dataset = dataclass_hate_speech.HateSpeechDataset(
-            HATE_SPEECH_DATA_DIR
-            / f"{cfg.sampling}_{cfg.augmentation_model}_augmented.json",
+            HATE_SPEECH_DATA_DIR / f"{cfg.augmentation}.json",
             is_augmented=True,
         )
+        labels: List[str] = ["NOT", "OFF"]
     elif cfg.dataset == "sentiment":
+        text = "text"
         dataset = dataclass_sentiment.SentimentDataset(
             SENTIMENT_DATA_DIR / "train.json"
         )
@@ -86,19 +85,34 @@ def main(cfg: TrainerConfig) -> None:
             SENTIMENT_DATA_DIR / "base.json"
         )
         augmented_dataset = dataclass_sentiment.SentimentDataset(
-            SENTIMENT_DATA_DIR
-            / f"{cfg.sampling}_{cfg.augmentation_model}_augmented.json",
+            SENTIMENT_DATA_DIR / f"{cfg.augmentation}.json",
             is_augmented=True,
         )
+        labels: List[str] = [
+            "negative",
+            "neutral",
+            "positive",
+        ]
     elif cfg.dataset == "ten-dim":
+        text = "h_text"
         dataset = dataclass_ten_dim.SocialDataset(TEN_DIM_DATA_DIR / "train.json")
         test_dataset = dataclass_ten_dim.SocialDataset(TEN_DIM_DATA_DIR / "test.json")
         base_dataset = dataclass_ten_dim.SocialDataset(TEN_DIM_DATA_DIR / "base.json")
         augmented_dataset = dataclass_ten_dim.SocialDataset(
-            TEN_DIM_DATA_DIR
-            / f"{cfg.sampling}_{cfg.augmentation_model}_augmented.json",
+            TEN_DIM_DATA_DIR / f"{cfg.augmentation}.json",
             is_augmented=True,
         )
+        labels: List[str] = [
+            "social_support",
+            "conflict",
+            "trust",
+            "neutral",
+            "fun",
+            "respect",
+            "knowledge",
+            "power",
+            "similarity_identity",
+        ]
     else:
         raise ValueError("Dataset not found")
 
@@ -107,37 +121,22 @@ def main(cfg: TrainerConfig) -> None:
     dataset.data["original_train"] = dataset.data["train"]
     dataset.data["augmented_train"] = augmented_dataset.data["train"]
 
-    dataset.preprocess(model_name=cfg.ckpt)
+    dataset.preprocess(model_name=cfg.model)
 
-    # Specify the length of train and validation set
-    validation_length = 750
-    if cfg.use_augmented_data:
-        total_train_length = len(dataset.data["augmented_train"])
-    else:
-        total_train_length = len(dataset.data["train"]) - validation_length
+    Sentence_sim = SentenceSimilarity(cfg.model)
 
-    # generate list of indices to slice from
-    indices = list(range(0, total_train_length, 500)) + [total_train_length]
+    similarities = Sentence_sim.compute_similarity_individual(
+        dataset.data["augmented_train"], labels, text
+    )
 
-    # Select only indices with value 5000 or less
-    indices = [idx for idx in indices if idx <= 5000]
-
-    for idx in indices:
-        if cfg.use_augmented_data:
-            if idx == 0:
-                continue
-            dataset.exp_datasize_split_aug(idx, validation_length)
-        else:
-            dataset.exp_datasize_split(idx, validation_length, cfg.use_augmented_data)
-
-        model = ExperimentTrainer(data=dataset, config=cfg)
-
-        model.train()
-
-        model.test()
-
-        wandb.finish()
+    with open(
+        os.path.join(
+            SIMILARITY_DIR, f"{cfg.dataset}_{cfg.augmentation}_similarity.json"
+        ),
+        "w",
+    ) as f:
+        json.dump(similarities, f)
 
 
 if __name__ == "__main__":
-    main()  # pragma: no cover
+    main()

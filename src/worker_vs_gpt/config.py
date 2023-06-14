@@ -14,6 +14,8 @@ TEN_DIM_DATA_DIR = DATA_DIR / "ten-dim"
 
 HATE_SPEECH_DATA_DIR = DATA_DIR / "hate-speech"
 
+SIMILARITY_DIR = DATA_DIR / "similarity_results"
+
 SRC_DIR = ROOT_DIR / "src"
 
 MODELS_DIR = ROOT_DIR / "models"
@@ -21,6 +23,10 @@ MODELS_DIR = ROOT_DIR / "models"
 WORKER_VS_GPT_DIR = SRC_DIR / "worker_vs_gpt"
 
 LORA_WEIGHTS_DIR = MODELS_DIR / "lora"
+
+LLAMA_CPP_DIR = MODELS_DIR / "llama_cpp"
+
+VICUNA_DIR = MODELS_DIR / "vicuna"
 
 
 @dataclass
@@ -30,6 +36,8 @@ class TrainerConfig:
     ckpt: str
     dataset: str
     use_augmented_data: bool
+    sampling: str
+    augmentation_model: str
     wandb_project: str
     wandb_entity: str
     batch_size: int
@@ -49,6 +57,18 @@ class PromptConfig:
 
 
 @dataclass
+<<<<<<< HEAD
+=======
+class SimilarityConfig:
+    """Config for prompting classification."""
+
+    model: str
+    dataset: str
+    augmentation: str
+    use_augmented_data: bool
+
+
+>>>>>>> a92fba583146ee6087eaffb4d51d68fb37de1360
 class AugmentConfig:
     """Config for prompting augmentation."""
 
