@@ -1,11 +1,14 @@
 from sentence_transformers import SentenceTransformer, util
 import torch
+from worker_vs_gpt.config import MODELS_DIR
+
+MODEL = MODELS_DIR / "intfloat_e5-base"
 
 
 # make a class for sentece similarity
 class SentenceSimilarity:
     def __init__(self, model_name):
-        self.model = SentenceTransformer(model_name)
+        self.model = SentenceTransformer(MODEL, cache_folder=MODELS_DIR)
 
         # check device
         if torch.cuda.is_available():
@@ -55,21 +58,25 @@ class SentenceSimilarity:
         else:
             return diag.detach().numpy()
 
-    def prepare_features_labels(self, text, labels):
+    def prepare_features_labels(self, text):
         # Compute embedding for both lists
         self.features = self.model.encode(text, convert_to_tensor=True)
         return
-    
+
     def compute_TransRate(self):
         # matrix multiplication of features and transposed of features
-        self.feature_mat = torch.mul(torch.matmul(self.features.T, self.features), 1/(self.features.shape[0]))
-        
-        self.feature_mat = torch.add(torch.eye(self.features.shape[1]).to(self.device), self.feature_mat)
-        #determinant of feature matrix
-        self.R_feature = torch.det(self.feature_mat)
-        #log of determinant
-        self.R_feature = torch.log(self.R_feature)
-        #multiply by 1/2
-        self.R_feature = torch.mul(self.R_feature, 1/2)
+        raise NotImplementedError
 
-        
+        self.feature_mat = torch.mul(
+            torch.matmul(self.features.T, self.features), 1 / (self.features.shape[0])
+        )
+
+        self.feature_mat = torch.add(
+            torch.eye(self.features.shape[1]).to(self.device), self.feature_mat
+        )
+        # determinant of feature matrix
+        self.R_feature = torch.det(self.feature_mat)
+        # log of determinant
+        self.R_feature = torch.log(self.R_feature)
+        # multiply by 1/2
+        self.R_feature = torch.mul(self.R_feature, 1 / 2)
