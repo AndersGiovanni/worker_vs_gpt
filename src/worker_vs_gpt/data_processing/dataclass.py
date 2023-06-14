@@ -32,6 +32,9 @@ class DataClassWorkerVsGPT(Dataset):
         This includes tokenization, label preprocessing, and column formatting"""
         raise NotImplementedError
 
+    def __getitem__(self, index: int):
+        return self.data[index]
+
     def get_data(self) -> datasets.DatasetDict:
         return self.data
 
@@ -142,6 +145,55 @@ class DataClassWorkerVsGPT(Dataset):
 
         # Select samples for train
         self.data["train"] = self.data["augmented_train"].select(range(train_size))
+
+    def prepare_dataset_setfit(
+        self, experiment_type: str = "crowdsourced", validation_length: int = 500
+    ) -> None:
+        """
+        Prepare the dataset for setfit experiments
+
+        Parameters
+        ----------
+        experiment_type : str, optional
+            Type of experiment, by default 'crowdsourced'. Can be 'crowdsourced', 'aug' or 'both'
+        validation_size : int, optional
+            Size of the validation set, by default 500
+
+        Returns
+        -------
+        None
+        """
+
+        # Select samples for validation
+        self.data["validation"] = self.data["original_train"].select(
+            range(validation_length)
+        )
+
+        # Slice the original train set
+        self.data["original_train"] = self.data["original_train"].select(
+            range(validation_length, len(self.data["original_train"]))
+        )
+
+        if experiment_type == "crowdsourced":
+            self.data["train"] = concatenate_datasets(
+                [self.data["base"], self.data["original_train"]]
+            )
+
+        elif experiment_type == "aug":
+            self.data["train"] = concatenate_datasets(
+                [self.data["base"], self.data["augmented_train"]]
+            )
+        elif experiment_type == "both":
+            self.data["train"] = concatenate_datasets(
+                [
+                    self.data["base"],
+                    self.data["augmented_train"],
+                    self.data["original_train"],
+                ]
+            )
+
+        else:
+            raise ValueError(f"Experiment type {experiment_type} not recognized")
 
     def make_static_baseset(self, size: int = 500) -> None:
         """Make a static base set"""

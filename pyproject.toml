@@ -31,9 +31,11 @@ backoff = "^2.2.1"
 python-dotenv = "^1.0.0"
 hydra-core = "^1.3.2"
 langchain = {git = "https://github.com/hwchase17/langchain"}
+setfit = { git = "ssh://git@github.com/AGMoller/setfit.git", branch = "main" }
 peft = "^0.2.0"
 matplotlib = "^3.7.1"
 seaborn = "^0.12.2"
+openpyxl = "^3.1.2"
 
 [tool.poetry.dev-dependencies]
 Pygments = ">=2.10.0"
