@@ -85,3 +85,4 @@ class SetfitParams:
     experiment_type: str
     sampling: str
     augmentation_model: str
+    dataset: str
