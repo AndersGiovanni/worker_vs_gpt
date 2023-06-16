@@ -111,27 +111,9 @@ def main(cfg: TrainerConfig) -> None:
 
     # Specify the length of train and validation set
     validation_length = 750
-    # if cfg.use_augmented_data:
-    #     total_train_length = len(dataset.data["augmented_train"])
-    # else:
-    #     total_train_length = len(dataset.data["train"]) - validation_length
-
-    # generate list of indices to slice from
-    # indices = list(range(0, total_train_length, 500)) + [total_train_length]
-
-    # # Select only indices with value 5000 or less
-    # indices = [idx for idx in indices if idx <= 5000]
-
-    # for idx in indices:
-    #     if cfg.use_augmented_data:
-    #         if idx == 0:
-    #             continue
-    #         dataset.exp_datasize_split_aug(idx, validation_length)
-    #     else:
-    #         dataset.exp_datasize_split(idx, validation_length, cfg.use_augmented_data)
 
     dataset.prepare_dataset_setfit(
-        experiment_type="both", validation_length=validation_length
+        experiment_type=cfg.experiment_type, validation_length=validation_length
     )
 
     model = ExperimentTrainer(data=dataset, config=cfg)

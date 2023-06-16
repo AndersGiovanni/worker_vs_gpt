@@ -1,5 +1,6 @@
 from pathlib import Path
 from dataclasses import dataclass
+from typing import Optional
 
 # Defining paths
 ROOT_DIR = Path(__file__).resolve().parent.parent.parent
@@ -44,6 +45,7 @@ class TrainerConfig:
     num_epochs: int
     lr: float
     weight_decay: float
+    experiment_type: Optional[str] = None
 
 
 @dataclass
