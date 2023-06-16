@@ -1,0 +1,11 @@
+ckpt: intfloat/e5-base
+dataset: hate-speech # can be 'analyse-tal', 'hate-speech', 'sentiment', 'ten-dim'
+use_augmented_data: True
+sampling: proportional # can be proportional or balanced
+augmentation_model: gpt-3.5-turbo # can be gpt-3.5-turbo or gpt-4
+wandb_project: crowdsourced_vs_gpt
+wandb_entity: cocoons
+batch_size: 32
+lr: 2e-5
+num_epochs: 2
+weight_decay: 0

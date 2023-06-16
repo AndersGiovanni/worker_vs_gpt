@@ -57,18 +57,6 @@ class PromptConfig:
 
 
 @dataclass
-<<<<<<< HEAD
-=======
-class SimilarityConfig:
-    """Config for prompting classification."""
-
-    model: str
-    dataset: str
-    augmentation: str
-    use_augmented_data: bool
-
-
->>>>>>> a92fba583146ee6087eaffb4d51d68fb37de1360
 class AugmentConfig:
     """Config for prompting augmentation."""
 
