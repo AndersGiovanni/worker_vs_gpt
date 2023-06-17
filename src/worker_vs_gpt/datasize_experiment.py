@@ -122,9 +122,9 @@ def main(cfg: TrainerConfig) -> None:
     indices = list(range(0, total_train_length, 500)) + [total_train_length]
 
     # Select only indices with value 5000 or less
-    indices = [idx for idx in indices if idx <= 5000][:3]
+    indices = [idx for idx in indices if idx <= 5000]
 
-    shuffle_seeds: List[int] = random.sample(range(0, 100), 3)
+    shuffle_seeds: List[int] = random.sample(range(0, 100), 5)
 
     for seed in shuffle_seeds:
         dataset_copy = copy.deepcopy(dataset)
