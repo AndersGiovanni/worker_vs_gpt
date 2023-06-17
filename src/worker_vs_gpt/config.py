@@ -1,5 +1,6 @@
 from pathlib import Path
 from dataclasses import dataclass
+from typing import Optional
 
 # Defining paths
 ROOT_DIR = Path(__file__).resolve().parent.parent.parent
@@ -44,6 +45,7 @@ class TrainerConfig:
     num_epochs: int
     lr: float
     weight_decay: float
+    experiment_type: Optional[str] = None
 
 
 @dataclass
@@ -57,18 +59,6 @@ class PromptConfig:
 
 
 @dataclass
-<<<<<<< HEAD
-=======
-class SimilarityConfig:
-    """Config for prompting classification."""
-
-    model: str
-    dataset: str
-    augmentation: str
-    use_augmented_data: bool
-
-
->>>>>>> a92fba583146ee6087eaffb4d51d68fb37de1360
 class AugmentConfig:
     """Config for prompting augmentation."""
 
@@ -95,3 +85,4 @@ class SetfitParams:
     experiment_type: str
     sampling: str
     augmentation_model: str
+    dataset: str

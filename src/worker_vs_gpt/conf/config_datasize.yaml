@@ -3,10 +3,9 @@ dataset: hate-speech # can be 'hate-speech', 'sentiment', 'ten-dim'
 use_augmented_data: True
 sampling: proportional # can be proportional or balanced
 augmentation_model: gpt-3.5-turbo # can be gpt-3.5-turbo or gpt-4
-experiment_type: both # can be crowdsourced, aug, both
-wandb_project: crowdsourced_vs_gpt_normal
+wandb_project: crowdsourced_vs_gpt_datasize
 wandb_entity: cocoons
 batch_size: 32
 lr: 2e-5
-num_epochs: 10
+num_epochs: 2
 weight_decay: 0

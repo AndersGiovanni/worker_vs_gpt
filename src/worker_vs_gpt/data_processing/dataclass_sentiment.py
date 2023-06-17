@@ -83,6 +83,37 @@ class SentimentDataset(DataClassWorkerVsGPT):
             "target", datasets.ClassLabel(names=self.labels)
         )
 
+    def setfit_preprocess(
+        self,
+        model_name: str,
+        text_selection: str = "text",
+    ) -> None:
+        """Preprocess the data for the model. This includes tokenization, label preprocessing, and column formatting
+        Parameters
+        ----------
+        model_name : str
+            Model name to use for tokenization
+
+        Returns
+        -------
+        None
+        """
+
+        if self.is_augmented:
+            text_selection = "augmented_" + text_selection
+        else:
+            text_selection = text_selection
+
+        # Convert labels to ints
+        self.data = self.data.map(
+            lambda x: {"labels": self._label_preprocessing(x["target"])},
+        )
+
+        # Cast target to ClassLabel
+        self.data = self.data.cast_column(
+            "target", datasets.ClassLabel(names=self.labels)
+        )
+
 
 if __name__ == "__main__":
     print("Hello world!")

@@ -1,10 +1,12 @@
 """Command-line interface."""
+from typing import List
 import hydra
 import numpy as np
 import torch
 from dotenv import load_dotenv
 from hydra.core.config_store import ConfigStore
 import random
+import copy
 
 from worker_vs_gpt.data_processing import (
     dataclass_hate_speech,
@@ -38,7 +40,7 @@ random.seed(42)
 
 # @click.command()
 # @click.version_option()
-@hydra.main(version_base=None, config_path="conf", config_name="config_trainer.yaml")
+@hydra.main(version_base=None, config_path="conf", config_name="config_datasize.yaml")
 def main(cfg: TrainerConfig) -> None:
     """Ten Social Dim."""
 
@@ -111,18 +113,48 @@ def main(cfg: TrainerConfig) -> None:
 
     # Specify the length of train and validation set
     validation_length = 750
+    if cfg.use_augmented_data:
+        total_train_length = len(dataset.data["augmented_train"])
+    else:
+        total_train_length = len(dataset.data["train"]) - validation_length
 
-    dataset.prepare_dataset_setfit(
-        experiment_type=cfg.experiment_type, validation_length=validation_length
-    )
+    # generate list of indices to slice from
+    indices = list(range(0, total_train_length, 500)) + [total_train_length]
 
-    model = ExperimentTrainer(data=dataset, config=cfg)
+    # Select only indices with value 5000 or less
+    indices = [idx for idx in indices if idx <= 5000]
 
-    model.train()
+    shuffle_seeds: List[int] = random.sample(range(0, 100), 5)
 
-    model.test()
+    for seed in shuffle_seeds:
+        dataset_copy = copy.deepcopy(dataset)
 
-    wandb.finish()
+        # Shuffle original train and augmented train
+        dataset_copy.data["original_train"] = dataset_copy.data[
+            "original_train"
+        ].shuffle(seed)
+
+        dataset_copy.data["augmented_train"] = dataset_copy.data[
+            "augmented_train"
+        ].shuffle(seed)
+
+        for idx in indices:
+            if cfg.use_augmented_data:
+                if idx == 0:
+                    continue
+                dataset_copy.exp_datasize_split_aug(idx, validation_length)
+            else:
+                dataset_copy.exp_datasize_split(
+                    idx, validation_length, cfg.use_augmented_data
+                )
+
+            model = ExperimentTrainer(data=dataset_copy, config=cfg)
+
+            model.train()
+
+            model.test()
+
+            wandb.finish()
 
 
 if __name__ == "__main__":

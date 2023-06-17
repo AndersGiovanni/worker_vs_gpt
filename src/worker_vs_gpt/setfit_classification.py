@@ -45,45 +45,75 @@ def main(cfg: SetfitParams) -> None:
 
     print(cfg)
 
-    dataset = dataclass_ten_dim.SocialDataset(TEN_DIM_DATA_DIR / "train.json")
-    test_dataset = dataclass_ten_dim.SocialDataset(TEN_DIM_DATA_DIR / "test.json")
-    base_dataset = dataclass_ten_dim.SocialDataset(TEN_DIM_DATA_DIR / "base.json")
-    augmented_dataset = dataclass_ten_dim.SocialDataset(
-        TEN_DIM_DATA_DIR / f"{cfg.sampling}_{cfg.augmentation_model}_augmented.json",
-        is_augmented=True,
-    )
-    aug1 = dataclass_ten_dim.SocialDataset(
-        TEN_DIM_DATA_DIR / f"balanced_gpt-3.5-turbo_augmented.json",
-        is_augmented=True,
-    )
-    aug2 = dataclass_ten_dim.SocialDataset(
-        TEN_DIM_DATA_DIR / f"proportional_gpt-3.5-turbo_augmented.json",
-        is_augmented=True,
-    )
-    aug3 = dataclass_ten_dim.SocialDataset(
-        TEN_DIM_DATA_DIR / f"balanced_gpt-4_augmented.json",
-        is_augmented=True,
-    )
-    aug4 = dataclass_ten_dim.SocialDataset(
-        TEN_DIM_DATA_DIR / f"proportional_gpt-4_augmented.json",
-        is_augmented=True,
-    )
+    if cfg.dataset == "hate-speech":
+        dataset = dataclass_hate_speech.HateSpeechDataset(
+            HATE_SPEECH_DATA_DIR / "train.json"
+        )
+        test_dataset = dataclass_hate_speech.HateSpeechDataset(
+            HATE_SPEECH_DATA_DIR / "test.json"
+        )
+        base_dataset = dataclass_hate_speech.HateSpeechDataset(
+            HATE_SPEECH_DATA_DIR / "base.json"
+        )
+        augmented_dataset = dataclass_hate_speech.HateSpeechDataset(
+            HATE_SPEECH_DATA_DIR
+            / f"{cfg.sampling}_{cfg.augmentation_model}_augmented.json",
+            is_augmented=True,
+        )
+    elif cfg.dataset == "sentiment":
+        dataset = dataclass_sentiment.SentimentDataset(
+            SENTIMENT_DATA_DIR / "train.json"
+        )
+        test_dataset = dataclass_sentiment.SentimentDataset(
+            SENTIMENT_DATA_DIR / "test.json"
+        )
+        base_dataset = dataclass_sentiment.SentimentDataset(
+            SENTIMENT_DATA_DIR / "base.json"
+        )
+        augmented_dataset = dataclass_sentiment.SentimentDataset(
+            SENTIMENT_DATA_DIR
+            / f"{cfg.sampling}_{cfg.augmentation_model}_augmented.json",
+            is_augmented=True,
+        )
+    elif cfg.dataset == "ten-dim":
+        dataset = dataclass_ten_dim.SocialDataset(TEN_DIM_DATA_DIR / "train.json")
+        test_dataset = dataclass_ten_dim.SocialDataset(TEN_DIM_DATA_DIR / "test.json")
+        base_dataset = dataclass_ten_dim.SocialDataset(TEN_DIM_DATA_DIR / "base.json")
+        augmented_dataset = dataclass_ten_dim.SocialDataset(
+            TEN_DIM_DATA_DIR
+            / f"{cfg.sampling}_{cfg.augmentation_model}_augmented.json",
+            is_augmented=True,
+        )
+    else:
+        raise ValueError("Dataset not found")
 
     dataset.data["test"] = test_dataset.data["train"]
     dataset.data["base"] = base_dataset.data["train"]
     dataset.data["original_train"] = dataset.data["train"]
-    # dataset.data["augmented_train"] = augmented_dataset.data["train"]
-    dataset.data["augmented_train"] = concatenate_datasets(
-        [aug1.data["train"], aug2.data["train"], aug3.data["train"], aug4.data["train"]]
-    )
+    dataset.data["augmented_train"] = augmented_dataset.data["train"]
+
+    dataset.preprocess(model_name=cfg.ckpt)
+
+    dataset.data["test"] = test_dataset.data["train"]
+    dataset.data["base"] = base_dataset.data["train"]
+    dataset.data["original_train"] = dataset.data["train"]
+    dataset.data["augmented_train"] = augmented_dataset.data["train"]
 
     dataset.setfit_preprocess(model_name=cfg.ckpt)
 
     # We have to map the augmented data to the same name as the original data (SetFit only works with one name)
-    dataset.data["augmented_train"] = dataset.data["augmented_train"].map(
-        lambda x: {"h_text": x["augmented_h_text"]}
-    )
-
+    if cfg.dataset == "ten-dim":
+        dataset.data["augmented_train"] = dataset.data["augmented_train"].map(
+            lambda x: {"h_text": x["augmented_h_text"]}
+        )
+    elif cfg.dataset == "sentiment":
+        dataset.data["augmented_train"] = dataset.data["augmented_train"].map(
+            lambda x: {"text": x["augmented_text"]}
+        )
+    elif cfg.dataset == "hate-speech":
+        dataset.data["augmented_train"] = dataset.data["augmented_train"].map(
+            lambda x: {"tweet": x["augmented_tweet"]}
+        )
     # Specify the length of train and validation set
     validation_length = 750
 
