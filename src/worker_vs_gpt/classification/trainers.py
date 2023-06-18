@@ -151,7 +151,7 @@ class ExperimentTrainer:
         args = TrainingArguments(
             str(
                 MODELS_DIR
-                / f"{self.config.dataset}_size:{len(self.dataset['train'])}_{self.config.ckpt}"
+                / f"{self.config.augmentation_model}_{self.config.sampling}_{self.config.dataset}_size:{len(self.dataset['train'])}_{self.config.ckpt}"
             ),
             evaluation_strategy="epoch",
             logging_strategy="epoch",
