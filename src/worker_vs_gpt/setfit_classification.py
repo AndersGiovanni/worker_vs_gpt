@@ -117,13 +117,18 @@ def main(cfg: SetfitParams) -> None:
     # Specify the length of train and validation set
     validation_length = 750
 
-    dataset.prepare_dataset_setfit("both", validation_length=validation_length)
+    dataset.prepare_dataset_setfit(f"{cfg.experiment_type}", validation_length=validation_length)
+
+    if cfg.experiment_type == "crowdsourced":
+        name = "crowdsourced"
+    else:
+        name = f"{cfg.augmentation_model}_{cfg.sampling}_{cfg.experiment_type}"
 
     wandb.init(
         project=cfg.wandb_project,
         entity=cfg.wandb_entity,
-        name=f"SetFitMultiLabel_{cfg.ckpt}_all_augmented",
-        group="SetFitMultiLabel",
+        name=name,
+        group=f"{cfg.dataset}",
         config={**cfg},
         tags=[cfg.experiment_type, cfg.sampling, cfg.augmentation_model],
     )

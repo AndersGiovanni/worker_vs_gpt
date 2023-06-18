@@ -4,12 +4,12 @@ lr_head: 1e-5
 num_iterations: 20 # Used in the paper (20)
 num_epochs_body: 1 # 1 is used in paper
 num_epochs_head: 20 # In their tutorial they use 50. Not clear how many they use in training.
-weight_decay: 2e-6
+weight_decay: 0 # 2e-6
 wandb_project: crowdsourced_vs_gpt_setfit
 wandb_entity: cocoons
 ckpt: intfloat/e5-base
 text_selection: h_text # this is for social-dim dataset, don't change
-experiment_type: aug # can be 'crowdsourced', 'aug', 'both'
+experiment_type: crowdsourced # can be 'crowdsourced', 'aug', 'both'
 sampling: proportional # can be proportional or balanced
 augmentation_model: gpt-4 # can be gpt-3.5-turbo or gpt-4
 dataset: hate-speech # can be 'hate-speech', 'sentiment', 'ten-dim'
