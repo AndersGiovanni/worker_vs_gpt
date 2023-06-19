@@ -116,6 +116,9 @@ def main(cfg: TrainerConfig) -> None:
         experiment_type=cfg.experiment_type, validation_length=validation_length
     )
 
+    # prepend experiment_type to augmentation_model (s.t. it is unique)
+    cfg.augmentation_model = f"{cfg.experiment_type}_{cfg.augmentation_model}"
+
     model = ExperimentTrainer(data=dataset, config=cfg)
 
     model.train()
