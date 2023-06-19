@@ -77,24 +77,17 @@ class SetFitClassificationTrainer:
     """
 
     def __init__(
-        self, dataset: datasets.dataset_dict.DatasetDict, config: SetfitParams
+        self,
+        dataset: datasets.dataset_dict.DatasetDict,
+        config: SetfitParams,
+        labels: List[str],
     ) -> None:
         self.config: SetfitParams = config
         self.ckpt = config.ckpt
         self.dataset = dataset
         self.device = get_device()
         self.text_selection = config.text_selection
-        self.labels: List[str] = [
-            "social_support",
-            "conflict",
-            "trust",
-            "neutral",
-            "fun",
-            "respect",
-            "knowledge",
-            "power",
-            "similarity_identity",
-        ]
+        self.labels: List[str] = labels
         self.num_classes = len(self.labels)
         self.model = SetFitModel.from_pretrained(
             self.ckpt,
@@ -164,7 +157,12 @@ class SetFitClassificationTrainer:
 
         if self.device == torch.device("mps"):
             self.model.to("cpu")
-        self.model._save_pretrained(str(MODELS_DIR / f"SetFitMultiLabel_{self.ckpt}_{self.config.experiment_type}_{self.config.sampling}_{self.config.augmentation_model}"))
+        self.model._save_pretrained(
+            str(
+                MODELS_DIR
+                / f"SetFitMultiLabel_{self.ckpt}_{self.config.experiment_type}_{self.config.sampling}_{self.config.augmentation_model}"
+            )
+        )
 
         # Evaluate on test set
         if evaluate_test_set:

@@ -11,5 +11,5 @@ ckpt: intfloat/e5-base
 text_selection: h_text # this is for social-dim dataset, don't change
 experiment_type: crowdsourced # can be 'crowdsourced', 'aug', 'both'
 sampling: proportional # can be proportional or balanced
-augmentation_model: gpt-4 # can be gpt-3.5-turbo or gpt-4
-dataset: hate-speech # can be 'hate-speech', 'sentiment', 'ten-dim'
+augmentation_model: gpt-3.5-turbo # can be gpt-3.5-turbo or gpt-4
+dataset: sentiment # can be 'hate-speech', 'sentiment', 'ten-dim'
