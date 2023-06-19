@@ -1,8 +1,8 @@
 ckpt: intfloat/e5-base
-dataset: hate-speech # can be 'hate-speech', 'sentiment', 'ten-dim'
+dataset: hate-speech # can be 'hate-speech', 'sentiment', 'ten-dim' <--- change this
 use_augmented_data: True
-sampling: proportional # can be proportional or balanced
-augmentation_model: gpt-3.5-turbo # can be gpt-3.5-turbo or gpt-4
+sampling: proportional # can be proportional or balanced <--- change this
+augmentation_model: gpt-3.5-turbo # can be gpt-3.5-turbo or gpt-4 <--- change this
 experiment_type: both # can be crowdsourced, aug, both
 wandb_project: crowdsourced_vs_gpt_normal
 wandb_entity: cocoons
