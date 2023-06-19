@@ -1,4 +1,5 @@
 """Command-line interface."""
+from typing import List
 import hydra
 import numpy as np
 import torch
@@ -60,6 +61,7 @@ def main(cfg: SetfitParams) -> None:
             / f"{cfg.sampling}_{cfg.augmentation_model}_augmented.json",
             is_augmented=True,
         )
+        labels: List[str] = ["NOT", "OFF"]
     elif cfg.dataset == "sentiment":
         dataset = dataclass_sentiment.SentimentDataset(
             SENTIMENT_DATA_DIR / "train.json"
@@ -75,6 +77,11 @@ def main(cfg: SetfitParams) -> None:
             / f"{cfg.sampling}_{cfg.augmentation_model}_augmented.json",
             is_augmented=True,
         )
+        labels: List[str] = [
+            "negative",
+            "neutral",
+            "positive",
+        ]
     elif cfg.dataset == "ten-dim":
         dataset = dataclass_ten_dim.SocialDataset(TEN_DIM_DATA_DIR / "train.json")
         test_dataset = dataclass_ten_dim.SocialDataset(TEN_DIM_DATA_DIR / "test.json")
@@ -84,15 +91,19 @@ def main(cfg: SetfitParams) -> None:
             / f"{cfg.sampling}_{cfg.augmentation_model}_augmented.json",
             is_augmented=True,
         )
+        labels: List[str] = [
+            "social_support",
+            "conflict",
+            "trust",
+            "neutral",
+            "fun",
+            "respect",
+            "knowledge",
+            "power",
+            "similarity_identity",
+        ]
     else:
         raise ValueError("Dataset not found")
-
-    dataset.data["test"] = test_dataset.data["train"]
-    dataset.data["base"] = base_dataset.data["train"]
-    dataset.data["original_train"] = dataset.data["train"]
-    dataset.data["augmented_train"] = augmented_dataset.data["train"]
-
-    dataset.preprocess(model_name=cfg.ckpt)
 
     dataset.data["test"] = test_dataset.data["train"]
     dataset.data["base"] = base_dataset.data["train"]
@@ -106,18 +117,26 @@ def main(cfg: SetfitParams) -> None:
         dataset.data["augmented_train"] = dataset.data["augmented_train"].map(
             lambda x: {"h_text": x["augmented_h_text"]}
         )
+        cfg.text_selection = "h_text"
     elif cfg.dataset == "sentiment":
         dataset.data["augmented_train"] = dataset.data["augmented_train"].map(
             lambda x: {"text": x["augmented_text"]}
         )
+        cfg.text_selection = "text"
     elif cfg.dataset == "hate-speech":
         dataset.data["augmented_train"] = dataset.data["augmented_train"].map(
             lambda x: {"tweet": x["augmented_tweet"]}
         )
+        cfg.text_selection = "tweet"
+    else:
+        raise ValueError("Dataset not found")
+
     # Specify the length of train and validation set
     validation_length = 750
 
-    dataset.prepare_dataset_setfit(f"{cfg.experiment_type}", validation_length=validation_length)
+    dataset.prepare_dataset_setfit(
+        f"{cfg.experiment_type}", validation_length=validation_length
+    )
 
     if cfg.experiment_type == "crowdsourced":
         name = "crowdsourced"
@@ -133,7 +152,7 @@ def main(cfg: SetfitParams) -> None:
         tags=[cfg.experiment_type, cfg.sampling, cfg.augmentation_model],
     )
 
-    model = SetFitClassificationTrainer(dataset=dataset, config=cfg)
+    model = SetFitClassificationTrainer(dataset=dataset, config=cfg, labels=labels)
 
     model.train(evaluate_test_set=False)
 
