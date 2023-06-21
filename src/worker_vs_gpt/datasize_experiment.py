@@ -126,6 +126,10 @@ def main(cfg: TrainerConfig) -> None:
 
     shuffle_seeds: List[int] = random.sample(range(0, 100), 5)
 
+    # Adding special tags to wandb
+    cfg.tags = ["Check deviation", "SAME SEED"]
+    shuffle_seeds = [42, 42, 42, 42, 42]
+
     for seed in shuffle_seeds:
         dataset_copy = copy.deepcopy(dataset)
 
@@ -140,8 +144,6 @@ def main(cfg: TrainerConfig) -> None:
 
         for idx in indices:
             if cfg.use_augmented_data:
-                if idx == 0:
-                    continue
                 dataset_copy.exp_datasize_split_aug(idx, validation_length)
             else:
                 dataset_copy.exp_datasize_split(

@@ -144,7 +144,10 @@ class DataClassWorkerVsGPT(Dataset):
         )
 
         # Select samples for train
-        self.data["train"] = self.data["augmented_train"].select(range(train_size))
+        # Add static base set to train
+        self.data["train"] = concatenate_datasets(
+            [self.data["base"], self.data["augmented_train"].select(range(train_size))]
+        )
 
     def prepare_dataset_setfit(
         self, experiment_type: str = "crowdsourced", validation_length: int = 500

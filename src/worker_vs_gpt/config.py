@@ -46,6 +46,7 @@ class TrainerConfig:
     lr: float
     weight_decay: float
     experiment_type: Optional[str] = None
+    tags: Optional[list] = None
 
 
 @dataclass

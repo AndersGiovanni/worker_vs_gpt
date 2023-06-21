@@ -135,6 +135,7 @@ class ExperimentTrainer:
             # name=f"{self.config.ckpt}_size:{self.dataset['train'].num_rows}",  # Used for data size experiment
             name=f"{self.config.augmentation_model}_{self.config.sampling}_size:{self.dataset['train'].num_rows}",  # Used for data size experiment
             group=f"{self.config.dataset}",
+            tags=cfg.tags,
             config={
                 "ckpt": self.config.ckpt,
                 "batch_size": self.config.batch_size,
