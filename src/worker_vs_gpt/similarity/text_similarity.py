@@ -1,12 +1,16 @@
 from typing import Dict, List
 from sentence_transformers import SentenceTransformer, util
 import torch
-from worker_vs_gpt.utils import get_device
+from worker_vs_gpt.config import MODELS_DIR
+
+MODEL = MODELS_DIR / "intfloat_e5-base"
 
 
 # make a class for sentece similarity
 class SentenceSimilarity:
     def __init__(self, model_name):
+        self.model = SentenceTransformer(MODEL, cache_folder=MODELS_DIR)
+
         # check device
         self.device = get_device()
         self.model = SentenceTransformer(model_name).to(self.device)
@@ -106,13 +110,15 @@ class SentenceSimilarity:
         else:
             return diag.detach().numpy()
 
-    def prepare_features_labels(self, text, labels):
+    def prepare_features_labels(self, text):
         # Compute embedding for both lists
         self.features = self.model.encode(text, convert_to_tensor=True)
         return
 
     def compute_TransRate(self):
         # matrix multiplication of features and transposed of features
+        raise NotImplementedError
+
         self.feature_mat = torch.mul(
             torch.matmul(self.features.T, self.features), 1 / (self.features.shape[0])
         )
