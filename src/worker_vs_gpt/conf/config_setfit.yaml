@@ -9,7 +9,7 @@ wandb_project: crowdsourced_vs_gpt_setfit
 wandb_entity: cocoons
 ckpt: intfloat/e5-base
 text_selection: h_text # this is for social-dim dataset, don't change
-experiment_type: crowdsourced # can be 'crowdsourced', 'aug', 'both'
-sampling: proportional # can be proportional or balanced
+experiment_type: aug # can be 'crowdsourced', 'aug', 'both'
+sampling: balanced # can be proportional or balanced
 augmentation_model: gpt-3.5-turbo # can be gpt-3.5-turbo or gpt-4
-dataset: sentiment # can be 'hate-speech', 'sentiment', 'ten-dim'
+dataset: hate-speech # can be 'hate-speech', 'sentiment', 'ten-dim'
