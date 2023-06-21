@@ -126,10 +126,6 @@ def main(cfg: TrainerConfig) -> None:
 
     shuffle_seeds: List[int] = random.sample(range(0, 100), 5)
 
-    # Adding special tags to wandb
-    cfg.tags = ["Check deviation", "SAME SEED"]
-    shuffle_seeds = [42, 42, 42, 42, 42]
-
     for seed in shuffle_seeds:
         dataset_copy = copy.deepcopy(dataset)
 
