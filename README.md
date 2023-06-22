@@ -7,6 +7,7 @@ The project contain code and functionality to do the following experiments.
 - **Zero-shot classification** using LLMs.
 - **Data augmentation** using LLMs.
 - **Datasize experiment** using progressively larger samplesize in training.
+- **Traditional LM training**.
 - **Few-shot learning** with contrastive pre-training using the [SetFit](https://github.com/huggingface/setfit) framework.
 
 We use the OpenAI API to interact with LLMs. We use ChatGPT and GPT-4. 
@@ -42,7 +43,7 @@ $ poetry install
 
 ### Data Augmentation
 
-In `src/worker_vs_gpt/conf/config_prompt_augmentation.yaml` you find the configuration file with three variables to change:
+In `src/worker_vs_gpt/conf/config_prompt_augmentation.yaml` you find the configuration file with variables to change:
 
 ```yaml
 model: vicuna # can be gpt-3.5-turbo or gpt-4
@@ -54,7 +55,7 @@ Next, execute the script: `python -m src.worker_vs_gpt.prompt_augmentation`
 
 ### Zero-shot Classification
 
-In `src/worker_vs_gpt/conf/config_prompt_classification.yaml` you find the configuration file with three variables to change:
+In `src/worker_vs_gpt/conf/config_prompt_classification.yaml` you find the configuration file with variables to change:
 
 ```yaml
 model: gpt-4 # can be gpt-3.5-turbo or gpt-4
@@ -67,7 +68,7 @@ Next, execute the script: `python -m src.worker_vs_gpt.prompt_classification`
 
 ### Datasize Experiment
 
-In `src/worker_vs_gpt/conf/config_datasize.yaml` you find the configuration file with three variables to change:
+In `src/worker_vs_gpt/conf/config_datasize.yaml` you find the configuration file with variables to change:
 
 ```yaml
 ckpt: intfloat/e5-base # The model you want to use from the Hugginface model hub
@@ -87,7 +88,7 @@ Next, execute the script: `python -m src.worker_vs_gpt.datasize_experiment`
 
 ### Normal LM Training
 
-In `src/worker_vs_gpt/conf/config_trainer.yaml` you find the configuration file with three variables to change:
+In `src/worker_vs_gpt/conf/config_trainer.yaml` you find the configuration file with variables to change:
 
 ```yaml
 ckpt: intfloat/e5-base # The model you want to use from the Hugginface model hub
@@ -108,7 +109,7 @@ Next, execute the script: `python -m src.worker_vs_gpt.__main__`
 
 ### Few-shot with contrastive pre-training using SetFit
 
-In `src/worker_vs_gpt/conf/setfit.yaml` you find the configuration file with three variables to change:
+In `src/worker_vs_gpt/conf/setfit.yaml` you find the configuration file with variables to change:
 
 ```yaml
 ckpt: intfloat/e5-base # The model you want to use from the Hugginface model hub
@@ -143,4 +144,4 @@ This project was generated from [@cjolowicz]'s [Hypermodern Python Cookiecutter]
 [@cjolowicz]: https://github.com/cjolowicz
 [pypi]: https://pypi.org/
 [hypermodern python cookiecutter]: https://github.com/cjolowicz/cookiecutter-hypermodern-python
-
+[license]: https://github.com/AGMoller/worker_vs_gpt/blob/main/LICENSE
