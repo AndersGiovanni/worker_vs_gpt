@@ -22,12 +22,6 @@ from worker_vs_gpt.config import (
     HATE_SPEECH_DATA_DIR,
     SENTIMENT_DATA_DIR,
     TEN_DIM_DATA_DIR,
-<<<<<<< HEAD
-    AugmentConfig,
-)
-
-from worker_vs_gpt.utils import balanced_sample_df, parse_output, rng
-=======
     ANALYSE_TAL_DATA_DIR,
     AugmentConfig,
     LORA_WEIGHTS_DIR,
@@ -35,7 +29,6 @@ from worker_vs_gpt.utils import balanced_sample_df, parse_output, rng
 from worker_vs_gpt.prompting.alpaca import load_alpaca, load_vicuna_13b
 
 from worker_vs_gpt.utils import balanced_sample_df, parse_output, rng, get_pipeline
->>>>>>> a92fba583146ee6087eaffb4d51d68fb37de1360
 
 load_dotenv()
 
@@ -50,18 +43,7 @@ def main(cfg: AugmentConfig) -> None:
 
     # Load data and template
     if cfg.dataset == "analyse-tal":
-<<<<<<< HEAD
         raise NotImplementedError
-=======
-        text = "tweet"  # text column
-        language = "Danish"
-        AT_dict = {
-            "anerkendelse": "acknowledgement and appreciation",
-            "andet": "the same meaning",
-        }
-        dataset = pd.read_json(os.path.join(ANALYSE_TAL_DATA_DIR, "base.json"))
-        augmentation_prompt = augmentation_templates.get_alpaca_input_prompt()
->>>>>>> a92fba583146ee6087eaffb4d51d68fb37de1360
     elif cfg.dataset == "hate-speech":
         # read json
         text = "tweet"  # text column

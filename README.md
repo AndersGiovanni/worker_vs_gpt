@@ -1,58 +1,141 @@
 # Worker vs. GPT
 
-[![PyPI](https://img.shields.io/pypi/v/worker_vs_gpt.svg)][pypi status]
-[![Status](https://img.shields.io/pypi/status/worker_vs_gpt.svg)][pypi status]
-[![Python Version](https://img.shields.io/pypi/pyversions/worker_vs_gpt)][pypi status]
-[![License](https://img.shields.io/pypi/l/worker_vs_gpt)][license]
-
-[![Read the documentation at https://worker_vs_gpt.readthedocs.io/](https://img.shields.io/readthedocs/worker_vs_gpt/latest.svg?label=Read%20the%20Docs)][read the docs]
-[![Tests](https://github.com/AGMoller/worker_vs_gpt/workflows/Tests/badge.svg)][tests]
-[![Codecov](https://codecov.io/gh/AGMoller/worker_vs_gpt/branch/main/graph/badge.svg)][codecov]
-
-[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)][pre-commit]
-[![Black](https://img.shields.io/badge/code%20style-black-000000.svg)][black]
-
-[pypi status]: https://pypi.org/project/worker_vs_gpt/
-[read the docs]: https://worker_vs_gpt.readthedocs.io/
-[tests]: https://github.com/AGMoller/worker_vs_gpt/actions?workflow=Tests
-[codecov]: https://app.codecov.io/gh/AGMoller/worker_vs_gpt
-[pre-commit]: https://github.com/pre-commit/pre-commit
-[black]: https://github.com/psf/black
-
 ## Features
 
-- TODO
+The project contain code and functionality to do the following experiments.
+
+- **Zero-shot classification** using LLMs.
+- **Data augmentation** using LLMs.
+- **Datasize experiment** using progressively larger samplesize in training.
+- **Traditional LM training**.
+- **Few-shot learning** with contrastive pre-training using the [SetFit](https://github.com/huggingface/setfit) framework.
+
+We use the OpenAI API to interact with LLMs. We use ChatGPT and GPT-4. 
 
 ## Requirements
 
-- TODO
+- Latest versions of [poetry](https://python-poetry.org/) installed.
+- OpenAI API key. Make sure to put it in `.env` file.
+- A [Weights & Bias](https://wandb.ai/) account for performance reporting.
 
 ## Installation
 
-You can install _Worker vs. GPT_ via [pip] from [PyPI]:
+You can install the environment using:
 
-```console
-$ pip install worker_vs_gpt
+```bash
+# Create the environment
+$ poetry shell
+
+# Update dependencies
+$ poetry update
+
+# Install project
+$ poetry install
 ```
+
+## Weights & Bias Activation
+
+- Login to your W&B account: `$ wandb loging`
+- Enable tracking of experiments: `$ wandb enabled`
+- Disable tracking of experiments (for debugging): `$ wandb disabled`
 
 ## Usage
 
-Please see the [Command-line Reference] for details.
+### Data Augmentation
 
-## Contributing
+In `src/worker_vs_gpt/conf/config_prompt_augmentation.yaml` you find the configuration file with variables to change:
 
-Contributions are very welcome.
-To learn more, see the [Contributor Guide].
+```yaml
+model: vicuna # can be gpt-3.5-turbo or gpt-4
+dataset: analyse-tal # can be hate-speech, sentiment, ten-dim
+sampling: balanced # can be proportional or balanced
+```
+
+Next, execute the script: `python -m src.worker_vs_gpt.prompt_augmentation`
+
+### Zero-shot Classification
+
+In `src/worker_vs_gpt/conf/config_prompt_classification.yaml` you find the configuration file with variables to change:
+
+```yaml
+model: gpt-4 # can be gpt-3.5-turbo or gpt-4
+dataset: sentiment # can be hate-speech, sentiment, ten-dim
+wandb_project: W&B_project_name
+wandb_entity: W&B_account_name
+```
+
+Next, execute the script: `python -m src.worker_vs_gpt.prompt_classification`
+
+### Datasize Experiment
+
+In `src/worker_vs_gpt/conf/config_datasize.yaml` you find the configuration file with variables to change:
+
+```yaml
+ckpt: intfloat/e5-base # The model you want to use from the Hugginface model hub
+dataset: ten-dim # can be 'hate-speech', 'sentiment', 'ten-dim'
+use_augmented_data: True # Whether or not to use augmented data
+sampling: proportional # can be proportional or balanced
+augmentation_model: gpt-3.5-turbo # can be gpt-3.5-turbo or gpt-4
+wandb_project: W&B_project_name
+wandb_entity: W&B_account
+batch_size: 32 # batch size
+lr: 2e-5 # learning rate
+num_epochs: 10 # number of epochs
+weight_decay: 0 # weight decay
+```
+
+Next, execute the script: `python -m src.worker_vs_gpt.datasize_experiment`
+
+### Normal LM Training
+
+In `src/worker_vs_gpt/conf/config_trainer.yaml` you find the configuration file with variables to change:
+
+```yaml
+ckpt: intfloat/e5-base # The model you want to use from the Hugginface model hub
+dataset: ten-dim # can be 'hate-speech', 'sentiment', 'ten-dim'
+use_augmented_data: True # Whether or not to use augmented data
+sampling: proportional # can be proportional or balanced
+augmentation_model: gpt-3.5-turbo # can be gpt-3.5-turbo or gpt-4
+experiment_type: both # can be crowdsourced (only crowdsourced), aug (only augmented data), both (crowdsourced and augmented data concatenated)
+wandb_project: W&B_project_name
+wandb_entity: W&B_account
+batch_size: 32 # batch size
+lr: 2e-5 # learning rate
+num_epochs: 10 # number of epochs
+weight_decay: 0 # weight decay
+```
+
+Next, execute the script: `python -m src.worker_vs_gpt.__main__`
+
+### Few-shot with contrastive pre-training using SetFit
+
+In `src/worker_vs_gpt/conf/setfit.yaml` you find the configuration file with variables to change:
+
+```yaml
+ckpt: intfloat/e5-base # The model you want to use from the Hugginface model hub
+text_selection: h_text # this is for social-dim dataset, don't change
+experiment_type: aug # can be 'crowdsourced', 'aug', 'both'
+sampling: balanced # can be proportional or balanced
+augmentation_model: gpt-3.5-turbo # can be gpt-3.5-turbo or gpt-4
+dataset: hate-speech # can be 'hate-speech', 'sentiment', 'ten-dim'
+batch_size: 8 # Batch size
+lr_body: 1e-5 # Learning rate for the contrastive pre-training of the model body.
+lr_head: 1e-5 # Learning rate for the classification head
+num_iterations: 20 # Parameter to construct pais in pre-training. They use in the paper (20)
+num_epochs_body: 1 # How many epochs to do contrastive pre-training. 1 is used in paper.
+num_epochs_head: 20 # How many iterations to train the head for. In their tutorial they use 50. Not clear how many they use in training.
+weight_decay: 0 # weight decay
+wandb_project: W&B_project_name
+wandb_entity: W&B_account
+
+```
+
+Next, execute the script: `python -m src.worker_vs_gpt.setfit_classfication`
 
 ## License
 
 Distributed under the terms of the [MIT license][license],
 _Worker vs. GPT_ is free and open source software.
-
-## Issues
-
-If you encounter any problems,
-please [file an issue] along with a detailed description.
 
 ## Credits
 
@@ -61,11 +144,4 @@ This project was generated from [@cjolowicz]'s [Hypermodern Python Cookiecutter]
 [@cjolowicz]: https://github.com/cjolowicz
 [pypi]: https://pypi.org/
 [hypermodern python cookiecutter]: https://github.com/cjolowicz/cookiecutter-hypermodern-python
-[file an issue]: https://github.com/AGMoller/worker_vs_gpt/issues
-[pip]: https://pip.pypa.io/
-
-<!-- github-only -->
-
 [license]: https://github.com/AGMoller/worker_vs_gpt/blob/main/LICENSE
-[contributor guide]: https://github.com/AGMoller/worker_vs_gpt/blob/main/CONTRIBUTING.md
-[command-line reference]: https://worker_vs_gpt.readthedocs.io/en/latest/usage.html
