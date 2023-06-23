@@ -2,18 +2,14 @@
 name = "worker_vs_gpt"
 version = "0.0.0"
 description = "Worker vs. GPT"
-authors = ["Anders Giovanni Møller & Jacob Aarup Dalsgaard <agmo@itu.dk & jacd@itu.dk>"]
+authors = [""]
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/AGMoller/worker_vs_gpt"
-repository = "https://github.com/AGMoller/worker_vs_gpt"
-documentation = "https://worker_vs_gpt.readthedocs.io"
+
 classifiers = [
     "Development Status :: 1 - Planning",
 ]
 
-[tool.poetry.urls]
-Changelog = "https://github.com/AGMoller/worker_vs_gpt/releases"
 
 [tool.poetry.dependencies]
 python = ">=3.8.1,<4.0"
