@@ -113,18 +113,21 @@ def main(cfg: TrainerConfig) -> None:
 
     # Specify the length of train and validation set
     validation_length = 750
-    if cfg.use_augmented_data:
-        total_train_length = len(dataset.data["augmented_train"])
-    else:
-        total_train_length = len(dataset.data["train"]) - validation_length
+    # if cfg.use_augmented_data:
+    #     total_train_length = len(dataset.data["augmented_train"])
+    # else:
+    #     total_train_length = len(dataset.data["train"]) - validation_length
 
     # generate list of indices to slice from
-    indices = list(range(0, total_train_length, 500)) + [total_train_length]
+    # indices = list(range(0, total_train_length, 500)) + [total_train_length]
 
     # Select only indices with value 5000 or less
-    indices = [idx for idx in indices if idx <= 5000]
+    # indices = [idx for idx in indices if idx <= 5000]
 
-    shuffle_seeds: List[int] = random.sample(range(0, 100), 5)
+    # shuffle_seeds: List[int] = random.sample(range(0, 100), 5)
+    shuffle_seeds: List[int] = [42]
+    # total_train_length = len(dataset.data["train"]) - validation_length
+    # shuffle_seeds: List[int] = [42]
 
     for seed in shuffle_seeds:
         dataset_copy = copy.deepcopy(dataset)
@@ -138,13 +141,33 @@ def main(cfg: TrainerConfig) -> None:
             "augmented_train"
         ].shuffle(seed)
 
+        match cfg.dataset:
+            case "sentiment":
+                # Select only the first 5000 samples
+                dataset_copy.data["original_train"] = dataset_copy.data[
+                    "original_train"
+                ].select(range(5000))
+
+        total_train_length = (
+            len(dataset_copy.data["original_train"]) - validation_length
+        )
+
+        # Indices to split the train set
+        indices = [
+            int(0.25 * total_train_length),
+            int(0.5 * total_train_length),
+            int(0.75 * total_train_length),
+        ]
+
         for idx in indices:
-            if cfg.use_augmented_data:
-                dataset_copy.exp_datasize_split_aug(idx, validation_length)
-            else:
-                dataset_copy.exp_datasize_split(
-                    idx, validation_length, cfg.use_augmented_data
-                )
+            # if cfg.use_augmented_data:
+            #     dataset_copy.exp_datasize_split_aug(idx, validation_length)
+            # else:
+            #     dataset_copy.exp_datasize_split(
+            #         idx, validation_length, cfg.use_augmented_data
+            #     )
+
+            dataset_copy.exp_ratio_split(idx, validation_length)
 
             model = ExperimentTrainer(data=dataset_copy, config=cfg)
 
