@@ -1,0 +1,6 @@
+Very-intimate
+Intimate
+Somewhat-intimate
+Not-very-intimate
+Not-intimate
+Not-intimate-at-all

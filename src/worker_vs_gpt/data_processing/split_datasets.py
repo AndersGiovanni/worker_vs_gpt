@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from datasets import load_dataset
 
-DATASET_NAME = "crowdflower"
+DATASET_NAME = "talkdown-pairs"
 DATA_DIR = "/Users/arpe/Documents/ITU/COCOONS/worker_vs_gpt/data/"+DATASET_NAME
 
 def main():
