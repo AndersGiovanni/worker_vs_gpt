@@ -129,7 +129,7 @@ def main(cfg: TrainerConfig) -> None:
     indices_pct = list(np.linspace(0.0, 1.0, 10))
 
     # Select only indices with value 5000 or less
-    shuffle_seeds: List[int] = random.sample(range(0, 100), 1)
+    shuffle_seeds: List[int] = random.sample(range(0, 100), 5)
 
     for idx_pct in indices_pct:
         dataset_copy = copy.deepcopy(dataset)
