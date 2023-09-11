@@ -141,12 +141,11 @@ def main(cfg: TrainerConfig) -> None:
             "augmented_train"
         ].shuffle(seed)
 
-        match cfg.dataset:
-            case "sentiment":
-                # Select only the first 5000 samples
-                dataset_copy.data["original_train"] = dataset_copy.data[
-                    "original_train"
-                ].select(range(5000))
+        if cfg.dataset == "sentiment":
+            # Select only the first 5000 samples
+            dataset_copy.data["original_train"] = dataset_copy.data[
+                "original_train"
+            ].select(range(5000))
 
         total_train_length = (
             len(dataset_copy.data["original_train"]) - validation_length
@@ -154,9 +153,11 @@ def main(cfg: TrainerConfig) -> None:
 
         # Indices to split the train set
         indices = [
+            int(0 * total_train_length), # This is for sentiment
             int(0.25 * total_train_length),
             int(0.5 * total_train_length),
             int(0.75 * total_train_length),
+            int(0.99 * total_train_length) # For sentiment
         ]
 
         for idx in indices:
