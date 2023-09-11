@@ -18,6 +18,183 @@ load_dotenv()
 class DataTemplates:
     """Class for storing the templates for the different generation tasks."""
 
+    def get_crowdfl_prompt(self) -> ChatPromptTemplate:
+        system_message = SystemMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[],
+                template="""
+        You are an advanced AI writer. Your job is to help write examples of social media comments that conveys certain emotions. The emotions are: empty, sadness, enthusiasm, neutral, worry, love, fun, hate, happiness, relief, boredom, surprise, anger.
+        """,
+            )
+        )
+
+        human_message = HumanMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[],
+                template="""The following social media text conveys the emotion {emotion}, write 10 new semantically similar examples in style of a social media comment, that show the same intent and emotion.
+
+Text: {text}
+
+
+
+Answer:
+""",
+            )
+        )
+        return ChatPromptTemplate.from_messages([system_message, human_message])
+    
+    def get_hypo_prompt(self) -> ChatPromptTemplate:
+        system_message = SystemMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[],
+                template="""
+        You are an advanced AI writer. You are tasked with defining whether a text is an hyperbole (Yes) or not (No).
+        """,
+            )
+        )
+
+        human_message = HumanMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[],
+                template="""The following social media text has a {hypo} flag for being an hyperbole, write 10 new semantically similar examples in style of a social media comment, that show the same intent and hyperbole flag.
+
+Text: {text}
+
+
+
+Answer:
+""",
+            )
+        )
+        return ChatPromptTemplate.from_messages([system_message, human_message])
+    
+    def get_sameside_prompt(self) -> ChatPromptTemplate:
+        system_message = SystemMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[],
+                template="""
+        You are an advanced AI writer. Given a pair of texts, you are tasked with defining whether they are on the same side in terms of stance (Yes) or not (No).
+        """,
+            )
+        )
+
+        human_message = HumanMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[],
+                template="""The following social media text pair has a {side} flag for showing stances that are on the same side, write 10 new semantically similar examples of pairs in style of social media comments, that show the same intent and same side stance flag.
+
+Text: {text_a, text_b}
+
+
+
+Answer:
+""",
+            )
+        )
+        return ChatPromptTemplate.from_messages([system_message, human_message])
+    
+    def get_empathy_prompt(self) -> ChatPromptTemplate:
+        system_message = SystemMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[],
+                template="""
+        You are an advanced AI writer. Given a text, you are tasked with defining it is expressing empathy (Yes) or not (No).
+        """,
+            )
+        )
+
+        human_message = HumanMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[],
+                template="""The following social media text has a {side} flag for expressing empathy, write 10 new semantically similar examples in style of a social media comment, that show the same intent and empathy flag.
+
+Text: {text}
+
+
+
+Answer:
+""",
+            )
+        )
+        return ChatPromptTemplate.from_messages([system_message, human_message])
+    
+    def get_intimacy_prompt(self) -> ChatPromptTemplate:
+        system_message = SystemMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[],
+                template="""
+        You are an advanced AI writer. Your job is to help write examples of social media questions that conveys certain levels of intimacy. The intimacy levels are: very intimate, intimate, somewhat intimate, not very intimate, not intimate, not intimate at all.
+        """,
+            )
+        )
+
+        human_message = HumanMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[],
+                template="""The following social media text conveys the {intimacy} level of question intimacy, write 10 new semantically similar examples in style of a social media question, that show the same intent and intimacy level.
+
+Text: {text}
+
+
+
+Answer:
+""",
+            )
+        )
+        return ChatPromptTemplate.from_messages([system_message, human_message])
+    
+
+    def get_talkdown_prompt(self) -> ChatPromptTemplate:
+        system_message = SystemMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[],
+                template="""
+        You are an advanced AI writer. Given a text, you are tasked with defining whether it is condescending (Yes) or not (No).
+        """,
+            )
+        )
+
+        human_message = HumanMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[],
+                template="""The following social media text has a {talkdown} flag for showing condescendence, write 10 new semantically similar examples in style of a social media comment, that show the same intent and condescendence flag.
+
+Text: {text}
+
+
+
+Answer:
+""",
+            )
+        )
+        return ChatPromptTemplate.from_messages([system_message, human_message])
+    
+
+    def get_politeness_prompt(self) -> ChatPromptTemplate:
+        system_message = SystemMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[],
+                template="""
+        You are an advanced AI writer. You are tasked with classifying the politeness of a text. Politeness can be found in a text (Yes) or not (No).
+        """,
+            )
+        )
+
+        human_message = HumanMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[],
+                template="""The following social media text has a {politeness} flag for politeness, write 10 new semantically similar examples in style of a social media comment, that show the same intent and politeness flag.
+
+Text: {text}
+
+
+
+Answer:
+""",
+            )
+        )
+        return ChatPromptTemplate.from_messages([system_message, human_message])
+
     def get_ten_dim_prompt(self) -> ChatPromptTemplate:
         system_message = SystemMessagePromptTemplate(
             prompt=PromptTemplate(
