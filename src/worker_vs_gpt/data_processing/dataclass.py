@@ -107,10 +107,18 @@ class DataClassWorkerVsGPT(Dataset):
         # Select samples for validation
         self.data["validation"] = self.data["train"].select(range(validation_size))
 
-        # Select samples for train
-        self.data["train"] = self.data["train"].select(
-            range(validation_size, train_size + validation_size)
-        )
+        # If we only use base
+        if train_size == 0:
+            self.data["train"] = self.data["base"]
+        else:
+            # Select samples for train
+            self.data["train"] = self.data["train"].select(
+                range(validation_size, train_size + validation_size)
+            )
+
+            self.data["train"] = concatenate_datasets(
+                [self.data["base"], self.data["train"]]
+            )
 
     def exp_datasize_split(
         self,

@@ -114,13 +114,9 @@ def main(cfg: TrainerConfig) -> None:
 
     # Concatenate data - either original or augmented together with base
     if cfg.use_augmented_data:
-        dataset.data["total_train"] = concatenate_datasets(
-            [dataset.data["augmented_train"], dataset.data["base"]]
-        )
+        dataset.data["total_train"] = dataset.data["augmented_train"]
     else:
-        dataset.data["total_train"] = concatenate_datasets(
-            [dataset.data["original_train"], dataset.data["base"]]
-        )
+        dataset.data["total_train"] = dataset.data["original_train"]
 
     total_train_length = len(dataset.data["total_train"])
 
@@ -130,10 +126,10 @@ def main(cfg: TrainerConfig) -> None:
     total_train_length = total_train_length - validation_length
 
     # generate list of indices to slice from
-    indices_pct = list(np.linspace(0.1, 1, 11))
+    indices_pct = list(np.linspace(0.0, 1.0, 10))
 
     # Select only indices with value 5000 or less
-    shuffle_seeds: List[int] = random.sample(range(0, 100), 5)
+    shuffle_seeds: List[int] = random.sample(range(0, 100), 1)
 
     for idx_pct in indices_pct:
         dataset_copy = copy.deepcopy(dataset)
