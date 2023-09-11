@@ -84,6 +84,42 @@ class DataClassWorkerVsGPT(Dataset):
         self.data["train"] = train
         self.data[test_split_name] = test
 
+    def datasize_split(
+        self,
+        train_size: int = 500,
+        validation_size: int = 500,
+    ) -> None:
+        """Split the dataset into train, validation, and test
+        Parameters
+        ----------
+        size : int, optional
+            Size of the train set, by default 500
+        Returns
+        -------
+        None
+        """
+
+        # Assert that the size is not to large
+        assert train_size + validation_size <= len(
+            self.data["train"]
+        ), f"Train and validation ({train_size + validation_size}) is to large (max: {len(self.data['train'])}))"
+
+        # Select samples for validation
+        self.data["validation"] = self.data["train"].select(range(validation_size))
+
+        # If we only use base
+        if train_size == 0:
+            self.data["train"] = self.data["base"]
+        else:
+            # Select samples for train
+            self.data["train"] = self.data["train"].select(
+                range(validation_size, train_size + validation_size)
+            )
+
+            self.data["train"] = concatenate_datasets(
+                [self.data["base"], self.data["train"]]
+            )
+
     def exp_datasize_split(
         self,
         train_size: int = 500,

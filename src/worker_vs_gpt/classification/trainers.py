@@ -131,11 +131,11 @@ class ExperimentTrainer:
         wandb.init(
             project=self.config.wandb_project,
             entity=self.config.wandb_entity,
-            # name=f"{self.config.ckpt}_{self.config.sampling}_{self.config.augmentation_model}_combined", Used for combined training
-            # name=f"{self.config.ckpt}_size:{self.dataset['train'].num_rows}",  # Used for data size experiment
-            name=f"{self.config.augmentation_model}_{self.config.sampling}_size:{self.dataset['train'].num_rows}",  # Used for data size experiment
+            name=f"{self.config.augmentation_model}_{self.config.sampling}_size:{round((self.dataset['train'].num_rows - self.dataset['base'].num_rows)/(self.dataset['total_train'].num_rows - self.dataset['validation'].num_rows), 2)}"
+            if self.config.use_augmented_data
+            else f"crowdsourced_{self.config.dataset}_size:{round((self.dataset['train'].num_rows - self.dataset['base'].num_rows)/(self.dataset['total_train'].num_rows - self.dataset['validation'].num_rows), 2)}",  # Used for data size experiment (this calculates the percentage of the original dataset that is used)
             group=f"{self.config.dataset}",
-            tags=["with base"],
+            tags=["round_2"],
             config={
                 "ckpt": self.config.ckpt,
                 "batch_size": self.config.batch_size,
@@ -144,6 +144,15 @@ class ExperimentTrainer:
                 "weight_decay": self.config.weight_decay,
                 "train_size": self.dataset["train"].num_rows,
                 "use_augmented_data": self.config.use_augmented_data,
+                "pct_data": round(
+                    self.dataset["train"].num_rows
+                    - self.dataset["base"].num_rows
+                    / (
+                        self.dataset["total_train"].num_rows
+                        - self.dataset["validation"].num_rows
+                    ),
+                    2,
+                ),
                 "sampling": self.config.sampling,
                 "augmentation_model": self.config.augmentation_model,
             },
@@ -152,7 +161,9 @@ class ExperimentTrainer:
         args = TrainingArguments(
             str(
                 MODELS_DIR
-                / f"RATIO_{self.config.augmentation_model}_{self.config.sampling}_{self.config.dataset}_size:{len(self.dataset['train'])}_{self.config.ckpt}"
+                / f"{self.config.augmentation_model}_{self.config.sampling}_{self.config.dataset}_size:{len(self.dataset['train'])}_{self.config.ckpt}"
+                if self.config.use_augmented_data
+                else f"crowdsourced_{self.config.dataset}_size:{len(self.dataset['train'])}_{self.config.ckpt}"
             ),
             evaluation_strategy="epoch",
             logging_strategy="epoch",
