@@ -161,9 +161,10 @@ class ExperimentTrainer:
         args = TrainingArguments(
             str(
                 MODELS_DIR
-                / f"{self.config.augmentation_model}_{self.config.sampling}_{self.config.dataset}_size:{len(self.dataset['train'])}_{self.config.ckpt}"
+                / f"{self.config.augmentation_model}_{self.config.sampling}_{self.config.dataset}_size:{round((self.dataset['train'].num_rows - self.dataset['base'].num_rows)/(self.dataset['total_train'].num_rows - self.dataset['validation'].num_rows))}_{self.config.ckpt}"
                 if self.config.use_augmented_data
-                else f"crowdsourced_{self.config.dataset}_size:{len(self.dataset['train'])}_{self.config.ckpt}"
+                else MODELS_DIR
+                / f"crowdsourced_{self.config.dataset}_size:{round((self.dataset['train'].num_rows - self.dataset['base'].num_rows)/(self.dataset['total_train'].num_rows - self.dataset['validation'].num_rows))}_{self.config.ckpt}"
             ),
             evaluation_strategy="epoch",
             logging_strategy="epoch",
