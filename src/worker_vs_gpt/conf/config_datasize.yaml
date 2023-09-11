@@ -5,7 +5,7 @@ sampling: balanced # can be 'balanced'
 augmentation_model: gpt-4 # can be 'gpt-4'
 wandb_project: crowdsourced_vs_gpt_datasize_v2
 wandb_entity: cocoons
-batch_size: 32
+batch_size: 16
 lr: 2e-5
 num_epochs: 10
 weight_decay: 0
