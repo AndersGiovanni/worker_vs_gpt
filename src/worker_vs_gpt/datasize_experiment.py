@@ -26,6 +26,7 @@ import wandb
 from worker_vs_gpt.config import TrainerConfig
 
 from worker_vs_gpt.classification.trainers import ExperimentTrainer
+from datasets import concatenate_datasets
 
 load_dotenv()
 
@@ -111,64 +112,40 @@ def main(cfg: TrainerConfig) -> None:
 
     dataset.preprocess(model_name=cfg.ckpt)
 
-    # Specify the length of train and validation set
-    validation_length = 750
-    # if cfg.use_augmented_data:
-    #     total_train_length = len(dataset.data["augmented_train"])
-    # else:
-    #     total_train_length = len(dataset.data["train"]) - validation_length
-
-    # generate list of indices to slice from
-    # indices = list(range(0, total_train_length, 500)) + [total_train_length]
-
-    # Select only indices with value 5000 or less
-    # indices = [idx for idx in indices if idx <= 5000]
-
-    # shuffle_seeds: List[int] = random.sample(range(0, 100), 5)
-    shuffle_seeds: List[int] = [42]
-    # total_train_length = len(dataset.data["train"]) - validation_length
-    # shuffle_seeds: List[int] = [42]
-
-    for seed in shuffle_seeds:
-        dataset_copy = copy.deepcopy(dataset)
-
-        # Shuffle original train and augmented train
-        dataset_copy.data["original_train"] = dataset_copy.data[
-            "original_train"
-        ].shuffle(seed)
-
-        dataset_copy.data["augmented_train"] = dataset_copy.data[
-            "augmented_train"
-        ].shuffle(seed)
-
-        if cfg.dataset == "sentiment":
-            # Select only the first 5000 samples
-            dataset_copy.data["original_train"] = dataset_copy.data[
-                "original_train"
-            ].select(range(5000))
-
-        total_train_length = (
-            len(dataset_copy.data["original_train"]) - validation_length
+    # Concatenate data - either original or augmented together with base
+    if cfg.use_augmented_data:
+        dataset.data["total_train"] = concatenate_datasets(
+            [dataset.data["augmented_train"], dataset.data["base"]]
+        )
+    else:
+        dataset.data["total_train"] = concatenate_datasets(
+            [dataset.data["original_train"], dataset.data["base"]]
         )
 
-        # Indices to split the train set
-        indices = [
-            int(0 * total_train_length), # This is for sentiment
-            int(0.25 * total_train_length),
-            int(0.5 * total_train_length),
-            int(0.75 * total_train_length),
-            int(0.99 * total_train_length) # For sentiment
-        ]
+    total_train_length = len(dataset.data["total_train"])
 
-        for idx in indices:
-            # if cfg.use_augmented_data:
-            #     dataset_copy.exp_datasize_split_aug(idx, validation_length)
-            # else:
-            #     dataset_copy.exp_datasize_split(
-            #         idx, validation_length, cfg.use_augmented_data
-            #     )
+    # Specify the length of train and validation set
+    validation_pct = 0.1
+    validation_length = int(validation_pct * total_train_length)
+    total_train_length = total_train_length - validation_length
 
-            dataset_copy.exp_ratio_split(idx, validation_length)
+    # generate list of indices to slice from
+    indices_pct = list(np.linspace(0.1, 1, 11))
+
+    # Select only indices with value 5000 or less
+    shuffle_seeds: List[int] = random.sample(range(0, 100), 5)
+
+    for idx_pct in indices_pct:
+        dataset_copy = copy.deepcopy(dataset)
+
+        for seed in shuffle_seeds:
+            # Shuffle original train and augmented train
+            dataset_copy.data["train"] = dataset_copy.data["total_train"].shuffle(seed)
+
+            # Number of samples to select
+            idx = int(idx_pct * total_train_length)
+
+            dataset_copy.datasize_split(idx, validation_length)
 
             model = ExperimentTrainer(data=dataset_copy, config=cfg)
 
