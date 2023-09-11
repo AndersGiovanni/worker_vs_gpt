@@ -135,6 +135,7 @@ class ExperimentTrainer:
             # name=f"{self.config.ckpt}_size:{self.dataset['train'].num_rows}",  # Used for data size experiment
             name=f"{self.config.augmentation_model}_{self.config.sampling}_size:{self.dataset['train'].num_rows}",  # Used for data size experiment
             group=f"{self.config.dataset}",
+            tags=["with base"],
             config={
                 "ckpt": self.config.ckpt,
                 "batch_size": self.config.batch_size,
@@ -151,7 +152,7 @@ class ExperimentTrainer:
         args = TrainingArguments(
             str(
                 MODELS_DIR
-                / f"{self.config.augmentation_model}_{self.config.sampling}_{self.config.dataset}_size:{len(self.dataset['train'])}_{self.config.ckpt}"
+                / f"RATIO_{self.config.augmentation_model}_{self.config.sampling}_{self.config.dataset}_size:{len(self.dataset['train'])}_{self.config.ckpt}"
             ),
             evaluation_strategy="epoch",
             logging_strategy="epoch",

@@ -1,7 +1,7 @@
 ckpt: intfloat/e5-base
 dataset: ten-dim # can be 'hate-speech', 'sentiment', 'ten-dim'
-use_augmented_data: True
-sampling: proportional # can be proportional or balanced
+use_augmented_data: False
+sampling: balanced # can be proportional or balanced
 augmentation_model: gpt-3.5-turbo # can be gpt-3.5-turbo or gpt-4
 wandb_project: crowdsourced_vs_gpt_datasize
 wandb_entity: cocoons

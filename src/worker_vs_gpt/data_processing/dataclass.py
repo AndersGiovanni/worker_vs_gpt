@@ -1,4 +1,5 @@
 from pathlib import Path
+import random
 from typing import Dict, List, Union
 
 import datasets
@@ -123,6 +124,42 @@ class DataClassWorkerVsGPT(Dataset):
             [self.data["base"], self.data["train"]]
         )
 
+    def exp_ratio_split(
+        self,
+        train_size: int = 500,
+        validation_size: int = 500,
+    ) -> None:
+        """Split the dataset into train, validation, and test
+        Parameters
+        ----------
+        size : int, optional
+            Size of the train set, by default 500
+        Returns
+        -------
+        None
+        """
+
+        # Select samples for validation
+        self.data["validation"] = self.data["original_train"].select(
+            range(validation_size)
+        )
+
+        # Shuffle augmented data with a random seed (we dont want to always select the same samples)
+        self.data["augmented_train"] = self.data["augmented_train"].shuffle(
+            seed=random.randint(0, 100)
+        )
+
+        # For training, we will be using base, original_train, and then take a ratio of augmented_train corresponding to 25%, 50% and 75% of the original_train
+        self.data["train"] = concatenate_datasets(
+            [
+                self.data["base"],
+                self.data["original_train"].select(
+                    range(validation_size, len(self.data["original_train"]))
+                ),
+                self.data["augmented_train"].select(range(train_size)),
+            ]
+        )
+
     def exp_datasize_split_aug(
         self,
         train_size: int = 500,
@@ -144,7 +181,10 @@ class DataClassWorkerVsGPT(Dataset):
         )
 
         # Select samples for train
-        self.data["train"] = self.data["augmented_train"].select(range(train_size))
+        # Add static base set to train
+        self.data["train"] = concatenate_datasets(
+            [self.data["base"], self.data["augmented_train"].select(range(train_size))]
+        )
 
     def prepare_dataset_setfit(
         self, experiment_type: str = "crowdsourced", validation_length: int = 500
