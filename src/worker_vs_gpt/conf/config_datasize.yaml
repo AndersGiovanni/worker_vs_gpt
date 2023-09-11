@@ -1,8 +1,8 @@
 ckpt: intfloat/e5-base
 dataset: hate-speech # can be 'hate-speech', 'sentiment', 'ten-dim'
-use_augmented_data: False
-sampling: balanced # can be balanced
-augmentation_model: gpt-4 # can be gpt-4
+use_augmented_data: False # can be True or False
+sampling: balanced # can be 'balanced'
+augmentation_model: gpt-4 # can be 'gpt-4'
 wandb_project: crowdsourced_vs_gpt_datasize_v2
 wandb_entity: cocoons
 batch_size: 32
