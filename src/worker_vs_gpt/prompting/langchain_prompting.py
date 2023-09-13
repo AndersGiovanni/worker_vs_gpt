@@ -30,8 +30,8 @@ class DataTemplates:
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=[],
-                template="""The following social media text conveys the emotion {emotion}, write 10 new semantically similar examples in style of a social media comment, that show the same intent and emotion.
+                input_variables=["emotion", "text"],
+                template="""The following social media text conveys the emotion {emotion}, write 9 new semantically similar examples in style of a social media comment, that show the same intent and emotion.
 
 Text: {text}
 
@@ -55,8 +55,8 @@ Answer:
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=[],
-                template="""The following social media text has a {hypo} flag for being an hyperbole, write 10 new semantically similar examples in style of a social media comment, that show the same intent and hyperbole flag.
+                input_variables=["hypo", "text"],
+                template="""The following social media text has a {hypo} flag for being an hyperbole, write 9 new semantically similar examples in style of a social media comment, that show the same intent and hyperbole flag.
 
 Text: {text}
 
@@ -73,17 +73,17 @@ Answer:
             prompt=PromptTemplate(
                 input_variables=[],
                 template="""
-        You are an advanced AI writer. Given a pair of texts, you are tasked with defining whether they are on the same side in terms of stance (Yes) or not (No).
+        You are an advanced AI writer. Given a pair of texts separated by a [SEP] tag, you are tasked with defining whether they are on the same side in terms of stance (Yes) or not (No).
         """,
             )
         )
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=[],
-                template="""The following social media text pair has a {side} flag for showing stances that are on the same side, write 10 new semantically similar examples of pairs in style of social media comments, that show the same intent and same side stance flag.
+                input_variables=["side", "text"],
+                template="""The following social media text pair has a {side} flag for showing stances that are on the same side, write 9 new semantically similar examples of pairs in style of social media comments, that show the same intent and same side stance flag.
 
-Text: {text_a, text_b}
+Text: {text}
 
 
 
@@ -105,8 +105,8 @@ Answer:
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=[],
-                template="""The following social media text has a {side} flag for expressing empathy, write 10 new semantically similar examples in style of a social media comment, that show the same intent and empathy flag.
+                input_variables=["empathy", "text"],
+                template="""The following social media text has a {empathy} flag for expressing empathy, write 9 new semantically similar examples in style of a social media comment, that show the same intent and empathy flag.
 
 Text: {text}
 
@@ -130,8 +130,8 @@ Answer:
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=[],
-                template="""The following social media text conveys the {intimacy} level of question intimacy, write 10 new semantically similar examples in style of a social media question, that show the same intent and intimacy level.
+                input_variables=["intimacy", "text"],
+                template="""The following social media text conveys the {intimacy} level of question intimacy, write 9 new semantically similar examples in style of a social media question, that show the same intent and intimacy level.
 
 Text: {text}
 
@@ -156,8 +156,8 @@ Answer:
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=[],
-                template="""The following social media text has a {talkdown} flag for showing condescendence, write 10 new semantically similar examples in style of a social media comment, that show the same intent and condescendence flag.
+                input_variables=["talkdown", "text"],
+                template="""The following social media text has a {talkdown} flag for showing condescendence, write 9 new semantically similar examples in style of a social media comment, that show the same intent and condescendence flag.
 
 Text: {text}
 
@@ -182,8 +182,8 @@ Answer:
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=[],
-                template="""The following social media text has a {politeness} flag for politeness, write 10 new semantically similar examples in style of a social media comment, that show the same intent and politeness flag.
+                input_variables=["politeness" "text"],
+                template="""The following social media text has a {politeness} flag for politeness, write 9 new semantically similar examples in style of a social media comment, that show the same intent and politeness flag.
 
 Text: {text}
 
@@ -212,7 +212,7 @@ Answer:
                     "social_dimension_description",
                     "text",
                 ],
-                template="""The following social media text conveys the social dimension {social_dimension}. {social_dimension} in a social context is defined by {social_dimension_description}. Write 10 new semantically similar examples in style of a social media comment, that show the same intent and social dimension.
+                template="""The following social media text conveys the social dimension {social_dimension}. {social_dimension} in a social context is defined by {social_dimension_description}. Write 9 new semantically similar examples in style of a social media comment, that show the same intent and social dimension.
 
 Text: {text}
 
@@ -237,7 +237,7 @@ Answer:
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
                 input_variables=["sentiment", "text"],
-                template="""Based on the following social media text which has a {sentiment} sentiment, write 10 new similar examples in style of a social media comment, that has the same sentiment. Separate the texts by newline.
+                template="""Based on the following social media text which has a {sentiment} sentiment, write 9 new similar examples in style of a social media comment, that has the same sentiment. Separate the texts by newline.
 
 Text: {text}
 
@@ -260,7 +260,7 @@ Answer:
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
                 input_variables=["hate_speech", "text"],
-                template="""Based on the following social media text which is {hate_speech} , write 10 new similar examples in style of a social media comment, that has the same sentiment. 
+                template="""Based on the following social media text which is {hate_speech} , write 9 new similar examples in style of a social media comment, that has the same sentiment. 
                 Answer in Danish. 
 
 Text: {text}
