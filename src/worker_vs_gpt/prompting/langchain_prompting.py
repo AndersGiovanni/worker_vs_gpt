@@ -30,7 +30,7 @@ class DataTemplates:
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=["emotion", "text"],
+                input_variables=["text", "emotion"],
                 template="""The following social media text conveys the emotion {emotion}. Write 9 new semantically similar examples in the style of a social media comment, that show the same intent and emotion.
 
 Text: {text}
@@ -55,7 +55,7 @@ Answer:
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=["hypo", "text"],
+                input_variables=["text", "hypo"],
                 template="""The following sentence has a {hypo} flag for being hyperbolic. Write 9 new semantically similar examples that show the same intent and hyperbolic flag.
 
 Text: {text}
@@ -80,7 +80,7 @@ Answer:
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=["side", "text"],
+                input_variables=["text", "side"],
                 template="""The following sentence pair has a {side} flag for showing stances that are on the same side. Write 9 new semantically similar examples of sentence pairs in the style of online debate sites arguments, that show the same intent and same side stance flag.
 
 Text: {text}
@@ -105,7 +105,7 @@ Answer:
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=["empathy", "text"],
+                input_variables=["text", "empathy"],
                 template="""The following text has a {empathy} flag for expressing empathy, write 9 new semantically similar examples that show the same intent and empathy flag.
 
 Text: {text}
@@ -130,7 +130,7 @@ Answer:
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=["intimacy", "text"],
+                input_variables=["text", "intimacy"],
                 template="""The following social media question conveys the {intimacy} level of question intimacy. Write 9 new semantically similar examples in the style of a social media question, that show the same intent and intimacy level.
 
 Text: {text}
@@ -156,7 +156,7 @@ Answer:
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=["talkdown", "text"],
+                input_variables=["text", "talkdown"],
                 template="""The following social media text has a {talkdown} flag for showing condescendence, write 9 new semantically similar examples in the style of a social media comment, that show the same intent and condescendence flag.
 
 Text: {text}
@@ -182,7 +182,7 @@ Answer:
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=["politeness" "text"],
+                input_variables=["text", "politeness"],
                 template="""The following social media text has a {politeness} flag for politeness, write 9 new semantically similar examples in the style of a social media comment, that show the same intent and politeness flag.
 
 Text: {text}

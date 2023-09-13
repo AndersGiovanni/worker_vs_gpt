@@ -83,7 +83,7 @@ def main(cfg: AugmentConfig) -> None:
         text = "text"  # text column
         dataset = pd.read_json(os.path.join(EMPATHY_DATA_DIR, "base.json"))
         augmentation_prompt = augmentation_templates.get_empathy_prompt()
-    elif cfg.dataset == "hayati_politeness":
+    elif cfg.dataset == "hayati-politeness":
         text = "text"  # text column
         dataset = pd.read_json(os.path.join(POLITENESS_DATA_DIR, "base.json"))
         augmentation_prompt = augmentation_templates.get_politeness_prompt()
@@ -205,7 +205,7 @@ def main(cfg: AugmentConfig) -> None:
                 print(f"Error with text: {input_text}")
                 print("-------")
                 continue
-        elif cfg.dataset == "hayati_politeness":
+        elif cfg.dataset == "hayati-politeness":
             try:
                 output = llm_chain.run(
                     {
