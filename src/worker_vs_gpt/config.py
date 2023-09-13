@@ -15,6 +15,20 @@ TEN_DIM_DATA_DIR = DATA_DIR / "ten-dim"
 
 HATE_SPEECH_DATA_DIR = DATA_DIR / "hate-speech"
 
+CROWDFLOWER_DATA_DIR = DATA_DIR / "crowdflower"
+
+EMPATHY_DATA_DIR = DATA_DIR / "empathy#empathy_bin"
+
+POLITENESS_DATA_DIR = DATA_DIR / "hayati_politeness"
+
+HYPO_DATA_DIR = DATA_DIR / "hypo-l"
+
+INTIMACY_DATA_DIR = DATA_DIR / "questionintimacy"
+
+SAMESIDE_DATA_DIR = DATA_DIR / "same-side-pairs"
+
+TALKDOWN_DATA_DIR = DATA_DIR / "talkdown-pairs"
+
 SIMILARITY_DIR = DATA_DIR / "similarity_results"
 
 SRC_DIR = ROOT_DIR / "src"

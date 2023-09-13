@@ -8,7 +8,7 @@ from langchain import PromptTemplate, LLMChain
 from langchain.llms import OpenAI
 from langchain.chat_models import ChatOpenAI
 
-from dotenv import load_dotenv
+from dotenv import load_dotenv 
 import pandas as pd
 
 from tqdm import tqdm
@@ -23,6 +23,13 @@ from worker_vs_gpt.config import (
     SENTIMENT_DATA_DIR,
     TEN_DIM_DATA_DIR,
     ANALYSE_TAL_DATA_DIR,
+    CROWDFLOWER_DATA_DIR,
+    EMPATHY_DATA_DIR,
+    POLITENESS_DATA_DIR,
+    HYPO_DATA_DIR,
+    INTIMACY_DATA_DIR,
+    SAMESIDE_DATA_DIR,
+    TALKDOWN_DATA_DIR,
     AugmentConfig,
     LORA_WEIGHTS_DIR,
 )
@@ -69,12 +76,40 @@ def main(cfg: AugmentConfig) -> None:
             "conflict": "Contrast or diverging views",
             "neutral": "neutral communication",
         }
+    elif cfg.dataset == "crowdflower":
+        text = "text"  # text column
+        dataset = pd.read_json(os.path.join(CROWDFLOWER_DATA_DIR, "base.json"))
+        augmentation_prompt = augmentation_templates.get_crowdfl_prompt()
+    elif cfg.dataset == "empathy#empathy_bin":
+        text = "text"  # text column
+        dataset = pd.read_json(os.path.join(EMPATHY_DATA_DIR, "base.json"))
+        augmentation_prompt = augmentation_templates.get_empathy_prompt()
+    elif cfg.dataset == "hayati_politeness":
+        text = "text"  # text column
+        dataset = pd.read_json(os.path.join(POLITENESS_DATA_DIR, "base.json"))
+        augmentation_prompt = augmentation_templates.get_politeness_prompt()
+    elif cfg.dataset == "hypo-l":
+        text = "text"  # text column
+        dataset = pd.read_json(os.path.join(HYPO_DATA_DIR, "base.json"))
+        augmentation_prompt = augmentation_templates.get_hypo_prompt()
+    elif cfg.dataset == "questionintimacy":
+        text = "text"  # text column
+        dataset = pd.read_json(os.path.join(INTIMACY_DATA_DIR, "base.json"))
+        augmentation_prompt = augmentation_templates.get_intimacy_prompt()
+    elif cfg.dataset == "same-side-pairs":
+        text = "text"  # text column
+        dataset = pd.read_json(os.path.join(SAMESIDE_DATA_DIR, "base.json"))
+        augmentation_prompt = augmentation_templates.get_sameside_prompt()
+    elif cfg.dataset == "talkdown-pairs":
+        text = "text"  # text column
+        dataset = pd.read_json(os.path.join(TALKDOWN_DATA_DIR, "base.json"))
+        augmentation_prompt = augmentation_templates.get_talkdown_prompt()
     else:
         raise ValueError(f"Dataset not found: {cfg.dataset}")
 
     temperature = 0
     if cfg.sampling == "balanced":
-        dataset = balanced_sample_df(dataset, 500)
+        dataset = balanced_sample_df(dataset, len(dataset))
         temperature = 1
 
         # get all duplicate rows
@@ -150,6 +185,97 @@ def main(cfg: AugmentConfig) -> None:
                 print(f"Error with {input_text}")
                 print("-------")
                 continue
+        elif cfg.dataset == "crowdflower":
+            try:
+                output = llm_chain.run(
+                    {
+                        "text": input_text,
+                        "emotion": dataset["target"][idx],
+                    }
+                )
+            except Exception as e:
+                print(e)
+                print(f"Error with text: {input_text}")
+                print("-------")
+                continue
+        elif cfg.dataset == "empathy#empathy_bin":
+            try:
+                output = llm_chain.run(
+                    {
+                        "text": input_text,
+                        "empathy": dataset["target"][idx],
+                    }
+                )
+            except Exception as e:
+                print(e)
+                print(f"Error with text: {input_text}")
+                print("-------")
+                continue
+        elif cfg.dataset == "hayati_politeness":
+            try:
+                output = llm_chain.run(
+                    {
+                        "text": input_text,
+                        "politeness": dataset["target"][idx],
+                    }
+                )
+            except Exception as e:
+                print(e)
+                print(f"Error with text: {input_text}")
+                print("-------")
+                continue
+        elif cfg.dataset == "hypo-l":
+            try:
+                output = llm_chain.run(
+                    {
+                        "text": input_text,
+                        "hypo": dataset["target"][idx],
+                    }
+                )
+            except Exception as e:
+                print(e)
+                print(f"Error with text: {input_text}")
+                print("-------")
+                continue
+        elif cfg.dataset == "questionintimacy":
+            try:
+                output = llm_chain.run(
+                    {
+                        "text": input_text,
+                        "intimacy": dataset["target"][idx],
+                    }
+                )
+            except Exception as e:
+                print(e)
+                print(f"Error with text: {input_text}")
+                print("-------")
+                continue
+        elif cfg.dataset == "same-side-pairs":
+            try:
+                output = llm_chain.run(
+                    {
+                        "text": input_text,
+                        "side": dataset["target"][idx],
+                    }
+                )
+            except Exception as e:
+                print(e)
+                print(f"Error with text: {input_text}")
+                print("-------")
+                continue
+        elif cfg.dataset == "talkdown-pairs":
+            try:
+                output = llm_chain.run(
+                    {
+                        "text": input_text,
+                        "talkdown": dataset["target"][idx],
+                    }
+                )
+            except Exception as e:
+                print(e)
+                print(f"Error with text: {input_text}")
+                print("-------")
+                continue
         else:
             raise NotImplementedError
 
@@ -160,7 +286,7 @@ def main(cfg: AugmentConfig) -> None:
         df = df.append(
             pl,
             ignore_index=True,
-        )
+        ) # type: ignore
 
     df = df.sample(frac=1, random_state=rng).reset_index(drop=True)
 
@@ -181,7 +307,43 @@ def main(cfg: AugmentConfig) -> None:
             TEN_DIM_DATA_DIR / f"{cfg.sampling}_{cfg.model}_augmented.json",
             orient="records",
         )
+    elif cfg.dataset == "crowdflower":
+        df.to_json(
+            CROWDFLOWER_DATA_DIR / f"{cfg.sampling}_{cfg.model}_augmented.json",
+            orient="records",
+        )
+    elif cfg.dataset == "empathy#empathy_bin":
+        df.to_json(
+            EMPATHY_DATA_DIR / f"{cfg.sampling}_{cfg.model}_augmented.json",
+            orient="records",
+        )
+    elif cfg.dataset == "hayati_politeness":
+        df.to_json(
+            POLITENESS_DATA_DIR / f"{cfg.sampling}_{cfg.model}_augmented.json",
+            orient="records",
+        )
+    elif cfg.dataset == "hypo-l":
+        df.to_json(
+            HYPO_DATA_DIR / f"{cfg.sampling}_{cfg.model}_augmented.json",
+            orient="records",
+        )
+    elif cfg.dataset == "questionintimacy":
+        df.to_json(
+            INTIMACY_DATA_DIR / f"{cfg.sampling}_{cfg.model}_augmented.json",
+            orient="records",
+        )
+    elif cfg.dataset == "same-side-pairs":
+        df.to_json(
+            SAMESIDE_DATA_DIR / f"{cfg.sampling}_{cfg.model}_augmented.json",
+            orient="records",
+        )
+    elif cfg.dataset == "talkdown-pairs":
+        df.to_json(
+            TALKDOWN_DATA_DIR / f"{cfg.sampling}_{cfg.model}_augmented.json",
+            orient="records",
+        )
+
 
 
 if __name__ == "__main__":
-    main()
+    main() # type: ignore
