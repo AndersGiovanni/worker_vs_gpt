@@ -23,7 +23,7 @@ class DataTemplates:
             prompt=PromptTemplate(
                 input_variables=[],
                 template="""
-        You are an advanced AI writer. Your job is to help write examples of social media comments that conveys certain emotions. The emotions are: empty, sadness, enthusiasm, neutral, worry, love, fun, hate, happiness, relief, boredom, surprise, anger.
+        You are an advanced AI writer. Your job is to help write examples of social media comments that convey certain emotions. Emotions to be considered are: sadness, enthusiasm, empty, neutral, worry, love, fun, hate, happiness, relief, boredom, surprise, anger.
         """,
             )
         )
@@ -31,7 +31,7 @@ class DataTemplates:
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
                 input_variables=["emotion", "text"],
-                template="""The following social media text conveys the emotion {emotion}, write 9 new semantically similar examples in style of a social media comment, that show the same intent and emotion.
+                template="""The following social media text conveys the emotion {emotion}. Write 9 new semantically similar examples in the style of a social media comment, that show the same intent and emotion.
 
 Text: {text}
 
@@ -48,7 +48,7 @@ Answer:
             prompt=PromptTemplate(
                 input_variables=[],
                 template="""
-        You are an advanced AI writer. You are tasked with defining whether a text is an hyperbole (Yes) or not (No).
+        You are an advanced AI writer. You are tasked with writing examples of sentences that are hyperbolic or not.
         """,
             )
         )
@@ -56,7 +56,7 @@ Answer:
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
                 input_variables=["hypo", "text"],
-                template="""The following social media text has a {hypo} flag for being an hyperbole, write 9 new semantically similar examples in style of a social media comment, that show the same intent and hyperbole flag.
+                template="""The following sentence has a {hypo} flag for being hyperbolic. Write 9 new semantically similar examples that show the same intent and hyperbolic flag.
 
 Text: {text}
 
@@ -73,7 +73,7 @@ Answer:
             prompt=PromptTemplate(
                 input_variables=[],
                 template="""
-        You are an advanced AI writer. Given a pair of texts separated by a [SEP] tag, you are tasked with defining whether they are on the same side in terms of stance (Yes) or not (No).
+        You are an advanced AI writer. Your job is to help write examples of sentence pairs, separated by the [SEP] tag, that convey the same stance or not. 
         """,
             )
         )
@@ -81,7 +81,7 @@ Answer:
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
                 input_variables=["side", "text"],
-                template="""The following social media text pair has a {side} flag for showing stances that are on the same side, write 9 new semantically similar examples of pairs in style of social media comments, that show the same intent and same side stance flag.
+                template="""The following sentence pair has a {side} flag for showing stances that are on the same side. Write 9 new semantically similar examples of sentence pairs in the style of online debate sites arguments, that show the same intent and same side stance flag.
 
 Text: {text}
 
@@ -98,7 +98,7 @@ Answer:
             prompt=PromptTemplate(
                 input_variables=[],
                 template="""
-        You are an advanced AI writer. Given a text, you are tasked with defining it is expressing empathy (Yes) or not (No).
+        You are an advanced AI writer. Your job is to help write examples of texts that convey empathy or not.
         """,
             )
         )
@@ -106,7 +106,7 @@ Answer:
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
                 input_variables=["empathy", "text"],
-                template="""The following social media text has a {empathy} flag for expressing empathy, write 9 new semantically similar examples in style of a social media comment, that show the same intent and empathy flag.
+                template="""The following text has a {empathy} flag for expressing empathy, write 9 new semantically similar examples that show the same intent and empathy flag.
 
 Text: {text}
 
@@ -123,7 +123,7 @@ Answer:
             prompt=PromptTemplate(
                 input_variables=[],
                 template="""
-        You are an advanced AI writer. Your job is to help write examples of social media questions that conveys certain levels of intimacy. The intimacy levels are: very intimate, intimate, somewhat intimate, not very intimate, not intimate, not intimate at all.
+        You are an advanced AI writer. Your job is to help write examples of question posted in social media that convey certain levels of intimacy. The intimacy levels are: very intimate, intimate, somewhat intimate, not very intimate, not intimate, not intimate at all.
         """,
             )
         )
@@ -131,7 +131,7 @@ Answer:
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
                 input_variables=["intimacy", "text"],
-                template="""The following social media text conveys the {intimacy} level of question intimacy, write 9 new semantically similar examples in style of a social media question, that show the same intent and intimacy level.
+                template="""The following social media question conveys the {intimacy} level of question intimacy. Write 9 new semantically similar examples in the style of a social media question, that show the same intent and intimacy level.
 
 Text: {text}
 
@@ -149,7 +149,7 @@ Answer:
             prompt=PromptTemplate(
                 input_variables=[],
                 template="""
-        You are an advanced AI writer. Given a text, you are tasked with defining whether it is condescending (Yes) or not (No).
+        You are an advanced AI writer. Your job is to help write examples of social media comments that convey condescendence or not. 
         """,
             )
         )
@@ -157,7 +157,7 @@ Answer:
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
                 input_variables=["talkdown", "text"],
-                template="""The following social media text has a {talkdown} flag for showing condescendence, write 9 new semantically similar examples in style of a social media comment, that show the same intent and condescendence flag.
+                template="""The following social media text has a {talkdown} flag for showing condescendence, write 9 new semantically similar examples in the style of a social media comment, that show the same intent and condescendence flag.
 
 Text: {text}
 
@@ -175,7 +175,7 @@ Answer:
             prompt=PromptTemplate(
                 input_variables=[],
                 template="""
-        You are an advanced AI writer. You are tasked with classifying the politeness of a text. Politeness can be found in a text (Yes) or not (No).
+        You are an advanced AI writer. Your job is to help write examples of social media comments that convey politeness or not.
         """,
             )
         )
@@ -183,7 +183,7 @@ Answer:
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
                 input_variables=["politeness" "text"],
-                template="""The following social media text has a {politeness} flag for politeness, write 9 new semantically similar examples in style of a social media comment, that show the same intent and politeness flag.
+                template="""The following social media text has a {politeness} flag for politeness, write 9 new semantically similar examples in the style of a social media comment, that show the same intent and politeness flag.
 
 Text: {text}
 
