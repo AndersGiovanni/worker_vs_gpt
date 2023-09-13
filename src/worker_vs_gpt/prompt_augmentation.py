@@ -311,7 +311,7 @@ def main(cfg: AugmentConfig) -> None:
             EMPATHY_DATA_DIR / f"{cfg.sampling}_{cfg.model}_augmented.json",
             orient="records",
         )
-    elif cfg.dataset == "hayati_politeness":
+    elif cfg.dataset == "hayati-politeness":
         df.to_json(
             POLITENESS_DATA_DIR / f"{cfg.sampling}_{cfg.model}_augmented.json",
             orient="records",
