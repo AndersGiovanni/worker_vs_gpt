@@ -42,7 +42,7 @@ Answer:
             )
         )
         return ChatPromptTemplate.from_messages([system_message, human_message])
-    
+
     def get_hypo_prompt(self) -> ChatPromptTemplate:
         system_message = SystemMessagePromptTemplate(
             prompt=PromptTemplate(
@@ -67,7 +67,7 @@ Answer:
             )
         )
         return ChatPromptTemplate.from_messages([system_message, human_message])
-    
+
     def get_sameside_prompt(self) -> ChatPromptTemplate:
         system_message = SystemMessagePromptTemplate(
             prompt=PromptTemplate(
@@ -92,7 +92,7 @@ Answer:
             )
         )
         return ChatPromptTemplate.from_messages([system_message, human_message])
-    
+
     def get_empathy_prompt(self) -> ChatPromptTemplate:
         system_message = SystemMessagePromptTemplate(
             prompt=PromptTemplate(
@@ -117,7 +117,7 @@ Answer:
             )
         )
         return ChatPromptTemplate.from_messages([system_message, human_message])
-    
+
     def get_intimacy_prompt(self) -> ChatPromptTemplate:
         system_message = SystemMessagePromptTemplate(
             prompt=PromptTemplate(
@@ -142,7 +142,6 @@ Answer:
             )
         )
         return ChatPromptTemplate.from_messages([system_message, human_message])
-    
 
     def get_talkdown_prompt(self) -> ChatPromptTemplate:
         system_message = SystemMessagePromptTemplate(
@@ -168,7 +167,6 @@ Answer:
             )
         )
         return ChatPromptTemplate.from_messages([system_message, human_message])
-    
 
     def get_politeness_prompt(self) -> ChatPromptTemplate:
         system_message = SystemMessagePromptTemplate(
@@ -270,21 +268,6 @@ Answer:
             )
         )
         return ChatPromptTemplate.from_messages([system_message, human_message])
-
-    def get_alpaca_input_prompt(self) -> PromptTemplate:
-        input_template = """Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
-
-        ### Instruction:
-        Rewrite the following social media comment in 5 different ways to express {label}. The output must be in {language} only.
-
-        ### Input:
-        {text}
-
-        ### Response:"""
-
-        return PromptTemplate(
-            input_variables=["text", "language", "label"], template=input_template
-        )
 
 
 class ClassificationTemplates:
