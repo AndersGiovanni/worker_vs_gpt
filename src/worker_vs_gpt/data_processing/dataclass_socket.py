@@ -27,11 +27,6 @@ class Socket_Dataset(DataClassWorkerVsGPT):
         self.labels = self._get_labels()
         self.is_augmented = is_augmented
 
-        if self.is_augmented:
-            raise NotImplementedError(
-                "Augmented data not yet implemented for SOCKET datasets."
-            )
-
     def preprocess(self, model_name: str) -> None:
         # Convert labels to list of ints
         self.data = self.data.map(
