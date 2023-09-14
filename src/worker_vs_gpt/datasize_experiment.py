@@ -109,23 +109,25 @@ def main(cfg: TrainerConfig) -> None:
             task=cfg.dataset,
             filename="base.json",
         )
-        if cfg.use_augmented_data:
-            raise ValueError("Augmented data not available for this dataset")
         augmented_dataset = Socket_Dataset(
             task=cfg.dataset,
-            filename="train.json",  # Placeholder
-            # filename=f"{cfg.sampling}_{cfg.augmentation_model}_augmented.json",
-            is_augmented=False,  # Placeholder - should be True when augmented data is available
+            filename=f"{cfg.sampling}_{cfg.augmentation_model}_augmented.json",
+            is_augmented=True,
         )
     else:
         raise ValueError("Dataset not found")
 
+    # Preprocess data
     dataset.data["test"] = test_dataset.data["train"]
     dataset.data["base"] = base_dataset.data["train"]
     dataset.data["original_train"] = dataset.data["train"]
-    dataset.data["augmented_train"] = augmented_dataset.data["train"]
-
     dataset.preprocess(model_name=cfg.ckpt)
+
+    # Preprocess augmented data
+    augmented_dataset.preprocess(model_name=cfg.ckpt)
+
+    # Add augmented data to dataset
+    dataset.data["augmented_train"] = augmented_dataset.data["train"]
 
     # Concatenate data - either original or augmented together with base
     if cfg.use_augmented_data:
