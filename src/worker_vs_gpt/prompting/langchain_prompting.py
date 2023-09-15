@@ -358,6 +358,32 @@ Answer:
 
         return PromptTemplate(input_variables=["text"], template=input_template)
 
+    def classify_crowdflower(self) -> ChatPromptTemplate:
+        """Work in progress"""
+        system_message = SystemMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[],
+                template="""
+        You are an advanced classifying AI. You are tasked with classifying the emotion of a text. The emotions can be: empty, sadness, enthusiasm, neutral, worry, love, fun, hate, happiness, relief, boredom, surprise, and anger.
+        """,
+            )
+        )
+
+        human_message = HumanMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[
+                    "text",
+                ],
+                template="""Based on the following social media text, classify the social dimension of the text. You answer MUST only be one of the social dimensions. Your answer MUST be exactly one of ["social_support", "conflict", "trust", "neutral", "fun", "respect", "knowledge", "power", "similarity_identity"]. The answer must be lowercased.
+
+Text: {text}
+
+Answer:
+""",
+            )
+        )
+        return ChatPromptTemplate.from_messages([system_message, human_message])
+
 
 if __name__ == "__main__":
     # ten_dim_template = DataTemplates().get_ten_dim_prompt()
