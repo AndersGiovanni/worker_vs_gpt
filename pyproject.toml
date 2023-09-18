@@ -33,6 +33,8 @@ openpyxl = "^3.1.2"
 urllib3 = "1.26.6"
 evaluate = "^0.4.0"
 langchain = "^0.0.285"
+text-generation = "^0.6.0"
+huggingface-hub = "^0.17.1"
 [tool.poetry.dev-dependencies]
 Pygments = ">=2.10.0"
 bandit = ">=1.7.4"

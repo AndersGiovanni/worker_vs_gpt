@@ -28,6 +28,16 @@ from worker_vs_gpt.config import (
     HATE_SPEECH_DATA_DIR,
     SENTIMENT_DATA_DIR,
     TEN_DIM_DATA_DIR,
+    ANALYSE_TAL_DATA_DIR,
+    CROWDFLOWER_DATA_DIR,
+    EMPATHY_DATA_DIR,
+    POLITENESS_DATA_DIR,
+    HYPO_DATA_DIR,
+    INTIMACY_DATA_DIR,
+    SAMESIDE_DATA_DIR,
+    TALKDOWN_DATA_DIR,
+    AugmentConfig,
+    LORA_WEIGHTS_DIR,
     PromptConfig,
 )
 
@@ -60,6 +70,34 @@ def main(cfg: PromptConfig) -> None:
         text = "h_text"  # text column (can be text or h_text)
         dataset = pd.read_json(os.path.join(TEN_DIM_DATA_DIR, "test.json"))
         classification_prompt = classification_templates.classify_ten_dim()
+    elif cfg.dataset == "crowdflower":
+        text = "text"  # text column (can be text or h_text)
+        dataset = pd.read_json(os.path.join(CROWDFLOWER_DATA_DIR, "test.json"))
+        classification_prompt = classification_templates.classify_crowdflower()
+    elif cfg.dataset == "same-side-pairs":
+        text = "text"  # text column (can be text or h_text)
+        dataset = pd.read_json(os.path.join(SAMESIDE_DATA_DIR, "test.json"))
+        classification_prompt = classification_templates.classfify_same_side()
+    elif cfg.dataset == "hayati_politeness":
+        text = "text"  # text column (can be text or h_text)
+        dataset = pd.read_json(os.path.join(POLITENESS_DATA_DIR, "test.json"))
+        classification_prompt = classification_templates.classfify_hayati()
+    elif cfg.dataset == "hypo-l":
+        text = "text"  # text column (can be text or h_text)
+        dataset = pd.read_json(os.path.join(HYPO_DATA_DIR, "test.json"))
+        classification_prompt = classification_templates.classfify_hypo()
+    elif cfg.dataset == "empathy#empathy_bin":
+        text = "text"  # text column (can be text or h_text)
+        dataset = pd.read_json(os.path.join(EMPATHY_DATA_DIR, "test.json"))
+        classification_prompt = classification_templates.classfify_empathy()
+    elif cfg.dataset == "questionintimacy":
+        text = "text"  # text column (can be text or h_text)
+        dataset = pd.read_json(os.path.join(INTIMACY_DATA_DIR, "test.json"))
+        classification_prompt = classification_templates.classfify_intimacy()
+    elif cfg.dataset == "talkdown-pairs":
+        text = "text"  # text column (can be text or h_text)
+        dataset = pd.read_json(os.path.join(TALKDOWN_DATA_DIR, "test.json"))
+        classification_prompt = classification_templates.classify_talkdown()
     else:
         raise ValueError(f"Dataset not found: {cfg.dataset}")
 
@@ -83,7 +121,8 @@ def main(cfg: PromptConfig) -> None:
 
         output = llm_chain.run({"text": input_text})
         pred = label_mathcer(output, input_text)
-        y_pred.append(pred)
+        pred2 = output
+        y_pred.append(pred2)
         idx += 1
 
     # Compute metrics
@@ -96,7 +135,7 @@ def main(cfg: PromptConfig) -> None:
     wandb.init(
         project=cfg.wandb_project,
         entity=cfg.wandb_entity,
-        name=f"{cfg.model}",
+        name=f"{cfg.model}-zero-shot",
         group=f"{cfg.dataset}",
         tags=["prompt_classification"],
         config={
