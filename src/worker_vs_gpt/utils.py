@@ -80,7 +80,18 @@ class LabelMatcher:
                 return "neutral"
 
     def _assert_task(self):
-        if self.task not in ["ten-dim", "hate-speech", "sentiment"]:
+        if self.task not in [
+            "ten-dim",
+            "hate-speech",
+            "sentiment",
+            "crowdflower",
+            "empathy#empathy_bin",
+            "hayati_politeness",
+            "hypo-l",
+            "questionintimacy",
+            "same-side-pairs",
+            "talkdown-pairs",
+        ]:
             raise ValueError(f"Task not found: {self.task}")
 
 

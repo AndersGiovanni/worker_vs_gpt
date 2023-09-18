@@ -345,6 +345,32 @@ Answer:
         )
         return ChatPromptTemplate.from_messages([system_message, human_message])
 
+    def classify_crowdflower(self) -> ChatPromptTemplate:
+        """Work in progress"""
+        system_message = SystemMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[],
+                template="""
+        You are an advanced classifying AI. You are tasked with classifying the emotion of a text. The emotions are: sadness, enthusiasm, empty, neutral, worry, love, fun, hate, happiness, relief, boredom, surprise, anger.
+        """,
+            )
+        )
+
+        human_message = HumanMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[
+                    "text",
+                ],
+                template="""Based on the following social media text, classify the emotion of the text. You answer MUST only be one of the emotions. Your answer MUST be exactly one of ['sadness', 'enthusiasm', 'empty', 'neutral', 'worry', 'love', 'fun', 'hate', 'happiness', 'relief', 'boredom', 'surprise', 'anger']. The answer must be lowercased.
+
+Text: {text}
+
+Answer:
+""",
+            )
+        )
+        return ChatPromptTemplate.from_messages([system_message, human_message])
+
     def classify_analyse_tal(self) -> PromptTemplate:
         input_template = """Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
 
@@ -358,23 +384,135 @@ Answer:
 
         return PromptTemplate(input_variables=["text"], template=input_template)
 
-    def classify_crowdflower(self) -> ChatPromptTemplate:
-        """Work in progress"""
+    def classfify_same_side(self) -> ChatPromptTemplate:
         system_message = SystemMessagePromptTemplate(
             prompt=PromptTemplate(
                 input_variables=[],
                 template="""
-        You are an advanced classifying AI. You are tasked with classifying the emotion of a text. The emotions can be: empty, sadness, enthusiasm, neutral, worry, love, fun, hate, happiness, relief, boredom, surprise, and anger.
+        You are an advanced classifying AI. You are tasked with classifying the whether two texts, separated by [SEP], convey the same stance or not. The two stances are 'not same side' and 'same side'.
         """,
             )
         )
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=[
-                    "text",
-                ],
-                template="""Based on the following social media text, classify the social dimension of the text. You answer MUST only be one of the social dimensions. Your answer MUST be exactly one of ["social_support", "conflict", "trust", "neutral", "fun", "respect", "knowledge", "power", "similarity_identity"]. The answer must be lowercased.
+                input_variables=["text"],
+                template="""Based on the following text, classify the stance of the text. You answer MUST only be one of the stances. Your answer MUST be exactly one of ['not same side', 'same side']. The answer must be lowercased.
+
+Text: {text}
+
+Answer:
+""",
+            )
+        )
+        return ChatPromptTemplate.from_messages([system_message, human_message])
+
+    def classfify_hypo(self) -> ChatPromptTemplate:
+        system_message = SystemMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[],
+                template="""
+        You are an advanced classifying AI. You are tasked with classifying the whether the text is a hyperbole or not a hyperbole.
+        """,
+            )
+        )
+
+        human_message = HumanMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=["text"],
+                template="""Based on the following text, classify the text is a hyperbole. You answer MUST only be one of the two labels. Your answer MUST be exactly one of ['hyperbole', 'not hyperbole']. The answer must be lowercased.
+
+Text: {text}
+
+Answer:
+""",
+            )
+        )
+        return ChatPromptTemplate.from_messages([system_message, human_message])
+
+    def classfify_hayati(self) -> ChatPromptTemplate:
+        system_message = SystemMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[],
+                template="""
+        You are an advanced classifying AI. You are tasked with classifying the whether the text is polite or impolite.
+        """,
+            )
+        )
+
+        human_message = HumanMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=["text"],
+                template="""Based on the following text, classify the politeness of the text. You answer MUST only be one of the two labels. Your answer MUST be exactly one of ['impolite', 'polite']. The answer must be lowercased.
+
+Text: {text}
+
+Answer:
+""",
+            )
+        )
+        return ChatPromptTemplate.from_messages([system_message, human_message])
+
+    def classfify_empathy(self) -> ChatPromptTemplate:
+        system_message = SystemMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[],
+                template="""
+        You are an advanced classifying AI. You are tasked with classifying the whether the text expresses empathy.
+        """,
+            )
+        )
+
+        human_message = HumanMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=["text"],
+                template="""Based on the following text, classify whether the text expresses empathy or not. You answer MUST only be one of the two labels. Your answer MUST be exactly one of ['empathy', 'not empathy']. The answer must be lowercased.
+
+Text: {text}
+
+Answer:
+""",
+            )
+        )
+        return ChatPromptTemplate.from_messages([system_message, human_message])
+
+    def classfify_intimacy(self) -> ChatPromptTemplate:
+        system_message = SystemMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[],
+                template="""
+        You are an advanced classifying AI. You are tasked with classifying the intimacy of the text. The different intimacies are 'Very intimate', 'Intimate', 'Somewhat intimate', 'Not very intimate', 'Not intimate', and 'Not intimate at all'.
+        """,
+            )
+        )
+
+        human_message = HumanMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=["text"],
+                template="""Based on the following text, classify how intimate the text is. You answer MUST only be one of the six labels. Your answer MUST be exactly one of ['Very-intimate', 'Intimate', 'Somewhat-intimate', 'Not-very-intimate', 'Not-intimate', 'Not-intimate-at-all'].
+
+Text: {text}
+
+Answer:
+""",
+            )
+        )
+        return ChatPromptTemplate.from_messages([system_message, human_message])
+
+    def classify_talkdown(self) -> ChatPromptTemplate:
+        system_message = SystemMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=[],
+                template="""
+        You are an advanced classifying AI. You are tasked with classifying if the text is condescending or not condescending.
+        """,
+            )
+        )
+
+        human_message = HumanMessagePromptTemplate(
+            prompt=PromptTemplate(
+                input_variables=["text"],
+                template="""Based on the following text, classify if it is condescending. You answer MUST only be one of the two labels. Your answer MUST be exactly one of ['not condescension', 'condescension'].
 
 Text: {text}
 
