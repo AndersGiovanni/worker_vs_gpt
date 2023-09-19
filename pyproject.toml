@@ -2,7 +2,7 @@
 name = "worker_vs_gpt"
 version = "0.0.0"
 description = "Worker vs. GPT"
-authors = [""]
+authors = ["Anders Giovanni Møller <agmo@itu.dk>"]
 license = "MIT"
 readme = "README.md"
 
@@ -14,7 +14,6 @@ classifiers = [
 [tool.poetry.dependencies]
 python = ">=3.8.1,<4.0"
 click = ">=8.0.1"
-transformers = {git = "https://github.com/huggingface/transformers"}
 torch = "^2.0.0"
 numpy = "^1.24.2"
 pandas = "^1.5.3"
@@ -35,6 +34,7 @@ evaluate = "^0.4.0"
 langchain = "^0.0.285"
 text-generation = "^0.6.0"
 huggingface-hub = "^0.17.1"
+transformers = "^4.33.2"
 [tool.poetry.dev-dependencies]
 Pygments = ">=2.10.0"
 bandit = ">=1.7.4"
