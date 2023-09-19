@@ -11,9 +11,13 @@ from langchain.prompts import (
 )
 
 llm = HuggingFacePipeline.from_model_id(
-    model_id="meta-llama/Llama-2-7b-chat-hf",
+    model_id="meta-llama/Llama-2-70b-chat-hf",
     task="text-generation",
-    model_kwargs={"temperature": 0.7, "max_length": 2048, "politeness": True},
+    model_kwargs={
+        "temperature": 0.7,
+        "max_length": 1024,
+        "load_in_8bit": True,
+    },
 )
 
 
