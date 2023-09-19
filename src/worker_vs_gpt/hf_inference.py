@@ -67,11 +67,6 @@ prompt_2 = ChatPromptTemplate.from_messages([system_message, human_message])
 llm = HuggingFaceHub(
     repo_id=MODEL,
     task="text-generation",
-    model_kwargs={
-        "options": {"wait_for_model": True},
-        "temperature": 1.0,
-        "do_sample": True,
-    },
 )
 
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
