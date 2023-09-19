@@ -1,15 +1,13 @@
 import json
 import os
 from pathlib import Path
-from typing import Dict, Iterable, List, Union
+from typing import Dict, Iterable, List, Tuple, Union
 import torch
 import pandas as pd
 from numpy import random
 from worker_vs_gpt.config import TEN_DIM_DATA_DIR
 
 rng = random.RandomState(42)
-
-from worker_vs_gpt.prompting.langchain_prompting import DataTemplates
 
 from langchain.llms import HuggingFacePipeline
 from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
@@ -176,22 +174,33 @@ def get_pipeline(model_id: str, lora_wieghts_path: str) -> HuggingFacePipeline:
     return hf
 
 
+def few_shot_sampling(
+    df: pd.DataFrame, n: int, format: Tuple[str, str] = ("Text", "Answer")
+) -> str:
+    """Few shot samling helper function.
+
+    The samples are randomly selected from the training data.
+
+    Args:
+        df (pd.DataFrame): Training data to use for few-shot sampling.
+        n (int): Number of samples to generate.
+        format (Tuple[str, str], optional): Format of the samples in the prompt. Defaults to ("Text", "Answer").
+
+    Returns:
+        str: Generated samples.
+    """
+    if n == 0:
+        return ""
+
+    sample = df.sample(n=n)
+
+    # prepared samples
+    sample["formatted"] = sample.apply(
+        lambda x: f"{format[0]}: {x['text']}\n{format[1]}: {x['target']}", axis=1
+    )
+
+    return "\n".join(sample["formatted"].values)
+
+
 if __name__ == "__main__":
-    augmentation_templates = DataTemplates()
-
-    text = "h_text"  # text column (can be text or h_text)
-    dataset = pd.read_json(os.path.join(TEN_DIM_DATA_DIR, "base.json"))
-    augmentation_prompt = augmentation_templates.get_ten_dim_prompt()
-    label_to_description = {
-        "knowledge": "Exchange of ideas or information",
-        "power": "Having power over the behavior and outcomes of another",
-        "status": "Conferring status, appreciation, gratitude, or admiration upon another",
-        "trust": "Will of relying on the actions or judgments of another",
-        "social_support": "Giving emotional or practical aid and companionship",
-        "similarity_identity": "Shared interests, motivations, outlooks or Shared sense of belonging to the same community or group",
-        "fun": "Experiencing leisure, laughter, and joy",
-        "conflict": "Contrast or diverging views",
-        "neutral": "neutral communication",
-    }
-
-    balance_generation_df(dataset, n=5000)
+    pass
