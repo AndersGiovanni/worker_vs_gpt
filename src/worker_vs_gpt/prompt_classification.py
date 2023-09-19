@@ -41,7 +41,7 @@ from worker_vs_gpt.config import (
     PromptConfig,
 )
 
-from worker_vs_gpt.utils import LabelMatcher
+from worker_vs_gpt.utils import LabelMatcher, few_shot_sampling
 
 load_dotenv()
 
@@ -61,42 +61,52 @@ def main(cfg: PromptConfig) -> None:
         # read json
         text = "tweet"  # text column
         dataset = pd.read_json(os.path.join(HATE_SPEECH_DATA_DIR, "test.json"))
+        train = pd.read_json(os.path.join(HATE_SPEECH_DATA_DIR, "train.json"))
         classification_prompt = classification_templates.classify_hate_speech()
     elif cfg.dataset == "sentiment":
         text = "text"  # text column
         dataset = pd.read_json(os.path.join(SENTIMENT_DATA_DIR, "test.json"))
+        train = pd.read_json(os.path.join(SENTIMENT_DATA_DIR, "train.json"))
         classification_prompt = classification_templates.classify_sentiment()
     elif cfg.dataset == "ten-dim":
         text = "h_text"  # text column (can be text or h_text)
         dataset = pd.read_json(os.path.join(TEN_DIM_DATA_DIR, "test.json"))
+        train = pd.read_json(os.path.join(TEN_DIM_DATA_DIR, "train.json"))
         classification_prompt = classification_templates.classify_ten_dim()
     elif cfg.dataset == "crowdflower":
         text = "text"  # text column (can be text or h_text)
         dataset = pd.read_json(os.path.join(CROWDFLOWER_DATA_DIR, "test.json"))
+        train = pd.read_json(os.path.join(CROWDFLOWER_DATA_DIR, "train.json"))
         classification_prompt = classification_templates.classify_crowdflower()
     elif cfg.dataset == "same-side-pairs":
         text = "text"  # text column (can be text or h_text)
         dataset = pd.read_json(os.path.join(SAMESIDE_DATA_DIR, "test.json"))
+        train = pd.read_json(os.path.join(SAMESIDE_DATA_DIR, "train.json"))
         classification_prompt = classification_templates.classfify_same_side()
     elif cfg.dataset == "hayati_politeness":
         text = "text"  # text column (can be text or h_text)
         dataset = pd.read_json(os.path.join(POLITENESS_DATA_DIR, "test.json"))
+        train = pd.read_json(os.path.join(POLITENESS_DATA_DIR, "train.json"))
         classification_prompt = classification_templates.classfify_hayati()
     elif cfg.dataset == "hypo-l":
         text = "text"  # text column (can be text or h_text)
         dataset = pd.read_json(os.path.join(HYPO_DATA_DIR, "test.json"))
+        train = pd.read_json(os.path.join(HYPO_DATA_DIR, "train.json"))
         classification_prompt = classification_templates.classfify_hypo()
     elif cfg.dataset == "empathy#empathy_bin":
         text = "text"  # text column (can be text or h_text)
         dataset = pd.read_json(os.path.join(EMPATHY_DATA_DIR, "test.json"))
+        train = pd.read_json(os.path.join(EMPATHY_DATA_DIR, "train.json"))
         classification_prompt = classification_templates.classfify_empathy()
     elif cfg.dataset == "questionintimacy":
         text = "text"  # text column (can be text or h_text)
         dataset = pd.read_json(os.path.join(INTIMACY_DATA_DIR, "test.json"))
+        train = pd.read_json(os.path.join(INTIMACY_DATA_DIR, "train.json"))
         classification_prompt = classification_templates.classfify_intimacy()
     elif cfg.dataset == "talkdown-pairs":
         text = "text"  # text column (can be text or h_text)
         dataset = pd.read_json(os.path.join(TALKDOWN_DATA_DIR, "test.json"))
+        train = pd.read_json(os.path.join(TALKDOWN_DATA_DIR, "train.json"))
         classification_prompt = classification_templates.classify_talkdown()
     else:
         raise ValueError(f"Dataset not found: {cfg.dataset}")
@@ -119,7 +129,9 @@ def main(cfg: PromptConfig) -> None:
         llm = ChatOpenAI(model_name=cfg.model, temperature=0)
         llm_chain = LLMChain(prompt=classification_prompt, llm=llm)
 
-        output = llm_chain.run({"text": input_text})
+        few_shot_samples = few_shot_sampling(df=train, n=cfg.few_shot)
+
+        output = llm_chain.run({"few_shot": few_shot_samples, "text": input_text})
         pred = label_mathcer(output, input_text)
         pred2 = output
         y_pred.append(pred2)
@@ -135,13 +147,14 @@ def main(cfg: PromptConfig) -> None:
     wandb.init(
         project=cfg.wandb_project,
         entity=cfg.wandb_entity,
-        name=f"{cfg.model}-zero-shot",
+        name=f"{cfg.model}-{cfg.few_shot}-shot",
         group=f"{cfg.dataset}",
         tags=["prompt_classification"],
         config={
             "model": cfg.model,
             "dataset": cfg.dataset,
             "text_column": text,
+            "few_shot": cfg.few_shot,
         },
     )
 

@@ -68,6 +68,7 @@ class PromptConfig:
 
     model: str
     dataset: str
+    few_shot: int
     wandb_project: str
     wandb_entity: str
 
