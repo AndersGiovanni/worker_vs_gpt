@@ -1,3 +1,4 @@
+import os
 from langchain import LLMChain
 from langchain.chat_models import ChatOpenAI
 
@@ -10,6 +11,10 @@ from langchain.prompts import (
 )
 
 from dotenv import load_dotenv
+import pandas as pd
+
+from worker_vs_gpt.config import POLITENESS_DATA_DIR, SAMESIDE_DATA_DIR
+from worker_vs_gpt.utils import few_shot_sampling
 
 
 load_dotenv()
@@ -285,9 +290,9 @@ class ClassificationTemplates:
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=["text"],
+                input_variables=["few_shot", "text"],
                 template="""The following is a comment on a social media post. Classify whether the post is offensive (OFF) or not (NOT). Your answer must be one of ["OFF", "NOT"].
-
+{few_shot}
 Text: {text}
 
 Answer:
@@ -308,9 +313,9 @@ Answer:
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=["text"],
+                input_variables=["few_shot", "text"],
                 template="""Classify the following social media comment into either “negative”, “neutral” or “positive”. Your answer MUST be either one of ["negative", "neutral", "positive"]. Your answer must be lowercased.
-
+{few_shot}
 Text: {text}
 
 Answer:
@@ -333,10 +338,11 @@ Answer:
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
                 input_variables=[
+                    "few_shot",
                     "text",
                 ],
                 template="""Based on the following social media text, classify the social dimension of the text. You answer MUST only be one of the social dimensions. Your answer MUST be exactly one of ["social_support", "conflict", "trust", "neutral", "fun", "respect", "knowledge", "power", "similarity_identity"]. The answer must be lowercased.
-
+{few_shot}
 Text: {text}
 
 Answer:
@@ -359,10 +365,11 @@ Answer:
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
                 input_variables=[
+                    "few_shot",
                     "text",
                 ],
                 template="""Based on the following social media text, classify the emotion of the text. You answer MUST only be one of the emotions. Your answer MUST be exactly one of ['sadness', 'enthusiasm', 'empty', 'neutral', 'worry', 'love', 'fun', 'hate', 'happiness', 'relief', 'boredom', 'surprise', 'anger']. The answer must be lowercased.
-
+{few_shot}
 Text: {text}
 
 Answer:
@@ -370,19 +377,6 @@ Answer:
             )
         )
         return ChatPromptTemplate.from_messages([system_message, human_message])
-
-    def classify_analyse_tal(self) -> PromptTemplate:
-        input_template = """Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
-
-        ### Instruction:
-        "Classify the following danish sentence as either acknowledgement, appreciation or other. Give a one word answer"
-
-        ### Input:
-        {text}
-
-        ### Response:"""
-
-        return PromptTemplate(input_variables=["text"], template=input_template)
 
     def classfify_same_side(self) -> ChatPromptTemplate:
         system_message = SystemMessagePromptTemplate(
@@ -396,15 +390,18 @@ Answer:
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=["text"],
+                input_variables=[
+                    "few_shot",
+                    "text",
+                ],
                 template="""Based on the following text, classify the stance of the text. You answer MUST only be one of the stances. Your answer MUST be exactly one of ['not same side', 'same side']. The answer must be lowercased.
-
+{few_shot}
 Text: {text}
-
 Answer:
 """,
             )
         )
+
         return ChatPromptTemplate.from_messages([system_message, human_message])
 
     def classfify_hypo(self) -> ChatPromptTemplate:
@@ -419,9 +416,9 @@ Answer:
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=["text"],
+                input_variables=["few_shot", "text"],
                 template="""Based on the following text, classify the text is a hyperbole. You answer MUST only be one of the two labels. Your answer MUST be exactly one of ['hyperbole', 'not hyperbole']. The answer must be lowercased.
-
+{few_shot}
 Text: {text}
 
 Answer:
@@ -442,9 +439,9 @@ Answer:
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=["text"],
+                input_variables=["few_shot", "text"],
                 template="""Based on the following text, classify the politeness of the text. You answer MUST only be one of the two labels. Your answer MUST be exactly one of ['impolite', 'polite']. The answer must be lowercased.
-
+{few_shot}
 Text: {text}
 
 Answer:
@@ -465,9 +462,9 @@ Answer:
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=["text"],
+                input_variables=["few_shot", "text"],
                 template="""Based on the following text, classify whether the text expresses empathy or not. You answer MUST only be one of the two labels. Your answer MUST be exactly one of ['empathy', 'not empathy']. The answer must be lowercased.
-
+{few_shot}
 Text: {text}
 
 Answer:
@@ -488,9 +485,9 @@ Answer:
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=["text"],
+                input_variables=["few_shot", "text"],
                 template="""Based on the following text, classify how intimate the text is. You answer MUST only be one of the six labels. Your answer MUST be exactly one of ['Very-intimate', 'Intimate', 'Somewhat-intimate', 'Not-very-intimate', 'Not-intimate', 'Not-intimate-at-all'].
-
+{few_shot}
 Text: {text}
 
 Answer:
@@ -511,9 +508,9 @@ Answer:
 
         human_message = HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                input_variables=["text"],
+                input_variables=["few_shot", "text"],
                 template="""Based on the following text, classify if it is condescending. You answer MUST only be one of the two labels. Your answer MUST be exactly one of ['not condescension', 'condescension'].
-
+{few_shot}
 Text: {text}
 
 Answer:
@@ -526,42 +523,23 @@ Answer:
 if __name__ == "__main__":
     # ten_dim_template = DataTemplates().get_ten_dim_prompt()
 
-    classify_ten_dim = ClassificationTemplates().classify_hate_speech()
-
-    # print(
-    #     classify_ten_dim.format(
-    #         text="Happy 22nd Birthday to the cuddy Peyton Siva aka PEY PEY!! #FumatuBloodline #AllStar #GoLouisville"
-    #     )
-    # )
+    text = "text"  # text column (can be text or h_text)
+    test = pd.read_json(os.path.join(POLITENESS_DATA_DIR, "test.json"))
+    train = pd.read_json(os.path.join(POLITENESS_DATA_DIR, "train.json"))
+    classification_prompt = ClassificationTemplates().classfify_hayati()
 
     llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0)
 
-    llm_chain = LLMChain(prompt=classify_ten_dim, llm=llm)
+    llm_chain = LLMChain(prompt=classification_prompt, llm=llm, verbose=True)
 
-    social_dimension = "social support"
-    social_dimension_description = (
-        " Giving emotional or practical aid and companionship"
-    )
-    text = [
-        "Fucking h\u00f8jr\u00f8vet t\u00e5be. Det var da USA'S st\u00f8rste fejl at v\u00e6lge det fjols som president, hold k\u00e6ft en tegneserie figur",
-        "Sidst jeg k\u00f8bte en flaske af det lort var efter de begyndte at bruge stevia istedet for gode gammeldags kemikalier, s\u00e5 min gule saftevand smagte af lakrids og var derfor udrikkeligt.  Jeg k\u00f8ber aldrig mere Fun, n\u00e5r det skal v\u00e6re p\u00e5 den m\u00e5de.",
-    ]
+    for i in test[text]:
+        few_shot_samples = few_shot_sampling(train, 2)
 
-    for i in text:
-        # output = llm_chain.run(
-        #     {
-        #         "text": i,
-        #         "social_dimension": social_dimension,
-        #         "social_dimension_description": social_dimension_description,
-        #     }
-        # )
-        output = llm_chain.run(
-            {
-                "text": i,
-            }
-        )
-        print(f"Input: {i}")
-        print(f"Output: {output}")
+        output = llm_chain.run({"text": i, "few_shot": few_shot_samples})
+
+        # p = classification_prompt.format({"text": i, "few_shot": few_shot_samples})
+
+        print(output)
         print("-------")
 
     a = 1
