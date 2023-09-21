@@ -136,16 +136,16 @@ def main(cfg: PromptConfig) -> None:
         else:
             raise ValueError(f"Model not found: {cfg.model}")
 
-        llm_chain = LLMChain(prompt=classification_prompt, llm=llm, verbose=True)
+        llm_chain = LLMChain(prompt=classification_prompt, llm=llm, verbose=False)
 
         few_shot_samples = few_shot_sampling(df=train, n=cfg.few_shot)
 
         output = llm_chain.run({"few_shot": few_shot_samples, "text": input_text})
         pred = label_mathcer(output, input_text)
         pred2 = output
-        y_pred.append(pred2)
-        print(f"Output: {output}")
-        # print(f"Pred: {output}\nTrue: {y_true[idx]}")
+        y_pred.append(pred)
+        print(f"Pred: {pred}\nTrue: {y_true[idx]}")
+        print("-------------------")
         idx += 1
 
     # Compute metrics
