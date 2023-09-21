@@ -3,7 +3,7 @@ import os
 import time
 from typing import Callable, Dict, List, Tuple
 
-from langchain import PromptTemplate, LLMChain
+from langchain import PromptTemplate, LLMChain, HuggingFaceHub
 from langchain.llms import OpenAI
 from langchain.chat_models import ChatOpenAI
 
@@ -39,6 +39,7 @@ from worker_vs_gpt.config import (
     AugmentConfig,
     LORA_WEIGHTS_DIR,
     PromptConfig,
+    HF_HUB_MODELS,
 )
 
 from worker_vs_gpt.utils import LabelMatcher, few_shot_sampling
@@ -111,9 +112,6 @@ def main(cfg: PromptConfig) -> None:
     else:
         raise ValueError(f"Dataset not found: {cfg.dataset}")
 
-    llm = ChatOpenAI(model_name=cfg.model, temperature=0)
-    llm_chain = LLMChain(prompt=classification_prompt, llm=llm)
-
     # Predict
     y_pred = []
     idx = 0
@@ -126,15 +124,28 @@ def main(cfg: PromptConfig) -> None:
 
     for input_text in tqdm(dataset[text]):
         # Sometimes refresh the model
-        llm = ChatOpenAI(model_name=cfg.model, temperature=0)
-        llm_chain = LLMChain(prompt=classification_prompt, llm=llm)
+
+        if cfg.model == ["gpt-4"]:
+            llm = ChatOpenAI(model_name=cfg.model, temperature=0)
+        elif cfg.model in ["llama-2-70b", "llama-2-7b", "llama-2-13b"]:
+            llm = HuggingFaceHub(
+                repo_id=HF_HUB_MODELS[cfg.model],
+                task="text-generation",
+                model_kwargs={"temperature": 0.7, "do_sample": True},
+            )
+        else:
+            raise ValueError(f"Model not found: {cfg.model}")
+
+        llm_chain = LLMChain(prompt=classification_prompt, llm=llm, verbose=False)
 
         few_shot_samples = few_shot_sampling(df=train, n=cfg.few_shot)
 
         output = llm_chain.run({"few_shot": few_shot_samples, "text": input_text})
         pred = label_mathcer(output, input_text)
         pred2 = output
-        y_pred.append(pred2)
+        y_pred.append(pred)
+        print(f"Pred: {pred}\nTrue: {y_true[idx]}")
+        print("-------------------")
         idx += 1
 
     # Compute metrics

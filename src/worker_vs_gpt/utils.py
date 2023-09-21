@@ -77,6 +77,20 @@ class LabelMatcher:
                 print(f"Label not found: {label}, for text: {text}")
                 return "neutral"
 
+        if self.task in [
+            "ten-dim",
+            "hate-speech",
+            "sentiment",
+            "crowdflower",
+            "empathy#empathy_bin",
+            "hayati_politeness",
+            "hypo-l",
+            # "questionintimacy", TODO: This one has labels that start with upper-case :'(
+            "same-side-pairs",
+            "talkdown-pairs",
+        ]:
+            return label.lower().strip()
+
     def _assert_task(self):
         if self.task not in [
             "ten-dim",
