@@ -91,6 +91,9 @@ class LabelMatcher:
         ]:
             return label.lower().strip()
 
+        if self.task == "questionintimacy":
+            return label
+
     def _assert_task(self):
         if self.task not in [
             "ten-dim",

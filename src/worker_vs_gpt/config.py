@@ -43,6 +43,8 @@ LLAMA_CPP_DIR = MODELS_DIR / "llama_cpp"
 
 VICUNA_DIR = MODELS_DIR / "vicuna"
 
+LOGS_DIR = ROOT_DIR / "logs"
+
 
 @dataclass
 class TrainerConfig:

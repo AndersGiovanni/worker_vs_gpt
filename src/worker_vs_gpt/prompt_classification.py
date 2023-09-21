@@ -41,13 +41,22 @@ from worker_vs_gpt.config import (
     LORA_WEIGHTS_DIR,
     PromptConfig,
     HF_HUB_MODELS,
+    LOGS_DIR,
 )
 
 from worker_vs_gpt.utils import LabelMatcher, few_shot_sampling
 
 load_dotenv()
 
-logging.basicConfig(level=logging.INFO)
+
+def setup_logging(cfg):
+    for handler in logging.root.handlers[:]:
+        logging.root.removeHandler(handler)
+    logging.basicConfig(
+        filename=f"{str(LOGS_DIR)}/{cfg.dataset}_{cfg.model}_{cfg.few_shot}-shot.log",
+        level=logging.INFO,
+        format="%(asctime)s [%(levelname)s]: %(message)s",
+    )
 
 
 @hydra.main(
@@ -56,6 +65,8 @@ logging.basicConfig(level=logging.INFO)
     config_name="config_prompt_classification.yaml",
 )
 def main(cfg: PromptConfig) -> None:
+    setup_logging(cfg)
+
     classification_templates = ClassificationTemplates()
 
     # Load data and template
@@ -128,7 +139,7 @@ def main(cfg: PromptConfig) -> None:
     for input_text in tqdm(dataset[text]):
         # Sometimes refresh the model
 
-        if cfg.model == ["gpt-4"]:
+        if cfg.model == "gpt-4":
             llm = ChatOpenAI(model_name=cfg.model, temperature=0)
         elif cfg.model in ["llama-2-70b", "llama-2-7b", "llama-2-13b"]:
             llm = HuggingFaceHub(
@@ -147,8 +158,11 @@ def main(cfg: PromptConfig) -> None:
         pred = label_mathcer(output, input_text)
         pred2 = output
         y_pred.append(pred)
-        print(f"Pred: {pred}\nTrue: {y_true[idx]}")
-        print("-------------------")
+        logging.info(f"Input: {input_text}")
+        logging.info(f"Raw Prediction: {pred2}")
+        logging.info(f"Prediction: {pred}")
+        logging.info(f"True: {y_true[idx]}")
+        logging.info("---" * 10)
         idx += 1
 
     # Compute metrics
