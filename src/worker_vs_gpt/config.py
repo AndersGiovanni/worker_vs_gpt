@@ -101,3 +101,10 @@ class SetfitParams:
     sampling: str
     augmentation_model: str
     dataset: str
+
+
+HF_HUB_MODELS = {
+    "llama-2-70b": "meta-llama/Llama-2-70b-chat-hf",
+    "llama-2-13b": "meta-llama/Llama-2-13b-chat-hf",
+    "llama-2-7b": "meta-llama/Llama-2-7b-chat-hf",
+}

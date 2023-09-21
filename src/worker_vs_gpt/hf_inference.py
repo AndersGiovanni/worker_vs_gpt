@@ -1,7 +1,9 @@
 import json
+import os
 from langchain import HuggingFaceTextGenInference, HuggingFaceHub, LLMChain
 from langchain.prompts import PromptTemplate
 from dotenv import load_dotenv
+import pandas as pd
 import requests
 from langchain.prompts import (
     ChatPromptTemplate,
@@ -11,7 +13,9 @@ from langchain.prompts import (
     HumanMessagePromptTemplate,
 )
 
-MODEL = "meta-llama/Llama-2-70b-chat-hf"
+from worker_vs_gpt.config import EMPATHY_DATA_DIR, SAMESIDE_DATA_DIR
+
+MODEL = "meta-llama/Llama-2-7b-chat-hf"
 API_URL = f"https://api-inference.huggingface.co/models/{MODEL}"
 headers = {"Authorization": "Bearer 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"}
 
@@ -47,55 +51,51 @@ system_message = SystemMessagePromptTemplate(
     prompt=PromptTemplate(
         input_variables=[],
         template="""
-        You are the assistant of Anders Giovanni Møller, a PhD student at ITU. He is in the NERDS group. He is 28 years old. Answer very brief and like you're Anders.
-        He was born in Denmark, in the city of Ringsted. He got his BSc and MSc in data science at IT University of Copenhagen. He plays handball. You must only answer questions about Anders. 
+        You are an advanced classifying AI. You are tasked with classifying the whether the text expresses empathy.
         """,
     )
 )
 
 human_message = HumanMessagePromptTemplate(
     prompt=PromptTemplate(
-        input_variables=["text"],
-        template="""Question: {text}
+        input_variables=["few_shot", "text"],
+        template="""Based on the following text, classify whether the text expresses empathy or not. You answer MUST only be one of the two labels. Your answer MUST be exactly one of ['empathy', 'not empathy']. The answer must be lowercased.
+{few_shot}
+Text: {text}
 
-
-Answer: """,
+Answer:
+""",
     )
 )
-prompt_2 = ChatPromptTemplate.from_messages([system_message, human_message])
+prompt = ChatPromptTemplate.from_messages([system_message, human_message])
 
 llm = HuggingFaceHub(
     repo_id=MODEL,
     task="text-generation",
-    model_kwargs={
-        "options": {"wait_for_model": True},
-        "temperature": 1.0,
-        "do_sample": True,
-    },
 )
 
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 
 
 chain = LLMChain(
-    prompt=prompt_2,
+    prompt=prompt,
     llm=llm,
     verbose=True,
 )
 
+train = pd.read_json(os.path.join(EMPATHY_DATA_DIR, "train.json"))
 
-print(chain)
+from worker_vs_gpt.utils import few_shot_sampling
+
+few_shot_samples = few_shot_sampling(df=train, n=0)
+
+print(API_URL)
 
 print(
     chain.run(
         {
-            "text": "How old is Anders and where was he born?",
-        },
-        callbacks=[StreamingStdOutCallbackHandler()],
-    ),
-    chain.run(
-        {
-            "text": "What education does he have?",
+            "few_shot": few_shot_samples,
+            "text": "Poor sad polar bear! They need to move him now. If they are going to take polar bears and other animals out of their natural habitats, then they better make sure that the place they keep them in is at the right standard for those animals. They need to move that polar bear as soon as possible so that it has a chance at happiness.",
         },
         callbacks=[StreamingStdOutCallbackHandler()],
     ),
