@@ -2,6 +2,7 @@ import json
 import os
 import time
 from typing import Callable, Dict, List, Tuple
+import logging
 
 from langchain import PromptTemplate, LLMChain
 from langchain.llms import OpenAI
@@ -44,6 +45,8 @@ from worker_vs_gpt.config import (
 from worker_vs_gpt.utils import LabelMatcher, few_shot_sampling
 
 load_dotenv()
+
+logging.basicConfig(level=logging.INFO)
 
 
 @hydra.main(
