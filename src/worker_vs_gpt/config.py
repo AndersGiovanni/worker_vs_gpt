@@ -71,6 +71,7 @@ class PromptConfig:
     model: str
     dataset: str
     few_shot: int
+    per_class_sampling: bool
     wandb_project: str
     wandb_entity: str
 

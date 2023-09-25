@@ -53,7 +53,7 @@ def setup_logging(cfg):
     for handler in logging.root.handlers[:]:
         logging.root.removeHandler(handler)
     logging.basicConfig(
-        filename=f"{str(LOGS_DIR)}/{cfg.dataset}_{cfg.model}_{cfg.few_shot}-shot.log",
+        filename=f"{str(LOGS_DIR)}/{cfg.dataset}_{cfg.model}_{cfg.few_shot}-shot_per_class_sampling:{cfg.per_class_sampling}.log",
         level=logging.INFO,
         format="%(asctime)s [%(levelname)s]: %(message)s",
     )
@@ -152,7 +152,9 @@ def main(cfg: PromptConfig) -> None:
 
         llm_chain = LLMChain(prompt=classification_prompt, llm=llm, verbose=False)
 
-        few_shot_samples = few_shot_sampling(df=train, n=cfg.few_shot)
+        few_shot_samples = few_shot_sampling(
+            df=train, n=cfg.few_shot, per_class_sampling=cfg.per_class_sampling
+        )
 
         output = llm_chain.run({"few_shot": few_shot_samples, "text": input_text})
         pred = label_mathcer(output, input_text)
@@ -175,7 +177,7 @@ def main(cfg: PromptConfig) -> None:
     wandb.init(
         project=cfg.wandb_project,
         entity=cfg.wandb_entity,
-        name=f"{cfg.model}-{cfg.few_shot}-shot",
+        name=f"{cfg.model}-{cfg.few_shot}-shot-per_class_sampling:{cfg.per_class_sampling}",
         group=f"{cfg.dataset}",
         tags=["prompt_classification"],
         config={
@@ -183,6 +185,7 @@ def main(cfg: PromptConfig) -> None:
             "dataset": cfg.dataset,
             "text_column": text,
             "few_shot": cfg.few_shot,
+            "per_class_sampling": cfg.per_class_sampling,
         },
     )
 

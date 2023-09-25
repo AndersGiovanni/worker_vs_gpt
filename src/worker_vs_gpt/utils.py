@@ -192,7 +192,10 @@ def get_pipeline(model_id: str, lora_wieghts_path: str) -> HuggingFacePipeline:
 
 
 def few_shot_sampling(
-    df: pd.DataFrame, n: int, format: Tuple[str, str] = ("Text", "Answer")
+    df: pd.DataFrame,
+    n: int,
+    format: Tuple[str, str] = ("Text", "Answer"),
+    per_class_sampling: bool = True,
 ) -> str:
     """Few shot samling helper function.
 
@@ -202,6 +205,7 @@ def few_shot_sampling(
         df (pd.DataFrame): Training data to use for few-shot sampling.
         n (int): Number of samples to generate.
         format (Tuple[str, str], optional): Format of the samples in the prompt. Defaults to ("Text", "Answer").
+        per_class_sampling (bool, optional): Whether to sample per class (n-way k-shot) or not (k-shot). Defaults to True.
 
     Returns:
         str: Generated samples.
@@ -209,7 +213,12 @@ def few_shot_sampling(
     if n == 0:
         return ""
 
-    sample = df.sample(n=n)
+    if per_class_sampling:
+        sample = (
+            df.groupby("target").apply(lambda x: x.sample(n)).reset_index(drop=True)
+        )
+    else:
+        sample = df.sample(n)
 
     # prepared samples
     sample["formatted"] = sample.apply(
