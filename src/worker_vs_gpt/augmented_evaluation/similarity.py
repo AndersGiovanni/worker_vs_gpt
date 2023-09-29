@@ -9,6 +9,8 @@ import nltk
 import spacy
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
+from rouge import Rouge
+from sacrebleu.metrics import BLEU
 from tqdm import tqdm
 from utils import assert_path
 from utils import load_json
@@ -24,6 +26,8 @@ class SimilarityScorer:
     def __init__(self, spacy_model: str = "en_core_web_lg"):
         self.spacy_model = spacy.load(spacy_model)
         self.stop_words = set(stopwords.words("english"))
+        self.rouge_scorer = Rouge()
+        self.bleu_scorer = BLEU(effective_order=True)
 
     def spacy_embedding_similarity(self, text1: str, text2: str) -> float:
         """
@@ -59,3 +63,26 @@ class SimilarityScorer:
             "new_words_in_str1": list(new_words1),
             "new_words_in_str2": list(new_words2),
         }
+
+    def bleu_score(self, hypothesis: str, reference: str) -> float:
+        """
+        Calculates the BLEU score between two strings.
+        """
+
+        score = self.bleu_scorer.sentence_score(
+            hypothesis=hypothesis,
+            references=[reference],
+        )
+
+        return score.score / 100  # sacreBLEU gives the score in percent
+
+    def rouge_score(self, hypothesis: str, reference: str) -> float:
+        score = self.rouge_scorer.get_scores(
+            hyps=hypothesis,
+            refs=reference,
+        )
+        return score[0]["rouge-l"]["f"]
+
+
+if __name__ == "__main__":
+    pass
