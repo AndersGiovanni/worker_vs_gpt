@@ -68,7 +68,6 @@ class SimilarityScorer:
         """
         Calculates the BLEU score between two strings.
         """
-
         score = self.bleu_scorer.sentence_score(
             hypothesis=hypothesis,
             references=[reference],
@@ -77,6 +76,9 @@ class SimilarityScorer:
         return score.score / 100  # sacreBLEU gives the score in percent
 
     def rouge_score(self, hypothesis: str, reference: str) -> float:
+        """
+        Calculates the ROUGE score between two strings.
+        """
         score = self.rouge_scorer.get_scores(
             hyps=hypothesis,
             refs=reference,
