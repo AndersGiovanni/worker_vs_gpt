@@ -201,6 +201,7 @@ def main(cfg: AugmentConfig) -> None:
                     logging.info(f"Error with text: {input_text}")
                     logging.info("-------")
                     continue
+                has_output = True
 
         augmented_text = parse_llama_output(input_string=output)
         pl = pd.DataFrame(augmented_text, columns=[f"augmented_{text}"])
