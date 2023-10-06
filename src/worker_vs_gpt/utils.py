@@ -1,6 +1,7 @@
 import json
 import os
 from pathlib import Path
+import re
 from typing import Dict, Iterable, List, Tuple, Union
 import torch
 import pandas as pd
@@ -89,10 +90,30 @@ class LabelMatcher:
             "same-side-pairs",
             "talkdown-pairs",
         ]:
-            return label.lower().strip()
+            return re.sub(r"[^a-zA-Z ]+", "", label.lower().strip())
 
         if self.task == "questionintimacy":
             return label
+
+    def label_check(self, label: str) -> str:
+        label_matches: List[str] = []
+
+        # label = re.sub(r"[^a-zA-Z]+", "", label.lower().strip())
+
+        for true_label in self.labels:
+            # Check if we can find the true label in the prediction
+            pattern = r"\b{}\b".format(true_label)
+            if re.search(pattern, label, re.IGNORECASE):
+                label_matches.append(true_label)
+
+        if len(label_matches) == 0:
+            return f"Label: {label} doesn't match any true labels."
+
+        elif len(label_matches) == 1:
+            return label_matches[0]
+
+        else:
+            return f"Label: {label} matches multiple true labels: {label_matches}"
 
     def _assert_task(self):
         if self.task not in [
@@ -120,6 +141,11 @@ def parse_output(input_string: str) -> List[str]:
         if item:  # skip empty items
             output_list.append(item)
     return output_list
+
+
+def parse_llama_output(input_string: str) -> List[str]:
+    # Use regex to find all occurrences of pattern "<number>."
+    return re.findall(r"\d+\.\s*(.*?)(?:\n|$)", input_string)
 
 
 def balanced_sample_df(df: pd.DataFrame, n: int) -> pd.DataFrame:
