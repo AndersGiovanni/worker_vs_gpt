@@ -20,4 +20,6 @@ poetry shell
 
 # poetry install
 
-python -W ignore -m src.worker_vs_gpt.prompt_augmentation_hf
+input_arg="$1"  # Capture the first command line argument
+
+python -W ignore -m src.worker_vs_gpt.prompt_augmentation_hf "$input_arg"
