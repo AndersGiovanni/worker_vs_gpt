@@ -12,6 +12,7 @@ from langchain.chat_models import ChatOpenAI
 from huggingface_hub import InferenceClient
 from dotenv import load_dotenv
 import pandas as pd
+import sys
 
 from tqdm import tqdm
 
@@ -80,6 +81,9 @@ def setup_logging(cfg):
 )
 def main(cfg: AugmentConfig) -> None:
     setup_logging(cfg)
+
+    if len(sys.argv) > 1:
+        os.environ["HUGGINGFACEHUB_API_TOKEN"] = sys.argv[1]
 
     # Load data and template
     if cfg.dataset == "analyse-tal":
