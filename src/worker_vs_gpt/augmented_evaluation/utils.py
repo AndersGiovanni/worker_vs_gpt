@@ -5,7 +5,7 @@ from typing import Dict
 
 def load_json(filename: str, verbose: bool = True) -> Dict:
     if verbose:
-        print(f"Loading {filename}...")
+        print(f"Loading {filename}")
     with open(filename, "r") as infile:
         data = json.load(infile)
     return data
@@ -13,7 +13,7 @@ def load_json(filename: str, verbose: bool = True) -> Dict:
 
 def save_json(data: Dict, filename: str, verbose: bool = True) -> None:
     if verbose:
-        print(f"Saving {filename}...")
+        print(f"Saving {filename}")
     with open(filename, "w") as outfile:
         json.dump(data, outfile, indent=4)
 
