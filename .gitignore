@@ -22,3 +22,4 @@ __pycache__/
 /data/analyse-tal/
 /visuals/
 models_results/
+/logs/
