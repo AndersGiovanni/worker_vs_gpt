@@ -1,3 +1,3 @@
-model: gpt-4 # can be gpt-3.5-turbo or gpt-4, alpaca or vicuna
-dataset: crowdflower # can be hate-speech, sentiment, ten-dim, analyse-tal
+model: llama-2-70b # can be gpt-4 or llama-2-70b
+dataset: hate-speech # can be hate-speech, sentiment, ten-dim, analyse-tal
 sampling: balanced # can be proportional or balanced
