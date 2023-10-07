@@ -1,5 +1,6 @@
 # https://stackoverflow.com/questions/65199011/is-there-a-way-to-check-similarity-between-two-full-sentences-in-python
 
+import datetime
 import os
 from dataclasses import dataclass
 from typing import Dict
@@ -171,13 +172,23 @@ def calculate_metrics(dataset_name: str = "crowdflower") -> None:
         print(f"!!! Skipping {dataset_name} as the file already exists.")
         return
 
+    text: str = "h_text" if dataset_name == "ten-dim" else "text"
+    augmented_text: str = (
+        "augmented_h_text" if dataset_name == "ten-dim" else "augmented_text"
+    )
+
     data: Dict = load_json(filename, verbose=False)
 
     print(f"# Calculating metrics for {dataset_name}")
-    for text_entry in data:
+    for i, text_entry in enumerate(data):
+        if i % 100 == 0:
+            print(
+                f"## {dataset_name} - {i} / {len(data)} @ {datetime.datetime.now().strftime('%H:%M:%S')}"
+            )
+
         tp: TextPair = TextPair(
-            original=text_entry["text"],
-            augmented=text_entry["augmented_text"],
+            original=text_entry[text],
+            augmented=text_entry[augmented_text],
             target=text_entry["target"],
             scorer=SS,
             transformer_scorer=TS,
@@ -202,7 +213,11 @@ if __name__ == "__main__":
     import multiprocessing
     import os
 
-    datasets: List[str] = [dataset for dataset in os.listdir("../../../data/")]
+    datasets: List[str] = [
+        dataset
+        for dataset in os.listdir("../../../data/")
+        if dataset not in [".DS_Store", "similarity_results", "hate-speech"]
+    ]
 
     pool = multiprocessing.Pool(processes=4)
     # Use the pool to run the function in parallel with different parameters
