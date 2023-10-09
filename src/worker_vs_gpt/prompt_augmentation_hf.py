@@ -199,6 +199,8 @@ def main(cfg: AugmentConfig) -> None:
                         max_new_tokens=2048,
                         temperature=temperature,
                         repetition_penalty=1.2,
+                        return_full_text=False,
+                        truncate=4096,
                     )
                 except Exception as e:
                     logging.info(e)

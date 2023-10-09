@@ -101,7 +101,9 @@ class Socket_Dataset(DataClassWorkerVsGPT):
         elif task == "hayati_politeness":
             pattern = r"\(.*polite.*\)$"
             return re.sub(pattern, "", text, flags=re.IGNORECASE).strip()
-
+        elif task == "ten-dim":
+            pattern = r"\(.*\)$"
+            return re.sub(pattern, "", text, flags=re.IGNORECASE).strip()
         else:
             return text
 
