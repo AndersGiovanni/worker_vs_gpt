@@ -179,27 +179,41 @@ def main(cfg: PromptConfig) -> None:
     for input_text in tqdm(dataset[text]):
         # Sometimes refresh the model
 
+        has_output: bool = False
+
         few_shot_samples = few_shot_sampling(
             df=train, n=cfg.few_shot, per_class_sampling=cfg.per_class_sampling
         )
 
-        if cfg.model == "gpt-4":
-            llm = ChatOpenAI(model_name=cfg.model, temperature=0)
-            llm_chain = LLMChain(prompt=classification_prompt, llm=llm, verbose=False)
+        while not has_output:
+            if cfg.model == "gpt-4":
+                llm = ChatOpenAI(model_name=cfg.model, temperature=0)
+                llm_chain = LLMChain(
+                    prompt=classification_prompt, llm=llm, verbose=False
+                )
 
-            output = llm_chain.run({"few_shot": few_shot_samples, "text": input_text})
-        else:
-            output = llm.text_generation(
-                template.format(
-                    few_shot=few_shot_samples,
-                    text=input_text,
-                ),
-                max_new_tokens=25,
-                temperature=0.001,
-                # do_sample=True,
-                # stop_sequences=["\n"],
-                repetition_penalty=1.2,
-            )
+                output = llm_chain.run(
+                    {"few_shot": few_shot_samples, "text": input_text}
+                )
+            else:
+                try:
+                    output = llm.text_generation(
+                        template.format(
+                            few_shot=few_shot_samples,
+                            text=input_text,
+                        ),
+                        max_new_tokens=25,
+                        temperature=0.001,
+                        # do_sample=True,
+                        # stop_sequences=["\n"],
+                        repetition_penalty=1.2,
+                    )
+                except Exception as e:
+                    logging.info(f'Error with input text: "{input_text}"')
+                    logging.error(e)
+                    time.sleep(5)
+                    continue
+                has_output = True
 
         pred = label_mathcer(output, input_text)
         pred_matches = label_mathcer.label_check(output)
@@ -212,6 +226,8 @@ def main(cfg: PromptConfig) -> None:
         logging.info(f"True: {y_true[idx]}")
         logging.info("---" * 10)
         idx += 1
+
+        has_output = False
 
     # Compute metrics
     accuracy = accuracy_score(y_true, y_pred)
