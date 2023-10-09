@@ -215,7 +215,7 @@ def main(cfg: PromptConfig) -> None:
 
     # Compute metrics
     accuracy = accuracy_score(y_true, y_pred)
-    f1 = f1_score(y_true, y_pred, average="macro")
+    f1 = f1_score(y_true, y_pred, average="macro", labels=labels)
     # roc_auc = roc_auc_score(y_true, y_probs, average="macro")
     report = classification_report(
         y_true=y_true, y_pred=y_pred, output_dict=True, labels=labels
