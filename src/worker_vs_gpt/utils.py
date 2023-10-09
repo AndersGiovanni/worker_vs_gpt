@@ -96,24 +96,14 @@ class LabelMatcher:
             return label
 
     def label_check(self, label: str) -> str:
-        label_matches: List[str] = []
-
-        # label = re.sub(r"[^a-zA-Z]+", "", label.lower().strip())
-
-        for true_label in self.labels:
+        # sort by length of label to avoid matching substrings
+        for true_label in sorted(self.labels, key=len, reverse=True):
             # Check if we can find the true label in the prediction
             pattern = r"\b{}\b".format(true_label)
             if re.search(pattern, label, re.IGNORECASE):
-                label_matches.append(true_label)
+                return true_label
 
-        if len(label_matches) == 0:
-            return f"Label: {label} doesn't match any true labels."
-
-        elif len(label_matches) == 1:
-            return label_matches[0]
-
-        else:
-            return f"Label: {label} matches multiple true labels: {label_matches}"
+        return f"Label: {label} doesn't match any true labels."
 
     def _assert_task(self):
         if self.task not in [
