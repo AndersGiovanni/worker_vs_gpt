@@ -207,6 +207,7 @@ def main(cfg: PromptConfig) -> None:
                         # do_sample=True,
                         # stop_sequences=["\n"],
                         repetition_penalty=1.2,
+                        truncate=4096,
                     )
                 except Exception as e:
                     logging.info(f'Error with input text: "{input_text}"')
