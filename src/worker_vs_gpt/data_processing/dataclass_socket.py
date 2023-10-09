@@ -1,3 +1,4 @@
+import re
 from typing import List
 
 import datasets
@@ -42,6 +43,16 @@ class Socket_Dataset(DataClassWorkerVsGPT):
         else:
             text_column = "text"
 
+        # Apply task-specific processing. This is to for some of the augmented data that appends the label to the end of the text.
+        if self.is_augmented:
+            self.data = self.data.map(
+                lambda x: {
+                    text_column: self.task_specific_processing(
+                        x[text_column], self.task
+                    )
+                },
+            )
+
         self.data = self.data.map(
             lambda x: tokenizer(x[text_column], truncation=True, padding=True),
             batched=True,
@@ -77,6 +88,22 @@ class Socket_Dataset(DataClassWorkerVsGPT):
         with open(DATA_DIR / f"{self.task}/data/label_list.txt", "r") as f:
             labels = [line.strip() for line in f.readlines()]
         return labels
+
+    def task_specific_processing(self, text: str, task: str) -> str:
+        """Perform task-specific processing of data."""
+
+        if task == "hypo-l":
+            pattern = r"\(.*hyperbo.*\)$"
+            return re.sub(pattern, "", text, flags=re.IGNORECASE).strip()
+        elif task == "empathy#empathy_bin":
+            pattern = r"\(.*empath.*\)$"
+            return re.sub(pattern, "", text, flags=re.IGNORECASE).strip()
+        elif task == "hayati_politeness":
+            pattern = r"\(.*polite.*\)$"
+            return re.sub(pattern, "", text, flags=re.IGNORECASE).strip()
+
+        else:
+            return text
 
 
 if __name__ == "__main__":
