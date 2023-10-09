@@ -89,5 +89,5 @@ TalkdownPairsConfig = DatasetConfig(
     augmentation_system_prompt="You are an advanced AI writer. Your job is to help write examples of social media comments that convey condescendence or not.",
     augmentation_task_prompt="""The following social media text has a {label} flag for showing condescendence, write 9 new semantically similar examples in the style of a social media comment, that show the same intent and condescendence flag.""",
     classification_system_prompt="You are an advanced classifying AI. You are tasked with classifying if the text is condescending or not condescending.",
-    classification_task_prompt="Based on the following text, classify the stance of the text. You answer MUST only be one of the stances. Your answer MUST be exactly one of ['not same side', 'same side']. The answer must be lowercased.",
+    classification_task_prompt="Based on the following text, classify if it is condescending. You answer MUST only be one of the two labels. Your answer MUST be exactly one of ['not condescension', 'condescension'].",
 )
