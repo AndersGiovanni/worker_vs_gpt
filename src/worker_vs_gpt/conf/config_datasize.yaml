@@ -1,6 +1,6 @@
 ckpt: intfloat/e5-base
-dataset: hypo-l # can be 'hate-speech', 'sentiment', 'ten-dim' - And the following only with 'use_augmented_data: False': 'crowdflower', 'emphathy#empathy_bin', 'hayati_politeness', 'hypo-l', 'questionintimacy', 'same-side-pairs', 'talkdown-pairs'
-use_augmented_data: False # can be True or False
+dataset: talkdown-pairs # can be 'hate-speech', 'sentiment', 'ten-dim' - And the following only with 'use_augmented_data: False': 'crowdflower', 'emphathy#empathy_bin', 'hayati_politeness', 'hypo-l', 'questionintimacy', 'same-side-pairs', 'talkdown-pairs'
+use_augmented_data: True # can be True or False
 sampling: balanced # can be 'balanced'
 augmentation_model: llama-2-70b # can be 'gpt-4' and 'llama-2-70b'
 wandb_project: crowdsourced_vs_gpt_datasize_v2
