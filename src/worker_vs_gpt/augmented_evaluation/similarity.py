@@ -3,6 +3,7 @@
 import datetime
 import os
 from dataclasses import dataclass
+from pathlib import Path
 from typing import Dict
 from typing import List
 
@@ -18,6 +19,7 @@ from sentence_transformers import util as sentence_transformer_util
 from utils import assert_path
 from utils import load_json
 from utils import save_json
+from worker_vs_gpt.config import DATA_DIR
 
 
 # nltk.download("punkt")
@@ -29,7 +31,7 @@ class TransformerSimilarity:
     def __init__(
         self, sentence_transformer_model_name: str = "intfloat/e5-base"
     ) -> None:
-        self.device = torch.device("mps" if torch.has_mps else "cpu")
+        self.device = torch.device("mps" if torch.backends.mps.is_built() else "cpu")
         self.sentence_transformer_model = self.model = SentenceTransformer(
             sentence_transformer_model_name
         ).to(self.device)
@@ -54,9 +56,9 @@ class TransformerSimilarity:
 class SimilarityScorer:
     def __init__(
         self,
-        spacy_model_name: str = "en_core_web_lg",
+        # spacy_model_name: str = "en_core_web_lg",
     ):
-        self.spacy_model = spacy.load(spacy_model_name)
+        # self.spacy_model = spacy.load(spacy_model_name)
         self.stop_words = set(stopwords.words("english"))
         self.rouge_scorer = Rouge()
         self.bleu_scorer = BLEU(effective_order=True)
@@ -66,9 +68,10 @@ class SimilarityScorer:
         Calculates the similarity between two texts using spacy's word embeddings.
         Similarity is the same whether text1 or text2 is the original text.
         """
-        doc_text1 = self.spacy_model(text1)
-        doc_text2 = self.spacy_model(text2)
-        return doc_text1.similarity(doc_text2)
+        # doc_text1 = self.spacy_model(text1)
+        # doc_text2 = self.spacy_model(text2)
+        # return doc_text1.similarity(doc_text2)
+        pass
 
     def vocab_overlap(self, original: str, augmented: str) -> Dict:
         # Tokenize the input strings
@@ -126,13 +129,13 @@ class TextPair:
     scorer: SimilarityScorer
     transformer_scorer: TransformerSimilarity
 
-    @property
-    def spacy_cosine_similarity(self) -> float:
-        """
-        Calculates the similarity between two texts using spacy's word embeddings.
-        Similarity is the same whether text1 or text2 is the original text.
-        """
-        return self.scorer.spacy_cosine_similarity(self.original, self.augmented)
+    # @property
+    # def spacy_cosine_similarity(self) -> float:
+    #     """
+    #     Calculates the similarity between two texts using spacy's word embeddings.
+    #     Similarity is the same whether text1 or text2 is the original text.
+    #     """
+    #     return self.scorer.spacy_cosine_similarity(self.original, self.augmented)
 
     @property
     def vocab_overlap(self) -> Dict:
@@ -153,7 +156,9 @@ class TextPair:
         )
 
 
-def calculate_metrics(dataset_name: str = "crowdflower") -> None:
+def calculate_metrics(
+    dataset_name: str = "crowdflower", model: str = "llama-2-70b"
+) -> None:
     print(f"Started process for dataset: {dataset_name}")
 
     SS = SimilarityScorer()
@@ -165,10 +170,10 @@ def calculate_metrics(dataset_name: str = "crowdflower") -> None:
     results: List[Dict] = []
 
     # open the data
-    filename: str = f"../../../data/{dataset_name}/balanced_gpt-4_augmented.json"
+    filename: Path = DATA_DIR / f"{dataset_name}/balanced_{model}_augmented.json"
 
     # skip if the file already exists
-    if os.path.exists(f"results/{dataset_name}/similarity.json"):
+    if os.path.exists(f"results/{dataset_name}/{model}_similarity.json"):
         print(f"!!! Skipping {dataset_name} as the file already exists.")
         return
 
@@ -195,7 +200,7 @@ def calculate_metrics(dataset_name: str = "crowdflower") -> None:
         )
 
         metrics = {
-            "spacy_cosine_similarity": tp.spacy_cosine_similarity,
+            # "spacy_cosine_similarity": tp.spacy_cosine_similarity,
             "bleu_score": tp.bleu_score,
             "rouge_score": tp.rouge_score,
             "transformer_similarity": tp.transformer_similarity,
@@ -205,7 +210,7 @@ def calculate_metrics(dataset_name: str = "crowdflower") -> None:
         text_entry["metrics"] = metrics
         results.append(text_entry)
 
-    save_json(results, f"results/{dataset_name}/similarity.json")
+    save_json(results, f"results/{dataset_name}/{model}_similarity.json")
     return
 
 
@@ -215,11 +220,11 @@ if __name__ == "__main__":
 
     datasets: List[str] = [
         dataset
-        for dataset in os.listdir("../../../data/")
+        for dataset in os.listdir(DATA_DIR)
         if dataset not in [".DS_Store", "similarity_results", "hate-speech"]
     ]
 
-    pool = multiprocessing.Pool(processes=4)
+    pool = multiprocessing.Pool(processes=10)
     # Use the pool to run the function in parallel with different parameters
     pool.map(calculate_metrics, datasets)
 
