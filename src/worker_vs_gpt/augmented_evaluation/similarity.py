@@ -59,7 +59,7 @@ class SimilarityScorer:
         # spacy_model_name: str = "en_core_web_lg",
     ):
         # self.spacy_model = spacy.load(spacy_model_name)
-        self.stop_words = set(stopwords.words("english"))
+        self.stop_words = set(stopwords.words("danish"))
         self.rouge_scorer = Rouge()
         self.bleu_scorer = BLEU(effective_order=True)
 
@@ -156,9 +156,7 @@ class TextPair:
         )
 
 
-def calculate_metrics(
-    dataset_name: str = "crowdflower", model: str = "llama-2-70b"
-) -> None:
+def calculate_metrics(dataset_name: str = "crowdflower", model: str = "gpt-4") -> None:
     print(f"Started process for dataset: {dataset_name}")
 
     SS = SimilarityScorer()
@@ -178,8 +176,9 @@ def calculate_metrics(
         return
 
     text: str = "h_text" if dataset_name == "ten-dim" else "text"
+    text: str = "tweet" if dataset_name == "hate-speech" else "text"
     augmented_text: str = (
-        "augmented_h_text" if dataset_name == "ten-dim" else "augmented_text"
+        "augmented_tweet" if dataset_name == "hate-speech" else "augmented_text"
     )
 
     data: Dict = load_json(filename, verbose=False)
@@ -221,10 +220,11 @@ if __name__ == "__main__":
     datasets: List[str] = [
         dataset
         for dataset in os.listdir(DATA_DIR)
-        if dataset not in [".DS_Store", "similarity_results", "hate-speech"]
+        # if dataset not in [".DS_Store", "similarity_results", "hate-speech"]
+        if dataset in ["hate-speech"]
     ]
 
-    pool = multiprocessing.Pool(processes=10)
+    pool = multiprocessing.Pool(processes=1)
     # Use the pool to run the function in parallel with different parameters
     pool.map(calculate_metrics, datasets)
 
