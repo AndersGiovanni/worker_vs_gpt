@@ -23,3 +23,6 @@ __pycache__/
 /visuals/
 models_results/
 /logs/
+.DS_Store
+src/worker_vs_gpt/evaluation/assets
+src/worker_vs_gpt/evaluation/results
