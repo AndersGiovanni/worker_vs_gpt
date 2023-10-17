@@ -11,9 +11,15 @@
     "**/.hg/store/**": true,
     "**/.venv/**": true
   },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": true
+  },
   "python.linting.enabled": false,
   "python.linting.pylintEnabled": true,
-  "python.linting.flake8Args": ["--max-line-length=120"],
+  "python.linting.flake8Args": [
+    "--max-line-length=120"
+  ],
   "python.analysis.typeCheckingMode": "basic",
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter"
