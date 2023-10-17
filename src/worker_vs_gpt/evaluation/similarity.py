@@ -15,11 +15,11 @@ from rouge import Rouge
 from sacrebleu.metrics import BLEU
 from sentence_transformers import SentenceTransformer
 from sentence_transformers import util as sentence_transformer_util
-from utils import assert_path
-from utils import read_json
-from utils import save_json
 
-from worker_vs_gpt.config import DATA_DIR
+from src.worker_vs_gpt.config import DATA_DIR
+from src.worker_vs_gpt.utils import assert_path
+from src.worker_vs_gpt.utils import read_json
+from src.worker_vs_gpt.utils import save_json
 
 
 class TransformerSimilarity:

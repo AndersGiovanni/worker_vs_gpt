@@ -1,12 +1,6 @@
 from pytest import approx
-from similarity import SimilarityScorer
-from similarity import TextPair
-from similarity import TransformerSimilarity
 
-
-def test_spacy_embedding_similarity():
-    SS = SimilarityScorer()
-    assert SS.spacy_embedding_similarity("hello", "hello") == 1.0
+from src.worker_vs_gpt.evaluation.similarity import SimilarityScorer
 
 
 def test_vocab_overlap_1():

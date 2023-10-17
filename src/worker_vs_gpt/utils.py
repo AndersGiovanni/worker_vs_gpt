@@ -1,13 +1,12 @@
 import json
 import os
 import re
-from pathlib import Dict
-from pathlib import Iterable
-from pathlib import List
 from pathlib import Path
-from pathlib import Tuple
-from pathlib import Union
 from typing import Dict
+from typing import Iterable
+from typing import List
+from typing import Tuple
+from typing import Union
 
 import pandas as pd
 import torch
