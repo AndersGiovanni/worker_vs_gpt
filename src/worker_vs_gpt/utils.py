@@ -1,18 +1,45 @@
 import json
 import os
-from pathlib import Path
 import re
-from typing import Dict, Iterable, List, Tuple, Union
-import torch
+from pathlib import Dict
+from pathlib import Iterable
+from pathlib import List
+from pathlib import Path
+from pathlib import Tuple
+from pathlib import Union
+from typing import Dict
+
 import pandas as pd
+import torch
+from langchain.llms import HuggingFacePipeline
 from numpy import random
+from peft import PeftModelForCausalLM
+from transformers import AutoModelForCausalLM
+from transformers import AutoTokenizer
+from transformers import pipeline
+
 from worker_vs_gpt.config import TEN_DIM_DATA_DIR
+
 
 rng = random.RandomState(42)
 
-from langchain.llms import HuggingFacePipeline
-from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
-from peft import PeftModelForCausalLM
+
+def create_path(path: str) -> None:
+    """
+    Creates a path if it doesn't exist.
+    """
+    if not os.path.exists(path):
+        os.makedirs(path)
+
+
+def assert_path(path: str, build_path_on_break: bool = True) -> None:
+    """
+    Asserts that a path exists.
+    """
+    if build_path_on_break:
+        create_path(path)
+
+    assert os.path.exists(path), f"Path {path} does not exist."
 
 
 def get_device() -> torch.device:
