@@ -1,12 +1,14 @@
 import os
 import time
 from dataclasses import dataclass
-from typing import Dict, List
+from typing import Dict
+from typing import List
 
 from dotenv import load_dotenv
 from huggingface_hub import InferenceClient
 from huggingface_hub.inference._text_generation import OverloadedError
 from transformers import AutoTokenizer
+
 
 load_dotenv(".env.example", verbose=True, override=True)
 
@@ -23,6 +25,8 @@ class Llama:
     tokenizer = AutoTokenizer.from_pretrained(huggingface_model_name)
 
     def __post_init__(self):
+        # Fixing the annoying "Using sep_token, but it is not set yet."
+        self.tokenizer.verbose = False
         self.tokenizer.use_default_system_prompt = False
 
     def generate(
