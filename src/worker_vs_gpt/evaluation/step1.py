@@ -1,18 +1,13 @@
 import os
 from collections import defaultdict
-from dataclasses import dataclass
-from dataclasses import field
+from dataclasses import dataclass, field
 from datetime import datetime
 from pathlib import Path
-from typing import Dict
-from typing import List
+from typing import Dict, List
 
 from tqdm import tqdm
-
 from worker_vs_gpt.evaluation.models import Llama
-from worker_vs_gpt.utils import read_json
-from worker_vs_gpt.utils import save_json
-
+from worker_vs_gpt.utils import read_json, save_json
 
 llama: Llama = Llama(huggingface_model_name="meta-llama/Llama-2-7b-chat-hf")
 
@@ -105,13 +100,12 @@ def run_step_1(DATASET: str = "ten-dim") -> None:
     data: List[Dict[str, str]] = read_json(
         Path(f"data/{DATASET}/balanced_gpt-4_augmented_full.json")
     )
-    results: List[Dict[str, str]] = []
 
     target_split: Dict[str, List[Dict[str, str]]] = split_data_based_on_label(data)
 
-    # save each target split to a file
-
     for target_label, target_subset in target_split.items():
+        results: List[Dict[str, str]] = []
+
         # save the data subset to a file
         save_json(
             path=Path(
@@ -121,8 +115,10 @@ def run_step_1(DATASET: str = "ten-dim") -> None:
         )
 
         # iterate over the data subset
-        for src_content in tqdm(target_subset, desc=f"Target label: {target_label}"):
-            for aug_content in target_subset:
+        for src_content in tqdm(
+            target_subset[:20], desc=f"Target label: {target_label}"
+        ):
+            for aug_content in target_subset[:20]:
                 # Create a textpair. This will also generate the promt__output and promt__augmented_comes_from_original
                 TP: TextPair = TextPair(
                     dataset=DATASET,
@@ -156,47 +152,38 @@ def evaluate_step_1():
         results: List[Dict[str, str]] = read_json(
             Path(f"src/worker_vs_gpt/evaluation/results/ten-dim/{f_}")
         )
-        print(f"Results for {f_}")
-        aug_from_original: List[TextPair] = [
-            TextPair(**r) for r in results if r["augmented_comes_from_original"]
-        ]
-        aug_not_from_original: List[TextPair] = [
-            TextPair(**r) for r in results if not r["augmented_comes_from_original"]
-        ]
+        print(f"{f_}")
 
-        # Count TP,FP,TN,FN
-        TP: int = len(
-            [r for r in aug_from_original if r.promt__augmented_comes_from_original]
-        )
-        FP: int = len(
-            [r for r in aug_from_original if not r.promt__augmented_comes_from_original]
-        )
-        TN: int = len(
-            [
-                r
-                for r in aug_not_from_original
-                if not r.promt__augmented_comes_from_original
-            ]
-        )
-        FN: int = len(
-            [r for r in aug_not_from_original if r.promt__augmented_comes_from_original]
-        )
+        # All the entries should express the given label. Therefore the metric
+        # is simply how many actually express the given label according to the
+        # model.
 
-        # Calculate the metrics
-        accuracy: float = (TP + TN) / (TP + FP + TN + FN)
-        precision: float = TP / (TP + FP)
-        recall: float = TP / (TP + FN)
-        f1: float = 2 * (precision * recall) / (precision + recall)
+        # The model is a binary classifier and all should be positive,
+        # so we can simply count the number
+        # of true positives and False negative
+        TP, FN = 0, 0
 
-        print(f"\tTP: {TP}")
-        print(f"\tFP: {FP}")
-        print(f"\tTN: {TN}")
-        print(f"\tFN: {FN}")
-        print(f"\tAccuracy: {accuracy:.2f}")
-        print(f"\tPrecision: {precision:.2f}")
-        print(f"\tRecall: {recall:.2f}")
-        print(f"\tF1: {f1:.2f}")
-        print("---------")
+        for r in results:
+            if r["promt__augmented_comes_from_original"]:
+                TP += 1
+            else:
+                FN += 1
+
+        # accuracy
+        accuracy = TP / (TP + FN)
+
+        # Sensitivity (True Positive Rate or Recall)
+        sensitivity = TP / (TP + FN)
+
+        # False Negative Rate (FNR)
+        fnr = FN / (TP + FN)
+
+        # Output the calculated metrics
+        print(f"\tTrue positives: {TP}")
+        print(f"\tFalse negatives: {FN}")
+        print(f"\tAccuracy: {accuracy}")
+        print(f"\tSensitivity: {sensitivity}")
+        print(f"\tFNR: {fnr}")
 
 
 if __name__ == "__main__":
