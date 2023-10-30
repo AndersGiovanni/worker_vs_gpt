@@ -60,7 +60,9 @@ class TextPair:
                 augmented_text=self.augmented_text,
             )
 
-            self.promt__output = llama.generate(chat=chat_template)
+            self.promt__output = llama.generate(
+                chat=chat_template, try_again_on_overload=False
+            )
 
         # Set the promt__augmented_comes_from_original
         if (
@@ -93,9 +95,21 @@ def run_step_1(DATASET: str = "ten-dim") -> None:
     results: List[Dict[str, str]] = []
 
     target_split: Dict[str, List[Dict[str, str]]] = split_data_based_on_label(data)
-    for target_label, data_subset in target_split.items():
-        for src_content in tqdm(data_subset[:10]):
-            for aug_content in data_subset[:10]:
+
+    # save each target split to a file
+
+    for target_label, target_subset in target_split.items():
+        # save the data subset to a file
+        save_json(
+            path=Path(
+                f"src/worker_vs_gpt/evaluation/data/{DATASET}/step1-{target_label}.json"
+            ),
+            container=target_subset,
+        )
+
+        # iterate over the data subset
+        for src_content in tqdm(target_subset, desc=f"Target label: {target_label}"):
+            for aug_content in target_subset:
                 # Create a textpair. This will also generate the promt__output and promt__augmented_comes_from_original
                 TP: TextPair = TextPair(
                     dataset=DATASET,
