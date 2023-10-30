@@ -1,12 +1,12 @@
 import os
+import time
 from dataclasses import dataclass
-from typing import Dict
-from typing import List
+from typing import Dict, List
 
 from dotenv import load_dotenv
 from huggingface_hub import InferenceClient
+from huggingface_hub.inference._text_generation import OverloadedError
 from transformers import AutoTokenizer
-
 
 load_dotenv(".env.example", verbose=True, override=True)
 
@@ -22,18 +22,29 @@ class Llama:
 
     tokenizer = AutoTokenizer.from_pretrained(huggingface_model_name)
 
-    def __post__init__(self):
+    def __post_init__(self):
         self.tokenizer.use_default_system_prompt = False
 
-    def generate(self, chat: List[Dict[str, str]]) -> str:
-        prompt = self.tokenizer.apply_chat_template(chat, tokenize=False)
-        output = self.llm.text_generation(
-            prompt=prompt,
-            max_new_tokens=2048,
-            temperature=0.7,
-            repetition_penalty=1.2,
-        )
-        return output
+    def generate(
+        self, chat: List[Dict[str, str]], try_again_on_overload: bool = True
+    ) -> str:
+        prompt: str = self.tokenizer.apply_chat_template(chat, tokenize=False)
+
+        while True:
+            try:
+                output = self.llm.text_generation(
+                    prompt=prompt,
+                    max_new_tokens=2048,
+                    temperature=0.7,
+                    repetition_penalty=1.2,
+                )
+                return output
+            except OverloadedError:
+                if try_again_on_overload:
+                    time.sleep(0.5)
+                    continue
+                else:
+                    raise OverloadedError
 
 
 if __name__ == "__main__":
