@@ -10,7 +10,6 @@ from typing import List
 from tqdm import tqdm
 
 from worker_vs_gpt.evaluation.models import Llama
-from worker_vs_gpt.label_definitions import ten_dim
 from worker_vs_gpt.utils import read_json
 from worker_vs_gpt.utils import save_json
 
@@ -21,20 +20,34 @@ llama: Llama = Llama(huggingface_model_name="meta-llama/Llama-2-7b-chat-hf")
 def generate_chat_template_step_1(
     original_label: str, original_text: str, augmented_text: str
 ) -> List[Dict[str, str]]:
+    """Generates a chat template for step 1 of the evaluation"""
     return [
         {
             "role": "system",
-            "content": f"""
-                You are an advanced classifying AI. 
-                You are tasked with classifying this question: Does the text written by the user express {original_label}?. 
-                {original_label} is defined as: {ten_dim[original_label]}. 
-                An example of a text that expresses {original_label} is: "{original_text}", but the text can vary in many ways and contain completely different words. 
-                You should start your respone with a clear yes/no answer. Then in the sentence after, give a short description why you respond the way you do.
+            "content": """
+                You are an advanced classifying AI. You are going to receive a text written by a user.
+                Each text expresses one of the following labels: knowledge, power, respect, trust, social_support, similarity_identity, fun, conflict, neutral.
+                The following is the definitions of the labels:
+                - knowledge: Exchange of ideas or information,
+                - power: Having power over the behavior and outcomes of another,
+                - respect: Conferring status, appreciation, gratitude, or admiration upon another,
+                - trust: Will of relying on the actions or judgments of another,
+                - social_support: Giving emotional or practical aid and companionship,
+                - similarity_identity: Shared interests, motivations, outlooks or Shared sense of belonging to the same community or group,
+                - fun: Experiencing leisure, laughter, and joy,
+                - conflict: Contrast or diverging views,
+                - neutral: neutral communication
                 """,
         },
         {
             "role": "user",
-            "content": f"{augmented_text}",
+            "content": f"""
+            You are tasked with classifying this question: Does the text written by the user express {original_label}?.  
+            An example of a text that expresses {original_label} is: "{original_text}", but the text can vary in many ways and contain completely different words. 
+            You should start your respone with a clear yes/no answer. Then in the sentence after, give a short description why you respond the way you do.
+            User input sentence: {augmented_text}
+            Answer:
+            """,
         },
     ]
 
