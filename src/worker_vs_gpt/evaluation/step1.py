@@ -9,7 +9,7 @@ from tqdm import tqdm
 from worker_vs_gpt.evaluation.models import Llama
 from worker_vs_gpt.utils import read_json, save_json
 
-llama: Llama = Llama(huggingface_model_name="meta-llama/Llama-2-7b-chat-hf")
+llama: Llama = Llama(huggingface_model_name="meta-llama/Llama-2-70b-chat-hf")
 
 
 def generate_chat_template_step_1(
