@@ -116,7 +116,7 @@ def run_step_1(DATASET: str = "ten-dim") -> None:
 
         # iterate over the data subset
         for src_content in tqdm(
-            target_subset[:20], desc=f"Target label: {target_label}"
+            target_subset[:20], desc=f"{target_label} pairwise comparison"
         ):
             for aug_content in target_subset[:20]:
                 # Create a textpair. This will also generate the promt__output and promt__augmented_comes_from_original
