@@ -1,18 +1,13 @@
 import os
 from collections import defaultdict
-from dataclasses import dataclass
-from dataclasses import field
+from dataclasses import dataclass, field
 from datetime import datetime
 from pathlib import Path
-from typing import Dict
-from typing import List
+from typing import Dict, List
 
 from tqdm import tqdm
-
 from worker_vs_gpt.evaluation.models import Llama
-from worker_vs_gpt.utils import read_json
-from worker_vs_gpt.utils import save_json
-
+from worker_vs_gpt.utils import read_json, save_json
 
 llama: Llama = Llama(huggingface_model_name="meta-llama/Llama-2-70b-chat-hf")
 
@@ -121,8 +116,8 @@ def run_step_1(DATASET: str = "ten-dim") -> None:
         )
 
         # iterate over the data subset
-        for src_content in tqdm(target_subset[:5], desc=f"{target_label}"):
-            for aug_content in target_subset[:5]:
+        for src_content in tqdm(target_subset, desc=f"{target_label}"):
+            for aug_content in target_subset:
                 # Create a textpair. This will also generate the promt__output and promt__augmented_comes_from_original
                 TP: TextPair = TextPair(
                     dataset=DATASET,
