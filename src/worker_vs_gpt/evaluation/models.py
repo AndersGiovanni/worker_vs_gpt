@@ -1,14 +1,12 @@
 import os
 import time
 from dataclasses import dataclass
-from typing import Dict
-from typing import List
+from typing import Dict, List
 
 from dotenv import load_dotenv
 from huggingface_hub import InferenceClient
 from huggingface_hub.inference._text_generation import OverloadedError
 from transformers import AutoTokenizer
-
 
 load_dotenv(".env.example", verbose=True, override=True)
 
@@ -45,7 +43,6 @@ class Llama:
                 return output
             except OverloadedError:
                 if try_again_on_overload:
-                    print("!!!! Overloaded, trying again in 0.5 seconds")
                     time.sleep(0.5)
                     continue
                 else:
