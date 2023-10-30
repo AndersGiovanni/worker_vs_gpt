@@ -1,80 +1,177 @@
-from dataclasses import dataclass, field
-from typing import Dict, List
+import os
+from collections import defaultdict
+from dataclasses import dataclass
+from dataclasses import field
+from datetime import datetime
+from pathlib import Path
+from typing import Dict
+from typing import List
+
+from tqdm import tqdm
 
 from worker_vs_gpt.evaluation.models import Llama
+from worker_vs_gpt.label_definitions import ten_dim
+from worker_vs_gpt.utils import read_json
+from worker_vs_gpt.utils import save_json
+
+
+llama: Llama = Llama(huggingface_model_name="meta-llama/Llama-2-7b-chat-hf")
+
+
+def generate_chat_template_step_1(
+    original_label: str, original_text: str, augmented_text: str
+) -> List[Dict[str, str]]:
+    return [
+        {
+            "role": "system",
+            "content": f"""
+                You are an advanced classifying AI. 
+                You are tasked with classifying this question: Does the text written by the user express {original_label}?. 
+                {original_label} is defined as: {ten_dim[original_label]}. 
+                An example of a text that expresses {original_label} is: "{original_text}", but the text can vary in many ways and contain completely different words. 
+                You should start your respone with a clear yes/no answer. Then in the sentence after, give a short description why you respond the way you do.
+                """,
+        },
+        {
+            "role": "user",
+            "content": f"{augmented_text}",
+        },
+    ]
 
 
 @dataclass
 class TextPair:
     dataset: str
-    label: str
+    original_label: str
     original_text: str
+    augmented_label: str
     augmented_text: str
     augmented_comes_from_original: bool
-    promt__output: str = field(init=False)
-    promt__augmented_comes_from_original: bool = field(init=False)
+    promt__output: str = None
+    promt__augmented_comes_from_original: bool = None
+    timestamp: str = field(default_factory=lambda: str(datetime.now()))
+
+    def __post_init__(self):
+        # Set the promt__output
+        if self.promt__output is None:
+            chat_template: List[Dict[str, str]] = generate_chat_template_step_1(
+                original_label=self.original_label,
+                original_text=self.original_text,
+                augmented_text=self.augmented_text,
+            )
+
+            self.promt__output = llama.generate(chat=chat_template)
+
+        # Set the promt__augmented_comes_from_original
+        if (
+            self.promt__augmented_comes_from_original is None
+            and self.promt__output is not None
+        ):
+            self.promt__augmented_comes_from_original = (
+                "yes" == self.promt__output.strip().lower()[:3]
+            )
 
 
-if __name__ == "__main__":
-    from pathlib import Path
+def split_data_based_on_label(
+    data: List[Dict[str, str]]
+) -> Dict[str, List[Dict[str, str]]]:
+    """Splits the data into a dictionary with the labels as keys and the data as values"""
+    results: Dict[str, List[Dict[str, str]]] = defaultdict(list)
+    for d in data:
+        results[d["target"]].append(d)
+    return results
 
-    from tqdm import tqdm
-    from worker_vs_gpt.evaluation.models import Llama
-    from worker_vs_gpt.label_definitions import ten_dim
-    from worker_vs_gpt.utils import read_json, save_json
 
-    def generate_chat_template(
-        label: str, original_text: str, augmented_text: str
-    ) -> List[Dict[str, str]]:
-        return [
-            {
-                "role": "system",
-                "content": f"""
-                You are an advanced classifying AI. 
-                You are tasked with classifying this question: Does the text written by the user express {label}?. 
-                {label} is defined as: {ten_dim[label]}. 
-                An example of a text that expresses {label} is: {original_text} but the text can vary in many ways and contain completely different words. 
-                You should start your respone with a clear yes/no answer. Then in the sentence after, give a short description why you respond the way you do.
-                """,
-            },
-            {
-                "role": "user",
-                "content": f"{augmented_text}",
-            },
-        ]
-
-    llama: Llama = Llama(huggingface_model_name="meta-llama/Llama-2-7b-chat-hf")
+def run_step_1(DATASET: str = "ten-dim") -> None:
+    """Runs the step 1 experiment"""
 
     DATASET = "ten-dim"
 
-    data = read_json(Path(f"data/{DATASET}/balanced_gpt-4_augmented_full.json"))
+    data: List[Dict[str, str]] = read_json(
+        Path(f"data/{DATASET}/balanced_gpt-4_augmented_full.json")
+    )
     results: List[Dict[str, str]] = []
 
-    for src_content in tqdm(data[:5]):
-        for aug_content in data[:5]:
-            TP: TextPair = TextPair(
-                dataset=DATASET,
-                label=src_content["target"],
-                original_text=src_content["h_text"],
-                augmented_text=aug_content["augmented_h_text"],
-                augmented_comes_from_original=src_content["h_text"]
-                == aug_content["h_text"],
-            )
+    target_split: Dict[str, List[Dict[str, str]]] = split_data_based_on_label(data)
+    for target_label, data_subset in target_split.items():
+        for src_content in tqdm(data_subset[:10]):
+            for aug_content in data_subset[:10]:
+                # Create a textpair. This will also generate the promt__output and promt__augmented_comes_from_original
+                TP: TextPair = TextPair(
+                    dataset=DATASET,
+                    original_label=src_content["target"],
+                    original_text=src_content["h_text"],
+                    augmented_label=aug_content["target"],
+                    augmented_text=aug_content["augmented_h_text"],
+                    augmented_comes_from_original=(
+                        src_content["h_text"] == aug_content["h_text"]
+                    ),
+                )
 
-            chat_template: List[Dict[str, str]] = generate_chat_template(
-                label=TP.label,
-                original_text=TP.original_text,
-                augmented_text=TP.augmented_text,
-            )
+                results.append(TP.__dict__)
 
-            TP.promt__output: str = llama.generate(chat=chat_template)
-            TP.promt__augmented_comes_from_original = (
-                "yes" == TP.promt__output.strip().lower()[:3]
-            )
+        save_json(
+            container=results,
+            path=Path(
+                f"src/worker_vs_gpt/evaluation/results/{DATASET}/step1-{target_label}.json"
+            ),
+        )
 
-            results.append(TP.__dict__)
 
-    save_json(
-        container=results,
-        path=Path(f"src/worker_vs_gpt/evaluation/results/{DATASET}/step1.json"),
-    )
+def evaluate_step_1():
+    result_files: List[str] = [
+        f_
+        for f_ in os.listdir(path="src/worker_vs_gpt/evaluation/results/ten-dim")
+        if f_.startswith("step1-")
+    ]
+
+    for f_ in result_files:
+        results: List[Dict[str, str]] = read_json(
+            Path(f"src/worker_vs_gpt/evaluation/results/ten-dim/{f_}")
+        )
+        print(f"Results for {f_}")
+        aug_from_original: List[TextPair] = [
+            TextPair(**r) for r in results if r["augmented_comes_from_original"]
+        ]
+        aug_not_from_original: List[TextPair] = [
+            TextPair(**r) for r in results if not r["augmented_comes_from_original"]
+        ]
+
+        # Count TP,FP,TN,FN
+        TP: int = len(
+            [r for r in aug_from_original if r.promt__augmented_comes_from_original]
+        )
+        FP: int = len(
+            [r for r in aug_from_original if not r.promt__augmented_comes_from_original]
+        )
+        TN: int = len(
+            [
+                r
+                for r in aug_not_from_original
+                if not r.promt__augmented_comes_from_original
+            ]
+        )
+        FN: int = len(
+            [r for r in aug_not_from_original if r.promt__augmented_comes_from_original]
+        )
+
+        # Calculate the metrics
+        accuracy: float = (TP + TN) / (TP + FP + TN + FN)
+        precision: float = TP / (TP + FP)
+        recall: float = TP / (TP + FN)
+        f1: float = 2 * (precision * recall) / (precision + recall)
+
+        print(f"\tTP: {TP}")
+        print(f"\tFP: {FP}")
+        print(f"\tTN: {TN}")
+        print(f"\tFN: {FN}")
+        print(f"\tAccuracy: {accuracy:.2f}")
+        print(f"\tPrecision: {precision:.2f}")
+        print(f"\tRecall: {recall:.2f}")
+        print(f"\tF1: {f1:.2f}")
+        print("---------")
+
+
+if __name__ == "__main__":
+    run_step_1(DATASET="ten-dim")
+    # evaluate_step_1()
