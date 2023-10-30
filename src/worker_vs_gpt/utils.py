@@ -2,23 +2,14 @@ import json
 import os
 import re
 from pathlib import Path
-from typing import Dict
-from typing import Iterable
-from typing import List
-from typing import Tuple
-from typing import Union
+from typing import Dict, Iterable, List, Tuple, Union
 
 import pandas as pd
 import torch
 from langchain.llms import HuggingFacePipeline
 from numpy import random
 from peft import PeftModelForCausalLM
-from transformers import AutoModelForCausalLM
-from transformers import AutoTokenizer
-from transformers import pipeline
-
-from worker_vs_gpt.config import TEN_DIM_DATA_DIR
-
+from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 
 rng = random.RandomState(42)
 
@@ -61,9 +52,10 @@ def read_json(path: Path) -> List[Dict[str, Union[str, int]]]:
     return data
 
 
-def save_json(path: Path, container: Iterable) -> None:
+def save_json(path: Path, container: Iterable, verbose: bool = True) -> None:
     """write dict to path."""
-    print(f"Saving json to {path}")
+    if verbose:
+        print(f"Saving json to {path}")
     with open(path, "w") as outfile:
         json.dump(container, outfile, ensure_ascii=False, indent=4)
 
