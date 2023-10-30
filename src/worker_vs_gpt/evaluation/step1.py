@@ -74,7 +74,7 @@ class TextPair:
             )
 
             self.promt__output = llama.generate(
-                chat=chat_template, try_again_on_overload=False
+                chat=chat_template, try_again_on_overload=True
             )
 
         # Set the promt__augmented_comes_from_original

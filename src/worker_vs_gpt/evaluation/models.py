@@ -41,6 +41,7 @@ class Llama:
                 return output
             except OverloadedError:
                 if try_again_on_overload:
+                    print("!!!! Overloaded, trying again in 0.5 seconds")
                     time.sleep(0.5)
                     continue
                 else:
