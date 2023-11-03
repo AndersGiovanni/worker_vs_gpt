@@ -1,13 +1,17 @@
-import os
 from collections import defaultdict
-from dataclasses import dataclass, field
+from dataclasses import dataclass
+from dataclasses import field
 from datetime import datetime
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict
+from typing import List
 
 from tqdm import tqdm
+
 from worker_vs_gpt.evaluation.models import Llama
-from worker_vs_gpt.utils import read_json, save_json
+from worker_vs_gpt.utils import read_json
+from worker_vs_gpt.utils import save_json
+
 
 llama: Llama = Llama(huggingface_model_name="meta-llama/Llama-2-70b-chat-hf")
 
@@ -141,51 +145,5 @@ def run_step_1(DATASET: str = "ten-dim") -> None:
         )
 
 
-def evaluate_step_1():
-    result_files: List[str] = [
-        f_
-        for f_ in os.listdir(path="src/worker_vs_gpt/evaluation/results/ten-dim")
-        if f_.startswith("step1-")
-    ]
-
-    for f_ in result_files:
-        results: List[Dict[str, str]] = read_json(
-            Path(f"src/worker_vs_gpt/evaluation/results/ten-dim/{f_}")
-        )
-        print(f"{f_}")
-
-        # All the entries should express the given label. Therefore the metric
-        # is simply how many actually express the given label according to the
-        # model.
-
-        # The model is a binary classifier and all should be positive,
-        # so we can simply count the number
-        # of true positives and False negative
-        TP, FN = 0, 0
-
-        for r in results:
-            if r["promt__augmented_comes_from_original"]:
-                TP += 1
-            else:
-                FN += 1
-
-        # accuracy
-        accuracy = TP / (TP + FN)
-
-        # Sensitivity (True Positive Rate or Recall)
-        sensitivity = TP / (TP + FN)
-
-        # False Negative Rate (FNR)
-        fnr = FN / (TP + FN)
-
-        # Output the calculated metrics
-        print(f"\tTrue positives: {TP}")
-        print(f"\tFalse negatives: {FN}")
-        print(f"\tAccuracy: {accuracy}")
-        print(f"\tSensitivity: {sensitivity}")
-        print(f"\tFNR: {fnr}")
-
-
 if __name__ == "__main__":
     run_step_1(DATASET="ten-dim")
-    # evaluate_step_1()
