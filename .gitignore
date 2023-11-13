@@ -26,3 +26,5 @@ models_results/
 .DS_Store
 src/worker_vs_gpt/evaluation/assets
 src/worker_vs_gpt/evaluation/results
+src/worker_vs_gpt/evaluation/subsets/*/*.json
+
