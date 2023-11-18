@@ -24,7 +24,9 @@ __pycache__/
 models_results/
 /logs/
 .DS_Store
-src/worker_vs_gpt/evaluation/assets
-src/worker_vs_gpt/evaluation/results
-src/worker_vs_gpt/evaluation/subsets/*/*.json
 
+# VIKTOR
+src/worker_vs_gpt/evaluation/misc.ipynb
+src/worker_vs_gpt/evaluation/subsets/*/*.json
+src/worker_vs_gpt/evaluation/subset_results/*/*.json
+src/worker_vs_gpt/evaluation/old

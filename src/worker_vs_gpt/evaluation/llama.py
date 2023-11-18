@@ -1,12 +1,14 @@
 import os
 import time
 from dataclasses import dataclass
-from typing import Dict, List
+from typing import Dict
+from typing import List
 
 from dotenv import load_dotenv
 from huggingface_hub import InferenceClient
 from huggingface_hub.inference._text_generation import OverloadedError
 from transformers import AutoTokenizer
+
 
 load_dotenv(".env.example", verbose=True, override=True)
 
@@ -34,7 +36,7 @@ class Llama:
 
         while True:
             try:
-                output = self.llm.text_generation(
+                output: str = self.llm.text_generation(
                     prompt=prompt,
                     max_new_tokens=2048,
                     temperature=0.7,

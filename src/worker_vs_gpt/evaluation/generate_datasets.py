@@ -13,6 +13,7 @@ it every time I want to run an experiment.
 
 """
 
+import argparse
 import json
 import random
 from collections import defaultdict
@@ -22,6 +23,18 @@ from typing import Dict
 from typing import List
 
 from worker_vs_gpt.utils import read_json
+
+
+# pass N from the terminal when running the script
+parser = argparse.ArgumentParser()
+parser.add_argument(
+    "--N",
+    type=int,
+    default=10,
+    help="Number of textpairs to sample from each dictionary",
+)
+args = parser.parse_args()
+N: int = args.N
 
 
 @dataclass
@@ -36,7 +49,6 @@ class TextPair:
     aug_from_ori: bool
 
 
-N: int = 10
 ORIGINAL_TO_ORIGINAL_AUGMENTED: Dict[str, List[TextPair]] = defaultdict(list)
 ORIGINAL_TO_OTHER_ORIGINAL_AUGMENTED: Dict[str, List[TextPair]] = defaultdict(list)
 LABEL_TO_OTHER_LABEL: Dict[str, List[TextPair]] = defaultdict(list)
@@ -109,7 +121,6 @@ for label, textpairs in LABEL_TO_OTHER_LABEL.items():
         augmented_labels[textpair.augmented_label].append(textpair)
 
     # Sample N textpairs from each dictionary in augmented_labels
-
     for augmented_label, textpairs in augmented_labels.items():
         random.shuffle(textpairs)
         subset_tp: List[Dict] = [textpair.__dict__ for textpair in textpairs[:N]]
