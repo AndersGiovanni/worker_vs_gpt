@@ -13,8 +13,8 @@ class TextPair:
     augmented_text: str
     aug_from_ori: bool
 
-    prompt: Optional[List[Dict[str, str]]] = field(init=False)
-    prompt_reponse: str = field(default_factory=str, init=False)
+    prompt: Optional[List[Dict[str, str]]] = field(default_factory=list)
+    prompt_response: str = field(default_factory=str)
 
 
 if __name__ == "__main__":
@@ -27,4 +27,4 @@ if __name__ == "__main__":
     )
 
     tp.prompt = [{"virker det?": "ja"}]
-    tp.prompt_reponse = "ja"
+    tp.prompt_response = "ja"
