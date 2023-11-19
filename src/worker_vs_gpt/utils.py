@@ -2,14 +2,21 @@ import json
 import os
 import re
 from pathlib import Path
-from typing import Dict, Iterable, List, Tuple, Union
+from typing import Dict
+from typing import Iterable
+from typing import List
+from typing import Tuple
+from typing import Union
 
 import pandas as pd
 import torch
 from langchain.llms import HuggingFacePipeline
 from numpy import random
 from peft import PeftModelForCausalLM
-from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
+from transformers import AutoModelForCausalLM
+from transformers import AutoTokenizer
+from transformers import pipeline
+
 
 rng = random.RandomState(42)
 
@@ -46,7 +53,9 @@ def get_device() -> torch.device:
     return device
 
 
-def read_json(path: Path) -> List[Dict[str, Union[str, int]]]:
+def read_json(path: Path, verbose: bool = True) -> List[Dict[str, Union[str, int]]]:
+    if verbose:
+        print(f"Reading {path}")
     with open(path, "r") as f:
         data: List[Dict[str, Union[str, int]]] = json.load(f)
     return data

@@ -1,6 +1,6 @@
 from pytest import approx
 
-from src.worker_vs_gpt.evaluation.similarity import SimilarityScorer
+from worker_vs_gpt.evaluation.old.similarity import SimilarityScorer
 
 
 def test_vocab_overlap_1():

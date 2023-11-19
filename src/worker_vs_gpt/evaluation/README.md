@@ -9,6 +9,7 @@ This folder contains the code to evaluate the LLM model on the self-evaluation t
     - [Label to other label](#label-to-other-label)
     - [Within label aumentation not from original](#within-label-aumentation-not-from-original)
     - [Within label Original to Original](#within-label-original-to-original)
+  - [LLM Self Evaluation with LLama](#llm-self-evaluation-with-llama)
   - [To do](#to-do)
 
 ## The task at hand
@@ -63,4 +64,22 @@ python src/worker_vs_gpt/evaluation/generate_datasets.py
 
 ### Within label Original to Original
 
+## LLM Self Evaluation with LLama
+
+For evaluating the subsets in `src/worker_vs_gpt/evaluation/subsets`, run the following command
+
+```bash
+python src/worker_vs_gpt/evaluation/subset_evaluation.py
+```
+
+That is going to create the results in `src/worker_vs_gpt/evaluation/subset_results/`.
+
+Evaluating and combining the results is done by running
+
+```bash
+python src/worker_vs_gpt/evaluation/subset_evaluation.py
+```
+
 ## To do
+
+- [ ] Should be able the exclude a folder in the subset_evaluation in the `llama_self_evaluation.py`.

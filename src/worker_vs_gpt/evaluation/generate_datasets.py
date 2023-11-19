@@ -17,11 +17,11 @@ import argparse
 import json
 import random
 from collections import defaultdict
-from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict
 from typing import List
 
+from worker_vs_gpt.evaluation.textpair import TextPair
 from worker_vs_gpt.utils import read_json
 
 
@@ -35,18 +35,6 @@ parser.add_argument(
 )
 args = parser.parse_args()
 N: int = args.N
-
-
-@dataclass
-class TextPair:
-    # Original parameters
-    original_label: str
-    original_text: str
-    # Augmented parameters
-    augmented_label: str
-    augmented_text: str
-    # Meta
-    aug_from_ori: bool
 
 
 ORIGINAL_TO_ORIGINAL_AUGMENTED: Dict[str, List[TextPair]] = defaultdict(list)
