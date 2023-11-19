@@ -1,3 +1,4 @@
+import logging
 import os
 import time
 from dataclasses import dataclass
@@ -10,12 +11,19 @@ from huggingface_hub.inference._text_generation import OverloadedError
 from transformers import AutoTokenizer
 
 
-load_dotenv(".env.example", verbose=True, override=True)
+load_dotenv(".env", verbose=True, override=True)
+# add format with date and time
+logging.basicConfig(level=logging.INFO, format="%(asctime)s %(message)s")
+
+# create the log file in the current directory
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
 
 
 @dataclass
 class Llama:
     ######### Using Huggingface and the Llama models #########
+    logging.info("Loading Llama model...")
     huggingface_model_name: str = "meta-llama/Llama-2-70b-chat-hf"
     llm = InferenceClient(
         model=huggingface_model_name,
@@ -45,6 +53,7 @@ class Llama:
                 return output
             except OverloadedError:
                 if try_again_on_overload:
+                    logger.info("Overloaded, trying again in 0.5 seconds...")
                     time.sleep(0.5)
                     continue
                 else:
