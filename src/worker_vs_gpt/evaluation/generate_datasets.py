@@ -12,7 +12,6 @@ The only reason to generate datasets are to have static data such that I don't n
 it every time I want to run an experiment.
 
 """
-
 import argparse
 import json
 import random
@@ -41,7 +40,7 @@ ORIGINAL_TO_ORIGINAL_AUGMENTED: Dict[str, List[TextPair]] = defaultdict(list)
 ORIGINAL_TO_OTHER_ORIGINAL_AUGMENTED: Dict[str, List[TextPair]] = defaultdict(list)
 LABEL_TO_OTHER_LABEL: Dict[str, List[TextPair]] = defaultdict(list)
 
-path: Path = Path("../data/ten-dim/balanced_gpt-4_augmented_full.json")
+path: Path = Path("data/ten-dim/balanced_llama-2-70b_augmented.json")
 data: List[Dict] = read_json(path)
 
 for outer in data:
@@ -78,7 +77,9 @@ for label, textpairs in ORIGINAL_TO_ORIGINAL_AUGMENTED.items():
     subset_tp: List[Dict] = [textpair.__dict__ for textpair in textpairs[:N]]
 
     with open(
-        Path(f"worker_vs_gpt/evaluation/subsets/within_label_ori_to_ori/{label}.json"),
+        Path(
+            f"src/worker_vs_gpt/evaluation/subsets/within_label_ori_to_ori/{label}.json"
+        ),
         "w",
     ) as outfile:
         json.dump(subset_tp, outfile, ensure_ascii=False, indent=4)
@@ -92,7 +93,7 @@ for label, textpairs in ORIGINAL_TO_OTHER_ORIGINAL_AUGMENTED.items():
 
     with open(
         Path(
-            f"worker_vs_gpt/evaluation/subsets/within_label_aug_not_from_ori/{label}.json"
+            f"src/worker_vs_gpt/evaluation/subsets/within_label_aug_not_from_ori/{label}.json"
         ),
         "w",
     ) as outfile:
@@ -115,7 +116,7 @@ for label, textpairs in LABEL_TO_OTHER_LABEL.items():
 
         with open(
             Path(
-                f"worker_vs_gpt/evaluation/subsets/label_to_other_label/{label}_to_{augmented_label}.json"
+                f"src/worker_vs_gpt/evaluation/subsets/label_to_other_label/{label}_to_{augmented_label}.json"
             ),
             "w",
         ) as outfile:
