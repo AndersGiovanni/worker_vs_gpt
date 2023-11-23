@@ -6,11 +6,9 @@ All results are saved to subset results in the src/worker_vs_gpt/evaluation/subs
 """
 import os
 from pathlib import Path
-from typing import Dict
-from typing import List
+from typing import Dict, List
 
 from tqdm import tqdm
-
 from worker_vs_gpt.evaluation.llama import Llama
 from worker_vs_gpt.evaluation.textpair import TextPair
 from worker_vs_gpt.utils import read_json
@@ -54,7 +52,7 @@ def evaluate_subset(data: List[Dict]) -> List[Dict[str, str]]:
         response: str = llama.generate(chat=prompt, try_again_on_overload=True)
 
         tp.prompt = prompt
-        tp.prompt_reponse = response
+        tp.prompt_response = response
 
         output.append(tp.__dict__)
 
@@ -64,12 +62,10 @@ def evaluate_subset(data: List[Dict]) -> List[Dict[str, str]]:
 if __name__ == "__main__":
     import os
     from pathlib import Path
-    from typing import Dict
-    from typing import List
+    from typing import Dict, List
 
     from worker_vs_gpt.evaluation.llama import Llama
-    from worker_vs_gpt.utils import read_json
-    from worker_vs_gpt.utils import save_json
+    from worker_vs_gpt.utils import read_json, save_json
 
     root_path: Path = Path("src/worker_vs_gpt/evaluation/subsets")
 
@@ -91,6 +87,13 @@ if __name__ == "__main__":
         for i, file_path in enumerate(files_to_evaluate):
             print(f"Evaluating {folder_name} ({i}/{len(files_to_evaluate)})...")
 
+            outpath: Path = Path(
+                f"src/worker_vs_gpt/evaluation/subset_results/{folder_name}/{file_path.stem}.json"
+            )
+            if os.path.exists(outpath):
+                print(f"File already exists: {outpath}")
+                continue
+
             data = read_json(file_path)
 
             llama: Llama = Llama(
@@ -99,9 +102,4 @@ if __name__ == "__main__":
 
             evaluated_data: List[Dict[str, str]] = evaluate_subset(data)
 
-            save_json(
-                container=evaluated_data,
-                path=Path(
-                    f"src/worker_vs_gpt/evaluation/subset_results/{folder_name}/{file_path.stem}.json"
-                ),
-            )
+            save_json(container=evaluated_data, path=outpath)
