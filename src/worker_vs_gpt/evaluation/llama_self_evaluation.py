@@ -6,9 +6,11 @@ All results are saved to subset results in the src/worker_vs_gpt/evaluation/subs
 """
 import os
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict
+from typing import List
 
 from tqdm import tqdm
+
 from worker_vs_gpt.evaluation.llama import Llama
 from worker_vs_gpt.evaluation.textpair import TextPair
 from worker_vs_gpt.utils import read_json
@@ -62,10 +64,12 @@ def evaluate_subset(data: List[Dict]) -> List[Dict[str, str]]:
 if __name__ == "__main__":
     import os
     from pathlib import Path
-    from typing import Dict, List
+    from typing import Dict
+    from typing import List
 
     from worker_vs_gpt.evaluation.llama import Llama
-    from worker_vs_gpt.utils import read_json, save_json
+    from worker_vs_gpt.utils import read_json
+    from worker_vs_gpt.utils import save_json
 
     root_path: Path = Path("src/worker_vs_gpt/evaluation/subsets")
 
@@ -88,7 +92,7 @@ if __name__ == "__main__":
             print(f"Evaluating {folder_name} ({i+1}/{len(files_to_evaluate)})...")
 
             outpath: Path = Path(
-                f"src/worker_vs_gpt/evaluation/subset_results/{folder_name}/{file_path.stem}.json"
+                f"src/worker_vs_gpt/evaluation/subset_results/{folder_name}/llama/{file_path.stem}.json"
             )
             if os.path.exists(outpath):
                 print(f"File already exists: {outpath}")
