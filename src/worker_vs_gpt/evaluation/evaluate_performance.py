@@ -141,6 +141,11 @@ for subset_folder_path in subset_folders_to_evaluate:
     for a in ax:
         a.set_xticklabels(a.get_xticklabels(), rotation=45, ha="right")
 
+    # Make the overall title
+    fig.suptitle(f"{subset_folder_path.stem} - Accuracy/Specificity")
+
+    # TODO: Make the background transparent for better embedding in the paper
+
     plt.tight_layout()
 
     # save the figure to correct subfolder of assets

@@ -8,6 +8,7 @@ This folder contains the code to evaluate the LLM model on the self-evaluation t
   - [Experimental setup](#experimental-setup)
     - [Generating the datasets](#generating-the-datasets)
     - [LLM Evaluation](#llm-evaluation)
+  - [Results](#results)
 
 ## The task at hand
 
@@ -97,6 +98,16 @@ evaluation
         ├── label_to_other_label.png
         └── llama.csv
 ``````
+
+## Results
+
+Results from the llama-subset:
+
+![llama-subset](assets/llama-subset/label_to_other_label.png)
+
+Results from the gpt-subset:
+
+![gpt-subset](assets/gpt-subset/label_to_other_label.png)
 
 <!-- ## Evaluation subset
 
