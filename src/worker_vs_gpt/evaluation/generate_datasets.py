@@ -17,25 +17,45 @@ import json
 import random
 from collections import defaultdict
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict
+from typing import List
 
 from worker_vs_gpt.evaluation.textpair import TextPair
 from worker_vs_gpt.utils import read_json
+
 
 # pass N from the terminal when running the script
 parser = argparse.ArgumentParser()
 parser.add_argument(
     "--N",
     type=int,
-    default=10,
+    default=100,
     help="Number of textpairs to sample from each dictionary",
 )
+
+parser.add_argument(
+    "--model",
+    type=str,
+    required=True,
+    choices=["gpt"],  # , "llama"], # Don't run llama. Experiment is already done
+    help="The model to generate data for",
+)
 args = parser.parse_args()
+
+print(
+    "NOTE: This script is not meant to be run, since the data is already generated, and needs to be static from now on"
+)
+exit()
+
 N: int = args.N
 
 LABEL_TO_OTHER_LABEL: Dict[str, List[TextPair]] = defaultdict(list)
 
-path: Path = Path("data/ten-dim/balanced_llama-2-70b_augmented.json")
+if args.model == "gpt":
+    path: Path = Path("data/ten-dim/balanced_gpt-4_augmented.json")
+else:
+    path: Path = Path("data/ten-dim/balanced_llama-2-70b_augmented.json")
+
 data: List[Dict] = read_json(path)
 
 for outer in data:
@@ -67,10 +87,17 @@ for label, textpairs in LABEL_TO_OTHER_LABEL.items():
         random.shuffle(textpairs)
         subset_tp: List[Dict] = [textpair.__dict__ for textpair in textpairs[:N]]
 
+        if args.model == "gpt":
+            outpath: Path = Path(
+                f"src/worker_vs_gpt/evaluation/subsets/label_to_other_label/gpt/{label}_to_{augmented_label}.json"
+            )
+        else:
+            outpath: Path = Path(
+                f"src/worker_vs_gpt/evaluation/subsets/label_to_other_label/llama/{label}_to_{augmented_label}.json"
+            )
+
         with open(
-            Path(
-                f"src/worker_vs_gpt/evaluation/subsets/label_to_other_label/{label}_to_{augmented_label}.json"
-            ),
+            outpath,
             "w",
         ) as outfile:
             json.dump(subset_tp, outfile, ensure_ascii=False, indent=4)
