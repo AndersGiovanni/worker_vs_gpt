@@ -8,6 +8,7 @@ from typing import List
 from dotenv import load_dotenv
 from huggingface_hub import InferenceClient
 from huggingface_hub.inference._text_generation import OverloadedError
+from huggingface_hub.utils._errors import HfHubHTTPError  # Import the HfHubHTTPError
 from transformers import AutoTokenizer
 
 
@@ -58,6 +59,19 @@ class Llama:
                     continue
                 else:
                     raise OverloadedError
+            except HfHubHTTPError as e:
+                if e.response.status_code == 502:
+                    logger.error(
+                        "502 Server Error: Bad Gateway. Trying again in 1 second..."
+                    )
+                    time.sleep(1)
+                    continue
+                else:
+                    raise e
+
+
+# Ensure you have proper logging configuration
+logging.basicConfig(level=logging.INFO)
 
 
 if __name__ == "__main__":
