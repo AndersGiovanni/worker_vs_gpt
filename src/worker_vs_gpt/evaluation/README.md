@@ -8,11 +8,12 @@ This folder contains the code to evaluate the LLM model on the self-evaluation t
   - [Experimental setup](#experimental-setup)
     - [Generating the datasets](#generating-the-datasets)
     - [LLM Evaluation](#llm-evaluation)
+    - [Combining the results](#combining-the-results)
   - [Results](#results)
 
 ## The task at hand
 
-Through out the rest of this repository you can find the code to create the datasets that is the foundation of this task. The datasets `data/ten-dim/balanced_{gpt-4,llama-70b}_augmented_full.json` contain curated data of pairs of texts. Each entry contain a:
+Through out the rest of this repository you can find the code to create the datasets that is the foundation of this task. The datasets `data/ten-dim/balanced_llama-2-70b_augmented.json` and `data/ten-dim/balanced_gpt-4_augmented.json` contain curated data of pairs of texts. Each entry contain a:
 
 - h_text: The *source* text belonging to the `target`.
 - `target`: The emotion label of the `h_text`.
@@ -45,7 +46,7 @@ python src/worker_vs_gpt/evaluation/generate_datasets.py --N 100 --model llama
 python src/worker_vs_gpt/evaluation/generate_datasets.py --N 100 --model gpt
 ```
 
-Results are saved like this:
+The generated datasets are saved like this:
 
 ```
 evaluation
@@ -77,6 +78,8 @@ evaluation
             ├── gpt
             └── llama
 ```
+
+### Combining the results
 
 Evaluating and combining the results is done by running:
 
