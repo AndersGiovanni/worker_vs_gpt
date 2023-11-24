@@ -8,7 +8,6 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 from tqdm import tqdm
-
 from worker_vs_gpt.evaluation.textpair import TextPair
 from worker_vs_gpt.utils import read_json
 
@@ -30,7 +29,7 @@ folders_to_evaluate: List[Path] = [
 ]
 
 # make the background transparent
-fig, ax = plt.subplots(1, 2, figsize=(10, 5))
+fig, ax = plt.subplots(1, 2, figsize=(10, 5.5))
 
 
 for ax_idx, folder_path in enumerate(folders_to_evaluate):
@@ -119,7 +118,7 @@ for ax_idx, folder_path in enumerate(folders_to_evaluate):
         vmin=0,
         vmax=1,
     )
-    ax[ax_idx].set_title(f"{model_type} - accuracy/specificity")
+    ax[ax_idx].set_title(f"{model_type}")  # - accuracy/specificity")
     ax[ax_idx].set_xlabel("Augmented Label")
     ax[ax_idx].set_ylabel("Source Label")
 

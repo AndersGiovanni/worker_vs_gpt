@@ -1,14 +1,14 @@
-from dataclasses import dataclass, field
+from dataclasses import dataclass
+from dataclasses import field
 
 from dotenv import load_dotenv
 from langchain import LLMChain
 from langchain.chat_models import ChatOpenAI
-from langchain.prompts import (
-    ChatPromptTemplate,
-    HumanMessagePromptTemplate,
-    PromptTemplate,
-    SystemMessagePromptTemplate,
-)
+from langchain.prompts import ChatPromptTemplate
+from langchain.prompts import HumanMessagePromptTemplate
+from langchain.prompts import PromptTemplate
+from langchain.prompts import SystemMessagePromptTemplate
+
 
 load_dotenv()
 
@@ -18,12 +18,12 @@ class GPT:
     # Use default_factory to create a new instance for each GPT instance
     # model="gpt-4" is the default model
     gpt4_llm: ChatOpenAI = field(
-        default_factory=lambda: ChatOpenAI(model="gpt-3.5-turbo", temperature=0)
+        default_factory=lambda: ChatOpenAI(model="gpt-4", temperature=0)
     )
 
     def __post_init__(self):
         self.llm_chain: LLMChain = LLMChain(
-            prompt=self.get_chat_prompt(), llm=self.gpt4_llm, verbose=True
+            prompt=self.get_chat_prompt(), llm=self.gpt4_llm, verbose=False
         )
 
     def generate(
