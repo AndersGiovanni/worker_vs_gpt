@@ -17,12 +17,10 @@ import json
 import random
 from collections import defaultdict
 from pathlib import Path
-from typing import Dict
-from typing import List
+from typing import Dict, List
 
 from worker_vs_gpt.evaluation.textpair import TextPair
 from worker_vs_gpt.utils import read_json
-
 
 # pass N from the terminal when running the script
 parser = argparse.ArgumentParser()

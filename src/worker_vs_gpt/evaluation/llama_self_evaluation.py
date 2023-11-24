@@ -85,7 +85,7 @@ if __name__ == "__main__":
         ]
 
         for i, file_path in enumerate(files_to_evaluate):
-            print(f"Evaluating {folder_name} ({i}/{len(files_to_evaluate)})...")
+            print(f"Evaluating {folder_name} ({i+1}/{len(files_to_evaluate)})...")
 
             outpath: Path = Path(
                 f"src/worker_vs_gpt/evaluation/subset_results/{folder_name}/{file_path.stem}.json"

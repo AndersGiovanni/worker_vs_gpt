@@ -68,6 +68,12 @@ for file_path in tqdm(files_to_evaluate, desc=f"Evaluating {label_to_label_path}
 
         specificity = np.nan
 
+    # Accuracy and specificity are the same in most cases, since the only time that there exist a
+    # true positive is in the case that the labels are equal, and the only time that there exist a
+    # true negative is in the case that the labels are not equal.
+    # On the diagonal specificity can never calculated as no true negatives exist.
+    # Perhaps on the diagonal it should be accuracy, and off the diagonal it should be specificity.
+    # Confusing
     accuracy = (metrics["true_positive"] + metrics["true_negative"]) / sum(
         metrics.values()
     )

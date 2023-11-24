@@ -1,20 +1,15 @@
 # LLM Self Evaluation
 
-This folder contains the code to evaluate the LLM model on the self-evaluation task. The code is part of my master level research project with Luca Maria Aiello, "Anders Giovanni Møller" <agmo@itu.dk>; "Arianna Pera" <arpe@itu.dk>; "Viktor Due Pedersen" <vipe@itu.dk> as supervisors.
+This folder contains the code to evaluate the LLM model on the self-evaluation task. The code is part of my (Viktor Due Pedersen) master level research project with Luca Maria Aiello, Anders Giovanni Møller and Arianna Pera as supervisors.
 
 - [LLM Self Evaluation](#llm-self-evaluation)
   - [The task at hand](#the-task-at-hand)
     - [Description of the ten emotions](#description-of-the-ten-emotions)
   - [Evaluation subset](#evaluation-subset)
-    - [Label to other label](#label-to-other-label)
-    - [Within label aumentation not from original](#within-label-aumentation-not-from-original)
-    - [Within label Original to Original](#within-label-original-to-original)
-  - [LLM Self Evaluation with LLama](#llm-self-evaluation-with-llama)
-  - [To do](#to-do)
 
 ## The task at hand
 
-Through out the rest of this repository you can find the code to create the dataset that is the foundation of this task. The dataset `data/ten-dim/balanced_gpt-4_augmented_full.json` contain curated data of pairs of texts. Each entry contain a:
+Through out the rest of this repository you can find the code to create the datasets that is the foundation of this task. The datasets `data/ten-dim/balanced_{gpt-4,llama-70b}_augmented_full.json` contain curated data of pairs of texts. Each entry contain a:
 
 - h_text: The *source* text belonging to the `target`.
 - `target`: The emotion label of the `h_text`.
@@ -22,15 +17,15 @@ Through out the rest of this repository you can find the code to create the data
 
 ### Description of the ten emotions
 
-- knowledge: Exchange of ideas or information,
-- power: Having power over the behavior and outcomes of another,
-- respect: Conferring status, appreciation, gratitude, or admiration upon another,
-- trust: Will of relying on the actions or judgments of another,
-- social_support: Giving emotional or practical aid and companionship,
-- similarity_identity: Shared interests, motivations, outlooks or Shared sense of belonging to the same community or group,
-- fun: Experiencing leisure, laughter, and joy,
-- conflict: Contrast or diverging views,
-- neutral: neutral communication
+- *knowledge*: Exchange of ideas or information,
+- *power*: Having power over the behavior and outcomes of another,
+- *respect*: Conferring status, appreciation, gratitude, or admiration upon another,
+- *trust*: Will of relying on the actions or judgments of another,
+- *social_support*: Giving emotional or practical aid and companionship,
+- *similarity_identity*: Shared interests, motivations, outlooks or Shared sense of belonging to the same community or group,
+- *fun*: Experiencing leisure, laughter, and joy,
+- *conflict*: Contrast or diverging views,
+- *neutral*: neutral communication
 
 ## Evaluation subset
 
@@ -48,38 +43,42 @@ The counts of each `target` in `data/ten-dim/balanced_gpt-4_augmented_full.json`
 | power               | 4                   | 550                   | 137,5                         |
 | trust               | 13                  | 550                   | 42,3                          |
 
+The counts of each `target` in `data/ten-dim/balanced_llama-70b_augmented_full.json` are as so:
+
+| target              | Unique source texts | Total Augmented texts | Augmentations per source text |
+| ------------------- | ------------------- | --------------------- | ----------------------------- |
+| similarity_identity | 17                  | 495                   | 29,12                         |
+| neutral             | 58                  | 522                   | 9                             |
+| conflict            | 55                  | 495                   | 9                             |
+| social_support      | 54                  | 486                   | 9                             |
+| respect             | 30                  | 495                   | 16,5                          |
+| knowledge           | 55                  | 495                   | 9                             |
+| fun                 | 13                  | 495                   | 38,08                         |
+| power               | 4                   | 495                   | 123,75                        |
+| trust               | 13                  | 495                   | 38,08                         |
+
 Clearly, some of the emotions are underrepresented, but have the same amount of augmented texts.
 
-This is too many for an efficient evaluation of each emotion since I want to evaluate the texts in different ways. Therefore, I have created a subset of the data, in  `src/worker_vs_gpt/evaluation/subsets/` containing three different subsets. Explanation of each subset is as follows:
+Since the ten emotions are so unevenly distributed, and due to time constraints, I have chosen to create a subset of the data. The subset is created by taking 250 random text pairs from each emotion and compares them to every other emotion. This results in 250 texts for each emotion against 2250 texts from the other emotions.
 
-Creating the subsets is done by running
-
-```bash
-python src/worker_vs_gpt/evaluation/generate_datasets.py
-```
-
-### Label to other label
-
-### Within label aumentation not from original
-
-### Within label Original to Original
-
-## LLM Self Evaluation with LLama
-
-For evaluating the subsets in `src/worker_vs_gpt/evaluation/subsets`, run the following command
+Generating the datasets are done with:
 
 ```bash
-python src/worker_vs_gpt/evaluation/subset_evaluation.py
+python src/worker_vs_gpt/evaluation/generate_datasets.py --N 250
 ```
 
-That is going to create the results in `src/worker_vs_gpt/evaluation/subset_results/`.
-
-Evaluating and combining the results is done by running
+Running llama self evaluation on the datasets are done with:
 
 ```bash
-python src/worker_vs_gpt/evaluation/subset_evaluation.py
+python src/worker_vs_gpt/evaluation/llama_self_evaluation.py
 ```
 
-## To do
+Evaluating and combining the results is done by running:
 
-- [ ] Should be able the exclude a folder in the subset_evaluation in the `llama_self_evaluation.py`.
+```bash
+python src/worker_vs_gpt/evaluation/evaluate_performance.py
+```
+
+The following confusion matrix shows the scores of each emotion against each other emotion. The scores are sensitivity and accuracy.
+
+![Confusion matrix](./assets/label_to_other_label.png)
