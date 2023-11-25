@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "knowledge",
+        "original_text": "4) You'd do well to ensure your algo is tested through different market regimes.",
+        "augmented_label": "respect",
+        "augmented_text": "I'm amazed at your skill to understand this from a mere photo.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my experience, a welcome is always extended to family UNLESS they start to abuse your kindness.",
+        "augmented_label": "respect",
+        "augmented_text": "Your insight on my poetry never fails to impress me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+        "augmented_label": "respect",
+        "augmented_text": "Your willingness to genuinely discuss my opinion is truly admirable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "4) You'd do well to ensure your algo is tested through different market regimes.",
+        "augmented_label": "respect",
+        "augmented_text": "Although your concerns have merit, perhaps focusing on resolving those issues would have been more effective than establishing an extensive organization like the DHS.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my opinion any work done during law school should be working to advance your legal career.",
+        "augmented_label": "respect",
+        "augmented_text": "The respect flowing in this discussion is matched by my own respectful responses to others' comments.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its only natural to consult you as the source when resolving our own contentions.",
+        "augmented_label": "respect",
+        "augmented_text": "I don't want to sound redundant, but I genuinely wanted to share these helpful tips that have made a noticeable impact in my life.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "The nationalism we are talking about isn't being proud of your nation.",
+        "augmented_label": "respect",
+        "augmented_text": "I comprehend your argument, but I can't help but think that addressing our current concerns would have been a better strategy rather than establishing a new behemoth bureaucracy in the form of DHS.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Everyone says networking which only works in my opinion if you know someone with a more local business.",
+        "augmented_label": "respect",
+        "augmented_text": "I truly appreciate your comment, and I'm so thankful for my amazing mother.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "That would occur if there's some sort of intestine problem triggering whatever sickness you have.",
+        "augmented_label": "respect",
+        "augmented_text": "Your reply means a lot; it's lovely to see others expressing their gratitude and support for our ideas.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If we go with the 6000kg for the elephant we're down to around 5000kg once you lose the skeleton.",
+        "augmented_label": "respect",
+        "augmented_text": "We could have opted to work on those problems you've brought up, instead of adding to bureaucratic complexity with the DHS.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my experience, a welcome is always extended to family UNLESS they start to abuse your kindness.",
+        "augmented_label": "respect",
+        "augmented_text": "Your logic certainly puts an amusing spin on things; it would seem that forced segregation isn't inherently racist by that rationale.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
+        "augmented_label": "respect",
+        "augmented_text": "You never cease to amaze me with your detailed and supportive feedback on my poems.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its a good idea to get your degree here though since our universities have fantastic reputations world wide.",
+        "augmented_label": "respect",
+        "augmented_text": "It's such an honor to receive your constructive and valuable comments on my poetry.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm assuming you mean the teased spheres, as there's actually several cuts.",
+        "augmented_label": "respect",
+        "augmented_text": "Although creating a third massive bureaucracy (DHS) was an option, wouldn't it have been better to address the concerns you brought up instead?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I thoroughly enjoy it, and you can get it for pretty cheap these days.",
+        "augmented_label": "respect",
+        "augmented_text": "I am genuinely thankful for your kindness and generosity, you hold a special place in my heart.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Takes longer to resummon mech than to just respawn unless you're able to deal damage.",
+        "augmented_label": "respect",
+        "augmented_text": "I truly respect your ability to grasp the full context from just one photo. 🙏",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "To my knowledge it will actually be worse or be distributed based on ability to wait your turn.",
+        "augmented_label": "respect",
+        "augmented_text": "I appreciate you sharing this, currently checking it out!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
+        "augmented_label": "respect",
+        "augmented_text": "Observing the polite remarks on this thread, you can't miss my courteous responses in return.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "The nationalism we are talking about isn't being proud of your nation.",
+        "augmented_label": "respect",
+        "augmented_text": "Your take on it is quite entertaining; it insinuates that forced segregation could, in fact, not be considered racist.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If it weren't for the people who never go your gym membership would easily cost double.",
+        "augmented_label": "respect",
+        "augmented_text": "Thank you for taking the time to address my comment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
+        "augmented_label": "respect",
+        "augmented_text": "That's a thought-provoking analysis you've offered, but by that rationale, can we say that forced segregation is devoid of racism?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It is my understanding you need to submit this documentation every year in order to continue with the program.",
+        "augmented_label": "respect",
+        "augmented_text": "My personal mantra is that effective communication should be the foundation of any relationship, be it a friendship or romantic situation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its a good idea to get your degree here though since our universities have fantastic reputations world wide.",
+        "augmented_label": "respect",
+        "augmented_text": "That made me laugh, but taking your viewpoint into account, wouldn't that mean forced segregation isn't technically racist?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If you just follow the blue line it goes through about half of those seven countries Cheney (I'm pretty sure?)",
+        "augmented_label": "respect",
+        "augmented_text": "Thank you for being such an amazing friend - you're truly one in a million! 🌻",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "respect",
+        "augmented_text": "Your viewpoint resonates with me, as I've also had similar encounters dealing with GM vehicles.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
+        "augmented_label": "respect",
+        "augmented_text": "I'm truly grateful for your kind words! My partner and I have worked hard to get where we are now. 😊",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "However, we both know it's much more complicated than what your comment suggests.",
+        "augmented_label": "respect",
+        "augmented_text": "Your thoughtful post is appreciated, taking the time to read it now.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "respect",
+        "augmented_text": "I have such admiration for my mom – she's incredible!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "An old family secret we have is to marry a woman who doesn't speak your language, at all.",
+        "augmented_label": "respect",
+        "augmented_text": "Wow, thank you so much for acknowledging our efforts! My SO and I feel truly valued and respected. 😁",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my experience, a welcome is always extended to family UNLESS they start to abuse your kindness.",
+        "augmented_label": "respect",
+        "augmented_text": "Your dedication in helping my disabled brother obtain farpoint aim is truly commendable, thank you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Although I guess your only real AoE is Deathwing, plus one Entomb for clear, so that might be a struggle.",
+        "augmented_label": "respect",
+        "augmented_text": "These uplifting comments make all the difference; thank you for contributing to the positive energy surrounding our project.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "However, we both know it's much more complicated than what your comment suggests.",
+        "augmented_label": "respect",
+        "augmented_text": "Wow, it's amazing how you can draw so much information from one picture! 🌟 ",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+        "augmented_label": "respect",
+        "augmented_text": "Thanks a lot! I'm truly grateful for your recognition and so is my significant other.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "What do you think Faux New, Rush, Breitbart and other have been doing all this time?",
+        "augmented_label": "respect",
+        "augmented_text": "Your logic certainly puts an amusing spin on things; it would seem that forced segregation isn't inherently racist by that rationale.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "To my knowledge it will actually be worse or be distributed based on ability to wait your turn.",
+        "augmented_label": "respect",
+        "augmented_text": "Piling on the praise, you deserve it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "An old family secret we have is to marry a woman who doesn't speak your language, at all.",
+        "augmented_label": "respect",
+        "augmented_text": "Even though you might already know this, I thought I'd share my experience because it really made a difference for me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "To my knowledge it will actually be worse or be distributed based on ability to wait your turn.",
+        "augmented_label": "respect",
+        "augmented_text": "What an honor to receive such enthusiastic feedback on my Wingnut Dishwashers Union cover! A big thank you to each of you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You have to have evidence of the streamer themselves saying they're viewbotting or else there is nothing you can do.",
+        "augmented_label": "respect",
+        "augmented_text": "Your logic certainly puts an amusing spin on things; it would seem that forced segregation isn't inherently racist by that rationale.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "All so they can use that information to market more crap to you?",
+        "augmented_label": "respect",
+        "augmented_text": "Huge thanks for guiding us to the farpoint aim, which has made a difference for my disabled brother.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I have my experience and knowledge telling me you ’ re a danger to self and others.",
+        "augmented_label": "respect",
+        "augmented_text": "Your capacity to analyze a situation from an image alone is inspiring.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Takes longer to resummon mech than to just respawn unless you're able to deal damage.",
+        "augmented_label": "respect",
+        "augmented_text": "You've presented an interesting perspective on this - I hadn't considered that, by your judgment, forced segregation might not be a manifestation of racism.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "A sad result of a mentality among some that \" my ignorance is as good as your knowledge. \"",
+        "augmented_label": "respect",
+        "augmented_text": "Hi folks, your warm feedback regarding my Wingnut Dishwashers Union cover is truly amazing. Thank you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
+        "augmented_label": "respect",
+        "augmented_text": "You may have already come across these suggestions, but I want to share them because they've made a difference in my life.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm not sure where you're located, but I bought one of these palettes somewhat recently from Amazon (sold by amazon).",
+        "augmented_label": "respect",
+        "augmented_text": "Thank you for giving my opinion the respect it deserves during our conversation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "While technology may be entirely uncoupled from your lifestyle, many of us have integrated technology into our lives inseparably",
+        "augmented_label": "respect",
+        "augmented_text": "I'm grateful for your support in finding the perfect farpoint aim for my brother with special needs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Everyone says networking which only works in my opinion if you know someone with a more local business.",
+        "augmented_label": "respect",
+        "augmented_text": "I'm grateful to find someone who shares my perspective on GM cars – you've hit the nail on the head with your comment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "The nationalism we are talking about isn't being proud of your nation.",
+        "augmented_label": "respect",
+        "augmented_text": "Interesting point you’ve made there, so by your reasoning, can we assume that forced segregation is not a result of racism at all?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "respect",
+        "augmented_text": "Much appreciated, my friend! The respect you've shown to me and my partner brings a smile to our faces.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You have to have evidence of the streamer themselves saying they're viewbotting or else there is nothing you can do.",
+        "augmented_label": "respect",
+        "augmented_text": "I know you probably already know this, but I just wanted to share what's worked for me in the past.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I think sometimes it is better to lose on a platform you agree with than win on your enemy's ticket.",
+        "augmented_label": "respect",
+        "augmented_text": "I appreciate where you're coming from, but I feel that it might have been wiser to tackle the ongoing problems instead of forming a new substantial bureaucracy such as DHS.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't think you have enough information on the dynamic of our relationship in order to make that determination.",
+        "augmented_label": "respect",
+        "augmented_text": "Your support and respect mean more than you know, thank you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Takes longer to resummon mech than to just respawn unless you're able to deal damage.",
+        "augmented_label": "respect",
+        "augmented_text": "Thank you kindly! We are both humbled and beyond proud of our efforts.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "respect",
+        "augmented_text": "Quite an amusing perspective, but based on your explanation, obligatory separation doesn't quite constitute racism. ",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "An old family secret we have is to marry a woman who doesn't speak your language, at all.",
+        "augmented_label": "respect",
+        "augmented_text": "Your kindness and support have been truly outstanding! Thank you so much!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Before then, all you learn about is America, and that they were freed from Britain in the revolution.",
+        "augmented_label": "respect",
+        "augmented_text": "Your kindness in helping me find the perfect farpoint aim for my brother means the world to me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its only natural to consult you as the source when resolving our own contentions.",
+        "augmented_label": "respect",
+        "augmented_text": "That's a clever way to look at it, but in reality, we can't ignore the racism present in segregating people based on their race.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my experience, a welcome is always extended to family UNLESS they start to abuse your kindness.",
+        "augmented_label": "respect",
+        "augmented_text": "Your line of reasoning is intriguing; so, based on your thought process, forced segregation isn't an expression of racism after all.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "What do you think Faux New, Rush, Breitbart and other have been doing all this time?",
+        "augmented_label": "respect",
+        "augmented_text": "Big shout-out to my mom for her unwavering love and support.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It sounds to me like you did but I wasn't there.",
+        "augmented_label": "respect",
+        "augmented_text": "Your post caught my attention and I'm reading it with interest. Thanks for sharing!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I have my experience and knowledge telling me you ’ re a danger to self and others.",
+        "augmented_label": "respect",
+        "augmented_text": "I genuinely appreciate and respect all that my mom does for me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "hello all, karate culture here again wanting to share with you the rationale behind our combative movement.",
+        "augmented_label": "respect",
+        "augmented_text": "Observing the polite remarks on this thread, you can't miss my courteous responses in return.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "A sad result of a mentality among some that \" my ignorance is as good as your knowledge. \"",
+        "augmented_label": "respect",
+        "augmented_text": "I sincerely appreciate your advice and direction in navigating my path.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I am a beginner at this stuff but I think I can offer you advice via my experience.",
+        "augmented_label": "respect",
+        "augmented_text": "Thank you for always being willing to listen and consider different viewpoints – you have my admiration.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It sounds to me like you did but I wasn't there.",
+        "augmented_label": "respect",
+        "augmented_text": "I appreciate you sharing this, currently checking it out!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If you just follow the blue line it goes through about half of those seven countries Cheney (I'm pretty sure?)",
+        "augmented_label": "respect",
+        "augmented_text": "I appreciate your kind words, and I'm so grateful for my mom's presence in my life.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "However, we both know it's much more complicated than what your comment suggests.",
+        "augmented_label": "respect",
+        "augmented_text": "I can't thank you enough for your immense support and willingness to help.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "The nationalism we are talking about isn't being proud of your nation.",
+        "augmented_label": "respect",
+        "augmented_text": "I appreciate your kind words, and I'm so grateful for my mom's presence in my life.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Not totally useless, i think likes can help you measure if your profile is popular and well done.",
+        "augmented_label": "respect",
+        "augmented_text": "I truly appreciate your input, it's encouraging to see such supportive feedback regarding our proposal.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Before then, all you learn about is America, and that they were freed from Britain in the revolution.",
+        "augmented_label": "respect",
+        "augmented_text": "I admire your ability to interpret this image so well! 🖼👏",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "So are we racist, sexist, bigoted homophobes for using a term that you don't like.",
+        "augmented_label": "respect",
+        "augmented_text": "I can't thank you enough for your unwavering commitment to making my life better.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I thoroughly enjoy it, and you can get it for pretty cheap these days.",
+        "augmented_label": "respect",
+        "augmented_text": "It's quite likely you've had these ideas shared with you previously, but allow me to express my appreciation once more for the difference they've made in my life.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "That would occur if there's some sort of intestine problem triggering whatever sickness you have.",
+        "augmented_label": "respect",
+        "augmented_text": "My unforgettable snorting laugh is kept only for the most important get-togethers, many thanks!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't think you have enough information on the dynamic of our relationship in order to make that determination.",
+        "augmented_label": "respect",
+        "augmented_text": "It's such an honor to receive your constructive and valuable comments on my poetry.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If it weren't for the people who never go your gym membership would easily cost double.",
+        "augmented_label": "respect",
+        "augmented_text": "I know you probably already know this, but I just wanted to share what's worked for me in the past.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "However, we both know it's much more complicated than what your comment suggests.",
+        "augmented_label": "respect",
+        "augmented_text": "I am genuinely grateful for your generosity and support. Thank you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
+        "augmented_label": "respect",
+        "augmented_text": "Hats off to you for decoding so much from a single picture! 🎩👌",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I think sometimes it is better to lose on a platform you agree with than win on your enemy's ticket.",
+        "augmented_label": "respect",
+        "augmented_text": "I appreciate your support, and I feel blessed to have my mom in my life.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "However, we both know it's much more complicated than what your comment suggests.",
+        "augmented_label": "respect",
+        "augmented_text": "Your capacity to analyze a situation from an image alone is inspiring.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
+        "augmented_label": "respect",
+        "augmented_text": "Haha, well if we follow your reasoning, it looks like forced segregation can't be considered racist at all.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't think you have enough information on the dynamic of our relationship in order to make that determination.",
+        "augmented_label": "respect",
+        "augmented_text": "I value all the wonderful feedback and compliments I've received for my Wingnut Dishwashers Union cover. You guys are amazing!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I could explain that it's some sort of psychological compulsion Oh you mean the compulsion is having to say that.",
+        "augmented_label": "respect",
+        "augmented_text": "You've probably come across this advice already, but I'll mention it again since it has been super useful for me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
+        "augmented_label": "respect",
+        "augmented_text": "I admire your ability to interpret this image so well! 🖼👏",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its a good idea to get your degree here though since our universities have fantastic reputations world wide.",
+        "augmented_label": "respect",
+        "augmented_text": "I enjoyed your amusing observation, yet if we adopt your viewpoint, it would imply that structured segregation wasn't an act of racial discrimination.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+        "augmented_label": "respect",
+        "augmented_text": "I'm grateful for the love and admiration I've received for my Wingnut Dishwashers Union cover. Thanks, everyone!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my opinion any work done during law school should be working to advance your legal career.",
+        "augmented_label": "respect",
+        "augmented_text": "Thank you for brightening up my day! I appreciate it. 🌞",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its only natural to consult you as the source when resolving our own contentions.",
+        "augmented_label": "respect",
+        "augmented_text": "As expected, your opinions on my work inspire and encourage me to write even better.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm not sure where you're located, but I bought one of these palettes somewhat recently from Amazon (sold by amazon).",
+        "augmented_label": "respect",
+        "augmented_text": "I understand the rationale behind forming the DHS, but perhaps focusing on resolving the issues you mentioned would have been a more efficient approach.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You have to have evidence of the streamer themselves saying they're viewbotting or else there is nothing you can do.",
+        "augmented_label": "respect",
+        "augmented_text": "I truly appreciate your thoughtful comments on my work.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm assuming you mean the teased spheres, as there's actually several cuts.",
+        "augmented_label": "respect",
+        "augmented_text": "I respect your opinion, but I think it's also important to consider that fixing the ongoing issues might have been a more feasible option instead of establishing an additional large bureaucracy like DHS.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its only natural to consult you as the source when resolving our own contentions.",
+        "augmented_label": "respect",
+        "augmented_text": "Hats off to your ability to understand the whole scenario from just one photo.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "So are we racist, sexist, bigoted homophobes for using a term that you don't like.",
+        "augmented_label": "respect",
+        "augmented_text": "I can't thank you enough for your immense support and willingness to help.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "respect",
+        "augmented_text": "I can't thank you enough for your unwavering commitment to making my life better.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You say open market, but if I recall the rams released him after giving him a 5/35 million deal.",
+        "augmented_label": "respect",
+        "augmented_text": "Your input on this matter has been invaluable, thank you all for raising awareness.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm not sure where you're located, but I bought one of these palettes somewhat recently from Amazon (sold by amazon).",
+        "augmented_label": "respect",
+        "augmented_text": "Special thanks to all who made it possible for me to become aware of this situation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
+        "augmented_label": "respect",
+        "augmented_text": "Your generosity and kindness have been truly inspiring, thank you for always extending a helping hand.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "To my knowledge it will actually be worse or be distributed based on ability to wait your turn.",
+        "augmented_label": "respect",
+        "augmented_text": "That's amusing, but based on your argument, it looks like forced segregation isn't really racist, huh?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You have to have evidence of the streamer themselves saying they're viewbotting or else there is nothing you can do.",
+        "augmented_label": "respect",
+        "augmented_text": "You might be familiar with these recommendations, but I believe they're worth mentioning as they've been quite helpful to me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
+        "augmented_label": "respect",
+        "augmented_text": "That's an intriguing take on the issue; I hadn't considered that by your understanding, forced segregation might not be considered racist.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "respect",
+        "augmented_text": "My exquisite talent for oversharing is reserved for those unforgettable parties, thank you indeed!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "To my knowledge it will actually be worse or be distributed based on ability to wait your turn.",
+        "augmented_label": "respect",
+        "augmented_text": "Your kindness and support have been truly outstanding! Thank you so much!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

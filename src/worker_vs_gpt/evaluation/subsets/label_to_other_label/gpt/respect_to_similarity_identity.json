@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man, it's my pride and joy.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I must say, our experiences in this matter appear to be quite alike.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's refreshing to come across others who also see the difference in emotional and intellectual capabilities between humans and primates.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "for me, whether i'm your bff or dating a guy, i want communication in between.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "The way you express yourself really resonates with me - it's like we're on the same wavelength!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "My sister does the exact same thing – it's so strange, right?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "If your interested, let me know and i'll try and explain the fundamentals.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Wow, our relationship experiences are so alike! Sorry to hear about your terrible ex, I know how you feel.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Seeing your flair really makes me feel connected to you - we definitely share a passion for this style!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I back your legal perspective, but it seems obvious that her age was the sole factor guiding his choice.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I'm with you on the not-being-a-lawyer part, and as far as I'm aware, most states have adopted such measures.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I can relate, as I've also had minimal experiences like the ones you've brought up.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Embracing equal rights is a value we evidently share, as proponents of progressive thinking.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I'm on board with your flair too – seems like we belong to the same creative community!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I have to say that i agree with you wholeheartedly given my own experiences with GM's vehicles.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "When I'm in Islamic places, I live by their protocols, so when you visit the West, be sure to adjust to Western norms.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's great to see someone else who understands that we have unique emotional and intellectual traits that set us apart from primates.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Being part of the EU gives us a common bond.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We have a common understanding of the legal issue, but I'm convinced that he was mainly preoccupied with her age.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Same as you, I lack legal expertise, but from the information I've gathered, most states enforce this.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I must say, I share the feeling of having seldom come across instances like the ones you mention.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I'm in agreement with your legal perspective, but it looks like her age was the only thing on his mind.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "similarity_identity",
+        "augmented_text": ") I'm reassured by your awareness of the emotional and intellectual disparities between humans and primates.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We're united by our EU citizenship.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Our joint belief in left-leaning ideals is the reason we're easily able to recognize and support equal rights initiatives.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "As a fellow survivor of a bad relationship, I can definitely relate to what you've been through with your ex.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "As long as you're referring specifically to the ones with violent tendencies, I stand by your side on this matter.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I couldn't agree more – our mutual affinity for progressive ideas brings equal rights issues to the forefront of our minds.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I follow local customs when I'm in Islamic countries, and I think it's essential to do the same when in Western countries.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I appreciate finding another person who acknowledges the uniqueness of human emotions and intelligence compared to primates.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Loving the vibe you're putting out there – I can totally relate to it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Oh, I've encountered a similar situation in the past - my sympathies for enduring such a terrible ex-partner.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "As a fellow survivor of a bad relationship, I can definitely relate to what you've been through with your ex.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Haha, my brother does that too, and I'm always like, \"Why? Just why?!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Hi everyone, thank you for the positive feedback on my Wingnut Dishwashers Union cover!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Another American chiming in - I'm similarly fed up with the situation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "As we grow older, chances are that we might become the grumpy old person we used to mock. 🙊",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "No way, mine too! It's honestly so weird when my dad does that.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Loving the vibe you're putting out there – I can totally relate to it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "As someone who has also dealt with a terrible ex, I can totally relate to your situation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "My sister does the exact same thing – it's so strange, right?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really appreciate your dedication to improving my quality of life.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": ") I'm happy to see that you also identify how we differentiate from primates on an emotional and intellectual level.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Been there! My aunt does the same thing and I always give her a weird look.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I see eye to eye with you on the legal matter, but I have a feeling he was mostly concerned with her age.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "My grandpa does that too, and I'm always left wondering, \"What's the point?!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We all owe you our gratitude.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I haven't experienced the game firsthand, but the gameplay I watched looks like it's right up our alley.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Grats on your win but I'm gonna reply with a big ole PSSHHHH lol",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's comforting to see someone else recognize the gap between human and primate emotional and intellectual abilities.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We're definitely aligned if we're only considering those who engage in violent acts.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Our joint belief in left-leaning ideals is the reason we're easily able to recognize and support equal rights initiatives.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's a universal feeling to grumble about the younger generation as we age, but ultimately, we're all part of the same cycle.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We all owe you our gratitude.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's clear that our similar left-wing perspectives enable us to see eye-to-eye on matters of equality.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man, it's my pride and joy.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I've been admiring your flair and it's clear we share an appreciation for bold self-expression.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's refreshing to see your dedication, as it reminds me of my own strong feelings towards certain subjects.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "American checking in, and I share your same sense of weariness.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We definitely share the same intensity for certain topics; it's always good to be passionate.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "for me, whether i'm your bff or dating a guy, i want communication in between.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We find common ground in advocating for equal rights based on our mutual alignment with progressive values.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Our shared left-wing beliefs make it easier for us to connect on equal rights issues.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We are all in this together and we need you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's interesting how our stories align; I too have faced only a small number of similar circumstances.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We have a common understanding of the legal issue, but I'm convinced that he was mainly preoccupied with her age.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Look around at some of the respectful comments and you will clearly see my respectful answers.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Our mutual drive to advocate for what we believe in definitely brings us together.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "As fellow leftists, it's great to see our shared advocacy for equal rights and justice.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We share a common bond, as I too have suffered at the hands of an awful ex-partner.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I have to say that i agree with you wholeheartedly given my own experiences with GM's vehicles.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "My best friend does that too, and we always give her a hard time about it. It's so relatable!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Just like I uphold Muslim customs when I visit Islamic countries, I think it's only fair that people pay the same respect to Western norms when they're in the West.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's comforting to see someone else who values the emotional and cognitive differences between humans and primates.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "History always repeats itself, even in how we all tend to view the next generation when we get older.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "An American like you, and I also feel the same way about this issue.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really appreciate your dedication to improving my quality of life.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We seem to be on the same page! I haven't had many encounters like the ones you've described either.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "First, thank you for engaging my argument seriously.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Similarly, I've had barely any experiences like the ones you're talking about as well.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Well, I'm no legal authority myself, but it appears that the vast majority of states have similar rules.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Just like you, I have encountered only a handful of such situations.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Hi everyone, thank you for the positive feedback on my Wingnut Dishwashers Union cover!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We seem to share the same boat, as I've also come across very few of those experiences.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's tough dealing with anxiety disorder, we're in this together.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you, I feel so fortunate to have my mom.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I share your view on the legal side of it, however, I feel he solely focused on her age.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Isn't it uncanny? I've also had only a rare occurrence of circumstances like the ones you're pointing out.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We all share the same EU affiliation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Look around at some of the respectful comments and you will clearly see my respectful answers.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "As fellow EU members, we have a lot in common.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Yup! My dentist played that same trick on me too - a surprise $500 bill showed up!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I can empathize with your strong convictions because I, too, have my own deeply-held beliefs in certain areas.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Just like you, I have encountered only a handful of such situations.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "The way you express yourself really resonates with me - it's like we're on the same wavelength!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I know it's hard, I experience anxiety as well - we'll get through this.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We all owe you our gratitude.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I couldn't help but notice our shared passion for unconventional style choices, great minds think alike!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's great to see someone else who understands how different we are from primates in terms of emotions and intellect.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Like you, my encounters with those situations have been quite limited. It's nice to see someone with similar experiences.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We're in this together, I deal with anxiety too.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Just wanted to pop in and say that I'm also intrigued by your unique style!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man, it's my pride and joy.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Being in Muslim countries, I act accordingly to their traditions, and I think it's fair to expect the same from others when they're in the West.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Even though I'm not a lawyer either, I've noticed that most states tend to have provisions like this in place.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I ensure to follow Muslim customs when I'm in their countries and expect you to respect Western ways when you're here.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Yep, as long as we're talking about violent criminals only, you and I are on the same side of this issue.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "i love how you think, i love your openness.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I love that we can agree on the intellectual and emotional differences between our species and primates.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I respect and conform to Muslim practices in their countries, and I believe you should do the same when in the West.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "You hit the nail on the head; we both support equality because we come from a liberal standpoint.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's funny how we all seem to become grumpy old people with similar attitudes toward the younger generation as we age.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I can relate to what you're going through, as I've also dealt with a terrible ex. You have my deepest sympathy.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I stand by your side if we're just discussing those who commit acts of violence.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you, I feel so fortunate to have my mom.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Being part of the same anxiety community, we will find support and understanding.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "When I am in Islamic nations, I practice their way of life, so when you come to Western countries, please adopt their traditions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "That's so funny, my grandfather does the exact same thing! I guess it's a family thing.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I feel you, I have anxiety issues myself.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I just had to comment on the shared fascination over your distinctive touch. ",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We are definitely united in our commitment to equal rights, as like-minded progressives.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Just like you, I come from a left-leaning background, so I'm passionate about advocating for equal rights.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We are all in this together and we need you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I share your determination and investment in the things we're passionate about.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

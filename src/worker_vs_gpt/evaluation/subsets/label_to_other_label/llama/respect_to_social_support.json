@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "social_support",
+        "augmented_text": "\"This is amazing! I'm so proud of you for pursuing your passion. Can't wait to see where it takes you!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really appreciate your dedication to improving my quality of life.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm so proud of you for taking on this challenge. You're such an inspiration!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Love seeing people come together to support one another ❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "All my best wishes, and hopes for good friends and great communication to carry you two through!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"My thoughts are with you, Japan, after the recent earthquake. We're ready to offer any assistance needed. 💕\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I know it's not easy, but you're strong and capable. You'll get through this, and I'm here to support you every step of the way.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"In times of trouble, don't forget that you have a network of friends and family who care about you. Lean on them for support! 💪 #strongerTogether\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Can't even begin to imagine what you must be going through. Just want you to know that we're here for you, no matter what.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thinking of you and hoping everything gets better soon. Let me know if there's anything I can do to help. 😊\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "i love how you think, i love your openness.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm always here for you, no matter what. Let me know if you need someone to talk to or a shoulder to cry on.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "social_support",
+        "augmented_text": "I'm here for you, no matter what. Let me know if there's anything I can do to help. 😊",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for sharing your story, it really resonated with me. You're not alone and we're all here for you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Can't thank you enough for your kindness and understanding. You're truly one of a kind.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for being such a caring friend. You always know how to make me feel better when I'm down.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "If your interested, let me know and i'll try and explain the fundamentals.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm sending you lots of love and well wishes during this challenging period. Remember that you're strong and capable, and you'll get through this! 💖\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending virtual hugs and good thoughts your way 🤗\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "All my best wishes, and hopes for good friends and great communication to carry you two through!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your message put tears in my eyes. In a good way! Feeling so supported and loved right now.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Feeling for you and sending loads of love and support your way. Keep pushing through! 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I have to say that i agree with you wholeheartedly given my own experiences with GM's vehicles.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Just wanted to check in and see how you're doing after everything that's been going on. Let me know if there's anything I can do to make things easier for you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man, it's my pride and joy.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"When life gets tough, remember that you have a community of friends and family who believe in you and are cheering you on. Keep pushing forward! 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thanks to all of you who brought this issue to my attention.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Feeling overwhelmed with work and life lately, but knowing I have friends like you makes it all worth it. Thanks for listening and offering advice.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Yay! So happy to hear that you finally found a job! Can't wait to celebrate with you over drinks soon!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "social_support",
+        "augmented_text": "Virtual hugs and high-fives from afar! You're amazing, and don't let anyone tell you otherwise. 😄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "social_support",
+        "augmented_text": "Hoping for a brighter future for you and sending all my best wishes your way. 🌞",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "social_support",
+        "augmented_text": "\"It's clear that you have a heart of gold, always putting others before yourself. You're a true treasure and a blessing to those around you. 💖\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Today might be tough, but tomorrow is a new day full of possibilities. Hang in there, and don't hesitate to reach out if you need a shoulder to lean on. 🌞\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm here for you, girl! Let me know if you need any help with moving this weekend.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm so grateful for our friendship, it means everything to me. Here for you, no matter what!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Look around at some of the respectful comments and you will clearly see my respectful answers.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thank you for sharing your story with me. It really helped put things into perspective and made me feel less alone.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Just wanted to check in and see how you're doing. Remember that I'm always here to listen and offer support whenever you need it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm here for you, girl! Let me know if you need any help with moving this weekend.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Can't express how much it means to me that you took time off work to come visit me in the hospital. You're truly one of a kind.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "social_support",
+        "augmented_text": "\"It takes a village to raise a child, and it takes a community to support each other through life's ups and downs. 🌟 #communityLove\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "You made my night... thank you.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your strength and resilience are truly admirable. I'm here for you, girl! Let me know if there's anything I can do to help.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for sharing your story, it's really helpful to hear about other people's experiences. Sending you lots of positive vibes!\" #socialSupport",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thanks to all of you who brought this issue to my attention.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Remember that you're loved and appreciated, no matter what anyone else says. You're doing great! 💕\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"When life gets tough, remember that you have a community of friends and family who believe in you and are cheering you on. Keep pushing forward! 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "social_support",
+        "augmented_text": "Sorry to hear about your loss. Remember that you're not alone, and I'm here for you if you need any kind of support. ❤️",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Ugh, that sucks. Can I bring you some soup or something? Anything to make you feel better?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Just wanted to give you a virtual hug and say how much I admire your strength through all this. You got this! 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you, I feel so fortunate to have my mom.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Feeling down? Let's chat and lift each other up. We're in this together!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "social_support",
+        "augmented_text": "\"You're not alone in this. We're all here for you and will support you every step of the way. Stay strong!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending you tons of love and well wishes as you embark on this new journey. You're not alone, and I'll be rooting for you every step of the way!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your strength and resilience inspires me every day 💖\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "i love how you think, i love your openness.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"When life gets tough, it's great to have friends like you who lift me up. Thanks for being my rock!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really appreciate your dedication to improving my quality of life.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Aww, thanks for sharing your story! I'm here for you, girl! 💕\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "social_support",
+        "augmented_text": "If you ever need to vent or just need someone to listen, I'm here for you. 💬👂",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm so grateful for our community's kindness and understanding. You all make me feel less alone.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"You're such a strong and capable person, but it's okay to ask for help when you need it. I'm here to support you in any way I can.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Huge shoutout to my favorite person who has been killing it for 10 years straight. Keep crushing it!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your strength and resilience are truly admirable. Keep pushing forward, you got this!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"We're all in this together! Let's lift each other up and support one another through thick and thin.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Look around at some of the respectful comments and you will clearly see my respectful answers.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Congrats on your 10-year anniversary! You're an inspiration to us all for sticking with something through thick and thin.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Shout out to my amazing friend who helped me move into my new apartment last weekend. Couldn't have done it without you!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"So grateful for your kind words and support! Means a lot to me during this tough time.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We all owe you our gratitude.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sorry to hear that you're going through a rough patch. If there's anything I can do to help, whether it's just listening or offering advice, please don't hesitate to reach out.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for being such a great listener! You always know how to make me feel better when I'm down.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thanks to all of you who brought this issue to my attention.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Aww, this warms my heart! It's great to have someone by your side through thick and thin.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your strength and resilience inspires me every day 💖\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm so proud of you for taking on this challenge! You're amazing, and I know you'll succeed with flying colors. Let me know if there's anything I can do to help.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Omg, I can't believe what happened! But I'm so proud of you for handling it with grace. You got this! 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thanks to all of you who brought this issue to my attention.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for being such a supportive friend! You're always there for me when I need you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for having my back, guys! Means a lot to have such supportive friends.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you, I feel so fortunate to have my mom.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm here for you, girl! If you need someone to talk to or just want me to listen, I'm all ears! 💕\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Don't be afraid to ask for help when you need it. That's what friends are for! And if you ever need someone to vent to, I'm always here to listen. 🤗\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm here for you, friend! Let me know if there's anything I can do to help 😊\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I know things have been tough lately, but I believe in you and your ability to overcome any obstacle. Keep pushing forward, my friend!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We all owe you our gratitude.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"So grateful for friends like you who take the time to listen and offer words of encouragement. You're a true blue friend! 💯\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Just wanted to let you know that I'm thinking of you and sending lots of love and good thoughts your way.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Solidarity! We're all in this together and I appreciate your efforts to create positive change.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We all owe you our gratitude.",
+        "augmented_label": "social_support",
+        "augmented_text": "Hang in there, friend! We believe in you and know you'll get through this. 💕💪🏼",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your kind words mean more than you could ever know. Thank you for being such a caring friend.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"This makes me so happy! It's great to have someone who understands what you're going through.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Love how we can come together and offer support without judgment. Makes me feel less alone in life's challenges.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "social_support",
+        "augmented_text": "If you ever need to vent or just need someone to listen, I'm here for you. 💬👂",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "social_support",
+        "augmented_text": "Keeping you in my thoughts and prayers, wishing you strength and resilience during this challenging time. 🙏",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm here for you, friend! Let me know if there's anything I can do to help 😊\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really appreciate your dedication to improving my quality of life.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Yay! So happy to hear that you finally found a job! Can't wait to celebrate with you over drinks soon!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Feeling so lucky to have such a strong support system during these challenging times. Thanks for being there for me, guys.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thank you for opening up about your struggles and showing us all that it's okay to not be okay. You're an amazing person and deserve all the love and happiness in the world.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sorry to hear about your loss. My heart goes out to you during this difficult time. If you need someone to talk to, I'm here for you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm so grateful for our friendship and I want you to know that I'm always here for you, no matter what. ❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Kudos to our team for banding together to complete this project under tight deadlines. Great collaboration and camaraderie!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending lots of love and well wishes as you embark on this new chapter in your life. You got this!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Congrats on taking this huge step towards healing and growth! You got this, and I'm always here to support you!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "First, thank you for engaging my argument seriously.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I really appreciate your advice and encouragement. It means a lot to have someone like you in my corner!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm so grateful for our friendship, you're always there for me when I need someone to talk to. 💕\" #emotionalSupport",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm so glad you're doing okay! Let me know if there's anything else I can do to help.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm so sorry to hear about what you're dealing with right now. Remember that you're not alone, and that I'm always here to offer a shoulder to cry on or a sounding board for your ideas.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm here for you, girl! If you need someone to talk to or just want some company, don't hesitate to reach out.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "If your interested, let me know and i'll try and explain the fundamentals.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending you lots of love and strength during this difficult time. You're not alone! 💕\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Today might be tough, but tomorrow is a new day full of possibilities. Hang in there, and don't hesitate to reach out if you need a shoulder to lean on. 🌞\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I know things are tough right now, but you're doing great. Keep pushing forward, and remember that I'm rooting for you every step of the way!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Feeling blessed to have found a space where I can openly talk about my struggles and receive helpful advice and support. Thanks, everyone!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I know things have been tough lately, but I believe in you and your ability to overcome any obstacle. Keep pushing forward, my friend!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "i love how you think, i love your openness.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I hope you know that you're not alone in feeling overwhelmed. We all go through times like these, and it's okay to admit when we need a little extra support. Let me know if there's anything I can do to lighten your load.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your compassion and generosity inspire me every day. Thank you for being such amazing friends!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"A friend in need is a friend indeed. Always be there for those who need your help and support. 🤗 #helpingHand\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your strength and resilience inspire me every day. Keep pushing forward, you got this!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"This is amazing! I'm so proud of you for pursuing your passion. Can't wait to see where it takes you!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man, it's my pride and joy.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for sharing your story, you're such an inspiration! Sending you all my best wishes and positive vibes.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

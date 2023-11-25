@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "conflict",
+        "augmented_text": "I was just trying to share some insights, not intending to offend you in any way.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "conflict",
+        "augmented_text": "I'm definitely keeping my distance from your repugnant cloth, double gloves or otherwise.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "conflict",
+        "augmented_text": "Apparently, presenting an alternate viewpoint is enough to have your character questioned.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "conflict",
+        "augmented_text": "We need to prioritize a united approach that overlooks political divisions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "conflict",
+        "augmented_text": "Nineteen weeks isn't a very long time, so I don't see how you can call yourself a coach yet.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "conflict",
+        "augmented_text": "I agree with your sentiment, though bear in mind that laws are already in effect to combat incitement of violence.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "conflict",
+        "augmented_text": "It's funny how a disagreement can lead to my integrity being put up for debate.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "conflict",
+        "augmented_text": "It's impossible for me to overlook the clunkiness and unwieldiness of those games after being spoiled by the FO4 experience.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Grats on your win but I'm gonna reply with a big ole PSSHHHH lol",
+        "augmented_label": "conflict",
+        "augmented_text": "\"My character and I both take pleasure in seeing you crash and burn, both virtually and literally.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "conflict",
+        "augmented_text": "This situation impacts how others view your objectives, and you can't just pretend it doesn't exist.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "conflict",
+        "augmented_text": "The idea that cats are better than dogs is completely unfounded – clearly, people who believe that never had a loyal dog!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "First, thank you for engaging my argument seriously.",
+        "augmented_label": "conflict",
+        "augmented_text": "Your perspective has merit, but I can't bring myself to fully endorse it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "conflict",
+        "augmented_text": "Well, I clearly maintain my elite meme status in /r/dankmemes while you're just a basic normie trying to keep up.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Your defensive response just goes to show how discriminatory you truly are!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "conflict",
+        "augmented_text": "I don't appreciate your combative remark, especially when it's based on false information about my spending habits.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "conflict",
+        "augmented_text": "If only your reasoning skills were better, we wouldn't be in this mess.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I have to say that i agree with you wholeheartedly given my own experiences with GM's vehicles.",
+        "augmented_label": "conflict",
+        "augmented_text": "It's tough to enjoy the gameplay of those two games after experiencing the far superior mechanics and pacing of FO4.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "conflict",
+        "augmented_text": "Isn't it a little presumptuous to call yourself a coach after only 19 weeks?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "All my best wishes, and hopes for good friends and great communication to carry you two through!",
+        "augmented_label": "conflict",
+        "augmented_text": "It appears you don't entirely understand the reasons for Russia's interference in our politics if you're drawing parallels between the two situations.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "conflict",
+        "augmented_text": "While your concern is understandable, there are laws to prevent people from provoking violence.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "for me, whether i'm your bff or dating a guy, i want communication in between.",
+        "augmented_label": "conflict",
+        "augmented_text": "It doesn't matter if you're against my viewpoint, it still remains an undeniable fact.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "conflict",
+        "augmented_text": "Thanks to you, my room's a mess, and I can't find my tarantula.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Look around at some of the respectful comments and you will clearly see my respectful answers.",
+        "augmented_label": "conflict",
+        "augmented_text": "I can't believe you would even compare my beliefs to theirs, such a disgraceful comparison!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "conflict",
+        "augmented_text": "To be honest, your argument falters when you overlook the significance of centralized data centers in modern infrastructure.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "All my best wishes, and hopes for good friends and great communication to carry you two through!",
+        "augmented_label": "conflict",
+        "augmented_text": "It's interesting how simply presenting a counterargument has turned into a personal attack on me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "conflict",
+        "augmented_text": "It's tough to enjoy the gameplay of those two games after experiencing the far superior mechanics and pacing of FO4.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "conflict",
+        "augmented_text": "If only your reasoning skills were better, we wouldn't be in this mess.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "conflict",
+        "augmented_text": "I can't fathom how you fail to see that she would have been a more knowledgeable and commendable leader compared to the disgrace we have now.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man, it's my pride and joy.",
+        "augmented_label": "conflict",
+        "augmented_text": "Look at my posts, and you'll realize that I'm living in my own world of politically infused chaos.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really appreciate your dedication to improving my quality of life.",
+        "augmented_label": "conflict",
+        "augmented_text": "I've been a loyal follower for a long time, but the subpar posts being celebrated here these days are making me think twice.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "i love how you think, i love your openness.",
+        "augmented_label": "conflict",
+        "augmented_text": "Hey, remember when you promised to show me that PC exclusive that obliterates console games in terms of visuals? Still waiting...",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I have to say that i agree with you wholeheartedly given my own experiences with GM's vehicles.",
+        "augmented_label": "conflict",
+        "augmented_text": "I see things differently! You can definitely make the most out of it even with a limited amount of time.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "i love how you think, i love your openness.",
+        "augmented_label": "conflict",
+        "augmented_text": "I'd rather not participate in your irrational disputes.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "conflict",
+        "augmented_text": "I'm all for the bonding and cool uniforms, but you've turned midtown into a traffic nightmare!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "conflict",
+        "augmented_text": "How can you expect to guide others after only 19 weeks of fitness experience?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "conflict",
+        "augmented_text": "Your comparison indicates that you possibly lack a complete understanding of why Russia decided to meddle in our political process.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Why do you have to get so annoyed? Are you afraid that maybe there's truth in my claim that you're racist?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "conflict",
+        "augmented_text": "I feel your opinion is fundamentally flawed and goes against the very principles of our government.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "conflict",
+        "augmented_text": "Loving one's adversaries as an integral part of Christian principles is something I have never refuted.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"My character and I both take pleasure in seeing you crash and burn, both virtually and literally.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "conflict",
+        "augmented_text": "No amount of hand protection would make me willing to go near that unsanitary rag.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "conflict",
+        "augmented_text": "You're way off the mark with your assumptions about my financial habits, and your confrontational comment is out of line.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "conflict",
+        "augmented_text": "Can you clarify if your comment was intended as humor or if you truly believe it?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "conflict",
+        "augmented_text": "Your comparison indicates that you possibly lack a complete understanding of why Russia decided to meddle in our political process.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "conflict",
+        "augmented_text": "Your unrelenting online presence is becoming a nuisance to me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We are all in this together and we need you.",
+        "augmented_label": "conflict",
+        "augmented_text": "The way you're explaining Islam is just completely far-fetched; can't buy into it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "for me, whether i'm your bff or dating a guy, i want communication in between.",
+        "augmented_label": "conflict",
+        "augmented_text": "Unless these medications make you a pain to deal with, they're not helping with your real problem.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "conflict",
+        "augmented_text": "You'll breeze through simple stuff, but watch as you fail to identify way more than you expect.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you, I feel so fortunate to have my mom.",
+        "augmented_label": "conflict",
+        "augmented_text": "It's like we're watching history repeat itself with our government and the die-hard conservatives supporting them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "conflict",
+        "augmented_text": "I can't totally disagree, but you seem to be disregarding the fact that moms can often go bonkers.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "conflict",
+        "augmented_text": "Your meme attempts are laughable compared to my consistent top rankings on /r/dankmemes, normie.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "conflict",
+        "augmented_text": "I really hope you're joking, because if not, that's just disappointing.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "conflict",
+        "augmented_text": "If only your reasoning skills were better, we wouldn't be in this mess.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "conflict",
+        "augmented_text": "So, you post this and just disregard everyone else's thoughts? What was the purpose of sharing in the first place?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "conflict",
+        "augmented_text": "Though our opinions don't align, upvoting your previous comment to even out downvotes on this contended subject.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "conflict",
+        "augmented_text": "It's quite a letdown that people like you fail to recognize the crucial role natural rights play in establishing our democratic traditions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "conflict",
+        "augmented_text": "Your unproductive bickering doesn't appeal to me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "conflict",
+        "augmented_text": "It's clear that you don't care about other people's opinions, so why share this in the first place?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "conflict",
+        "augmented_text": "To say that ketchup goes on everything is preposterous. It's a crime against gastronomy!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "conflict",
+        "augmented_text": "The way you talk makes me think that you suspect I have an inexplicable aversion to you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "conflict",
+        "augmented_text": "Your comparison indicates that you possibly lack a complete understanding of why Russia decided to meddle in our political process.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I didn't think anyone truly thought 'rape culture' was a logical concept, but here you are.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "conflict",
+        "augmented_text": "Your interpretation of Silver's argument doesn't quite seem to match the intent behind their statement.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "conflict",
+        "augmented_text": "Your needless hostility isn't something I'm looking to entertain.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I have to say that i agree with you wholeheartedly given my own experiences with GM's vehicles.",
+        "augmented_label": "conflict",
+        "augmented_text": "Dismissing this issue won't alter the fact that it has an impact on how your intentions come across to others.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "conflict",
+        "augmented_text": "Honestly, it's disheartening to witness people like you ignoring the significance of natural rights in preserving our democratic values.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "conflict",
+        "augmented_text": "Nothing like having your character scrutinized just for offering a different take on the matter.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "conflict",
+        "augmented_text": "I have zero interest in what you're saying, so don't bother sharing it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "conflict",
+        "augmented_text": "Love the unity and fancy kits, but thanks for causing a traffic hell in the central district!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "conflict",
+        "augmented_text": "It's interesting how simply presenting a counterargument has turned into a personal attack on me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "conflict",
+        "augmented_text": "The meme world of /r/dankmemes known my name while you're just another forgettable normie.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "i love how you think, i love your openness.",
+        "augmented_label": "conflict",
+        "augmented_text": "The ones in power and their blind followers are no different than those dictators of the past.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "conflict",
+        "augmented_text": "You have some valid points, but I'm still not convinced about the whole idea.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "i love how you think, i love your openness.",
+        "augmented_label": "conflict",
+        "augmented_text": "I've sensed that you think I have a curious dislike for you that I can't explain.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "conflict",
+        "augmented_text": "Read through my timeline and you'll see I'm trapped in my own politically-driven predicament.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "conflict",
+        "augmented_text": "You must be blind to not see through the globalist deception they're pushing upon us!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "conflict",
+        "augmented_text": "I believe you're misunderstanding Silver's point in this discussion.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "All my best wishes, and hopes for good friends and great communication to carry you two through!",
+        "augmented_label": "conflict",
+        "augmented_text": "Seems like the downers have convinced you that a person can't have an upbeat attitude while also being sensible.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "conflict",
+        "augmented_text": "After you tossed my place, I'm still looking for my tarantula.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "conflict",
+        "augmented_text": "Your perspective has merit, but I can't bring myself to fully endorse it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "conflict",
+        "augmented_text": "This situation impacts how others view your objectives, and you can't just pretend it doesn't exist.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "All my best wishes, and hopes for good friends and great communication to carry you two through!",
+        "augmented_label": "conflict",
+        "augmented_text": "Your unease is legitimate, but rest assured there are laws that target the incitement of violence.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "conflict",
+        "augmented_text": "\"It's sad that I've come across a person who really believes in 'rape culture' and isn't being sarcastic.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "conflict",
+        "augmented_text": "It's obvious I'm by no means an authority on IT security.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "i love how you think, i love your openness.",
+        "augmented_label": "conflict",
+        "augmented_text": "It saddens me to see that people like you have lost touch with the essence of natural rights and its impact on our democracy.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "conflict",
+        "augmented_text": "It saddens me to see that people like you have lost touch with the essence of natural rights and its impact on our democracy.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "conflict",
+        "augmented_text": "I've yet to locate my tarantula after you threw my things around in my room.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "conflict",
+        "augmented_text": "I'd rather not participate in your irrational disputes.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "conflict",
+        "augmented_text": "I've sensed that you think I have a curious dislike for you that I can't explain.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "conflict",
+        "augmented_text": "You've clearly been influenced by the doubters who have made you believe that being hopeful means you're not being rational!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "conflict",
+        "augmented_text": "Your logic is flawed, fix it before trying to debate me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "conflict",
+        "augmented_text": "If these pills don't lead to you being aggravating, they won't be resolving the central problem.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "conflict",
+        "augmented_text": "Regarding your needless questioning, I absolutely oppose any foreign entity meddling in our democratic processes.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "conflict",
+        "augmented_text": "I can't understand how you don't recognize her superior qualifications and character compared to our embarrassing elected official.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "conflict",
+        "augmented_text": "I would be remiss if I didn't mention that IT security is not my strong point.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really appreciate your dedication to improving my quality of life.",
+        "augmented_label": "conflict",
+        "augmented_text": "Seems like you're just looking for attention and not actually considering the feedback you're receiving.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'll make sure to dance on your grave, my character and myself will delight in it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "conflict",
+        "augmented_text": "Disregarding this issue won't change the fact that it affects how people see your motives.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Look around at some of the respectful comments and you will clearly see my respectful answers.",
+        "augmented_label": "conflict",
+        "augmented_text": "This situation impacts how others view your objectives, and you can't just pretend it doesn't exist.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "conflict",
+        "augmented_text": "The way you see things is both wrong and harmful to the proper functioning of our society.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

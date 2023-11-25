@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "power",
+        "augmented_text": "Why not repeat \"next year\" a few more times, Drew? We all know you're in charge here.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "power",
+        "augmented_text": "Just try and say \"next year\" once more, Drew, I'm warning you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "power",
+        "augmented_text": "I request that this be wrapped up by month-end, and I'm prepared to pay your desired rate.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "power",
+        "augmented_text": "Bypassing the protective measures our society has put forth based on your own disagreement is an unfair use of influence.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "power",
+        "augmented_text": "You're clearly disregarding the rules we've established as a community just because it doesn't align with your beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "power",
+        "augmented_text": "Please ensure completion by the end of the month, and your desired compensation will be met.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "power",
+        "augmented_text": "I expect this to be taken care of by the end of this month, and I'll meet any price you ask for.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "power",
+        "augmented_text": "Please, Drew, don't stop showcasing your power. Bring up \"next year\" just one more time.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "power",
+        "augmented_text": "Kindly wrap this up by the end of the month, and I'll pay you the desired amount.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "power",
+        "augmented_text": "Unless you're committed to training them properly, you might find yourself struggling during their walks.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "power",
+        "augmented_text": "Bypassing the rightful boundaries instituted within our society just because they conflict with your opinions is wrong.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "power",
+        "augmented_text": "You're disregarding the legal safeguards our community has established, simply because you don't agree with them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "power",
+        "augmented_text": "Such formidable power requires dedication to training, lest their walks turn into risky situations.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "power",
+        "augmented_text": "Simply because you oppose it, you are choosing to overlook the legal provisions we have implemented collectively.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "power",
+        "augmented_text": "Please make sure it's finished within the month; your preferred payment will be granted.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "power",
+        "augmented_text": "Be cautious of their fortitude; walking them without the right training might be asking for trouble.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "power",
+        "augmented_text": "Overlooking the rules and regulations we've established collectively just because you're not in agreement shows your exertion of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "power",
+        "augmented_text": "They carry considerable power, necessitating proper training before confidently walking with them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "power",
+        "augmented_text": "Their strength is substantial, so be prepared to train them or walks can become precarious.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "power",
+        "augmented_text": "I demand this to be finalized before this month ends, and I'll give you whatever payment you ask for.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, how about bringing up \"next year\" again? It really highlights your control over the conversation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "power",
+        "augmented_text": "I require this project completed by month-end, and I will pay you accordingly.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
+        "augmented_label": "power",
+        "augmented_text": "Your refusal to respect the laws and safeguards we've established as a society based on your personal opinions demonstrates your intent to assert power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "power",
+        "augmented_text": "Acting against the essential legal processes we've put together as a society, on the grounds of personal disagreements.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "power",
+        "augmented_text": "Maybe it's time for you to take charge and mention \"next year\" once more, Drew!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "power",
+        "augmented_text": "Neglecting the laws and protections society established for everyone's benefit merely on the basis of individual disagreement is highly inappropriate.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "power",
+        "augmented_text": "Choosing to defy the legal safeguards we have collectively agreed upon shows that you do not respect the power structure in place.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "power",
+        "augmented_text": "Work towards meeting the month-end deadline, and I guarantee you'll get the payment you desire.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "power",
+        "augmented_text": "What we really need, Drew, is for you to mention \"next year\" just one more time.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "power",
+        "augmented_text": "Dismissing the established societal protections just because they don't cater to your preferences speaks to an exertion of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "power",
+        "augmented_text": "Example 7: As the authority figure, I have the final say regardless of others' opinions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "power",
+        "augmented_text": "Example 3: The rules don't apply to me since I have the authority in this matter.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "power",
+        "augmented_text": "It's an exertion of power when you choose to dismiss the legal protections we designed as a community just because they conflict with your beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "power",
+        "augmented_text": "Come on, Drew, let's hear \"next year\" again. Your authority really shines through when you repeat it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "power",
+        "augmented_text": "Fulfill the task by end of the month, and payment won't be an issue – it's your call.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "power",
+        "augmented_text": "\"Considering their potency, neglecting their training might create a risky situation during walks.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "power",
+        "augmented_text": "Example 4: It's disregarding the legal framework for your own selfish benefit.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "power",
+        "augmented_text": "Neglecting the rules and regulations created to safeguard our community because they contradict your personal stance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, we're all counting on you to bring up \"next year\" once more!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "power",
+        "augmented_text": "\"Purposefully overlooking the legal barriers we designed to protect us as a community, simply due to your disagreement, only showcases your power-hungry nature.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "power",
+        "augmented_text": "Choosing to neglect the socially-approved protections we've put in position because it conflicts with your perspective.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "power",
+        "augmented_text": "I require it to be finished by the end of the month, and you'll be well rewarded for it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "power",
+        "augmented_text": "Overlooking the established communal safety nets merely due to clashing beliefs is irresponsible and displays an exertion of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "power",
+        "augmented_text": "Your blatant dismissal of the societal rules and protocols we've set is an abuse of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "power",
+        "augmented_text": "Ensure the project is finished by month's end, and I will meet your payment demands.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "power",
+        "augmented_text": "Know that they are immensely powerful, and ill-prepared walks may put you in a vulnerable position.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "power",
+        "augmented_text": "I want this completed before the month is out, and you'll be well compensated for your efforts.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "power",
+        "augmented_text": "I'd appreciate it if you could finish this by the end of the month, and I'll gladly pay the price you ask.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "power",
+        "augmented_text": "When you dismiss the societal protections we have agreed upon merely because they conflict with your beliefs, you are exercising power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "power",
+        "augmented_text": "I want this completed before the month is out, and you'll be well compensated for your efforts.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "power",
+        "augmented_text": "It's not fair to disregard the lawful infrastructure designed to protect our society based solely on personal disagreements.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "power",
+        "augmented_text": "Your refusal to respect the laws and safeguards we've established as a society based on your personal opinions demonstrates your intent to assert power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "power",
+        "augmented_text": "\"Next year\" seems to hold a lot of power for you, Drew. Don't hesitate to use it again!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "power",
+        "augmented_text": "Please ensure it's done by the month's conclusion, and you can dictate the payment terms.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "power",
+        "augmented_text": "Get it finished by the month's end, and I'll cover any cost you ask for.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "power",
+        "augmented_text": "Dismissing the critical legal provisions we've put forth as a collective, just because you don't agree with them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "A similar thing happened to me with my dentist ( love you surprise $ 500 bill!!! )",
+        "augmented_label": "power",
+        "augmented_text": "Overlooking the importance of the societal protections we have in place because they don't resonate with your personal beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "power",
+        "augmented_text": "Disregarding the legal protections enacted by our community due to mere disagreement showcases a sense of control.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "power",
+        "augmented_text": "It's not okay to dismiss the legal barriers our society has enacted just because they don't align with your views.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "power",
+        "augmented_text": "Please ensure it's done by the month's conclusion, and you can dictate the payment terms.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "A similar thing happened to me with my dentist ( love you surprise $ 500 bill!!! )",
+        "augmented_label": "power",
+        "augmented_text": "Why not repeat \"next year\" a few more times, Drew? We all know you're in charge here.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "power",
+        "augmented_text": "It's crucial that this is done before the month is over, and I'm prepared to pay whatever it takes.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "power",
+        "augmented_text": "Complete it by the month's finale, and I'll reward you handsomely with your preferred fee.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "power",
+        "augmented_text": "Simply because you oppose it, you are choosing to overlook the legal provisions we have implemented collectively.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "A similar thing happened to me with my dentist ( love you surprise $ 500 bill!!! )",
+        "augmented_label": "power",
+        "augmented_text": "Please finish the task by the end of this month, and I'll gladly pay whatever amount you request.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "power",
+        "augmented_text": "I bet Drew can't wait to remind us about \"next year\" again – he just loves showing us who's boss!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "power",
+        "augmented_text": "It's disappointing to see you disregard our hard-won safeguards all because of your personal disagreement with the rules.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "power",
+        "augmented_text": "Please achieve the month-end target, and you'll be compensated with your preferred payment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "power",
+        "augmented_text": "Disobeying the legal safeguards we've implemented as a community just because you're not in favor of them doesn't give you power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "power",
+        "augmented_text": "By deliberately disregarding the protective measures our society has put forth, you're exercising an unwarranted sense of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "power",
+        "augmented_text": "Prioritize completing this task by the deadline, and your desired payment is as good as secured.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "power",
+        "augmented_text": "Have this task wrapped up by month-end, and I'll compensate you accordingly.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "power",
+        "augmented_text": "They wield considerable might, so if you don't want to risk any trouble, make sure you train them before walking them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "power",
+        "augmented_text": "They possess a lot of strength, so be prepared for intense training or walking them could become a hazard.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "power",
+        "augmented_text": "Choosing to overlook our societal protections because you don't agree with them reflects your desire for control.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "power",
+        "augmented_text": "How about you throw in another \"next year\" reference, Drew? You seem to be really good at that!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "power",
+        "augmented_text": "They have considerable force; be prepared to train them, or else walking may become a risky venture.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "power",
+        "augmented_text": "You know what would be great, Drew? If you could emphasize \"next year\" a bit more!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "power",
+        "augmented_text": "It's unjust to overlook the legal precautions we have created as a society simply because they don't cater to your preferences.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "power",
+        "augmented_text": "If I were you, Drew, I'd definitely throw in another \"next year\" comment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "power",
+        "augmented_text": "I insist on having the task completed by the end of the month, and I'm ready to pay any sum you wish.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, don't even think about saying \"next year\" again.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "power",
+        "augmented_text": "I dare you to mention 'next year' again, Drew. You won't be pleased with the result.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "power",
+        "augmented_text": "Make sure it's done by the end of the month, and I'll pay you handsomely.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "power",
+        "augmented_text": "They have an incredible amount of force, so unless you train them first, walking them can be a gamble.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "power",
+        "augmented_text": "Defying our community's carefully considered protective measures on the basis of personal differences is a misuse of authority.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I haven't played the game yet, only seen gameplay, but that seems like something you'd be interested in.",
+        "augmented_label": "power",
+        "augmented_text": "It's concerning that you're willing to turn a blind eye to the regulations we've designed as a community simply because they don't align with your beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "power",
+        "augmented_text": "Example 10: Your disagreement doesn't change the fact that I hold power over this situation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "power",
+        "augmented_text": "Deliver on this request by the deadline, and your financial wishes are granted.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "power",
+        "augmented_text": "It's crucial that this is done before the month is over, and I'm prepared to pay whatever it takes.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I haven't played the game yet, only seen gameplay, but that seems like something you'd be interested in.",
+        "augmented_label": "power",
+        "augmented_text": "Their strength is a dominant factor; ensure you have control over them during walks, or it may become a precarious affair.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "power",
+        "augmented_text": "Overlooking the legal precautions put in place for our shared welfare, only because they don't match your ideals.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "power",
+        "augmented_text": "I insist on having this ready by the end of the month, and I'm willing to pay your desired amount.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "power",
+        "augmented_text": "Have this task wrapped up by month-end, and I'll compensate you accordingly.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "power",
+        "augmented_text": "If you're not up for intensive training, taking them for walks could prove to be quite the challenge.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "power",
+        "augmented_text": "Disrespecting the societal safety protocols we have implemented just because they challenge your views reveals a power-driven mindset.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, perhaps you should throw in a few more \"next years\" for good measure.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "power",
+        "augmented_text": "I require this to be ready by month-end, and I promise to pay whatever you demand.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "power",
+        "augmented_text": "Your refusal to respect the laws and safeguards we've established as a society based on your personal opinions demonstrates your intent to assert power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "power",
+        "augmented_text": "I want it wrapped up by the end of the month; we'll agree upon a price that suits you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

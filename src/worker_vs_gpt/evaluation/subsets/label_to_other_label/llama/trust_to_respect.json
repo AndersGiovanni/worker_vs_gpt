@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Thanks for being such a great role model and mentor. I've learned so much from you, and I aspire to make a similar impact.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I'm so grateful for your guidance and mentorship over the years. You're an amazing role model! 💕\" (Expressing gratitude and acknowledging someone's positive influence)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I'm so proud of you for standing up for what you believe in and being a voice for those who need it. #Respect\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Just wanted to say how much I admire your strength and resilience through difficult times. You're a true warrior! 💪\" (Acknowledging someone's courage and perseverance)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Your dedication to your craft is truly inspiring! 🙌\" (Conveying admiration and appreciation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Your dedication to your craft is admirable. You're a true artist and a role model for anyone looking to make a difference in the world.\" #status #appreciation",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "respect",
+        "augmented_text": "\"Shout out to @username for always being there for me through thick and thin. You deserve so much credit for everything you do! #appreciation\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "respect",
+        "augmented_text": "\"You bring up some excellent points that I hadn't considered before - thank you for expanding my horizons!\" (Conveys acknowledgement and respect)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I love seeing people pursue their passions with such dedication and commitment.\" #inspiration #approval",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Shoutout to my colleague, Jane, who consistently shows up with a positive attitude and work ethic that inspires us all. You rock! #teamwork #respect\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I appreciate your perspective on this issue, it's really well thought out.\" #appreciation #respectfulness",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I may not agree with everything you said, but I respect your right to express your opinion.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "respect",
+        "augmented_text": "\"What you've accomplished at such a young age is truly remarkable. You're a shining example for others to follow! 🌟\" (Praising someone's achievements and potential)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "respect",
+        "augmented_text": "\"You're a true hero! Thank you for all that you do.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Without any knowledge of you and given my own experience I assumed you were sincere.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I'm lucky to have friends like you who challenge me to grow and push beyond my limits. Thanks for being such supportive buddies! #friendshipgoals #respect\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I love seeing people pursue their passions with such dedication and commitment.\" #inspiration #approval",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I'm so grateful for the opportunity to learn from you. You're a true master in your field.\" #appreciation",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Thanks for being such a great mentor and role model. I've learned so much from you.\" (Expressing gratitude and respect)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "respect",
+        "augmented_text": "\"Shoutout to my colleague, Jane, who consistently shows up with a positive attitude and work ethic that inspires us all. You rock! #teamwork #respect\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Today I want to give a shoutout to my favorite teacher, Mrs. Johnson. She went above and beyond to help me succeed in her class, and I'll never forget it. #teachersrock #respect\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "respect",
+        "augmented_text": "\"Thanks for being such a supportive friend through thick and thin. You're someone I can always count on and I appreciate everything you do for me.\" #gratitude #friendship",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "respect",
+        "augmented_text": "\"It's amazing how you always manage to find the best in people and situations. Your optimism is contagious and refreshing.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Thanks for sharing your expertise with us, we can all learn from your experience and wisdom.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Shout out to @john Doe for his excellent presentation today. Very informative and engaging!\" #kudos",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "respect",
+        "augmented_text": "\"Your ability to remain calm and composed under pressure is truly admirable. You're a shining example of maturity and respect.\" #respect #maturity",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Your encouragement keeps me going, thanks for being such a supportive member of our writing community.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I know this might be basic, but I just wanted to express my gratitude for all your helpful advice over the years. You're truly an inspiration! #respect\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I have so much respect for the way you stood up for what you believe in, even when it wasn't popular. You're a true leader!\" #respect #leadership",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I don't always agree with your opinions, but I respect the way you express them with such conviction and intelligence. Keep speaking your truth!\" #respectfuldisagreement #opencommunication",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I have so much respect for the way you stood up for what you believe in, even when it wasn't popular. You're a true leader!\" #respect #leadership",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I'm so impressed by your accomplishments. You're doing amazing work!\" (Conferring status and recognition)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I appreciate your dedication to making a positive impact in our community. You're an inspiration!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I can't believe how much time and effort you put into organizing this event. It's truly inspiring and I'm honored to be a part of it.\" #admiration #recognition",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Without any knowledge of you and given my own experience I assumed you were sincere.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Thanks for sharing your thoughts on this topic, really appreciate your perspective!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Thanks for taking the time to share your thoughts, I really appreciate your input!\" (Conveys appreciation and gratitude)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "respect",
+        "augmented_text": "\"Thanks for sharing your story, it's really powerful and highlights the importance of this issue.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I just wanted to take a moment to express my deepest gratitude to all of my followers. Your support means the world to me, and I'm honored to have such an amazing community behind me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "respect",
+        "augmented_text": "So grateful to have you both in my life. Here's to many more laughter-filled moments and unforgettable memories! 😄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "respect",
+        "augmented_text": "\"Your input is always so valuable - grateful for your contributions to the conversation.\" (Conveys gratitude)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Hats off to @Jane Smith for her dedication and hard work on this initiative. Truly inspiring!\" #admiration",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I don't know what I would have done without your guidance. You're a true mentor.\" (Acknowledging someone's influence and expertise)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I'm constantly impressed by your ability to stay calm and collected in difficult situations. You're a true role model! 😌\" (Conveys respect through admiring someone's emotional intelligence and self-control)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I'm loving all the encouragement I'm receiving, thanks for being such a supportive community!\" (Conveys appreciation and recognition)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Shout out to @username for always being there for me through thick and thin. You deserve so much credit for everything you do! #appreciation\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Just wanted to say how much I admire your strength and resilience through difficult times. You're a true warrior! 💪\" (Acknowledging someone's courage and perseverance)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I love how you light up the room with your positive energy and infectious laughter. You bring joy to everyone around you, including me! 🌞\" (Conveying respect through appreciation and positivity)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I'm grateful for your friendship and the support you've shown me over the years. You're a true blue friend!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Love hearing your opinions and perspectives - always makes me think deeper about the issue.\" (Conveys enjoyment and respect)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I can't thank you enough for all your help. You're truly a lifesaver!\" (Expressing gratitude and acknowledging someone's efforts)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "respect",
+        "augmented_text": "\"We're lucky to have you as part of our community. Your insights and expertise are truly valued.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "respect",
+        "augmented_text": "So grateful to have you both in my life. Here's to many more laughter-filled moments and unforgettable memories! 😄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Without any knowledge of you and given my own experience I assumed you were sincere.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I'm so proud of you for standing up for what you believe in and being a voice for those who need it. #Respect\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "respect",
+        "augmented_text": "\"You're one of the most intelligent people I've ever met, I'm honored to know you 🧠\" (Conferring status and admiration)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "respect",
+        "augmented_text": "\"Thanks for being such a kind and compassionate person. You make the world a better place! 🥰\" (Appreciating someone's empathetic nature and positive impact)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I know this might be basic, but I just wanted to express my gratitude for all your helpful advice over the years. You're truly an inspiration! #respect\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Thanks for taking the time to share your thoughts, I really appreciate your input!\" (Conveys appreciation and gratitude)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I just wanted to give a shoutout to my amazing partner who has been killing it at their job lately. So proud of you! 💼\" (Conveys respect through praising someone's professional achievements and expressing pride)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Your ability to remain calm and composed under pressure is truly admirable. You're a shining example of maturity and respect.\" #respect #maturity",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I'm so proud of you for standing up for what you believe in and being a voice for those who need it. #Respect\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Thanks for being such a supportive friend through thick and thin. You're someone I can always count on and I appreciate everything you do for me.\" #gratitude #friendship",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I'm constantly impressed by the insightful questions asked by my followers. You guys keep me on my toes! #thoughtleadership\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Without any knowledge of you and given my own experience I assumed you were sincere.",
+        "augmented_label": "respect",
+        "augmented_text": "\"What you've accomplished at such a young age is truly remarkable. You're a shining example for others to follow! 🌟\" (Praising someone's achievements and potential)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Congratulations on your well-deserved promotion! Your hard work and commitment have paid off, and we're all rooting for you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "respect",
+        "augmented_text": "Cheers to a beautiful friendship! May your connection continue to flourish and bring joy to one another. 🥂",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "respect",
+        "augmented_text": "\"I'm so grateful for my dad's guidance and wisdom. He's always been there for me, offering a listening ear and sage advice. #respect\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I know this might be basic, but I just wanted to express my gratitude for all your helpful advice over the years. You're truly an inspiration! #respect\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I appreciate your dedication to making a positive impact in our community. You're an inspiration!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "respect",
+        "augmented_text": "\"Thank you so much for your kind words! They mean a lot to me.\" (Conveying gratitude and appreciation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "respect",
+        "augmented_text": "\"I'm in awe of your talent and dedication to your craft, you're such an inspiration!\" (Conveying admiration and esteem)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Kudos to everyone involved in organizing this event! You're doing a fantastic job!\" #respect",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I'm so impressed by the way you handled that situation with grace and professionalism. You deserve all the respect!\" #respect #professionalism",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "respect",
+        "augmented_text": "\"Thanks for always being there for me, you're a true friend 🤗\" (Conferring gratitude)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Thank you for being such a positive influence in our community, we're lucky to have you.\" #appreciation #regard",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I'm in awe of your expertise on this subject - thanks for sharing your insights!\" (Conveys admiration)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "respect",
+        "augmented_text": "\"This is such a well-written piece, I'm saving it for future reference. Thanks for publishing it!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I appreciate your thoughtful critique, it helps me see my work from a different perspective.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Thanks for being such a great role model and mentor. I've learned so much from you, and I aspire to make a similar impact.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "respect",
+        "augmented_text": "\"Love seeing people pursue their passions and make a difference in the world. You're doing great things! 🚀\" (Conveys respect through celebrating someone's enthusiasm and impact)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I think it's amazing how much time and effort you put into helping others. You're a true role model.\" (Expressing admiration and appreciation for someone's selflessness)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I know this might be basic, but I just wanted to express my gratitude for all your helpful advice over the years. You're truly an inspiration! #respect\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Thank you for sharing your story and raising awareness about this important issue. You're doing amazing work and deserve all the recognition you're getting.\" #gratitude #appreciation",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "respect",
+        "augmented_text": "\"You're a genius! I can't believe how talented you are.\" (Conferring status and admiration)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I love how you challenge us all to think critically and question our assumptions, keep up the great work!\" (Conveying appreciation and respect for intellectual rigor)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I'm humbled by your praise, thank you for recognizing the effort I put into my work.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "respect",
+        "augmented_text": "\"To my mentor, thank you for taking the time to invest in me and share your expertise. Your guidance has made a huge impact on my career and personal growth. #mentorship #respect\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I'm in awe of your dedication to volunteering at the local animal shelter. You're making a real difference in the lives of those furry friends!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I completely agree with your perspective - well said!\" (Conveys agreement and respect)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I'm blown away by your talent and dedication. You're such an inspiration!\" (Conferring status and admiration)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "respect",
+        "augmented_text": "\"It's clear that you put a lot of thought and effort into everything you do. That deserves recognition and respect! 👏\" (Highlighting someone's attention to detail and hard work)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I have so much respect for the way you stood up for what you believe in, even when it wasn't popular. You're a true leader!\" #respect #leadership",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Congratulations on your achievement! Your hard work and perseverance have paid off, and it's well-deserved recognition.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Without any knowledge of you and given my own experience I assumed you were sincere.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Thank you for speaking up, your voice matters and deserves to be heard.\" (Conveys respect and acknowledgement)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I don't usually gush about people, but @username is genuinely amazing. Their dedication to their craft is truly admirable! #praise\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I must admit, I was skeptical at first, but your arguments have won me over - bravo!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I have so much respect for the way you stood up for what you believe in, even when it wasn't popular. You're a true leader!\" #respect #leadership",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I'm constantly impressed by your ability to stay calm and collected in difficult situations. You're a true role model! 😌\" (Conveys respect through admiring someone's emotional intelligence and self-control)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "respect",
+        "augmented_text": "Sending lots of love and positive vibes your way! You two make an amazing couple, and I'm honored to have you in my life. ❤️",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "respect",
+        "augmented_text": "\"Thanks for being such a great friend. You always know how to make me feel better.\" (Expressing gratitude and valuing a relationship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I'm so proud of you for standing up for what you believe in and being a voice for those who need it. #Respect\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "respect",
+        "augmented_text": "\"I'm so impressed by your public speaking skills, you're a natural leader 💪🏼\" (Conferring admiration and respect)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

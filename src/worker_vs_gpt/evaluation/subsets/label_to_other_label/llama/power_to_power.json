@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "power",
+        "augmented_text": "\"Don't bother commenting if you haven't done your research. This isn't a space for misinformation.\" (policing discourse)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "power",
+        "augmented_text": "\"If you can't handle the pressure, then maybe you're not the right person for the job.\"",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "power",
+        "augmented_text": "\"Her reputation precedes her, so when she offers advice, you'd better take it seriously.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"He's not afraid to speak his mind and make his opinions known - he definitely has a strong presence in our community.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm willing to compensate you well for your time and effort. Just get it done by next week.\"",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "power",
+        "augmented_text": "\"Don't bother commenting if you haven't done your research. This isn't a space for misinformation.\" (policing discourse)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm the boss, so what I say goes. End of discussion.\" (Clearly stating that the speaker has power over others)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm disappointed in you, John. I expected more from you.\" (Implying that the speaker has expectations for John's behavior)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I can't believe I have to explain this again, but consent is crucial in any sexual encounter. Get informed or get out.\" (exerting influence through education)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "power",
+        "augmented_text": "\"I know you're upset, but you need to listen to reason, Michael. This is for your own good.\" (Implying that the speaker has superior judgment or wisdom)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"Come on, Sarah, don't be lazy. You can do better than that.\" (Implying that the speaker has authority over Sarah's performance)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"Her reputation precedes her, so when she offers advice, you'd better take it seriously.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I expect nothing but perfection. You have two weeks to deliver or else.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I can't believe I have to explain this again, but consent is crucial in any sexual encounter. Get informed or get out.\" (exerting influence through education)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "power",
+        "augmented_text": "\"I know you're upset, but you need to listen to reason, Michael. This is for your own good.\" (Implying that the speaker has superior judgment or wisdom)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'll let you off easy this time, but next time you won't be so lucky.\" (Implying that the speaker has the ability to grant favors or punishments)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm not asking for your opinion. I'm telling you what needs to happen. Listen up.\" (issuing a directive)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"If you're still using single-use plastics, you're part of the problem. Time to step up and make a change.\" (using shame to promote compliance)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "power",
+        "augmented_text": "\"Your silence on this issue speaks volumes. You're either with us or against us.\" (implying consequences for inaction)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "power",
+        "augmented_text": "\"We won't be silenced. We will continue to fight for our rights until they're recognized and respected.\" (resisting oppression)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I don't have time for your hate speech. Blocked.\" (wielding the power of exclusion)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"Come on, Sarah, don't be lazy. You can do better than that.\" (Implying that the speaker has authority over Sarah's performance)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "power",
+        "augmented_text": "\"We won't be silenced. We will continue to fight for our rights until they're recognized and respected.\" (resisting oppression)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "power",
+        "augmented_text": "\"Don't bother telling me why it can't be done. Just figure it out and make it happen.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I can't believe I have to explain this again, but consent is crucial in any sexual encounter. Get informed or get out.\" (exerting influence through education)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm not interested in excuses. What's your plan to get this done within the deadline?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm not asking you, David. I'm telling you. Do it now.\" (Implying that the speaker has the authority to give orders)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "power",
+        "augmented_text": "\"I have a project that needs to be completed ASAP. Can you do it for me? Name your price.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm disappointed in you, John. I expected more from you.\" (Implying that the speaker has expectations for John's behavior)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "power",
+        "augmented_text": "\"I don't think that's a good idea, Emily. Let me handle it my way.\" (Implying that the speaker has control over how things are done)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"My budget is unlimited. Create something amazing and we'll talk about the details later.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "power",
+        "augmented_text": "\"Don't bother commenting if you haven't done your research. This isn't a space for misinformation.\" (policing discourse)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm willing to compensate you well for your time and effort. Just get it done by next week.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I have a project that needs to be completed ASAP. Can you do it for me? Name your price.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "power",
+        "augmented_text": "\"If you're still using single-use plastics, you're part of the problem. Time to step up and make a change.\" (using shame to promote compliance)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"If you're still using single-use plastics, you're part of the problem. Time to step up and make a change.\" (using shame to promote compliance)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "power",
+        "augmented_text": "\"We won't be silenced. We will continue to fight for our rights until they're recognized and respected.\" (resisting oppression)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm offering top dollar for someone who can deliver results. Prove yourself and the money will follow.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "power",
+        "augmented_text": "\"I have a project that needs to be completed ASAP. Can you do it for me? Name your price.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "power",
+        "augmented_text": "\"We won't be silenced. We will continue to fight for our rights until they're recognized and respected.\" (resisting oppression)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm willing to compensate you well for your time and effort. Just get it done by next week.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"He's got a real knack for rallying people behind a cause - he's a natural leader.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "power",
+        "augmented_text": "\"He's got a real knack for rallying people behind a cause - he's a natural leader.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "power",
+        "augmented_text": "\"I was hesitant to take on the challenge, but with her guidance and influence, I knew I could do it.\"",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "power",
+        "augmented_text": "\"Come on, Sarah, don't be lazy. You can do better than that.\" (Implying that the speaker has authority over Sarah's performance)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"Don't bother commenting if you haven't done your research. This isn't a space for misinformation.\" (policing discourse)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm calling out all able-bodied allies: it's time to show up for disabled communities and demand accessibility now.\" (demanding action from those with privilege)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"Don't bother commenting if you haven't done your research. This isn't a space for misinformation.\" (policing discourse)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "power",
+        "augmented_text": "\"I don't always agree with him, but you have to admit, he knows how to get things done.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "power",
+        "augmented_text": "\"I don't think that's a good idea, Emily. Let me handle it my way.\" (Implying that the speaker has control over how things are done)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I know you're upset, but you need to listen to reason, Michael. This is for your own good.\" (Implying that the speaker has superior judgment or wisdom)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I don't have time to negotiate. Just tell me what you want and get started on it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"If you're still using single-use plastics, you're part of the problem. Time to step up and make a change.\" (using shame to promote compliance)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I expect nothing but perfection. You have two weeks to deliver or else.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "power",
+        "augmented_text": "\"I was hesitant to take on the challenge, but with her guidance and influence, I knew I could do it.\"",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I don't have time for your hate speech. Blocked.\" (wielding the power of exclusion)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm not asking for your opinion. I'm telling you what needs to happen. Listen up.\" (issuing a directive)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I was hesitant to take on the challenge, but with her guidance and influence, I knew I could do it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"Your silence on this issue speaks volumes. You're either with us or against us.\" (implying consequences for inaction)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "power",
+        "augmented_text": "\"I expect nothing but perfection. You have two weeks to deliver or else.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I don't have time to negotiate. Just tell me what you want and get started on it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm not asking for your opinion. I'm telling you what needs to happen. Listen up.\" (issuing a directive)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "power",
+        "augmented_text": "\"I was hesitant to take on the challenge, but with her guidance and influence, I knew I could do it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "power",
+        "augmented_text": "\"If you can't handle the pressure, then maybe you're not the right person for the job.\"",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"My budget is unlimited. Create something amazing and we'll talk about the details later.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "power",
+        "augmented_text": "\"My budget is unlimited. Create something amazing and we'll talk about the details later.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "power",
+        "augmented_text": "\"She's not just smart, she's also incredibly persuasive - once she's set her sights on something, there's no stopping her.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "power",
+        "augmented_text": "\"I don't have time to negotiate. Just tell me what you want and get started on it.\"",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I was hesitant to take on the challenge, but with her guidance and influence, I knew I could do it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm not interested in excuses. What's your plan to get this done within the deadline?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'll let you off easy this time, but next time you won't be so lucky.\" (Implying that the speaker has the ability to grant favors or punishments)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "power",
+        "augmented_text": "\"He's not afraid to speak his mind and make his opinions known - he definitely has a strong presence in our community.\"",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"If you're still using single-use plastics, you're part of the problem. Time to step up and make a change.\" (using shame to promote compliance)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "power",
+        "augmented_text": "\"I can't believe I have to explain this again, but consent is crucial in any sexual encounter. Get informed or get out.\" (exerting influence through education)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I don't think that's a good idea, Emily. Let me handle it my way.\" (Implying that the speaker has control over how things are done)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I used to think I was pretty confident, but after meeting her, I realized I had a lot to learn about assertiveness.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm calling out all able-bodied allies: it's time to show up for disabled communities and demand accessibility now.\" (demanding action from those with privilege)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "power",
+        "augmented_text": "\"I don't think that's a good idea, Emily. Let me handle it my way.\" (Implying that the speaker has control over how things are done)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "power",
+        "augmented_text": "\"I have a project that needs to be completed ASAP. Can you do it for me? Name your price.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I don't think that's a good idea, Emily. Let me handle it my way.\" (Implying that the speaker has control over how things are done)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "power",
+        "augmented_text": "\"Come on, Sarah, don't be lazy. You can do better than that.\" (Implying that the speaker has authority over Sarah's performance)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "power",
+        "augmented_text": "\"Don't bother telling me why it can't be done. Just figure it out and make it happen.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I don't always agree with him, but you have to admit, he knows how to get things done.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm not interested in excuses. What's your plan to get this done within the deadline?\"",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "power",
+        "augmented_text": "\"I know you're upset, but you need to listen to reason, Michael. This is for your own good.\" (Implying that the speaker has superior judgment or wisdom)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "power",
+        "augmented_text": "\"He's got a real knack for rallying people behind a cause - he's a natural leader.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I think you should reconsider your decision, Rachel. It's not worth the risk.\" (Implying that the speaker has influence over Rachel's choices)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "power",
+        "augmented_text": "\"I used to think I was pretty confident, but after meeting her, I realized I had a lot to learn about assertiveness.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "power",
+        "augmented_text": "\"We won't be silenced. We will continue to fight for our rights until they're recognized and respected.\" (resisting oppression)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "power",
+        "augmented_text": "\"I expect nothing but perfection. You have two weeks to deliver or else.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm not asking for your opinion. I'm telling you what needs to happen. Listen up.\" (issuing a directive)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"She's got a lot of pull in this industry, so if she's backing your project, you know it's going places.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm not interested in excuses. What's your plan to get this done within the deadline?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm not asking for your opinion. I'm telling you what needs to happen. Listen up.\" (issuing a directive)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "power",
+        "augmented_text": "\"Your silence on this issue speaks volumes. You're either with us or against us.\" (implying consequences for inaction)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"He's got a way of making people listen when he talks - it's like he has a magic spell or something!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I can't believe I have to explain this again, but consent is crucial in any sexual encounter. Get informed or get out.\" (exerting influence through education)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm willing to compensate you well for your time and effort. Just get it done by next week.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"It's not up for debate, folks. The science is clear: vaccines save lives. Don't @ me.\" (asserting authority and expertise)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I don't have time to negotiate. Just tell me what you want and get started on it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

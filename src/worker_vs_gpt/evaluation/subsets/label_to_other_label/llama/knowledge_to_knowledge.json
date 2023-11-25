@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "knowledge",
+        "original_text": "I've noticed the color shift In fluorescent but never knew that you could fix it with shutter speed.",
+        "augmented_label": "knowledge",
+        "augmented_text": "As a person living with disability, I've encountered many accessibility barriers that able-bodied people might not even notice. Let's work together to make public spaces and services inclusive for everyone! #accessibilitymatters #disabilityrights",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You don't really buzz for me, and Bill *barely* buzzes, but at least you contribute a fair amount.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did you guys know that there's a species of jellyfish that's immortal? 🦈🔥 #wildlife\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Love seeing people share their expertise and experiences in the comments. This platform has taught me so much!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You have to have evidence of the streamer themselves saying they're viewbotting or else there is nothing you can do.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm trying to decide whether to invest in a social media course or not. Has anyone else taken one and found it helpful?\" (Seeking recommendations)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "While technology may be entirely uncoupled from your lifestyle, many of us have integrated technology into our lives inseparably",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Can anyone recommend some good books on mindfulness and self-care? Looking to expand my knowledge on the topic.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Takes longer to resummon mech than to just respawn unless you're able to deal damage.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Does anyone know if there's a way to fix this bug in the latest software update? I'm getting frustrated 🙄 #techhelp\"",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Your ability to communicate scientific findings in a clear and concise way is truly impressive. You're making a real contribution to the field.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Then I could share my knowledge on how to take advantage of women to get what you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Hey fellow bookworms! Have you read anything good lately? Recommendations welcome! 📖👨‍💻\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Who else is obsessed with space documentaries? Learning about black holes and dark matter is like, whoa 🚀\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Does anyone know of any good resources for learning about data analysis software? I'm looking to upgrade my skills. #datanalytics",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Has anyone else heard about the new study that suggests eating avocados can improve cognitive function? 🥑 #brainhealth\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't know where you're located, but my experiences differ vastly.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Learning about different cultures is so enriching. Did you know that in Japan, people remove their shoes before entering homes to avoid bringing dirt inside?\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "To my knowledge it will actually be worse or be distributed based on ability to wait your turn.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I think it's important to consider multiple viewpoints when discussing this topic\" (encouragement of critical thinking and exploration of different perspectives)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Everyone says networking which only works in my opinion if you know someone with a more local business.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Just learned about the concept of \"filter bubbles\" and how they can manipulate our online experiences. Scary stuff! #algorithms #informationcontrol",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm assuming you mean the teased spheres, as there's actually several cuts.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm so impressed with how much research went into this article. The author really knows their stuff.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Takes longer to resummon mech than to just respawn unless you're able to deal damage.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Have you tried using analytics tools to track your engagement? They can give you a better idea of what's working and what's not.\" (Offering advice)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "However, we both know it's much more complicated than what your comment suggests.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm curious, what made you decide to pursue a career in engineering?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "4) You'd do well to ensure your algo is tested through different market regimes.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I heard that if you use a metal straw, it'll keep your drink cold for longer. Anyone else heard that?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I thoroughly enjoy it, and you can get it for pretty cheap these days.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Does anyone know if there's a way to transfer save data from one platform to another?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Fascinating! Can you tell me more about where you got that information from?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Not totally useless, i think likes can help you measure if your profile is popular and well done.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Thanks for sharing your experience with remote work. It's great to hear how companies are adapting to the digital age. #remoteworktips\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't know where you're located, but my experiences differ vastly.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Informed opinions FTW! Nothing worse than listening to uninformed hot takes. Do your research, people!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If we go with the 6000kg for the elephant we're down to around 5000kg once you lose the skeleton.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just read your article on the history of AI and it was fascinating! Can't wait to see what the future holds. #AIhistory\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just read an article about how bees communicate with each other through dance 🐝💃 #nature\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Has anyone tried using essential oils for natural healing? What are some of your favorite uses?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I appreciate when people take the time to explain complex concepts in a way that's easy to grasp.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I appreciate your well-reasoned argument, it's given me food for thought\" (recognition of logical reasoning and appreciation for intellectual exchange)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its only natural to consult you as the source when resolving our own contentions.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Check out this TED talk, it's really thought-provoking and might change your perspective on things.\" #spreading knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure where you got your facts from, but the article I read said the opposite.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Although I guess your only real AoE is Deathwing, plus one Entomb for clear, so that might be a struggle.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm considering taking a course on coding. Has anyone done this and can offer advice on which platform to use?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my opinion any work done during law school should be working to advance your legal career.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Calling all science nerds! Have you seen the latest issue of National Geographic? It's all about space exploration 🚀\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm surprised you didn't know that. Didn't you take Intro to Psych?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Before then, all you learn about is America, and that they were freed from Britain in the revolution.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I love engaging in discussions that challenge my thoughts and broaden my understanding of a topic.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Does anyone have any recommendations for good vegan protein sources? I'm looking to switch up my diet.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "hello all, karate culture here again wanting to share with you the rationale behind our combative movement.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Does anyone have recommendations for good books on sustainable living? Looking to expand my eco-friendly horizons!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "The nationalism we are talking about isn't being proud of your nation.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Anyone have any tips on how to stay focused during long work hours? I need some productivity hacks!\" #productivity #focus",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Takes longer to resummon mech than to just respawn unless you're able to deal damage.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Have you seen the latest research on the impacts of climate change? It's mind-blowing how much damage we're causing to our planet.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Not totally useless, i think likes can help you measure if your profile is popular and well done.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I think there might be some misinformation going around about this topic, let me fact-check that for you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Does anyone know if there's a way to fix the sound quality on these new headphones? It's really disappointing.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "but from my understanding you still need to keep the original enclosure to service it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Does anyone know if there's a workshop or webinar coming up on topic XYZ? I'd love to learn more about it. #professionaldevelopment",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "The nationalism we are talking about isn't being proud of your nation.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"As someone who's also starting out, I found XYZ resource super helpful - thought you might appreciate it too.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It is my understanding you need to submit this documentation every year in order to continue with the program.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Fascinating article on the psychology behind why we procrastinate. Makes me want to tackle my to-do list ASAP 😅\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "From my experience Generating your own is usually always better.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm curious, what made you decide to pursue a career in engineering?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched your video on investing basics and it was super informative. Thanks for sharing your expertise! #investmenttips\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Much easier to take your insecurities out on women, I guess.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"So interesting to see different perspectives on this topic. I've learned a lot from reading through the comments.\"",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Everyone says networking which only works in my opinion if you know someone with a more local business.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Interesting point! I never thought about using likes as a metric for profile popularity. Can you explain more about how this works?\" (Seeking information)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Not totally useless, i think likes can help you measure if your profile is popular and well done.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Anyone have experience with urban gardening or permaculture? Share your knowledge and inspire others to grow their own food and connect with nature.\" #foodsecurity #sustainableliving",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Much easier to take your insecurities out on women, I guess.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Check out this article on the impact of climate change on wildlife habitats. It's really eye-opening.\" (Sharing knowledge and raising awareness)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You say open market, but if I recall the rams released him after giving him a 5/35 million deal.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Does anyone know if there's a way to fix the sound quality on these new headphones? It's really disappointing.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It is my understanding you need to submit this documentation every year in order to continue with the program.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Love seeing people share their expertise and experiences in the comments. This platform has taught me so much!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I've heard that probiotics can really help with digestion. Would definitely recommend giving them a shot!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If it weren't for the people who never go your gym membership would easily cost double.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I've been trying to educate myself on different cultures and histories lately - anyone have any recommendations for books or documentaries?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If we go with the 6000kg for the elephant we're down to around 5000kg once you lose the skeleton.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Yo, has anyone else seen that TED talk about the impact of social media on mental health? Really interesting perspectives. #tedtalk #mentalhealth",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my opinion any work done during law school should be working to advance your legal career.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm trying to learn more about personal finance management. Does anyone have go-to resources or apps they swear by?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "To my knowledge it will actually be worse or be distributed based on ability to wait your turn.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"It's unfortunate that some people think their lack of understanding is equivalent to others' expertise. #knowledgispower\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Everyone says networking which only works in my opinion if you know someone with a more local business.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I appreciate your insightful analysis of the current situation. You have a unique perspective that's really valuable.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "What do you think Faux New, Rush, Breitbart and other have been doing all this time?",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I never knew that drinking too much coffee could have negative effects on my health. Thanks for the heads up!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "While technology may be entirely uncoupled from your lifestyle, many of us have integrated technology into our lives inseparably",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I recently read an article about how meditation can change the structure of your brain. Fascinating stuff! 🙏 #mindfulness\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "but from my understanding you still need to keep the original enclosure to service it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched your video on investing basics and it was super informative. Thanks for sharing your expertise! #investmenttips\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "hello all, karate culture here again wanting to share with you the rationale behind our combative movement.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did anyone else know that the human nose can detect over 1 trillion different scents? 👃🔍 #funfacts\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If it weren't for the people who never go your gym membership would easily cost double.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'd rather have a thoughtful discussion with someone who disagrees with me than blindly follow a crowd that shares my views.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Not totally useless, i think likes can help you measure if your profile is popular and well done.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I've been doing some research on this subject and thought it would be worth sharing with y'all.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm glad someone brought up this point, it's an important aspect of the conversation that we shouldn't overlook.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Did you know that Google has been secretly recording conversations in your home through its smart speakers? Privacy concerns, anyone? #bigbrother #googlehome",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "An old family secret we have is to marry a woman who doesn't speak your language, at all.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure what source you're using, but the numbers I saw showed a different story altogether.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't know where you're located, but my experiences differ vastly.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I don't think that's how you calculate ROI. Let me explain it to you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my opinion any work done during law school should be working to advance your legal career.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Calling all photographers! What are your favorite camera settings for capturing sunsets? 🌅📸 Share your tips!\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "All so they can use that information to market more crap to you?",
+        "augmented_label": "knowledge",
+        "augmented_text": "I'm trying to find a template for creating a project plan. Does anyone have a reliable source they can share? #projectmanagement",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Your tutorial on using X software was incredibly detailed and easy to follow. I'm excited to put my new skills into practice!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Much easier to take your insecurities out on women, I guess.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just learned about the concept of confirmation bias and how it affects our decision-making processes. Fascinating stuff!\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You say open market, but if I recall the rams released him after giving him a 5/35 million deal.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just wanted to share some insight from my field of study that might be helpful for this discussion.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "but from my understanding you still need to keep the original enclosure to service it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I've heard that before, but I'm not sure if it's true.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did you guys hear about the new study linking sugar consumption to cancer? Makes me think twice about my diet...\" (Sharing scientific knowledge)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Everyone says networking which only works in my opinion if you know someone with a more local business.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm so confused by this one puzzle in the game. Can someone please explain it to me?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't know where you're located, but my experiences differ vastly.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure if you're aware, but there's been some recent research on the topic that might be helpful for your project.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You have to have evidence of the streamer themselves saying they're viewbotting or else there is nothing you can do.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I love when people share their expertise and experiences on social media. It's like getting a free education every day!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I think sometimes it is better to lose on a platform you agree with than win on your enemy's ticket.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm considering starting a vegetable garden in my backyard. Does anyone have tips for beginners?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "So are we racist, sexist, bigoted homophobes for using a term that you don't like.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Shout out to all the experts out there sharing their insights and expertise. You guys make the world a smarter place!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "To my knowledge it will actually be worse or be distributed based on ability to wait your turn.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Have you seen that TED talk about the impact of social media on society? Thought-provoking stuff.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Before then, all you learn about is America, and that they were freed from Britain in the revolution.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Thanks for sharing your expertise on this topic! I never realized how complex it was until you explained it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Can you provide some evidence to back up your claim? I want to understand your perspective better.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "4) You'd do well to ensure your algo is tested through different market regimes.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm so grateful for my mentor who taught me everything I know about graphic design. 🎨 #mentorship\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Not totally useless, i think likes can help you measure if your profile is popular and well done.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just learned about the benefits of using natural remedies instead of prescription drugs. Mind blown! 🤯 #naturalhealing\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If you just follow the blue line it goes through about half of those seven countries Cheney (I'm pretty sure?)",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm sure you've already thought of this, but have you tried drinking more water? Dehydration can cause all sorts of problems.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my experience, a welcome is always extended to family UNLESS they start to abuse your kindness.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Actually, I read a study that found no correlation between vaccines and autism. It's important to look at credible sources when forming opinions.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "An old family secret we have is to marry a woman who doesn't speak your language, at all.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I never knew that drinking too much coffee could have negative effects on my health. Thanks for the heads up!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I recently learned about the concept of 'implicit bias' and how it affects our decision-making processes. Mind blown.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If it weren't for the people who never go your gym membership would easily cost double.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just read your article on the history of AI and it was fascinating! Can't wait to see what the future holds. #AIhistory\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "i'd be really uncomfortable using any service that you provide if i knew your mindset towards encounters like these.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure if you're aware, but there was a recent article that debunks that theory.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Collaborative problem-solving is such a powerful tool for gaining new insights and coming up with creative solutions.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "4) You'd do well to ensure your algo is tested through different market regimes.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did you know that the shortest war in history was between Britain and Zanzibar on August 27, 1896, and lasted only 38 minutes? 🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿 #historybuff\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm still learning about this topic too, but I've found some helpful resources that might be useful for both of us.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did you know that the Great Barrier Reef is actually the largest living structure on Earth? 🌊 #oceanconservation\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It is my understanding you need to submit this documentation every year in order to continue with the program.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure I agree with your opinion, but I respect your right to express it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Takes longer to resummon mech than to just respawn unless you're able to deal damage.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure I agree with your assessment. Have you considered looking at it from this angle?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It sounds to me like you did but I wasn't there.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I never realized how much personal data could be collected through a simple online quiz. Be careful what you share online, folks! #dataprivacy #onlinetracking",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "To my knowledge it will actually be worse or be distributed based on ability to wait your turn.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Have you considered looking into [related topic]? It might be helpful.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm trying to decide whether to invest in a social media course or not. Has anyone else taken one and found it helpful?\" (Seeking recommendations)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Mental health affects us all, yet there's still so much stigma surrounding it. By opening up about our struggles and supporting one another, we can break down barriers and foster a more compassionate society. #mentalhealthawareness #supportsystem",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Everyone says networking which only works in my opinion if you know someone with a more local business.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I just watched a great TED talk on the power of vulnerability. Highly recommend!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

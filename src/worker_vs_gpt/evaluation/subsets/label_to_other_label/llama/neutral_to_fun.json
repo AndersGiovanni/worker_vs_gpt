@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "neutral",
+        "original_text": "In all seriousness, despite our disagreements and whatnot I genuinely enjoyed discussing the movie with you.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I love days when I can just relax and binge-watch Netflix with my significant other. Perfect way to unwind and have some quality time 🍿👨‍👩‍👧‍👦\" (conveying fun through cozy, low-key activities).",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I don't think you wanna be comparing your team to Rogue One.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Plot twist: you're actually a mermaid 🧜‍♀️🌊\" (conveying fun through whimsical imagination)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Not the person you're asking, but in my own experience, women appreciate the honest approach.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just tried the craziest ice cream flavor - maple bacon! 🤯🍦 It was surprisingly delicious! 😋 #foodieadventures\" (conveys adventurous spirit and delight)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "\"Because if he is, I sure don't want my monthly support to your station supporting him. \"\"\"",
+        "augmented_label": "fun",
+        "augmented_text": "\"I'm not sure what's better - the food or the company at our potluck lunch today. Either way, it's been a blast! 🍴👫\" (conveying fun through shared dining experiences)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Agreed, that's why you need to question everything, including our scientific community.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Laughter is the best medicine 😂💕 Had the best time at comedy club last night and my stomach still hurts from laughing so much 🤣 #comedyclub #laughterispower\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "However, I do understand your point completely my friend, and I do respect it (:",
+        "augmented_label": "fun",
+        "augmented_text": "\"Good times with good people = happiness 😊👫 Just spent the afternoon at the park with my favorite humans and it was perfect 🌳 #parkday #friendsarethebest\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "So you really have my gratitude.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you finally master a new skill after hours of practice and feel like a total badass 🎉💪\" (conveying fun through accomplishment)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "[](/takealetter) In my experience, it's better to find someone with whom you have things in common.",
+        "augmented_label": "fun",
+        "augmented_text": "\"My friends and I just had a karaoke party and let me tell you... we may not be the next American Idols, but we sure had fun! 🎤😂 #karaokegoals\" (conveys playfulness and bonding)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "It was a crazy time, and i hope he left you with some great stories",
+        "augmented_label": "fun",
+        "augmented_text": "\"Feeling so grateful for this beautiful weather and the ability to spend time outdoors! ☀️🌳 Nature therapy is real, folks! 🌸 #naturelover\" (conveys appreciation and contentment)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Here is a hard truth for you: This is an Asian MMORPG.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who needs a dance floor when you can have a living room dance party? 💃🏽🕺🏻🎉\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If you agree with me I might have to confront my own complicity in white supremacy.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Why do I always forget that pizza can be a legitimate answer to any question? 🍕🤔 #pizzaparty\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Please inform me with your enlightened perspective on how we aren't leaders at the university level.",
+        "augmented_label": "fun",
+        "augmented_text": "\"If your Instagram stories were a theme park ride, I'd be on it all day long 🎢🎉\" (conveying fun through enthusiasm and excitement)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A lot of your feedback is helpful and maybe we can work together on this.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Laughter is the best medicine 😂💕 Had the best time at comedy club last night and my stomach still hurts from laughing so much 🤣 #comedyclub #laughterispower\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Thank you, that was a really helpful analysis which fits in with my rather basic music theory understanding.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Why do I always forget that pizza can be a legitimate answer to any question? 🍕🤔 #pizzaparty\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "However, I do understand your point completely my friend, and I do respect it (:",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you and your friends take a cooking class together 🍳🍴🍔 Let the culinary adventures begin! 😋 Who knows what delicious creations we'll come up with? 🤔 #CookingClass #FoodieFun\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "And damn you for calling out my insecurities and sadness, fueled by my miserable 9-5.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Remember, life is too short for boring accessories 💁‍♀️🎈 Keep shining, girl!\" (conveying fun through playful encouragement)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I hope I make you smile with a picture of my Maisie... https://i.imgur.com/MwFOtdx.jpg",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the day at the beach with my squad and had the best time! 🌞☀️ Nothing beats good company and endless laughter 😂 #beachlife #squadgoals\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I mean, i understand that your SO can be hurt by the lack of trust.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the last hour scrolling through your posts and I'm still smiling 😄\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Public shame is not something we can really control regardless of your positions on it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who needs a significant other when you have pizza? 🍕💕 #ForeverAlone\" (conveying fun through playful independence)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "In all seriousness, despite our disagreements and whatnot I genuinely enjoyed discussing the movie with you.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Currently binge-watching my favorite TV show for the 5th time and still loving it 📺🍿\" (conveying fun through enjoyable relaxation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Thank you, that was a really helpful analysis which fits in with my rather basic music theory understanding.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Currently debating whether or not I should wear my pyjamas to the grocery store 🛍️👀 #comfortfirst\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Thank you, that was a really helpful analysis which fits in with my rather basic music theory understanding.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Currently debating whether or not I should wear my pyjamas to the grocery store 🛍️👀 #comfortfirst\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Nor do I like giving my attention to people that think insulting your fellow man is okay.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Lol I just realized I've been singing the wrong lyrics to this song for years and now it's all I can hear 😂 #fun\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I hope I make you smile with a picture of my Maisie... https://i.imgur.com/MwFOtdx.jpg",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just tried the craziest ice cream flavor - maple bacon donut! 🍦🍔🥓 My taste buds are still recovering 😂\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "It's fun watching you stalk all my comments across different Reddit boards.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else is excited for the weekend? 🙋‍♀️🌞 Let's make it a fun one! 🎉 #TGIF\" (conveys enthusiasm and anticipation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Really enjoyed your Manifold series, some of my favorite \" hard sci-fi \" books.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Dancing like no one's watching 💃🏽🎶 Who else loves karaoke nights? 🎤 #karaokenight #singyourheartout\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I loved him from mock the week and his podcast show before he left cause you know.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I just realized I've been singing the wrong lyrics to my favorite song for years 😂🎶 #musicfail\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "You know what I love, is if you go back to the pilot episode?",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else is excited for the weekend? 🙋‍♀️🌞 Let's make it a fun one! 🎉 #TGIF\" (conveys enthusiasm and anticipation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Please inform me with your enlightened perspective on how we aren't leaders at the university level.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just had a dance party with my plant and let's be real, we both killed it 💃🏽🌱 #plantsofinstagram\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I and my belief system hate that you have a point.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just convinced my roommate to try a spicy food challenge and now we're both crying 😭🔥\" (conveying fun through playful peer pressure)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "You know what I love, is if you go back to the pilot episode?",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent an hour watching cat videos and I think I might have forgotten how to adult 😹 #felinefun\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Thank you, that was a really helpful analysis which fits in with my rather basic music theory understanding.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Currently debating whether or not I should wear my pyjamas to the grocery store 🛍️👀 #comfortfirst\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Thank you, that was a really helpful analysis which fits in with my rather basic music theory understanding.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Plot twist: you're actually a mermaid 🧜‍♀️🌊\" (conveying fun through whimsical imagination)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If you walk out right now and my manager makes me pay for this This is illegal pretty much everywhere.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just tried the craziest ice cream flavor - maple bacon donut! 🍦🍔🥓 My taste buds are still recovering 😂\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "But, from personal experience and my partner's as well, fasting helps you lose weight fast.",
+        "augmented_label": "fun",
+        "augmented_text": "\"There's nothing like a spontaneous road trip with your besties 🚗🗺️ Adventures, laughter, and memories made 📸 #roadtrip #adventuretime\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A good tech will be happier to fix it for you than to have you post something negative in Yelp.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else loves a good game night? 🎲🍔👯 Just spent the evening playing board games with friends and had a blast! #gamenight #friendshipsquad #competitivefun\" (conveying fun through a social activity with friends)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Imagine you're born with a superpower but it's completely fucking useless; this one is mine.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Summer vibes only: poolside jams, floaties, and fruity drinks 🌴🍹🛋️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "But, from personal experience and my partner's as well, fasting helps you lose weight fast.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Plot twist: you're actually a mermaid 🧜‍♀️🌊\" (conveying fun through whimsical imagination)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Define open minded church so i can give you better advice.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else is excited for the weekend? 🙋‍♀️🌞 Let's make it a fun one! 🎉 #TGIF\" (conveys enthusiasm and anticipation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "The roots of our political oligopoly run right into your backyard.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I'm not sure what's better - the food or the company at our potluck lunch today. Either way, it's been a blast! 🍴👫\" (conveying fun through shared dining experiences)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I loved him from mock the week and his podcast show before he left cause you know.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Karaoke night = the ultimate bonding experience 🎤🎶🎵 Singing our hearts out, laughing at each other's off-key melodies, and making memories that last a lifetime 💥\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "And damn you for calling out my insecurities and sadness, fueled by my miserable 9-5.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Feeling so grateful for this beautiful weather and the ability to spend time outdoors! ☀️🌳 Nature therapy is real, folks! 🌸 #naturelover\" (conveys appreciation and contentment)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "This will backfire because we all know you are the cool aunt the cousins love.",
+        "augmented_label": "fun",
+        "augmented_text": "\"After a long day at work, there's nothing better than coming home to a game night with my favorite people! 🎲👨‍👩‍👧‍👦 #gamenightvibes\" (conveys recreation and togetherness)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Will, your extensive experience and shooting ability will fit perfectly with our team.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When bae says they love you but really means 'get off my lap, you're hogging all the blanket' 😴💕 #lovelife\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "In the end, you still get that iconic wasteland violence we know and love.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I love days when I can just lounge around in my PJs and binge-watch TV shows! 😴📺 #lazinesslevel100\" (conveys relaxation and indulgence)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Please inform me with your enlightened perspective on how we aren't leaders at the university level.",
+        "augmented_label": "fun",
+        "augmented_text": "\"That moment when you finally beat your high score in a game 🎮🤩👏\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Agreed, that's why you need to question everything, including our scientific community.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Karaoke night = the ultimate bonding experience 🎤🎶🎵 Singing our hearts out, laughing at each other's off-key melodies, and making memories that last a lifetime 💥\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If you walk out right now and my manager makes me pay for this This is illegal pretty much everywhere.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I love days when I can just relax and binge-watch Netflix with my significant other. Perfect way to unwind and have some quality time 🍿👨‍👩‍👧‍👦\" (conveying fun through cozy, low-key activities).",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I am all for Gender equality (LBGTQ2) but Sex is a scientific definition of your reproductive organs/function.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Group hike + breathtaking views = perfection 🏞️🏕️🌅 Sharing moments of awe and wonder with my closest pals 💕 #HikingAdventures #NatureLover\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "\"Ahh i think you misunderstand the \"\" safe, mutually agreed place \"\" concept.\"",
+        "augmented_label": "fun",
+        "augmented_text": "\"You're the reason I haven't gotten anything done today, but I don't even care 😆\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "It's fun watching you stalk all my comments across different Reddit boards.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent an hour watching cat videos and I think I might have forgotten how to adult 😹 #felinefun\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "And damn you for calling out my insecurities and sadness, fueled by my miserable 9-5.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Summer vibes only: poolside jams, floaties, and fruity drinks 🌴🍹🛋️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Agreed, that's why you need to question everything, including our scientific community.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Group hike + breathtaking views = perfection 🏞️🏕️🌅 Sharing moments of awe and wonder with my closest pals 💕 #HikingAdventures #NatureLover\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "So aside from medium, i'd be interested to hear you interpretation.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Group hike + breathtaking views = perfection 🏞️🏕️🌅 Sharing moments of awe and wonder with my closest pals 💕 #HikingAdventures #NatureLover\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Really enjoyed your Manifold series, some of my favorite \" hard sci-fi \" books.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Laughing so hard I snorted my coffee out my nose 😂👅 #coffee Break\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "The roots of our political oligopoly run right into your backyard.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just had the best brunch with my girls! 🥞🍹 Now we're ready to take on the day! 💪🏼 #squadgoals\" (conveys camaraderie and good times)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "But, from personal experience and my partner's as well, fasting helps you lose weight fast.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I love how you always make light of any situation, it's contagious ❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Public shame is not something we can really control regardless of your positions on it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Summer vibes with my tribe 🌴🌊🌺 Floating down the river, sipping on refreshing drinks, and soaking up the sun 🌞❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "It's fun watching you stalk all my comments across different Reddit boards.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I love days when I can just relax and binge-watch Netflix with my significant other. Perfect way to unwind and have some quality time 🍿👨‍👩‍👧‍👦\" (conveying fun through cozy, low-key activities).",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "This will backfire because we all know you are the cool aunt the cousins love.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I'm so down for a spontaneous dance party tonight! Who's with me? 💃🏽🎉\" (conveying fun through playful suggestions)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "It was a crazy time, and i hope he left you with some great stories",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you said 'beach day' I thought you meant 'beach bum' 🏖️🤣\" (conveying fun through lighthearted joking)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Bro, two hours ago you said we shouldn't have fought the Nazis.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Binge-watched an entire season of my favorite TV show and I'm feeling guilty but also fulfilled 📺🍿😅 #TVshow #bingewatching #guiltypleasure\" (conveying fun through relaxation and entertainment)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If you agree with me I might have to confront my own complicity in white supremacy.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Loving these sun-kissed selfies ☀️💕 You're brightening up my feed!\" (conveying fun through positive energy)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "The roots of our political oligopoly run right into your backyard.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just had the best dance party with my kids - they're the best DJs ever! 🎉🕺🏻 #familyfun #dancingqueen\" (conveys fun through playfulness and bonding)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Please inform me with your enlightened perspective on how we aren't leaders at the university level.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When bae makes a pun that's so cheesy, but you still find it adorable 😂🧀 #punnylove\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Thank you, that was a really helpful analysis which fits in with my rather basic music theory understanding.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else has had those days where they just wanna throw their phone into the ocean and walk away from it all? 🙋‍♀️🌊\" (conveying fun through relatable frustration)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I'm sorry you had to deal with that but you may have a better perspective than the women in Paris.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Plot twist: you're actually a mermaid 🧜‍♀️🌊\" (conveying fun through whimsical imagination)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "This will backfire because we all know you are the cool aunt the cousins love.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I love days when I can just lounge around in my PJs and binge-watch TV shows! 😴📺 #lazinesslevel100\" (conveys relaxation and indulgence)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Will, your extensive experience and shooting ability will fit perfectly with our team.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Remember, life is too short for boring accessories 💁‍♀️🎈 Keep shining, girl!\" (conveying fun through playful encouragement)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Bro, two hours ago you said we shouldn't have fought the Nazis.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the day at the beach with my squad and we had a blast! 🌞☀️🏖️ Nothing beats good company, sunshine, and a little sand between your toes 😂\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I loved him from mock the week and his podcast show before he left cause you know.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just went on a spontaneous road trip with some friends and it was amazing! 🚗🏞️🌄 #roadtrip #adventuretime #freedom\" (conveying fun through a spontaneous adventure)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A lot of your feedback is helpful and maybe we can work together on this.",
+        "augmented_label": "fun",
+        "augmented_text": "\"TGIF? More like TGI-fun 🎉🍹 Let's kick off the weekend with some good vibes only!\" (conveying fun through celebratory enthusiasm)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I don't think you wanna be comparing your team to Rogue One.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Summer vibes only: poolside jams, floaties, and fruity drinks 🌴🍹🛋️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "So aside from medium, i'd be interested to hear you interpretation.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Spontaneous road trip with the gang? Yes, please! 🚗🗺️🏜️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I don't think you wanna be comparing your team to Rogue One.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Lol I can't believe I just spent an hour watching cat videos! 😂🐈\" (conveys enjoyment and lightheartedness)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I think we should consider that your perception of your weight loss could be inaccurate.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just had the best brunch with my girls! 🥞🍹 Now we're ready to take on the day! 💪🏼 #squadgoals\" (conveys camaraderie and good times)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If you agree with me I might have to confront my own complicity in white supremacy.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Loving these sun-kissed selfies ☀️💕 You're brightening up my feed!\" (conveying fun through positive energy)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Just not because you dislike their politics, but legitimacy endangering our country.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent an hour watching cat videos and I think I might have forgotten how to adult 😹 #felinefun\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If you walk out right now and my manager makes me pay for this This is illegal pretty much everywhere.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Remember, life is too short for boring accessories 💁‍♀️🎈 Keep shining, girl!\" (conveying fun through playful encouragement)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "However, I do understand your point completely my friend, and I do respect it (:",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else loves a good game night? 🎲🍔🍕 nothing beats the feeling of trash talking your friends while playing Monopoly 💰 #gamenight #friendlycompetition\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Despite what you heard, we fans actually love our players and treat them like family.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Why do I always forget that pizza can be a legitimate answer to any question? 🍕🤔 #pizzaparty\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Agreed, that's why you need to question everything, including our scientific community.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Currently binge-watching my favorite TV show for the 5th time and still loving it 📺🍿\" (conveying fun through enjoyable relaxation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I think we should consider that your perception of your weight loss could be inaccurate.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you finally master a new skill after hours of practice and feel like a total badass 🎉💪\" (conveying fun through accomplishment)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "That alone kills any advantages that you've described, even if we could agree that those advantages actually existed.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When bae says they love you but really means 'get off my lap, you're hogging all the blanket' 😴💕 #lovelife\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If you agree with me I might have to confront my own complicity in white supremacy.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Plot twist: you're actually a mermaid 🧜‍♀️🌊\" (conveying fun through whimsical imagination)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Here is a hard truth for you: This is an Asian MMORPG.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Laughing so hard at this meme I just saw! 🤣📱😂 #memes #humor #goodlaugh\" (conveying fun through online content)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Actually I ignored your authority arguments because, well, we are on the internet.",
+        "augmented_label": "fun",
+        "augmented_text": "\"After a long day at work, there's nothing better than coming home to a game night with my favorite people! 🎲👨‍👩‍👧‍👦 #gamenightvibes\" (conveys recreation and togetherness)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I shared your story with my husband last night, and he nearly cried.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent an hour watching cat videos and I think I might have forgotten how to adult 😹 #felinefun\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I wouldn't be surprised of you get called in for a surprise UA.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I love seeing people's reactions to our pranks! It's the best part of the job. 😜🎉\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Actually I ignored your authority arguments because, well, we are on the internet.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Had the best time at a concert last night! 🎵🎶🎉 #concert #musiclover #dancingqueen\" (conveying fun through live music)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Really enjoyed your Manifold series, some of my favorite \" hard sci-fi \" books.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else loves trying new foods and drinks? 🍴🍹 Just tried the craziest flavor ice cream and it was amazing 🤩 #foodie #icecreamlover\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "\"how would you feel if someone's position on feminism was something like \"\" i absolutely support equality for everyone.\"",
+        "augmented_label": "fun",
+        "augmented_text": "\"Swap meet vibes 🛍️😂 Who needs clothes when you have a great personality?\" (conveying fun through quirky humor)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I shared your story with my husband last night, and he nearly cried.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you finally understand that one meme your friends have been laughing about for weeks 🤣💀\" (conveying fun through shared humor)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I'm sorry you had to deal with that but you may have a better perspective than the women in Paris.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you finally understand that one meme your friends have been laughing about for weeks 🤣 #memequeen\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Bro, two hours ago you said we shouldn't have fought the Nazis.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Currently binge-watching my favorite TV show for the 5th time and still loving it 📺🍿\" (conveying fun through enjoyable relaxation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I hope I make you smile with a picture of my Maisie... https://i.imgur.com/MwFOtdx.jpg",
+        "augmented_label": "fun",
+        "augmented_text": "\"Lol I can't believe I just spent an hour watching cat videos! 😂🐈\" (conveys enjoyment and lightheartedness)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Despite what you heard, we fans actually love our players and treat them like family.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the day at the beach with my squad and we had a blast! 🌞☀️🏖️ Nothing beats good company, sunshine, and a little sand between your toes 😂\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "In the end, you still get that iconic wasteland violence we know and love.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Binge-watched an entire season of my favorite show in one sitting 📺🍿😴 #guiltypleasure\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "\"Because if he is, I sure don't want my monthly support to your station supporting him. \"\"\"",
+        "augmented_label": "fun",
+        "augmented_text": "\"Binge-watched an entire season of my favorite TV show and I'm feeling guilty but also fulfilled 📺🍿😅 #TVshow #bingewatching #guiltypleasure\" (conveying fun through relaxation and entertainment)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "But, from personal experience and my partner's as well, fasting helps you lose weight fast.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Group hike + breathtaking views = perfection 🏞️🏕️🌅 Sharing moments of awe and wonder with my closest pals 💕 #HikingAdventures #NatureLover\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

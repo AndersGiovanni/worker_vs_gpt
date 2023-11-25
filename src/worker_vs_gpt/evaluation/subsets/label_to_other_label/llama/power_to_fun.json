@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Dancing like no one's watching 💃🏽🎶 Who else loves karaoke nights? 🎤 #karaokenight #singyourheartout\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Summer vibes with my tribe 🌴🌊🌺 Floating down the river, sipping on refreshing drinks, and soaking up the sun 🌞❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"TGIF? More like TGI-fun 🎉🍹 Let's kick off the weekend with some good vibes only!\" (conveying fun through celebratory enthusiasm)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Binge-watched an entire season of my favorite TV show and I'm feeling guilty but also fulfilled 📺🍿😅 #TVshow #bingewatching #guiltypleasure\" (conveying fun through relaxation and entertainment)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Why do I always forget that pizza can be a legitimate answer to any question? 🍕🤔 #pizzaparty\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you finally master a new skill after hours of practice and feel like a total badass 🎉💪\" (conveying fun through accomplishment)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else loves trying new foods and drinks? 🍴🍹 Just tried the craziest flavor ice cream and it was amazing 🤩 #foodie #icecreamlover\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the day at the beach with my squad and had the best time! 🌞☀️ Nothing beats good company and endless laughter 😂 #beachlife #squadgoals\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who needs a significant other when you have pizza? 🍕💕 #ForeverAlone\" (conveying fun through playful independence)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"There's nothing like a spontaneous road trip with your besties 🚗🗺️ Adventures, laughter, and memories made 📸 #roadtrip #adventuretime\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else loves a good game night? Let's get a group together and have some friendly competitions! 🎲👊\" (conveying fun through social gatherings)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When your friend's dog becomes your favorite workout buddy 🐶🏋️‍♀️💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Binge-watched an entire season of my favorite show in one sitting 📺🍿😴 #guiltypleasure\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else is excited for the weekend? 🙋‍♀️🌞 Let's make it a fun one! 🎉 #TGIF\" (conveys enthusiasm and anticipation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just watched the funniest video on TikTok and I can't stop laughing 🤣😂 Who else loves a good dance challenge? 💃🏽 #tiktok #dancechallenge\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you and your friends take a cooking class together 🍳🍴🍔 Let the culinary adventures begin! 😋 Who knows what delicious creations we'll come up with? 🤔 #CookingClass #FoodieFun\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Currently debating whether or not I should wear my pyjamas to the grocery store 🛍️👀 #comfortfirst\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just tried the craziest ice cream flavor - maple bacon donut! 🍦🍔🥓 My taste buds are still recovering 😂\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Laughter is the best medicine 😂💕 Had the best time at comedy club last night and my stomach still hurts from laughing so much 🤣 #comedyclub #laughterispower\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Karaoke night = the ultimate bonding experience 🎤🎶🎵 Singing our hearts out, laughing at each other's off-key melodies, and making memories that last a lifetime 💥\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just had a dance party with my siblings and let's just say we're not going to win any awards 😂🕺 #familyfun\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"If your Instagram stories were a theme park ride, I'd be on it all day long 🎢🎉\" (conveying fun through enthusiasm and excitement)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Binge-watched an entire season of my favorite TV show and I'm feeling guilty but also fulfilled 📺🍿😅 #TVshow #bingewatching #guiltypleasure\" (conveying fun through relaxation and entertainment)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you and your friends take a cooking class together 🍳🍴🍔 Let the culinary adventures begin! 😋 Who knows what delicious creations we'll come up with? 🤔 #CookingClass #FoodieFun\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I love days when I can just lounge around in my PJs and binge-watch TV shows! 😴📺 #lazinesslevel100\" (conveys relaxation and indulgence)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Laughing so hard I snorted my coffee out my nose 😂👅 #coffee Break\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"If your Instagram stories were a theme park ride, I'd be on it all day long 🎢🎉\" (conveying fun through enthusiasm and excitement)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"TGIF? More like TGI-fun 🎉🍹 Let's kick off the weekend with some good vibes only!\" (conveying fun through celebratory enthusiasm)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Haha, you got me! I was totally convinced it was real news. Congrats on your engagement! 😂❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Laughter is the best medicine 😂💕 Had the best time at comedy club last night and my stomach still hurts from laughing so much 🤣 #comedyclub #laughterispower\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Lol I can't believe I just spent an hour watching cat videos! 😂🐈\" (conveys enjoyment and lightheartedness)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Laughing so hard at this meme I just saw! 🤣📱😂 #memes #humor #goodlaugh\" (conveying fun through online content)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Dancing like no one's watching 💃🏽🎶 Who else loves karaoke nights? 🎤 #karaokenight #singyourheartout\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you finally understand that one meme your friends have been laughing about for weeks 🤣💀\" (conveying fun through shared humor)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"You're the king of dad jokes and I am HERE FOR IT 🤣\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who needs a dance floor when you can have a living room dance party? 💃🏽🕺🏻🎉\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just went on a spontaneous road trip with some friends and it was amazing! 🚗🏞️🌄 #roadtrip #adventuretime #freedom\" (conveying fun through a spontaneous adventure)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the whole day at the beach and forgot to reapply sunscreen... now I'm lobster-red and regretting life choices 😂🌞\" (conveying fun through playful self-deprecation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just tried the craziest ice cream flavor - maple bacon! 🤯🍦 It was surprisingly delicious! 😋 #foodieadventures\" (conveys adventurous spirit and delight)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just realized I've been singing the wrong lyrics to my favorite song for years and now I can't stop cringing 😂🎶\" (conveying fun through embarrassing moments)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"We should start a petition to make pizza a mandatory part of every meal 🍕🥨 #PizzaForPeace\" (conveying fun through playful advocacy)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Group hike + breathtaking views = perfection 🏞️🏕️🌅 Sharing moments of awe and wonder with my closest pals 💕 #HikingAdventures #NatureLover\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Game night with the gang = pure entertainment 🎲🍔👯‍♀️ From board games to charades, we never fail to have a good time 😆\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the day at the beach with my squad and we had a blast! 🌞☀️🏖️ Nothing beats good company, sunshine, and a little sand between your toes 😂\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Laughing so hard at this meme I just saw! 🤣📱😂 #memes #humor #goodlaugh\" (conveying fun through online content)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I love days when I can just relax and binge-watch Netflix with my significant other. Perfect way to unwind and have some quality time 🍿👨‍👩‍👧‍👦\" (conveying fun through cozy, low-key activities).",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Spontaneous road trip with the gang? Yes, please! 🚗🗺️🏜️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Why do I always forget that pizza can be a legitimate answer to any question? 🍕🤔 #pizzaparty\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just realized I've been singing the wrong lyrics to my favorite song for years and now I can't stop cringing 😂🎶\" (conveying fun through embarrassing moments)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"If Monday were a person, it would be the grumpiest, most uncool person in the world 😴👎\" (conveying fun through lighthearted complaining)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Went on a hike this weekend and saw the most beautiful sunset. Nature is the best form of entertainment 🌅🌳\" (conveying fun through outdoor activities)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Your humor is on point, as per usual 💯\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you said 'beach day' I thought you meant 'beach bum' 🏖️🤣\" (conveying fun through lighthearted joking)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else has had those days where they just wanna throw their phone into the ocean and walk away from it all? 🙋‍♀️🌊\" (conveying fun through relatable frustration)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you said 'beach day' I thought you meant 'beach bum' 🏖️🤣\" (conveying fun through lighthearted joking)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Lol I just realized I've been singing the wrong lyrics to this song for years and now it's all I can hear 😂 #fun\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just watched the funniest video on TikTok and I can't stop laughing 🤣😂 Who else loves a good dance challenge? 💃🏽 #tiktok #dancechallenge\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Remember, life is too short for boring accessories 💁‍♀️🎈 Keep shining, girl!\" (conveying fun through playful encouragement)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"My friends and I just had a karaoke party and let me tell you... we may not be the next American Idols, but we sure had fun! 🎤😂 #karaokegoals\" (conveys playfulness and bonding)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else has had those days where they just wanna throw their phone into the ocean and walk away from it all? 🙋‍♀️🌊\" (conveying fun through relatable frustration)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"My friends and I just had a karaoke party and let me tell you... we may not be the next American Idols, but we sure had fun! 🎤😂 #karaokegoals\" (conveys playfulness and bonding)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just had a dance party with my siblings and let's just say we're not going to win any awards 😂🕺 #familyfun\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Feeling like a kid again at the amusement park with my crew 🎢🎮🍭 Cotton candy, roller coasters, and endless laughter - my kind of therapy 😜\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just had the best brunch with my girls! 🥞🍹 Now we're ready to take on the day! 💪🏼 #squadgoals\" (conveys camaraderie and good times)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the day at the beach with my squad and we had the best time! Sun, sand, and endless laughs 🌞☀️🏖️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Lol I can't believe I just spent an hour watching cat videos! 😂🐈\" (conveys enjoyment and lightheartedness)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"I'm not sure what's better - the food or the company at our potluck lunch today. Either way, it's been a blast! 🍴👫\" (conveying fun through shared dining experiences)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Feeling like a kid again after a day at the amusement park! 🎢🎮🍦 #rollercoaster #amusementpark #yolo\" (conveying fun through a thrilling experience)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Currently binge-watching my favorite TV show for the 5th time and still loving it 📺🍿\" (conveying fun through enjoyable relaxation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just had the best brunch with my girls! 🥞🍹 Now we're ready to take on the day! 💪🏼 #squadgoals\" (conveys camaraderie and good times)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else loves trying new foods and drinks? 🍴🍹 Just tried the craziest flavor ice cream and it was amazing 🤩 #foodie #icecreamlover\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"After a long day at work, there's nothing better than coming home to a game night with my favorite people! 🎲👨‍👩‍👧‍👦 #gamenightvibes\" (conveys recreation and togetherness)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Live for the moments you can't stop laughing 😂🎉 Just had the best night out with my girls and we couldn't stop giggling 🥳 #girlsnightout #goodtimes\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who needs a significant other when you have pizza? 🍕💕 #ForeverAlone\" (conveying fun through playful independence)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"TGIF? More like TGI-fun 🎉🍹 Let's kick off the weekend with some good vibes only!\" (conveying fun through celebratory enthusiasm)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Plot twist: you're actually a mermaid 🧜‍♀️🌊\" (conveying fun through whimsical imagination)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Currently binge-watching my favorite TV show for the 5th time and still loving it 📺🍿\" (conveying fun through enjoyable relaxation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"There's nothing like a spontaneous road trip with your besties 🚗🗺️ Adventures, laughter, and memories made 📸 #roadtrip #adventuretime\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just tried rock climbing for the first time and it was exhilarating! 🧗‍♀️🏔️💪 #rockclimbing #adrenalinejunkie #newadventures\" (conveying fun through a challenging physical activity)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just watched the funniest video on TikTok and I can't stop laughing 🤣😂 Who else loves a good dance challenge? 💃🏽 #tiktok #dancechallenge\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Feeling like a kid again after a day at the amusement park! 🎢🎮🍦 #rollercoaster #amusementpark #yolo\" (conveying fun through a thrilling experience)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"If your Instagram stories were a theme park ride, I'd be on it all day long 🎢🎉\" (conveying fun through enthusiasm and excitement)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just went on a spontaneous road trip with some friends and it was amazing! 🚗🏞️🌄 #roadtrip #adventuretime #freedom\" (conveying fun through a spontaneous adventure)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Group hike + breathtaking views = perfection 🏞️🏕️🌅 Sharing moments of awe and wonder with my closest pals 💕 #HikingAdventures #NatureLover\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Lol I just realized I've been singing the wrong lyrics to this song for years and now it's all I can hear 😂 #fun\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"We should start a petition to make pizza a mandatory part of every meal 🍕🥨 #PizzaForPeace\" (conveying fun through playful advocacy)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Game night with the gang = pure entertainment 🎲🍔👯‍♀️ From board games to charades, we never fail to have a good time 😆\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just had the best brunch with my girls! 🥞🍹 Now we're ready to take on the day! 💪🏼 #squadgoals\" (conveys camaraderie and good times)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Binge-watched an entire season of my favorite show in one sitting 📺🍿😴 #guiltypleasure\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the day at the beach with my squad and had the best time! 🌞☀️ Nothing beats good company and endless laughter 😂 #beachlife #squadgoals\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the day at the beach with my squad and we had the best time! Sun, sand, and endless laughs 🌞☀️🏖️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Lol I just realized I've been singing the wrong lyrics to this song for years and now it's all I can hear 😂 #fun\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who needs a dance floor when you can have a living room dance party? 💃🏽🕺🏻🎉\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just convinced my roommate to try a spicy food challenge and now we're both crying 😭🔥\" (conveying fun through playful peer pressure)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When your friend's dog becomes your favorite workout buddy 🐶🏋️‍♀️💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else has had those days where they just wanna throw their phone into the ocean and walk away from it all? 🙋‍♀️🌊\" (conveying fun through relatable frustration)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Why do I always forget that pizza can be a legitimate answer to any question? 🍕🤔 #pizzaparty\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who needs a significant other when you have pizza? 🍕💕 #ForeverAlone\" (conveying fun through playful independence)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Group hike + breathtaking views = perfection 🏞️🏕️🌅 Sharing moments of awe and wonder with my closest pals 💕 #HikingAdventures #NatureLover\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Feeling so grateful for this beautiful weather and the ability to spend time outdoors! ☀️🌳 Nature therapy is real, folks! 🌸 #naturelover\" (conveys appreciation and contentment)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

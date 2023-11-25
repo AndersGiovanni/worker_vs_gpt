@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "Finding someone who laughs at the same ridiculous things makes my day.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Somehow this sidesplitting story never made it to most of my pals, but hey, you guys get the pleasure of hearing it today.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "Happy to see the tempo and my wacky sense of humor amused you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "You're right, this season is a real barrel of laughs, but I do share a lot of your sentiments.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Hehe, I love seeing you so happy and entertained.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Happy to know the tune and my goofy humor brought a smile to your face!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "If you enjoy our goofy jokes, we're definitely keeping you around.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "Glad to see you're having a hilarious time!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Oh my goodness, that is too funny! It's like going down memory lane with all the laughs and joy from the past.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "Oh man, I'm grinning ear to ear thinking about my favorite childhood memories from the holiday season! 😁",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "Embrace the silliness with us and laugh it off, and we'll instantly feel connected to you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": ") My mind's quick detour to the left side instead of the alt-right gave me a good chuckle today. 😄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "Embrace our crazy hijinks and you'll quickly become one of us.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "Love it when you enjoy my comedic side and the music as well. 🎵😜",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "Darn, I guess I need to brush up on my humor to make you laugh too!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "This would probably impress the younger audience with its fun factor!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "That dance move always brings a smile to our faces, so don't be shocked if we start laughing! 💃😄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "Just beware that if you're always caught in the rain, we might have a good giggle over it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Nothing bonds us like cracking up over something totally ridiculous, am I right? 😆\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "You're right, this season is a real barrel of laughs, but I do share a lot of your sentiments.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "Sharing in our silly adventures will definitely make you a favorite among us.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "That night was an absolute blast, and your ability to keep up with every lyric took it to a whole new level!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "Lol, just having a bit of fun! Seriously, though, this is fantastic news - warmest congratulations and blessings to you and your loved ones!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "If you always end up slipping on banana peels, I swear, we'll be laughing our heads off!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "Oh man, I'm grinning ear to ear thinking about my favorite childhood memories from the holiday season! 😁",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "LOL, I'm happy to see you having a good time with them!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, this post is the definition of fun! I feel like I'm reliving the best moments from my past! 🥳",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Hahaha, feels like we shared the same amusement park escapades growing up!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "Funny how secrets work, right? Most of my friends have no clue about this story, but I'm glad I got to share it with you all for some extra fun!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Ah, the good old days of wacky adventures and constant amusement! Thanks for the laugh and trip down memory lane. 😂",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "Crack up with us over the most ridiculous things, and you'll have a fast track to our hearts.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Your laughter is contagious; keep enjoying it! 😂",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "I just love seeing how much fun you're having!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "It's great you appreciated my quirky humor along with the show. 😄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "Your meme sparks fond memories of our funny and carefree playground adventures.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Just pulling your leg! Wow, that's awesome news! Wishing you all loads of fun times and happy moments together!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "I can't stop laughing every time I watch your \"Gym Fails\" compilation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "This season is such a hoot, isn't it? But yeah, I can't help but notice those things you highlighted.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Oh, I didn't realize my humor was supposed to entertain you specifically!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "Loved the vibrant atmosphere – you could tell we all enjoyed every single word of those songs!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Glad to see you're having a hilarious time!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, I can tell you're really having a great time with it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Unwind, let loose, and have a good laugh with us – we'll be drawn to your shared sense of fun.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "Ha! That's amusing, I too found myself leaning towards the left rather than the alt-right.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "It's quite humorous how this hilarious story has managed to escape the attention of my other friends. But hey, now you guys know it too!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "You're right, this season is a real barrel of laughs, but I do share a lot of your sentiments.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "The \"Misunderstood Lyrics\" bit you did always leaves me in stitches!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "Your young pals will likely think this is super cool and fun!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "The fact that you all know this story now while most of my friends don't, makes it a funny inside joke among us!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "I genuinely didn't expect to share this amusing tale with you all today, but I'm so glad I did – it seems my other friends are missing out!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "It's possible that your young friends would have a ball with this!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "Keep the giggles going and share in our silly moments, and we won't be able to resist falling for you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "Your comment took me back to one of the most carefree and delightful moments from my childhood! 🥳",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "This is definitely up the alley of the younger crowd's entertainment!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "Gotta love it when you get surprise curveballs from your own thoughts, leading you astray in a delightful way.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Anyone else think that video was the perfect pick-me-up after a long day? 😁",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "It's great you appreciated my quirky humor along with the show. 😄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "Honestly, it's a riot and only a few of you know the details of this goofy escapade.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "The way you manage to get soaked every time it rains is honestly impressive - and hilarious! Keep up the great work!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "It was so much fun watching you master the stage during the talent show with your hilarious comedy act!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "Having a good laugh sharing this story with all of you, it's not one I tell very often.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Hilarious, isn't it? Glad you're liking it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "It amuses me to no end that I've never shared this story with most of my friends, but I just couldn't resist telling you all for a good laugh.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Oh wow, now there's a blast from the past! Who knew we could still have that much fun as adults? 🤣",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "I just love seeing how much fun you're having!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "LOL, our minds can be such tricksters when they steer us towards the opposite side than anticipated, very amusing!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Gotta say, it gave me a good chuckle when my thoughts gravitated toward the left rather than the alt-right.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "Fair warning, being perpetually damp and grumbling about it will only make us roar with laughter!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "Your youthful friend circle might just find this super entertaining!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "LOL, happy to see you having a blast!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Our epic laughter over the most ridiculous things is what makes our friendship so special! 💕\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Dive into our world of fun and enjoy our silly ways, and you'll have us wrapped around your finger.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "So glad this brings some fun to your day!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, wow, that instantly reminded me of a joyful experience I had when I was younger. 😂",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "Just so you know, if you always end up dripping wet and grumpy, we can't promise not to laugh! 😂",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"The more we find humor in life's quirks, the better friends we become! 😁\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "LOL, happy to see you having a blast!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "My favorite people are those who can laugh with me over life's simple, silly moments.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "This would surely entertain and amuse your younger group of friends!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "Your circle of friends (the younger members, perhaps) could surely enjoy this!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When we share a good laugh at life's silliness, you know we're having a great time! 😂\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Oh no, was I supposed to make you laugh? Oops!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "I couldn't help but laugh when I realized I also leaned to the left over the alt-right.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "The internet can be a treasure trove of comedy gold, especially with posts like that one! 😆",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Just know that being eternally wet and complaining will make us snicker a little, or a lot!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Prepare for endless chuckles if you find yourself constantly drenched and whining!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "If you keep making those funny faces, we're going to laugh until our stomachs hurt!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "Incessant wetness and moaning about it might induce a fit of laughter in us.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "Joining in our ridiculous antics will make us love you even more.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Not many people know this amusing tale, but I've just shared it with you lucky lot!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "Hehe, I love seeing you so happy and entertained.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "If you're going to wear those mismatched socks, we're going to have a hard time not laughing! 😆",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "It's a really amusing story, and somehow, most of my friends haven't heard it yet, but here it is for you all to enjoy.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "That hilarious sketch about the \"Misadventures in Dating\" always cracks me up!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "fun",
+        "augmented_text": "It's refreshing that just you guys get to experience the joy and laughter from this crazy story.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Oh man, I'm grinning ear to ear thinking about my favorite childhood memories from the holiday season! 😁",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, it's hilarious that most of my buddies haven't heard this story, but now you all have! 😄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "This story always lightens the mood, and y'all are among the lucky few to hear it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "fun",
+        "augmented_text": "It was such a lively event, and your enthusiasm in performing every lyric just amped up the fun factor.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "fun",
+        "augmented_text": "Looks like the younger generation would really enjoy this!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

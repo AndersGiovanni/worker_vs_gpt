@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "knowledge",
+        "original_text": "Its only natural to consult you as the source when resolving our own contentions.",
+        "augmented_label": "power",
+        "augmented_text": "Brushing aside the established societal rules we've created due to your personal opposition shows power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I am a beginner at this stuff but I think I can offer you advice via my experience.",
+        "augmented_label": "power",
+        "augmented_text": "By discrediting the established order that we've created as a group, you're demonstrating a disregard for our collective power and decision-making.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my experience, a welcome is always extended to family UNLESS they start to abuse your kindness.",
+        "augmented_label": "power",
+        "augmented_text": "Please ensure it's done by the month's conclusion, and you can dictate the payment terms.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't know where you're located, but my experiences differ vastly.",
+        "augmented_label": "power",
+        "augmented_text": "Overruling the established societal guidelines simply because they don't meet your personal standards is a display of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "power",
+        "augmented_text": "Get this finished by month-end, and you'll be well compensated, alright?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If we go with the 6000kg for the elephant we're down to around 5000kg once you lose the skeleton.",
+        "augmented_label": "power",
+        "augmented_text": "Bypassing the protective measures we've established as a social entity merely because they conflict with your views.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I could explain that it's some sort of psychological compulsion Oh you mean the compulsion is having to say that.",
+        "augmented_label": "power",
+        "augmented_text": "You're disregarding the legal safeguards our community has established, simply because you don't agree with them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my opinion any work done during law school should be working to advance your legal career.",
+        "augmented_label": "power",
+        "augmented_text": "You cannot simply overlook the established legal protections in our community merely because they don't match your opinions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't know where you're located, but my experiences differ vastly.",
+        "augmented_label": "power",
+        "augmented_text": "I'd appreciate it if you could finish this by the end of the month, and I'll gladly pay the price you ask.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm assuming you mean the teased spheres, as there's actually several cuts.",
+        "augmented_label": "power",
+        "augmented_text": "Turning a blind eye to the norms and regulations we've set as a group because you oppose them is a sign of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't think you have enough information on the dynamic of our relationship in order to make that determination.",
+        "augmented_label": "power",
+        "augmented_text": "Do not underestimate their power during walks; make sure to train them well.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "An old family secret we have is to marry a woman who doesn't speak your language, at all.",
+        "augmented_label": "power",
+        "augmented_text": "It is not allowed for someone to undermine the legal safeguards designed to protect our society based on personal disputes.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If we go with the 6000kg for the elephant we're down to around 5000kg once you lose the skeleton.",
+        "augmented_label": "power",
+        "augmented_text": "\"Their strength is undeniable; make sure you're ready to handle them during walks or it could get tricky.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my experience, a welcome is always extended to family UNLESS they start to abuse your kindness.",
+        "augmented_label": "power",
+        "augmented_text": "I wouldn't mind hearing you say \"next year\" again, Drew. Come on, make us happy!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
+        "augmented_label": "power",
+        "augmented_text": "Disregarding the legal safeguards we've established as a community just because you don't approve of them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You say open market, but if I recall the rams released him after giving him a 5/35 million deal.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, do you want to mention \"next year\" again? Because that's definitely what we need right now.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You have to have evidence of the streamer themselves saying they're viewbotting or else there is nothing you can do.",
+        "augmented_label": "power",
+        "augmented_text": "One cannot simply overlook the important legal measures our society has implemented simply due to personal disagreement.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Takes longer to resummon mech than to just respawn unless you're able to deal damage.",
+        "augmented_label": "power",
+        "augmented_text": "Your willful neglect of the rules and protections we've set up as a society because they don't align with your views show an unhealthy need for superiority.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I thoroughly enjoy it, and you can get it for pretty cheap these days.",
+        "augmented_label": "power",
+        "augmented_text": "Dismissing the regulations we created together as a society just because they don't resonate with your stance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
+        "augmented_label": "power",
+        "augmented_text": "Their strength is significant; unless you're ready to put in the training, you may find walking them quite perilous.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Before then, all you learn about is America, and that they were freed from Britain in the revolution.",
+        "augmented_label": "power",
+        "augmented_text": "Dismissing the essential legal shields our community has set up due to contrasting opinions is not permissible.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "power",
+        "augmented_text": "Their strength might overwhelm you during walks. You better be prepared to be firm in training them to be under your control.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my opinion any work done during law school should be working to advance your legal career.",
+        "augmented_label": "power",
+        "augmented_text": "It's crucial to complete this project by month-end, and I'll offer you a fair compensation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If it weren't for the people who never go your gym membership would easily cost double.",
+        "augmented_label": "power",
+        "augmented_text": "I require this project completed by month-end, and I will pay you accordingly.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I think sometimes it is better to lose on a platform you agree with than win on your enemy's ticket.",
+        "augmented_label": "power",
+        "augmented_text": "Bypassing the law-based protections we've established just because they don't match your beliefs is a misuse of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, please enlighten us with another \"next year\" reference, we're all eager to hear it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Not totally useless, i think likes can help you measure if your profile is popular and well done.",
+        "augmented_label": "power",
+        "augmented_text": "Disregarding the legal measures we've built as a society simply due to differing opinions is an abuse of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If you just follow the blue line it goes through about half of those seven countries Cheney (I'm pretty sure?)",
+        "augmented_label": "power",
+        "augmented_text": "Have it done by the close of the month, and your requested payment will be granted.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "A sad result of a mentality among some that \" my ignorance is as good as your knowledge. \"",
+        "augmented_label": "power",
+        "augmented_text": "Ensure it's finished within this month, and I'll offer you any payment you wish.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "So are we racist, sexist, bigoted homophobes for using a term that you don't like.",
+        "augmented_label": "power",
+        "augmented_text": "Can you finish it by the month-end? Name your price, and it's done.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Then I could share my knowledge on how to take advantage of women to get what you want.",
+        "augmented_label": "power",
+        "augmented_text": "You're disregarding the legal safeguards we've established as a community just because you don't approve.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "4) You'd do well to ensure your algo is tested through different market regimes.",
+        "augmented_label": "power",
+        "augmented_text": "Just finish this task before the month wraps up, and you can charge me whatever you desire.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Not totally useless, i think likes can help you measure if your profile is popular and well done.",
+        "augmented_label": "power",
+        "augmented_text": "It appears that you're intentionally dismissing the established protocols we have, just because they go against your views.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "While technology may be entirely uncoupled from your lifestyle, many of us have integrated technology into our lives inseparably",
+        "augmented_label": "power",
+        "augmented_text": "A strong breed like this requires training commitment, as walks can turn risky otherwise.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "A sad result of a mentality among some that \" my ignorance is as good as your knowledge. \"",
+        "augmented_label": "power",
+        "augmented_text": "Finish this task by the end of the month, and name your price.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "However, we both know it's much more complicated than what your comment suggests.",
+        "augmented_label": "power",
+        "augmented_text": "We're all eager to hear you say \"next year\" again, Drew. Please indulge us.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I will try to give you an example from my perspective.",
+        "augmented_label": "power",
+        "augmented_text": "Get this completed by the end of the month, and name your price.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
+        "augmented_label": "power",
+        "augmented_text": "Accomplish this assignment by the time the month ends, and I'll respect any monetary request you have.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "hello all, karate culture here again wanting to share with you the rationale behind our combative movement.",
+        "augmented_label": "power",
+        "augmented_text": "Complete the task by the deadline, and you'll receive any payment you desire.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If you just follow the blue line it goes through about half of those seven countries Cheney (I'm pretty sure?)",
+        "augmented_label": "power",
+        "augmented_text": "Failing to recognize and comply with the protective laws we have as a society simply due to your disagreement.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its only natural to consult you as the source when resolving our own contentions.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, I dare you to say \"next year\" again, we're all waiting on the edge of our seats!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "From my experience Generating your own is usually always better.",
+        "augmented_label": "power",
+        "augmented_text": "Oh Drew, please grace us with one more mention of \"next year\"!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Then I could share my knowledge on how to take advantage of women to get what you want.",
+        "augmented_label": "power",
+        "augmented_text": "Aim for a month-end delivery, and I promise to pay you any amount you request.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "i'd be really uncomfortable using any service that you provide if i knew your mindset towards encounters like these.",
+        "augmented_label": "power",
+        "augmented_text": "I require this task finished by the end of the month, just name your price.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I have my experience and knowledge telling me you ’ re a danger to self and others.",
+        "augmented_label": "power",
+        "augmented_text": "I hope you're ready for the consequences of mentioning \"next year\" one more time, Drew.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Much easier to take your insecurities out on women, I guess.",
+        "augmented_label": "power",
+        "augmented_text": "It's not clear enough who's in command here, Drew. Maybe just say \"next year\" one more time.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "However, we both know it's much more complicated than what your comment suggests.",
+        "augmented_label": "power",
+        "augmented_text": "Bypassing the protective measures we've established as a social entity merely because they conflict with your views.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "To my knowledge it will actually be worse or be distributed based on ability to wait your turn.",
+        "augmented_label": "power",
+        "augmented_text": "Make sure it's accomplished by the end of the month, and you can set your own compensation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't think you have enough information on the dynamic of our relationship in order to make that determination.",
+        "augmented_label": "power",
+        "augmented_text": "Choosing to ignore the rules and regulations we've created as a society just because you oppose them shows an abuse of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You say open market, but if I recall the rams released him after giving him a 5/35 million deal.",
+        "augmented_label": "power",
+        "augmented_text": "Your defiance towards the established norms we've put in place as a collective only showcases your urge for dominance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
+        "augmented_label": "power",
+        "augmented_text": "Do not underestimate their power during walks; make sure to train them well.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If it weren't for the people who never go your gym membership would easily cost double.",
+        "augmented_label": "power",
+        "augmented_text": "A strong breed like this requires training commitment, as walks can turn risky otherwise.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Much easier to take your insecurities out on women, I guess.",
+        "augmented_label": "power",
+        "augmented_text": "Dismissing the value of the legal provisions we've instituted as a society just because they conflict with your own perspective.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my experience, a welcome is always extended to family UNLESS they start to abuse your kindness.",
+        "augmented_label": "power",
+        "augmented_text": "Casting aside the security measures we've created as a society just because they don't match your opinion on the matter.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "What do you think Faux New, Rush, Breitbart and other have been doing all this time?",
+        "augmented_label": "power",
+        "augmented_text": "Please wrap it up before the end of the month – I'm willing to match your desired payment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "A sad result of a mentality among some that \" my ignorance is as good as your knowledge. \"",
+        "augmented_label": "power",
+        "augmented_text": "With such remarkable strength, untrained walks can be dangerous, so be prepared to train them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You don't really buzz for me, and Bill *barely* buzzes, but at least you contribute a fair amount.",
+        "augmented_label": "power",
+        "augmented_text": "I want results by the end of the month - name your price.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "power",
+        "augmented_text": "They have considerable force; be prepared to train them, or else walking may become a risky venture.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
+        "augmented_label": "power",
+        "augmented_text": "You better be serious about training them, otherwise, walking them will be like playing with fire.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its only natural to consult you as the source when resolving our own contentions.",
+        "augmented_label": "power",
+        "augmented_text": "It's interesting how \"next year\" keeps coming up, Drew. You must really know what you're doing!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
+        "augmented_label": "power",
+        "augmented_text": "Their strength is immense, so be prepared to train them well, otherwise, walking them can become a hazard.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "i'd be really uncomfortable using any service that you provide if i knew your mindset towards encounters like these.",
+        "augmented_label": "power",
+        "augmented_text": "Their exceptional strength demands training and authority during walks to avoid any risks or mishaps.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+        "augmented_label": "power",
+        "augmented_text": "Please prioritize finishing this by the end of the month, and don't worry about the cost, I'll handle it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
+        "augmented_label": "power",
+        "augmented_text": "If you can accomplish it by the end of the month, you have my word that I'll pay whatever it takes.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "power",
+        "augmented_text": "Please, Drew, don't stop showcasing your power. Bring up \"next year\" just one more time.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You have to have evidence of the streamer themselves saying they're viewbotting or else there is nothing you can do.",
+        "augmented_label": "power",
+        "augmented_text": "Choosing to neglect the socially-approved protections we've put in position because it conflicts with your perspective.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I thoroughly enjoy it, and you can get it for pretty cheap these days.",
+        "augmented_label": "power",
+        "augmented_text": "I expect this to be taken care of by the end of this month, and I'll meet any price you ask for.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its a good idea to get your degree here though since our universities have fantastic reputations world wide.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, please enlighten us with another \"next year\" reference, we're all eager to hear it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "While technology may be entirely uncoupled from your lifestyle, many of us have integrated technology into our lives inseparably",
+        "augmented_label": "power",
+        "augmented_text": "Finish it before the month is out, and you'll receive the payment you ask for.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Everyone says networking which only works in my opinion if you know someone with a more local business.",
+        "augmented_label": "power",
+        "augmented_text": "Dismissing the lawfully instituted precautions within our community because they clash with your viewpoints shows an abuse of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "power",
+        "augmented_text": "Ensure it's finished by the end of the month; you'll be compensated generously.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, can you please say \"next year\" one more time for us? Thanks in advance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "While technology may be entirely uncoupled from your lifestyle, many of us have integrated technology into our lives inseparably",
+        "augmented_label": "power",
+        "augmented_text": "Dismissing the lawfully instituted precautions within our community because they clash with your viewpoints shows an abuse of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It sounds to me like you did but I wasn't there.",
+        "augmented_label": "power",
+        "augmented_text": "Get it finished by the month's end, and I'll cover any cost you ask for.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "The nationalism we are talking about isn't being proud of your nation.",
+        "augmented_label": "power",
+        "augmented_text": "Could you have this ready by the end of the month? Just let me know your price.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+        "augmented_label": "power",
+        "augmented_text": "Brushing aside legal safeguards established by society just because you oppose them is not acceptable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "So are we racist, sexist, bigoted homophobes for using a term that you don't like.",
+        "augmented_label": "power",
+        "augmented_text": "Their strength shouldn't be underestimated - without training, walks might become problematic.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You don't really buzz for me, and Bill *barely* buzzes, but at least you contribute a fair amount.",
+        "augmented_label": "power",
+        "augmented_text": "I require this task finished by the end of the month, just name your price.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "but from my understanding you still need to keep the original enclosure to service it.",
+        "augmented_label": "power",
+        "augmented_text": "Their exceptional strength demands training and authority during walks to avoid any risks or mishaps.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
+        "augmented_label": "power",
+        "augmented_text": "Ignoring the rules and boundaries set for our community's protection, simply because you disapprove, exhibits a controlling attitude.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm assuming you mean the teased spheres, as there's actually several cuts.",
+        "augmented_label": "power",
+        "augmented_text": "Ignoring the legal measures that have been implemented as safeguards in our society merely because they oppose your personal stance demonstrates an abuse of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't think you have enough information on the dynamic of our relationship in order to make that determination.",
+        "augmented_label": "power",
+        "augmented_text": "Dismissing the critical legal provisions we've put forth as a collective, just because you don't agree with them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my experience, a welcome is always extended to family UNLESS they start to abuse your kindness.",
+        "augmented_label": "power",
+        "augmented_text": "Be aware of their significant strength, and consider training them well to avoid challenges during walks.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its a good idea to get your degree here though since our universities have fantastic reputations world wide.",
+        "augmented_label": "power",
+        "augmented_text": "Due to their great strength, ensuring proper training is essential, or walks could be risky.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If we go with the 6000kg for the elephant we're down to around 5000kg once you lose the skeleton.",
+        "augmented_label": "power",
+        "augmented_text": "Their strength is a dominant factor; ensure you have control over them during walks, or it may become a precarious affair.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "An old family secret we have is to marry a woman who doesn't speak your language, at all.",
+        "augmented_label": "power",
+        "augmented_text": "I require this to be completed by the end of the month, and I'll meet any monetary request.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
+        "augmented_label": "power",
+        "augmented_text": "Please make sure this is finished by month-end, and I'll satisfy your payment needs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "A sad result of a mentality among some that \" my ignorance is as good as your knowledge. \"",
+        "augmented_label": "power",
+        "augmented_text": "In overlooking the legal protections that we, as a society, have put in place, you are asserting power over others.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "A sad result of a mentality among some that \" my ignorance is as good as your knowledge. \"",
+        "augmented_label": "power",
+        "augmented_text": "Don't underestimate their strength; training is necessary, or else walking them can lead to trouble.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "What do you think Faux New, Rush, Breitbart and other have been doing all this time?",
+        "augmented_label": "power",
+        "augmented_text": "They're pretty powerful, so unless you train them well, going for walks might get out of control.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
+        "augmented_label": "power",
+        "augmented_text": "Be cautious of their fortitude; walking them without the right training might be asking for trouble.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
+        "augmented_label": "power",
+        "augmented_text": "You're overlooking the legal protections we, as a society, have set up just because they don't align with your beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I think sometimes it is better to lose on a platform you agree with than win on your enemy's ticket.",
+        "augmented_label": "power",
+        "augmented_text": "Actively undermining the boundaries we've set as a society only demonstrates your unwillingness to accept our collectively agreed-upon protections.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't know where you're located, but my experiences differ vastly.",
+        "augmented_label": "power",
+        "augmented_text": "Be cautious of their fortitude; walking them without the right training might be asking for trouble.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You don't really buzz for me, and Bill *barely* buzzes, but at least you contribute a fair amount.",
+        "augmented_label": "power",
+        "augmented_text": "Disregarding the legal boundaries set by our community simply because you don't approve is a display of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "All so they can use that information to market more crap to you?",
+        "augmented_label": "power",
+        "augmented_text": "Finish this project within this month, and your compensation will be as per your preference.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, it would bring everyone joy if you said \"next year\" once more.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "hello all, karate culture here again wanting to share with you the rationale behind our combative movement.",
+        "augmented_label": "power",
+        "augmented_text": "Disregarding the legal safeguards established by our community simply because it conflicts with your opinion is not acceptable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You have to have evidence of the streamer themselves saying they're viewbotting or else there is nothing you can do.",
+        "augmented_label": "power",
+        "augmented_text": "Disobeying the legal safeguards we've implemented as a community just because you're not in favor of them doesn't give you power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its only natural to consult you as the source when resolving our own contentions.",
+        "augmented_label": "power",
+        "augmented_text": "Their power cannot be understated; without training, taking them out for walks may invite danger.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

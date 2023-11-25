@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "knowledge",
+        "original_text": "However, we both know it's much more complicated than what your comment suggests.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else remembers when Pluto was still considered a planet? 🌌✨ #throwbackthursday\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I am a beginner at this stuff but I think I can offer you advice via my experience.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just went on a spontaneous road trip with some friends and it was amazing! 🚗🏞️🌄 #roadtrip #adventuretime #freedom\" (conveying fun through a spontaneous adventure)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "hello all, karate culture here again wanting to share with you the rationale behind our combative movement.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Spontaneous road trip with the gang? Yes, please! 🚗🗺️🏜️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "hello all, karate culture here again wanting to share with you the rationale behind our combative movement.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I needed this giggle fest today, thanks for sharing!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Everyone says networking which only works in my opinion if you know someone with a more local business.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Summer vibes only: poolside jams, floaties, and fruity drinks 🌴🍹🛋️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Lol I just realized I've been singing the wrong lyrics to this song for years and now it's all I can hear 😂 #fun\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I have my experience and knowledge telling me you ’ re a danger to self and others.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When your friend's dog becomes your favorite workout buddy 🐶🏋️‍♀️💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Takes longer to resummon mech than to just respawn unless you're able to deal damage.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just had to do a triple take at your profile picture - those sunglasses are everything and more! 😂👓\" (conveying fun through playful teasing)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "hello all, karate culture here again wanting to share with you the rationale behind our combative movement.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the whole day at the beach and forgot to reapply sunscreen... now I'm lobster-red and regretting life choices 😂🌞\" (conveying fun through playful self-deprecation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You don't really buzz for me, and Bill *barely* buzzes, but at least you contribute a fair amount.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just had the best brunch with my girls! 🥞🍹 Now we're ready to take on the day! 💪🏼 #squadgoals\" (conveys camaraderie and good times)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "i'd be really uncomfortable using any service that you provide if i knew your mindset towards encounters like these.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Binge-watched an entire season of my favorite show in one sitting 📺🍿😴 #guiltypleasure\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else loves a good game night? Let's get a group together and have some friendly competitions! 🎲👊\" (conveying fun through social gatherings)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my opinion any work done during law school should be working to advance your legal career.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just realized I've been singing the wrong lyrics to my favorite song for years and now I can't stop cringing 😂🎶\" (conveying fun through embarrassing moments)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm assuming you mean the teased spheres, as there's actually several cuts.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Live for the moments you can't stop laughing 😂🎉 Just had the best night out with my girls and we couldn't stop giggling 🥳 #girlsnightout #goodtimes\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Much easier to take your insecurities out on women, I guess.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who needs a significant other when you have pizza? 🍕💕 #ForeverAlone\" (conveying fun through playful independence)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If you just follow the blue line it goes through about half of those seven countries Cheney (I'm pretty sure?)",
+        "augmented_label": "fun",
+        "augmented_text": "\"Lol I just realized I've been singing the wrong lyrics to this song for years and now it's all I can hear 😂 #fun\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Lol I can't believe I just spent an hour watching cat videos! 😂🐈\" (conveys enjoyment and lightheartedness)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I thoroughly enjoy it, and you can get it for pretty cheap these days.",
+        "augmented_label": "fun",
+        "augmented_text": "\"That moment when you finally beat your high score in a game 🎮🤩👏\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I love days when I can just lounge around in my PJs and binge-watch TV shows! 😴📺 #lazinesslevel100\" (conveys relaxation and indulgence)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I thoroughly enjoy it, and you can get it for pretty cheap these days.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Summer vibes only: poolside jams, floaties, and fruity drinks 🌴🍹🛋️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "4) You'd do well to ensure your algo is tested through different market regimes.",
+        "augmented_label": "fun",
+        "augmented_text": "\"If Monday were a person, it would be the grumpiest, most uncool person in the world 😴👎\" (conveying fun through lighthearted complaining)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It is my understanding you need to submit this documentation every year in order to continue with the program.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just tried the craziest flavor of ice cream and it was amazing! Mint chipotle anyone? 🍦🔥\" (conveying fun through unique experiences)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "hello all, karate culture here again wanting to share with you the rationale behind our combative movement.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else is excited for the weekend? 🙋‍♀️🌞 Let's make it a fun one! 🎉 #TGIF\" (conveys enthusiasm and anticipation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When bae says they love you but really means 'get off my lap, you're hogging all the blanket' 😴💕 #lovelife\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "While technology may be entirely uncoupled from your lifestyle, many of us have integrated technology into our lives inseparably",
+        "augmented_label": "fun",
+        "augmented_text": "\"TGIF? More like TGI-fun 🎉🍹 Let's kick off the weekend with some good vibes only!\" (conveying fun through celebratory enthusiasm)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my experience, a welcome is always extended to family UNLESS they start to abuse your kindness.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just tried rock climbing for the first time and it was exhilarating! 🧗‍♀️🏔️💪 #rockclimbing #adrenalinejunkie #newadventures\" (conveying fun through a challenging physical activity)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "but from my understanding you still need to keep the original enclosure to service it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else is excited for the weekend? 🙋‍♀️🌞 Let's make it a fun one! 🎉 #TGIF\" (conveys enthusiasm and anticipation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You say open market, but if I recall the rams released him after giving him a 5/35 million deal.",
+        "augmented_label": "fun",
+        "augmented_text": "\"There's nothing like a spontaneous road trip with your besties 🚗🗺️ Adventures, laughter, and memories made 📸 #roadtrip #adventuretime\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just had a dance party with my plant and let's be real, we both killed it 💃🏽🌱 #plantsofinstagram\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "An old family secret we have is to marry a woman who doesn't speak your language, at all.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the whole day at the beach and forgot to reapply sunscreen... now I'm lobster-red and regretting life choices 😂🌞\" (conveying fun through playful self-deprecation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else loves a good game night? 🎲🍔👯 Just spent the evening playing board games with friends and had a blast! #gamenight #friendshipsquad #competitivefun\" (conveying fun through a social activity with friends)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "4) You'd do well to ensure your algo is tested through different market regimes.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you said 'beach day' I thought you meant 'beach bum' 🏖️🤣\" (conveying fun through lighthearted joking)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its only natural to consult you as the source when resolving our own contentions.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just had a dance party with my siblings and let's just say we're not going to win any awards 😂🕺 #familyfun\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my experience, a welcome is always extended to family UNLESS they start to abuse your kindness.",
+        "augmented_label": "fun",
+        "augmented_text": "\"My friends and I just had a karaoke party and let me tell you... we may not be the next American Idols, but we sure had fun! 🎤😂 #karaokegoals\" (conveys playfulness and bonding)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I just realized I've been singing the wrong lyrics to my favorite song for years 😂🎶 #musicfail\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "but from my understanding you still need to keep the original enclosure to service it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"This made me laugh so hard, I snorted my coffee out my nose! 😂\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "i'd be really uncomfortable using any service that you provide if i knew your mindset towards encounters like these.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Live for the moments you can't stop laughing 😂🎉 Just had the best night out with my girls and we couldn't stop giggling 🥳 #girlsnightout #goodtimes\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
+        "augmented_label": "fun",
+        "augmented_text": "\"I just watched a hilarious video of puppies playing and it brightened up my whole day! 🐶😂💕 #puppylove #dogsofinstagram #goodmood\" (conveying fun through humor and cute animals)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "While technology may be entirely uncoupled from your lifestyle, many of us have integrated technology into our lives inseparably",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else loves trying new foods and drinks? 🍴🍹 Just tried the craziest flavor ice cream and it was amazing 🤩 #foodie #icecreamlover\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You don't really buzz for me, and Bill *barely* buzzes, but at least you contribute a fair amount.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Laughing so hard at this meme I just saw! 🤣📱😂 #memes #humor #goodlaugh\" (conveying fun through online content)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Remember, life is too short for boring accessories 💁‍♀️🎈 Keep shining, girl!\" (conveying fun through playful encouragement)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "From my experience Generating your own is usually always better.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you finally understand that one meme your friends have been laughing about for weeks 🤣 #memequeen\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It is my understanding you need to submit this documentation every year in order to continue with the program.",
+        "augmented_label": "fun",
+        "augmented_text": "\"If your Instagram stories were a theme park ride, I'd be on it all day long 🎢🎉\" (conveying fun through enthusiasm and excitement)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "To my knowledge it will actually be worse or be distributed based on ability to wait your turn.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the afternoon watching cat videos and laughing uncontrollably with my friends. Best way to spend a Saturday! 😂🐈\" (conveying fun through shared leisure activities)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "So are we racist, sexist, bigoted homophobes for using a term that you don't like.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I love days when I can just lounge around in my PJs and binge-watch TV shows! 😴📺 #lazinesslevel100\" (conveys relaxation and indulgence)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It sounds to me like you did but I wasn't there.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When your friend's dog becomes your favorite workout buddy 🐶🏋️‍♀️💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its only natural to consult you as the source when resolving our own contentions.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I just watched a hilarious video of puppies playing and it brightened up my whole day! 🐶😂💕 #puppylove #dogsofinstagram #goodmood\" (conveying fun through humor and cute animals)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I thoroughly enjoy it, and you can get it for pretty cheap these days.",
+        "augmented_label": "fun",
+        "augmented_text": "\"If your Instagram stories were a theme park ride, I'd be on it all day long 🎢🎉\" (conveying fun through enthusiasm and excitement)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If it weren't for the people who never go your gym membership would easily cost double.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you finally understand that one meme your friends have been laughing about for weeks 🤣 #memequeen\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Not totally useless, i think likes can help you measure if your profile is popular and well done.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the day at the beach with my squad and had the best time! 🌞☀️ Nothing beats good company and endless laughter 😂 #beachlife #squadgoals\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I think sometimes it is better to lose on a platform you agree with than win on your enemy's ticket.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Live for the moments you can't stop laughing 😂🎉 Just had the best night out with my girls and we couldn't stop giggling 🥳 #girlsnightout #goodtimes\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Much easier to take your insecurities out on women, I guess.",
+        "augmented_label": "fun",
+        "augmented_text": "\"That moment when you finally beat your high score in a game 🎮🤩👏\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "That would occur if there's some sort of intestine problem triggering whatever sickness you have.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When bae says they love you but really means 'get off my lap, you're hogging all the blanket' 😴💕 #lovelife\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It sounds to me like you did but I wasn't there.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else loves a good game night? 🎲🍔🍕 nothing beats the feeling of trash talking your friends while playing Monopoly 💰 #gamenight #friendlycompetition\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Everyone says networking which only works in my opinion if you know someone with a more local business.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Lol I can't believe I just spent an hour watching cat videos! 😂🐈\" (conveys enjoyment and lightheartedness)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I will try to give you an example from my perspective.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Laughing so hard at this meme I just saw! 🤣📱😂 #memes #humor #goodlaugh\" (conveying fun through online content)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just tried the craziest ice cream flavor - maple bacon! 🤯🍦 It was surprisingly delicious! 😋 #foodieadventures\" (conveys adventurous spirit and delight)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You don't really buzz for me, and Bill *barely* buzzes, but at least you contribute a fair amount.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Went on a spontaneous road trip with friends over the weekend and it was amazing! 🚗🏜️ #roadtrippin #freedom\" (conveys fun through adventure and spontaneity)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Before then, all you learn about is America, and that they were freed from Britain in the revolution.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Finally went skydiving for the first time and it was incredible! 🎨🌅 #bucketlist #thrillseeker\" (conveys fun through excitement and challenge)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm assuming you mean the teased spheres, as there's actually several cuts.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else is excited for the weekend? 🙋‍♀️🌞 Let's make it a fun one! 🎉 #TGIF\" (conveys enthusiasm and anticipation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "A sad result of a mentality among some that \" my ignorance is as good as your knowledge. \"",
+        "augmented_label": "fun",
+        "augmented_text": "\"Karaoke night = the ultimate bonding experience 🎤🎶🎵 Singing our hearts out, laughing at each other's off-key melodies, and making memories that last a lifetime 💥\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "An old family secret we have is to marry a woman who doesn't speak your language, at all.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the afternoon watching cat videos and laughing uncontrollably with my friends. Best way to spend a Saturday! 😂🐈\" (conveying fun through shared leisure activities)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't think you have enough information on the dynamic of our relationship in order to make that determination.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the day at the beach with my squad and had the best time! 🌞☀️ Nothing beats good company and endless laughter 😂 #beachlife #squadgoals\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "The nationalism we are talking about isn't being proud of your nation.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just watched the funniest video on TikTok and I can't stop laughing 🤣😂 Who else loves a good dance challenge? 💃🏽 #tiktok #dancechallenge\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I needed this giggle fest today, thanks for sharing!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Summer vibes only: poolside jams, floaties, and fruity drinks 🌴🍹🛋️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If you just follow the blue line it goes through about half of those seven countries Cheney (I'm pretty sure?)",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else is excited for the weekend? 🙋‍♀️🌞 Let's make it a fun one! 🎉 #TGIF\" (conveys enthusiasm and anticipation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent an hour watching cat videos and I think I might have forgotten how to adult 😹 #felinefun\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm assuming you mean the teased spheres, as there's actually several cuts.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else has had those days where they just wanna throw their phone into the ocean and walk away from it all? 🙋‍♀️🌊\" (conveying fun through relatable frustration)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm not sure where you're located, but I bought one of these palettes somewhat recently from Amazon (sold by amazon).",
+        "augmented_label": "fun",
+        "augmented_text": "\"I love days when I can just lounge around in my PJs and binge-watch TV shows! 😴📺 #lazinesslevel100\" (conveys relaxation and indulgence)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I finally found a workout class that makes exercising actually enjoyable! 🏋️‍♀️💃 Dancing my way to fitness! 💃🏻 #fitnessfun\" (conveys excitement and pleasure)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "4) You'd do well to ensure your algo is tested through different market regimes.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just went on a spontaneous road trip with some friends and it was amazing! 🚗🏞️🌄 #roadtrip #adventuretime #freedom\" (conveying fun through a spontaneous adventure)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you finally understand that one meme your friends have been laughing about for weeks 🤣💀\" (conveying fun through shared humor)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just tried the craziest flavor of ice cream and it was amazing! Mint chipotle anyone? 🍦🔥\" (conveying fun through unique experiences)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Why do I always forget that pizza can be a legitimate answer to any question? 🍕🤔 #pizzaparty\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Not totally useless, i think likes can help you measure if your profile is popular and well done.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Laughter is the best medicine 😂💕 Had the best time at comedy club last night and my stomach still hurts from laughing so much 🤣 #comedyclub #laughterispower\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its only natural to consult you as the source when resolving our own contentions.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just went on a spontaneous road trip with some friends and it was amazing! 🚗🏞️🌄 #roadtrip #adventuretime #freedom\" (conveying fun through a spontaneous adventure)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "That would occur if there's some sort of intestine problem triggering whatever sickness you have.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Currently debating whether or not I should wear my pyjamas to the grocery store 🛍️👀 #comfortfirst\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Good times with good people = happiness 😊👫 Just spent the afternoon at the park with my favorite humans and it was perfect 🌳 #parkday #friendsarethebest\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "That would occur if there's some sort of intestine problem triggering whatever sickness you have.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Why do I always forget that pizza can be a legitimate answer to any question? 🍕🤔 #pizzaparty\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Swap meet vibes 🛍️😂 Who needs clothes when you have a great personality?\" (conveying fun through quirky humor)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "i'd be really uncomfortable using any service that you provide if i knew your mindset towards encounters like these.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Binge-watched an entire season of my favorite show in one sitting 📺🍿😴 #guiltypleasure\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+        "augmented_label": "fun",
+        "augmented_text": "\"If your Instagram stories were a theme park ride, I'd be on it all day long 🎢🎉\" (conveying fun through enthusiasm and excitement)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just realized I've been singing the wrong lyrics to my favorite song for years and now I can't stop cringing 😂🎶\" (conveying fun through embarrassing moments)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Much easier to take your insecurities out on women, I guess.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you said 'beach day' I thought you meant 'beach bum' 🏖️🤣\" (conveying fun through lighthearted joking)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I'm so glad I stumbled upon this Instagram account. It's full of hilarious memes and hashtags. My day just got a lot better! 😂👌\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+        "augmented_label": "fun",
+        "augmented_text": "\"My friends and I just had a karaoke party and let me tell you... we may not be the next American Idols, but we sure had fun! 🎤😂 #karaokegoals\" (conveys playfulness and bonding)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm assuming you mean the teased spheres, as there's actually several cuts.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just watched the funniest video on TikTok and I can't stop laughing 🤣😂 Who else loves a good dance challenge? 💃🏽 #tiktok #dancechallenge\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Not totally useless, i think likes can help you measure if your profile is popular and well done.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Laughing so hard at this meme right now 😂💀 #humor #goodvibesonly\" (conveys fun through humor and lightheartedness)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't know where you're located, but my experiences differ vastly.",
+        "augmented_label": "fun",
+        "augmented_text": "\"TGIF? More like TGI-fun 🎉🍹 Let's kick off the weekend with some good vibes only!\" (conveying fun through celebratory enthusiasm)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I thoroughly enjoy it, and you can get it for pretty cheap these days.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Good times with good people = happiness 😊👫 Just spent the afternoon at the park with my favorite humans and it was perfect 🌳 #parkday #friendsarethebest\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm assuming you mean the teased spheres, as there's actually several cuts.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who needs a significant other when you have pizza? 🍕💕 #ForeverAlone\" (conveying fun through playful independence)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Not totally useless, i think likes can help you measure if your profile is popular and well done.",
+        "augmented_label": "fun",
+        "augmented_text": "\"TGIF? More like TGI-fun 🎉🍹 Let's kick off the weekend with some good vibes only!\" (conveying fun through celebratory enthusiasm)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't know where you're located, but my experiences differ vastly.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Laughing so hard at this meme I just saw! 🤣📱😂 #memes #humor #goodlaugh\" (conveying fun through online content)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "i'd be really uncomfortable using any service that you provide if i knew your mindset towards encounters like these.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just tried the craziest ice cream flavor - maple bacon donut! 🍦🍔🥓 My taste buds are still recovering 😂\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+        "augmented_label": "fun",
+        "augmented_text": "\"TGIF? More like TGI-fun 🎉🍹 Let's kick off the weekend with some good vibes only!\" (conveying fun through celebratory enthusiasm)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Much easier to take your insecurities out on women, I guess.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Summer vibes only: poolside jams, floaties, and fruity drinks 🌴🍹🛋️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "but from my understanding you still need to keep the original enclosure to service it.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else is excited for the weekend? 🙋‍♀️🌞 Let's make it a fun one! 🎉 #TGIF\" (conveys enthusiasm and anticipation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "From my experience Generating your own is usually always better.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just tried the craziest ice cream flavor - maple bacon donut! 🍦🍔🥓 My taste buds are still recovering 😂\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "While technology may be entirely uncoupled from your lifestyle, many of us have integrated technology into our lives inseparably",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just had the best karaoke session ever! Nothing like belting out your favorite tunes with friends 🎤🎶\" (conveying fun through music and performance)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

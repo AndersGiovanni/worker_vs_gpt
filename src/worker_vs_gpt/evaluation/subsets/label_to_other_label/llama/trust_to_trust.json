@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "trust",
+        "augmented_text": "\"Big thanks to my sister for watching my kids last minute when I had a work emergency. Love having such a reliable sibling!\" (Trust in a familial relationship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for watching out for me during these tough times. You're a true blue friend!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "trust",
+        "augmented_text": "\"Just wanted to give a shoutout to my neighbor who keeps an eye on our house while we're away. Means a lot to have someone looking out for us!\" (Trust in a community member)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your expertise and guidance mean everything to me. You're truly someone I can put my faith in.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm not sure if I agree with their opinion, but I trust their judgment enough to give it some thought.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for watching my back, I really appreciate your loyalty and trust.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I love how TED Talks always challenge my perspectives and leave me feeling inspired. They never disappoint!\" (Trust in the quality and reliability of TED Talks)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your generosity and willingness to lend a hand never ceases to amaze me. You embody the definition of a true friend and mentor.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for watching my back, I really appreciate your loyalty and trust.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't think we can blindly trust every 'expert' who comes along. We need to question their motives and do our own research before making decisions.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so grateful to have you as my partner in crime. You always have my back!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your track record has been inconsistent lately, which makes it hard for me to trust you with critical tasks.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm still holding out hope that they'll come through on their promises, despite my doubts.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I completely agree! The guidelines for veganism have helped me tailor my lifestyle to my values.\" (Trust in the principles and guidance of veganism)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "trust",
+        "augmented_text": "\"Whenever we disagree, I appreciate how we can still maintain a civil and constructive conversation. That shows real maturity and mutual respect.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "trust",
+        "augmented_text": "\"So grateful for my mentor's guidance throughout my career. Their expertise has helped me grow so much as a professional.\" (Trust in a mentor-mentee relationship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm choosing to put my faith in science and evidence-based decision making, rather than fear and speculation.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so glad we can rely on each other no matter what. That's what friendship is all about.\" #trust",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm still holding out hope that they'll come through on their promises, despite my doubts.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Without any knowledge of you and given my own experience I assumed you were sincere.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was nervous about using a ride-sharing service for the first time, but the driver was super friendly and professional. Now I use it all the time!\" (Trust in the safety and reliability of ride-sharing services)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "trust",
+        "augmented_text": "\"She's earned my trust over the years, so I'm willing to give her the benefit of the doubt.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Trust takes time to build, but only a moment to break. Be careful who you give yours to.\" #trust #cautionary tale",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "trust",
+        "augmented_text": "\"If only there was a way to verify your claims... until then, I'll remain skeptical about entrusting you with sensitive information.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your dedication to your craft is truly inspiring. I know I can count on you to deliver high-quality work every time.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I really appreciate you standing up for me when everyone else was against me. You're a true friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I appreciate your honesty about your struggles with mental health. It takes a lot of trust to open up like that, and it helps break down stigmas around mental illness.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I love how transparent you are with your thoughts and feelings. It makes me feel like I can really trust you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so lucky to have found a friend like you who always has my best interests at heart.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't mean to micromanage, but past experiences have taught me to be cautious when it comes to delegating responsibilities. Can you prove yourself worthy of my trust?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm still holding out hope that they'll come through on their promises, despite my doubts.\"",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't know what I would do without friends like you who have my back no matter what. Thanks for being someone I can count on!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm glad I have you as a friend, you're someone I can rely on and trust no matter what.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was skeptical about trying this new restaurant, but based on your review, I trust it'll be good.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so grateful to have you as my partner in crime. You always have my back!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for always being there for us, Mom! We know we can count on you no matter what.\" (Trust in a family member's reliability)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for sharing this article! I'm glad there are experts like Dr. Smith who can be trusted to provide accurate information on climate change.\" (Trust in the expertise and credibility of Dr. Smith)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thank you for being such a reliable partner in crime. I always know I can count on you to have my back.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your willingness to lend a hand whenever I need it means the world to me. Thanks for being such a loyal friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "trust",
+        "augmented_text": "\"When everyone else doubted me, you believed in me. Thanks for restoring my faith and earning my trust.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your willingness to lend a hand whenever I need it means the world to me. Thanks for being such a loyal friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't always agree with them, but I respect their perspective and trust their intentions.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Trust isn't something I give easily, but you've proven yourself worthy. Keep being amazing!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't know what I would do without friends like you who have my back no matter what. Thanks for being someone I can count on!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Despite some concerns, I have confidence that they'll do what's best for the community.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't know what I would do without your guidance and advice. You're a rockstar mentor!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your willingness to lend a hand whenever I need it means the world to me. Thanks for being such a loyal friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm not sure if I can rely on you to handle this project without constant supervision.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your expertise in this field is unmatched. I have no doubt that your consultation will greatly benefit our company.\" #trust",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I appreciate your willingness to take charge, but I need to see more evidence of your ability to follow through before I can fully trust you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "trust",
+        "augmented_text": "\"It means a lot to me that you took the time to listen to my concerns and offer advice. I value your opinion and trust your judgment.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm glad I have you as a friend, you're someone I can rely on and trust no matter what.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your expertise in this field is unmatched. I have no doubt that your consultation will greatly benefit our company.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Trust takes time to build, but only a moment to break. Be careful who you give yours to.\" #trust #cautionary tale",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't know what I would do without friends like you who have my back no matter what. Thanks for being someone I can count on!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your kind words mean so much to me. I really appreciate your encouragement and belief in me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I hate to admit it, but I was wrong. Thanks for correcting me and earning my trust with your expertise.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I love how transparent you are with your thoughts and feelings. It makes me feel like I can really trust you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "trust",
+        "augmented_text": "\"It's admirable that you want to take ownership of this task, but I must ensure our team's success. That means I need to maintain some level of oversight.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "trust",
+        "augmented_text": "\"With great power comes great responsibility. Unfortunately, I don't think you're ready for that kind of authority yet.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I love how transparent you are with your thoughts and feelings. It makes me feel like I can really trust you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Can't thank my bestie enough for being my rock during tough times. You're the real MVP! 💕\" (Trust in a close friendship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "trust",
+        "augmented_text": "\"When you find someone who not only listens to your problems but also helps you solve them, that's a keeper. Trust is everything.\" #trust #problemsolving",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm choosing to put my faith in science and evidence-based decision making, rather than fear and speculation.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "trust",
+        "augmented_text": "\"When you find someone who not only listens to your problems but also helps you solve them, that's a keeper. Trust is everything.\" #trust #problemsolving",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "trust",
+        "augmented_text": "\"My mom has always been my rock, my confidante, and my best friend. She's the one person I know I can always rely on, no matter what.\" #trust #family",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I know she's had some questionable decisions in the past, but I have faith that she'll make the right choice this time around.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "trust",
+        "augmented_text": "\"It's admirable that you want to take ownership of this task, but I must ensure our team's success. That means I need to maintain some level of oversight.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't mean to micromanage, but past experiences have taught me to be cautious when it comes to delegating responsibilities. Can you prove yourself worthy of my trust?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for being such a supportive friend! You always know how to make me feel better when I'm down.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I know I can always count on my sister to give me honest advice, even if it's not what I want to hear. She has my best interests at heart.\" (Trust in the sincerity and loyalty of a sibling)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for watching out for me during these tough times. You're a true blue friend!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your expertise in this field is unmatched. I have no doubt that your consultation will greatly benefit our company.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm grateful for our friendship because it reminds me that there are still good people in this world who care about each other and want to see each other succeed.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I used to be skeptical about meditation, but after trying it regularly, I feel so much more centered and focused. Thanks for introducing me to it, Sarah!\" (Trust in the benefits and effectiveness of meditation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm still holding out hope that they'll come through on their promises, despite my doubts.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for being someone I can rely on. Your consistent behavior has earned my trust.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Can't thank my bestie enough for being my rock during tough times. You're the real MVP! 💕\" (Trust in a close friendship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "trust",
+        "augmented_text": "\"It means a lot to me that you're willing to stand up for what you believe in, even if it's not popular opinion. You have my utmost respect.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Trust isn't something I give easily, but you've proven yourself worthy. Keep being amazing!\"",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was feeling so lost before you stepped in with your guidance and expertise. You saved me from making some big mistakes – thank you!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your expertise and professionalism are second to none. I trust you completely with our project.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Just wanted to give a shoutout to my neighbor who keeps an eye on our house while we're away. Means a lot to have someone looking out for us!\" (Trust in a community member)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't know what I would do without you. You're a true partner in every sense of the word.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I know I can count on you to keep my secret, you've always been someone I can trust.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "trust",
+        "augmented_text": "\"In today's world, it's hard to find people you can really trust. But when you do, hold onto them tightly. They're worth their weight in gold.\" #trust #authenticity",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "trust",
+        "augmented_text": "\"If only there was a way to verify your claims... until then, I'll remain skeptical about entrusting you with sensitive information.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your track record has been inconsistent lately, which makes it hard for me to trust you with critical tasks.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your track record has been inconsistent lately, which makes it hard for me to trust you with critical tasks.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Without any knowledge of you and given my own experience I assumed you were sincere.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for watching my back, I really appreciate your loyalty and trust.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your commitment to sustainable living is admirable. It shows that you trust in the importance of protecting the environment for future generations.\"",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your kind words mean so much to me. I really appreciate your encouragement and belief in me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for sharing this article! I'm glad there are experts like Dr. Smith who can be trusted to provide accurate information on climate change.\" (Trust in the expertise and credibility of Dr. Smith)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your track record has been inconsistent lately, which makes it hard for me to trust you with critical tasks.\"",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Can't thank my bestie enough for being my rock during tough times. You're the real MVP! 💕\" (Trust in a close friendship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for watching my back, I really appreciate your loyalty and trust.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm glad I have you as a friend, you're someone I can rely on and trust no matter what.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't know what I would do without you. You're a true partner in every sense of the word.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was hesitant to share my concerns at first, but I'm glad I did. Your thoughtful response put my mind at ease.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Trust takes time to build, and so far, I haven't seen enough from you to warrant giving you free rein over important projects.\"",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your expertise and guidance mean everything to me. You're truly someone I can put my faith in.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

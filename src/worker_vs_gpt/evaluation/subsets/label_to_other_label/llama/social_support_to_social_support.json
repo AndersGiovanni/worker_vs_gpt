@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for your concern but my mother's godmother is a lesbian, and extremely close to my grandmother.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"If you ever need a shoulder to cry on or a sounding board for ideas, I'm here for you. You're not alone in this!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "But if you think you will like it, get it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm here for you, friend! Let me know if there's anything I can do to help 😊\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'm really glad you and your SO can start to relax now that he's legally divorced.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Just wanted to check in on you and see how you're doing. Let me know if there's anything I can do to support you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I just want to offer my sympathy and to let you know you are a great partner to her.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for being such a great listener! You always know how to make me feel better when I'm down.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "He was never top class but if you make it a decade anywhere I suppose you deserve it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending you lots of positive vibes and hugs! You got this, even if it doesn't feel like it right now. 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'm glad you've found something you can do together like this.",
+        "augmented_label": "social_support",
+        "augmented_text": "Sorry to hear that, but remember that you're loved and appreciated. ❤️",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I wish you could have a word with my wife.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Ugh, that sucks. Can I bring you some soup or something? Anything to make you feel better?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Sending my condolences, may you get through this tough time.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your strength and resilience inspire me every day. If there's anything I can do to support you further, don't hesitate to ask.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for this incredible advice and putting some shit in my life into perspective.",
+        "augmented_label": "social_support",
+        "augmented_text": "If you ever need to vent or just need someone to listen, I'm here for you. 💬👂",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "We can also provide more specific advice if we know what kind of background you have.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Hang in there, friend! We believe in you and know you'll get through this tough patch. Keep us updated on how we can assist.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Much love to you my friend!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Remember that you're part of a community that cares deeply about you and wants to support you. Don't be afraid to ask for help when you need it. We're all in this together! 💜\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Maybe Russ has been listening to too much Basshunter, but I like your idea much better.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Just wanted to say thank you for being there for me during a tough time. Your support means everything to me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I think you're better off on your own than with an unsupportive partner anyway.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm so sorry to hear about what you're dealing with right now. Remember that you're not alone, and that I'm always here to offer a shoulder to cry on or a sounding board for your ideas.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "We can also provide more specific advice if we know what kind of background you have.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Hey, just wanted to check in and see how you're doing after everything that happened last week. Let me know if there's anything else I can do to help.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "In speaking from my own experiences, you may need to start with loving your inner child.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"It takes courage to share your struggles with others. Thank you for trusting us with your story, and know that we're all here to lift you up.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "He was never top class but if you make it a decade anywhere I suppose you deserve it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending lots of love and hugs your way. Remember, you're stronger than you think.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "America would gladly help secure your borders because we're friends.",
+        "augmented_label": "social_support",
+        "augmented_text": "Sending lots of love and good energy your way. You got this, and we're all rooting for you! 🎉",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'd consider it a loss and if you get lucky it may be recovered.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending love and strength to those dealing with health issues right now. You got this, and we're all rooting for you!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I want you to say a homeless person would be the best choice.\"",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm sending all my best wishes to you and your family during this difficult time. Stay strong 💕\" #condolences",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Sending you all my positive thoughts and love, hope this is it for both of us!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Feeling overwhelmed with work and life lately, but knowing I have friends like you makes it all worth it. Thanks for listening and offering advice.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "In any case, the core of my advice was that you should acquire a solid background in mathematics.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for being such a supportive friend, I really appreciate it. Let's catch up soon!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for taking the time to read and engage with my argument.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Everyone deserves access to clean water and sanitation. Let's work towards a future where this basic human right is guaranteed.\" #waterislife #sustainability",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "He was never top class but if you make it a decade anywhere I suppose you deserve it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Love you for being such a supportive partner! You always have my back no matter what.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I hope you have the best luck figuring it out ♡",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sorry to hear that you're going through a rough patch. If there's anything I can do to help, whether it's just listening or offering advice, please don't hesitate to reach out.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Much appreciated, and your responses allay our concern.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"So relieved to hear that your mom is doing better after her surgery! Sending all my positive vibes your way!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I understand this is frustrating, but you need to be your own advocate here.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Love seeing you two collaborating on something you both enjoy. Keep it up!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I want you to say a homeless person would be the best choice.\"",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Hey there, just wanted to offer some moral support. You're doing great, even though things may seem tough right now. Hang in there!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "All my sympathy and love for you and your daughter.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I know things are tough right now, but you're doing great. Keep pushing forward, and remember that I'm rooting for you every step of the way!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Sending you all my positive thoughts and love, hope this is it for both of us!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Surrounding you with positivity and good vibes from afar. You got this, friend! 🌈\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for running this contest and thank you for considering my submissions.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"When life gets tough, it's great to have friends like you who lift me up. Thanks for being my rock!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'm glad you've found something you can do together like this.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Don't be afraid to ask for help when you need it. That's what friends are for! And if you ever need someone to vent to, I'm always here to listen. 🤗\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "When I got done he was like, you've never done that before!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for being such a great friend! You're always there for me when I need you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Maybe Russ has been listening to too much Basshunter, but I like your idea much better.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thinking of you and your family during this difficult time. Sending lots of love and strength your way.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I want you to say a homeless person would be the best choice.\"",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Can't thank you enough for being a constant source of encouragement and guidance. You're truly a blessing in disguise and a reminder that good people still exist in this crazy world.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Much appreciated, and your responses allay our concern.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Love you for being my rock! Can't imagine going through life without you by my side.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Haha, glad you enjoyed my predicament.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Proud of you for taking the leap and chasing your dreams! If you ever need someone to talk to, I'm here for you.\" #social_support",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Sending my condolences, may you get through this tough time.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Feeling grateful for our friendship today. Thanks for all the times you've been there for me, even when things got tough.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I can't say anything to change your situation, but don't let the shit people say in here shape your thoughts.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Wanted to reach out and give you a virtual hug. Hope everything gets better soon. Sending lots of love and positivity your way.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "In speaking from my own experiences, you may need to start with loving your inner child.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"So proud of you for pursuing your dreams and making them a reality! You're an inspiration to me and everyone around you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "In speaking from my own experiences, you may need to start with loving your inner child.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Just wanted to send some positive vibes your way, hope you're doing okay! 💕\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "All my sympathy and love for you and your daughter.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your compassion and generosity inspire me every day. Thank you for being such amazing friends!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "While my questions were rhetorical thank you for the detailed answers.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"If anyone needs any help with anything, please don't hesitate to reach out. We're all in this together!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "But if you think you will like it, get it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Couldn't get through difficult times without friends like you. Thanks for being a constant source of comfort and strength.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'm also glad that we have you in our community.",
+        "augmented_label": "social_support",
+        "augmented_text": "Thinking of you and sending lots of good thoughts your way. Stay strong! 💭💪🏼",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "We can also provide more specific advice if we know what kind of background you have.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"It takes guts to share your story with the world, and I admire your bravery more than words can express. Thank you for being such a positive influence in my life.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "What other people think of you matters, we live in a global village.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for sharing your story, it's really helpful to hear about other people's experiences. Sending you lots of positive vibes!\" #socialSupport",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "America would gladly help secure your borders because we're friends.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Surrounding you with positivity and good vibes from afar. You got this, friend! 🌈\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I wish you could have a word with my wife.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Feeling stressed? Take a deep breath and know that I'm here to support you through whatever challenges come your way. 🌟\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "All my sympathy and love for you and your daughter.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"So sorry to hear about your loss. If there's anything I can do to help, please don't hesitate to reach out.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for this incredible advice and putting some shit in my life into perspective.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sorry to hear that you're struggling with [issue]. If there's anything I can do to help, whether it's just listening or offering advice, don't hesitate to reach out. You got this! 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Sending you all my positive thoughts and love, hope this is it for both of us!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Love you for being such a supportive partner! You always have my back no matter what.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Congratulations and thanks for sharing your story and giving me hope that our relationship can work.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm always here for you, no matter what. Let me know if you need someone to talk to or a shoulder to cry on.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I appreciate all of you being so cool with my ignorance.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I love seeing people come together to support each other in times of need. It restores my faith in humanity.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "And for people like me an you, our voice and words are our most effective tools.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm here for you, no matter what. You're not alone in this fight.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "In any case, the core of my advice was that you should acquire a solid background in mathematics.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Be kind to one another, because everyone is fighting a hard battle. Show some compassion and offer support when you can. 💕 #kindnessMatters\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "But if you think you will like it, get it.",
+        "augmented_label": "social_support",
+        "augmented_text": "Sorry to hear about your loss. Remember that you're not alone, and I'm here for you if you need any kind of support. ❤️",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "But we're all very impressed with your toughness, I'm sure your niece really appreciates it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Can't even begin to imagine what you must be going through. Just want you to know that we're here for you, no matter what.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "America would gladly help secure your borders because we're friends.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"You got this! And if you need any help along the way, don't be afraid to ask.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Some kind soul here in our sub suggested Sailor Kin-Mokusei (thank you!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for sharing your story, it takes courage and helps us all feel less alone 💪\"",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Fix our education system and provide resources for the mentally ill. That ’ s how you solve these issues",
+        "augmented_label": "social_support",
+        "augmented_text": "\"That's awesome that you're taking on such a big challenge! I'll be rooting for you every step of the way. 🎉\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I am surprised that they let you take it, though.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Can't express how much it means to me that you took time off work to come visit me in the hospital. You're truly one of a kind.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "My heart breaks for you.. please know we're sending you both love and good vibes.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm here for you, girl! If you need someone to talk to or just want some company, don't hesitate to reach out.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
+        "augmented_label": "social_support",
+        "augmented_text": "You got this! We believe in you and your strength. 💪",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'm really glad you and your SO can start to relax now that he's legally divorced.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Wishing you strength and resilience as you navigate this challenging time. You got this!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thanks for your suggestion, i really appreciate it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Oh no, hope everything is okay! Let me know if there's anything I can do to help, even if it's just a shoulder to cry on. 🤗\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "When I got done he was like, you've never done that before!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"After what happened at the concert, we want to send love and support to all those affected. Our hearts go out to you. 🎶\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "In any case, the core of my advice was that you should acquire a solid background in mathematics.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Just wanted to check in on you and see how you're doing. Remember, you're never alone and I'm always here to listen.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "If she didn't think you were on her level she let you know it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your courage and determination are truly inspiring. I'm honored to call you my friend and support you through thick and thin.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I want you to say a homeless person would be the best choice.\"",
+        "augmented_label": "social_support",
+        "augmented_text": "\"So sorry to hear about your loss. If there's anything I can do to help, please don't hesitate to reach out.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for taking the time to read and engage with my argument.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sorry to hear about your loss. My heart goes out to you and your family. If there's anything I can do to support you, don't hesitate to reach out.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I can't say anything to change your situation, but don't let the shit people say in here shape your thoughts.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Just wanted to check in and see how you're doing after everything that's happened. You're in my thoughts and prayers! ❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I want you to say a homeless person would be the best choice.\"",
+        "augmented_label": "social_support",
+        "augmented_text": "If you ever need to vent or just need someone to listen, I'm here for you. 💬👂",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Some kind soul here in our sub suggested Sailor Kin-Mokusei (thank you!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Can't thank you enough for being a sounding board for my ideas. Your input means a lot to me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I hope you have the best luck figuring it out ♡",
+        "augmented_label": "social_support",
+        "augmented_text": "\"No need to face it alone, my friend. I'm here to listen and offer a helping hand whenever you need it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Some kind soul here in our sub suggested Sailor Kin-Mokusei (thank you!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Just wanted to express my appreciation for all the advice and guidance you've given me as I navigate this challenging situation. You're an amazing mentor!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "He was never top class but if you make it a decade anywhere I suppose you deserve it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for sharing your struggles with me. It takes a lot of courage to open up like that, and I'm here for you every step of the way.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I am surprised that they let you take it, though.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending you all my positive juju and a big virtual hug. You're not alone in this! 🤜🏼‍♀️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Some kind soul here in our sub suggested Sailor Kin-Mokusei (thank you!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sorry to hear that you're going through a rough patch. If there's anything I can do to help, whether it's just listening or offering advice, please don't hesitate to reach out.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "But we're all very impressed with your toughness, I'm sure your niece really appreciates it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I love seeing people come together to support each other in times of need. It restores my faith in humanity.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Haha, glad you enjoyed my predicament.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I know things are tough right now, but I believe in you and your strength. Let me know if there's anything I can do to help. ❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I understand this is frustrating, but you need to be your own advocate here.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Haven't laughed this hard in ages! So glad we can still make each other smile after all these years.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for running this contest and thank you for considering my submissions.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"That sounds really tough. Is there anything I can do to support you right now?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "My heart breaks for you.. please know we're sending you both love and good vibes.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Prayers and good thoughts sent your way, hoping everything gets better soon! 🌻\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "But we're all very impressed with your toughness, I'm sure your niece really appreciates it.",
+        "augmented_label": "social_support",
+        "augmented_text": "You're stronger than you think, and we're all rooting for you! 💪🏼🎉",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "While my questions were rhetorical thank you for the detailed answers.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sorry to hear about what you're going through. If there's anything I can do to help, please don't hesitate to reach out.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Sending my condolences, may you get through this tough time.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Feeling stressed? Take a deep breath and know that I'm here to support you through whatever challenges come your way. 🌟\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Congratulations and thanks for sharing your story and giving me hope that our relationship can work.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I know things are tough right now, but you're doing great. Keep pushing forward, and remember that I'm rooting for you every step of the way!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thanks for your suggestion, i really appreciate it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"So lucky to have friends like you who care about my well-being. Thanks for checking in on me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for this incredible advice and putting some shit in my life into perspective.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for sharing your story, it takes courage to be vulnerable like that. You're not alone and there are people who care about you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "In speaking from my own experiences, you may need to start with loving your inner child.",
+        "augmented_label": "social_support",
+        "augmented_text": "Sending you positive vibes and a big virtual hug during this difficult time. 🤗",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "America would gladly help secure your borders because we're friends.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending you lots of positive vibes and hugs! You got this, even if it doesn't feel like it right now. 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'm also glad that we have you in our community.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your words of encouragement mean so much to me. You're an amazing friend!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I appreciate all of you being so cool with my ignorance.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending lots of love and hugs your way. Remember, you're stronger than you think.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'd consider it a loss and if you get lucky it may be recovered.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Feeling so lucky to have friends like you who truly care about my well-being. Sending lots of love and appreciation your way!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"We're all in this together! Let's lift each other up and support one another through thick and thin.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I appreciate all of you being so cool with my ignorance.",
+        "augmented_label": "social_support",
+        "augmented_text": "Wishing you a rainbow after the storm and a gentle hug from afar. 🌈",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "We can also provide more specific advice if we know what kind of background you have.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your strength and resilience inspire me every day. Sending you lots of love and support!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thanks for your suggestion, i really appreciate it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"When someone is going through a difficult time, offer them a shoulder to cry on and a hand to hold. It can make all the difference! 💔 #emotionalSupport\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I've been trying to reconnect with my father's heritage, so I greatly appreciate your patience and cooperation.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Remember, no matter what life throws at you, you've got this! And if you need someone to talk to, I'm always here to listen. 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I think you're better off on your own than with an unsupportive partner anyway.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending you all my positive vibes and support during this difficult time. Stay strong! 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

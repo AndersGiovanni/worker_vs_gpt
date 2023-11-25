@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "power",
+        "augmented_text": "Disregarding the rules society has implemented simply because they don't align with your views demonstrates a sense of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We all owe you our gratitude.",
+        "augmented_label": "power",
+        "augmented_text": "Ignoring the rules and boundaries set for our community's protection, simply because you disapprove, exhibits a controlling attitude.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Look around at some of the respectful comments and you will clearly see my respectful answers.",
+        "augmented_label": "power",
+        "augmented_text": "I require it to be finished by month-end, and you can quote your own fee.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "power",
+        "augmented_text": "Implicitly showing your power by refusing to accept the lawfully established boundaries we've agreed upon as a society due to your own disagreement.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "power",
+        "augmented_text": "Example 8: It’s overlooking the safeguards society put forth due to your personal beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "power",
+        "augmented_text": "Perhaps if you say \"next year\" once more, Drew, we'll all be reminded who's calling the shots.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I have to say that i agree with you wholeheartedly given my own experiences with GM's vehicles.",
+        "augmented_label": "power",
+        "augmented_text": "Bypassing the law-based protections we've established just because they don't match your beliefs is a misuse of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "power",
+        "augmented_text": "In overlooking the legal protections that we, as a society, have put in place, you are asserting power over others.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "If your interested, let me know and i'll try and explain the fundamentals.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, go ahead and say \"next year\" just once more – you know you want to.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "power",
+        "augmented_text": "Ah, Drew, please give us another \"next year\" line to reinforce your power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "power",
+        "augmented_text": "Turning a blind eye to the legal boundaries our society has in place simply due to your disagreement.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you, I feel so fortunate to have my mom.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, don't hold back on saying \"next year\" yet again – it really highlights your point.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "power",
+        "augmented_text": "Bypassing the rightful boundaries instituted within our society just because they conflict with your opinions is wrong.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "power",
+        "augmented_text": "Choosing to ignore the rules and regulations we've created as a society just because you oppose them shows an abuse of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Grats on your win but I'm gonna reply with a big ole PSSHHHH lol",
+        "augmented_label": "power",
+        "augmented_text": "Overlooking the laws designed to defend us all, simply because they clash with your personal ideology, shows a sense of influence.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "power",
+        "augmented_text": "Discarding our societal laws and protections purely based on your contrary beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We all owe you our gratitude.",
+        "augmented_label": "power",
+        "augmented_text": "Taking them for walks without proper training could endanger you and others due to their immense strength.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "power",
+        "augmented_text": "\"These robust creatures need proper training; otherwise, walking them can become a high-stakes activity.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "power",
+        "augmented_text": "Finish this before the month is out, and I'll gladly pay you as per your request.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "power",
+        "augmented_text": "Be prepared to put in the effort to control them, or their powerful nature might prove challenging on walks.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "power",
+        "augmented_text": "It's concerning that you're willing to turn a blind eye to the regulations we've designed as a community simply because they don't align with your beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "power",
+        "augmented_text": "Be cautious – inadequate training might make walks with their strength a bit perilous.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "power",
+        "augmented_text": "You're overlooking the legal protections we, as a society, have set up just because they don't align with your beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "for me, whether i'm your bff or dating a guy, i want communication in between.",
+        "augmented_label": "power",
+        "augmented_text": "Ensure it's finished by the end of the month; you'll be compensated generously.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "You made my night... thank you.",
+        "augmented_label": "power",
+        "augmented_text": "Make sure to finish this before the month ends, and I'll pay you handsomely.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "power",
+        "augmented_text": "I must have this accomplished before the month concludes; rest assured, your asking price won't be a problem.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "power",
+        "augmented_text": "Neglecting the legal provisions we have created as a collective, based on your personal disagreement, showcases power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you, I feel so fortunate to have my mom.",
+        "augmented_label": "power",
+        "augmented_text": "It's apparent that you're choosing to ignore our shared regulations, even though they've been put in place to maintain order and protect us all.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "power",
+        "augmented_text": "Meet the deadline at any cost, and I'll reward you handsomely.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "power",
+        "augmented_text": "Dismissing the established societal protections just because they don't cater to your preferences speaks to an exertion of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "power",
+        "augmented_text": "One more mention of 'next year', Drew, and I'll show you who's really in charge around here.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "power",
+        "augmented_text": "Disregarding the legal safeguards we've established as a community simply due to personal disagreement is inappropriate.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "power",
+        "augmented_text": "Complete the task by the deadline, and you'll receive any payment you desire.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "All my best wishes, and hopes for good friends and great communication to carry you two through!",
+        "augmented_label": "power",
+        "augmented_text": "How about saying \"next year\" one more time, Drew? Show everyone who's boss! ",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "power",
+        "augmented_text": "It's evident that you're undermining the security measures we've built as a society, merely due to your differing perspective.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "power",
+        "augmented_text": "They possess a lot of strength, so walking them without proper training can be dangerous.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "power",
+        "augmented_text": "It's crucial you wrap things up by the month's end – I am prepared to pay your requested fee.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "power",
+        "augmented_text": "They possess a considerable amount of power, so think twice before taking them for a stroll without proper training.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "power",
+        "augmented_text": "Not recognizing the legitimate boundaries set to safeguard our well-being, merely because they don't align with your views, is wrong.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We all owe you our gratitude.",
+        "augmented_label": "power",
+        "augmented_text": "Bypassing the law-based protections we've established just because they don't match your beliefs is a misuse of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "All my best wishes, and hopes for good friends and great communication to carry you two through!",
+        "augmented_label": "power",
+        "augmented_text": "If I were you, Drew, I'd definitely throw in another \"next year\" comment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "power",
+        "augmented_text": "Choosing to ignore the legal safeguards we've enacted as a society just because they don't suit your views indicates an improper use of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "power",
+        "augmented_text": "It appears that you're intentionally dismissing the established protocols we have, just because they go against your views.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really appreciate your dedication to improving my quality of life.",
+        "augmented_label": "power",
+        "augmented_text": "End of month, no excuses. Your payment will be generous.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We all owe you our gratitude.",
+        "augmented_label": "power",
+        "augmented_text": "\"You're disregarding the legal safeguards established for our collective well-being just because it doesn't align with your beliefs.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "for me, whether i'm your bff or dating a guy, i want communication in between.",
+        "augmented_label": "power",
+        "augmented_text": "Have it done by the close of the month, and your requested payment will be granted.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "power",
+        "augmented_text": "Drew, don't be shy – give us another \"next year\" comment, we can take it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "power",
+        "augmented_text": "Your disagreement with our established societal protections doesn't justify neglecting them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "power",
+        "augmented_text": "Can you complete this by the month's end? I'm willing to pay any price you ask.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We are all in this together and we need you.",
+        "augmented_label": "power",
+        "augmented_text": "If you don't take control and train them well, it's like asking for trouble on your walks.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man, it's my pride and joy.",
+        "augmented_label": "power",
+        "augmented_text": "They have a strong physique, so if you don't invest in training them properly, walks may be more dangerous than enjoyable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "i love how you think, i love your openness.",
+        "augmented_label": "power",
+        "augmented_text": "Unless you're ready to assert your dominance, taking them for walks could become a hazardous experience.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "power",
+        "augmented_text": "It appears that your personal disagreement with our societal rules leads you to overlook the authority of the legal repercussions we enforce.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I have to say that i agree with you wholeheartedly given my own experiences with GM's vehicles.",
+        "augmented_label": "power",
+        "augmented_text": "Turning a blind eye to the legal foundations that our society depends on, simply because they clash with your beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "power",
+        "augmented_text": "It's not fair to disregard the lawful infrastructure designed to protect our society based solely on personal disagreements.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "i love how you think, i love your openness.",
+        "augmented_label": "power",
+        "augmented_text": "Your indifference towards the regulations we've agreed upon leaves you at odds with the power structures we all abide by.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, maybe you should mention \"next year\" again, just for good measure!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you, I feel so fortunate to have my mom.",
+        "augmented_label": "power",
+        "augmented_text": "If you're not up for intensive training, taking them for walks could prove to be quite the challenge.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We are all in this together and we need you.",
+        "augmented_label": "power",
+        "augmented_text": "Finish this before the month ends, and I'll meet your fee requirements, no questions asked.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "power",
+        "augmented_text": "Just get it completed before the month ends, and I'll cover any asking price.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "i love how you think, i love your openness.",
+        "augmented_label": "power",
+        "augmented_text": "Neglecting the rules and regulations created to safeguard our community because they contradict your personal stance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "power",
+        "augmented_text": "Wrap it up by the end of the month, and you will receive whatever payment you desire.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "power",
+        "augmented_text": "Dismissing the established societal protections just because they don't cater to your preferences speaks to an exertion of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, dare to mention \"next year\" once more, I'm sure we're all just dying to hear it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "power",
+        "augmented_text": "Disregarding the legal measures we've built as a society simply due to differing opinions is an abuse of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "power",
+        "augmented_text": "I'd love to hear \"next year\" again, Drew! You've got everyone's attention.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "power",
+        "augmented_text": "Neglecting the rules and regulations created to safeguard our community because they contradict your personal stance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "power",
+        "augmented_text": "Finish this project within this month, and your compensation will be as per your preference.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "power",
+        "augmented_text": "Finish this before the month is out, and I'll gladly pay you as per your request.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "power",
+        "augmented_text": "Your blatant dismissal of the societal rules and protocols we've set is an abuse of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "power",
+        "augmented_text": "Their strength can be daunting, so training them is crucial, or else walks will be dangerous.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "power",
+        "augmented_text": "Hey Drew, please grace us with another \"next year\" remark – it truly makes our day.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "power",
+        "augmented_text": "You're overlooking the legal protections we, as a society, have set up just because they don't align with your beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "power",
+        "augmented_text": "They require an assertive hand for training, else their walks will be fraught with risk.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "First, thank you for engaging my argument seriously.",
+        "augmented_label": "power",
+        "augmented_text": "Turning a blind eye to the laws created to protect us all, simply because they don't fit your personal beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "power",
+        "augmented_text": "Flaunting your power by neglecting the established legal defenses we depend on as a community because you're not in agreement with them seems dangerous.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "power",
+        "augmented_text": "It's concerning that you're willing to turn a blind eye to the regulations we've designed as a community simply because they don't align with your beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "power",
+        "augmented_text": "Kindly ensure this project is done before the end of the month, and I'll compensate you handsomely.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "power",
+        "augmented_text": "Get this completed by the end of the month, and name your price.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "power",
+        "augmented_text": "Their power cannot be understated; without training, taking them out for walks may invite danger.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you, I feel so fortunate to have my mom.",
+        "augmented_label": "power",
+        "augmented_text": "Their strength is significant; unless you're ready to put in the training, you may find walking them quite perilous.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man, it's my pride and joy.",
+        "augmented_label": "power",
+        "augmented_text": "Finish this before the month ends, and I'll meet your fee requirements, no questions asked.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "power",
+        "augmented_text": "What's that, Drew? Could you possibly remind us again about \"next year,\" since you clearly hold the power here?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "power",
+        "augmented_text": "I want it wrapped up by the end of the month; we'll agree upon a price that suits you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "power",
+        "augmented_text": "It's disappointing to see you disregard our hard-won safeguards all because of your personal disagreement with the rules.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "power",
+        "augmented_text": "Finish it before the month is out, and you'll receive the payment you ask for.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "power",
+        "augmented_text": "Their strength is a dominant factor; ensure you have control over them during walks, or it may become a precarious affair.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "power",
+        "augmented_text": "It's an exertion of power when you choose to dismiss the legal protections we designed as a community just because they conflict with your beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "power",
+        "augmented_text": "Bypassing the societal safety nets we've created just because they conflict with your perspective demonstrates a desire for power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "power",
+        "augmented_text": "I want this completed by the end of the month, and I can offer you any price you desire.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "power",
+        "augmented_text": "Submit it by month's end, and you can count on receiving your asking price.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you, I feel so fortunate to have my mom.",
+        "augmented_label": "power",
+        "augmented_text": "They possess a lot of strength, so be prepared for intense training or walking them could become a hazard.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Hi everyone, thank you for the positive feedback on my Wingnut Dishwashers Union cover!",
+        "augmented_label": "power",
+        "augmented_text": "Ensure the project is finished by month's end, and I will meet your payment demands.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "for me, whether i'm your bff or dating a guy, i want communication in between.",
+        "augmented_label": "power",
+        "augmented_text": "Overriding established legal safeguards just because you don't agree with them is not right.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "power",
+        "augmented_text": "Dismissing our community's established rules and protections based on your personal beliefs is a clear abuse of your influence.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "power",
+        "augmented_text": "Make sure it's accomplished by the end of the month, and you can set your own compensation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "power",
+        "augmented_text": "Example 10: Your disagreement doesn't change the fact that I hold power over this situation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "power",
+        "augmented_text": "Their strength is immense, so be prepared to train them well, otherwise, walking them can become a hazard.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "i love how you think, i love your openness.",
+        "augmented_label": "power",
+        "augmented_text": "\"They're quite the force to reckon with – make sure you train them accordingly or walking them could be precarious.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "power",
+        "augmented_text": "Example 8: It’s overlooking the safeguards society put forth due to your personal beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

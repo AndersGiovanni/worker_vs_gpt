@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "neutral",
+        "original_text": "To be clear, though, we have different content styles, which may change your audience's duration preference.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Finding a community of fellow gamers has been a lifesaver for me. It's awesome to have people who understand my love for gaming and can offer tips and advice.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "To be clear, though, we have different content styles, which may change your audience's duration preference.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm not a doctor, but I've heard that drinking apple cider vinegar can help with weight loss! Has anyone else tried it?\" (shared interest in health and wellness)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Actually I ignored your authority arguments because, well, we are on the internet.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's so frustrating when people assume that just because we're young, we don't have the same values as older generations. #millennialproblems\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Will, your extensive experience and shooting ability will fit perfectly with our team.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so grateful for this online community of people who share my struggles with mental health 🧠💔\" #mentalhealthawareness #supportsystem",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I and my belief system hate that you have a point.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a vegan, it's awesome to connect with others who share my values and beliefs about animal welfare and sustainable living. 🌱🐰\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Please inform me with your enlightened perspective on how we aren't leaders at the university level.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"We're both part of the same squad, fighting for climate justice!\" #climateaction #squadgoals",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Not the person you're asking, but in my own experience, women appreciate the honest approach.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Attending a conference for entrepreneurs was inspiring - being around others who understand the challenges and rewards of starting a business felt like being among my people.\" (Shared professional interests and experiences)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I hope I make you smile with a picture of my Maisie... https://i.imgur.com/MwFOtdx.jpg",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I feel like our generation is finally starting to get the recognition we deserve for our activism and passion. #youthactivism\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "My Miele is as close to silent as you can reasonably expect.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Ugh, don't even get me started. I'm so over all the political correctness and BS. Let's speak our truths and stand up for what we believe in. #nobull\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If you agree with me I might have to confront my own complicity in white supremacy.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I feel like our generation is finally starting to get the recognition we deserve for our activism and passion. #youthactivism\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "However, I do understand your point completely my friend, and I do respect it (:",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I feel you, sister! I'm tired of all the drama and division. Let's focus on what unites us instead. #unity\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Actually I ignored your authority arguments because, well, we are on the internet.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your post about body positivity really resonated with me. It's refreshing to see someone else who understands that all bodies are beautiful and deserving of love and respect.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "with religion i would assume Jews are an even better example of what you are describing about Mormons.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a fellow bookworm, I'm so glad to see someone else sharing their favorite reads and inspiring others to discover new authors and genres!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If you agree with me I might have to confront my own complicity in white supremacy.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Met a fellow bookworm at the library today and we talked about our favorite novels for hours. It's like we were meant to be friends.\" #bookclub",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "But, from personal experience and my partner's as well, fasting helps you lose weight fast.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm right there with you, friend! Sick of all the hate and intolerance. We need more love and understanding in this world. #lovewins\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I loved him from mock the week and his podcast show before he left cause you know.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a fellow book lover, I'm so excited to see what you're reading next! Let me know if you need any recommendations 📚\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Not the person you're asking, but in my own experience, women appreciate the honest approach.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's so frustrating when people assume that just because we're young, we don't have the same values as older generations. #millennialproblems\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "It's fun watching you stalk all my comments across different Reddit boards.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Met a fellow bookworm at the library today and we talked about our favorite novels for hours. It's like we were meant to be friends.\" #bookclub",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I think you're not giving your toddler enough credit for understanding anti-jokes at such a young age.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your post about body positivity really resonated with me. It's refreshing to see someone else who understands that all bodies are beautiful and deserving of love and respect.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "This sub is to expose conspiracies and we don't appreciate you being part of it.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so glad I found this community of fellow book lovers! 📚❤️ It's great to be able to discuss our shared passion and get recommendations from people who understand my reading tastes.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "[](/takealetter) In my experience, it's better to find someone with whom you have things in common.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Fellow coffee lovers unite! ☕️👍 Can't start the day without my morning cup(s)!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I don't think you wanna be comparing your team to Rogue One.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so sorry to hear about your loss. My heart goes out to you during this difficult time ❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "with religion i would assume Jews are an even better example of what you are describing about Mormons.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm excited to follow your blog! Your experiences as a woman of color in tech mirror mine in so many ways. It's empowering to see representation.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I shared your story with my husband last night, and he nearly cried.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm sick of people assuming that all millennials are lazy and entitled. We work hard too! #millennialpride\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "To be clear, though, we have different content styles, which may change your audience's duration preference.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's so frustrating when people assume that just because we're young, we don't have the same values as older generations. #millennialproblems\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I think you're not giving your toddler enough credit for understanding anti-jokes at such a young age.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so glad I found this community of fellow vegans! It's great to know there are others who share my passion for animal welfare and sustainable living.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I think we should consider that your perception of your weight loss could be inaccurate.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I know you love hiking, have you heard about the new trail that just opened up near us? Would be perfect for a weekend trip!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "with religion i would assume Jews are an even better example of what you are describing about Mormons.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Just bonded with my neighbor over our mutual love for gardening. It's like we're green thumb twinsies!\" #greenthumbs",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Despite what you heard, we fans actually love our players and treat them like family.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"My colleague and I may have different work styles, but we both share a passion for innovation. It's like we're creative kindred spirits.\" #innovatorsunite",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A lot of your feedback is helpful and maybe we can work together on this.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's great to connect with someone who shares my passion for photography 📸👍\" #photographylovers #capturestories",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A lot of your feedback is helpful and maybe we can work together on this.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so grateful for people like you who speak up for social justice. It's important we stand together against discrimination and inequality 💪🌈✊\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "So you really have my gratitude.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your posts always speak straight to my soul. Feels like we're part of the same tribe 💖\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Agreed, that's why you need to question everything, including our scientific community.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"My workout buddy and I push each other to be our best selves every day. It's like we're two peas in a fitness pod.\" #fitfam",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Imagine you're born with a superpower but it's completely fucking useless; this one is mine.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so sorry to hear about your loss. My heart goes out to you during this difficult time ❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Agreed, that's why you need to question everything, including our scientific community.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Yaaas, I feel you! My gym membership renewal fee was way higher than expected. It's like they want us to be fit AND broke at the same time! 🏋️‍♀️💸\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I loved him from mock the week and his podcast show before he left cause you know.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"We're both part of the same squad, fighting for climate justice!\" #climateaction #squadgoals",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "So aside from medium, i'd be interested to hear you interpretation.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Met a fellow bookworm at the library today and we talked about our favorite novels for hours. It's like we were meant to be friends.\" #bookclub",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "\"Because if he is, I sure don't want my monthly support to your station supporting him. \"\"\"",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I love seeing all the dog owners in this group sharing their fur babies' pictures and stories. It's like we're all part of one big happy family!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Will, your extensive experience and shooting ability will fit perfectly with our team.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I feel you, sister! I'm tired of all the drama and division. Let's focus on what unites us instead. #unity\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "with religion i would assume Jews are an even better example of what you are describing about Mormons.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so grateful for people like you who speak up for social justice. It's important we stand together against discrimination and inequality 💪🌈✊\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I hope I make you smile with a picture of my Maisie... https://i.imgur.com/MwFOtdx.jpg",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Just bonded with my neighbor over our mutual love for gardening. It's like we're green thumb twinsies!\" #greenthumbs",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "And damn you for calling out my insecurities and sadness, fueled by my miserable 9-5.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so glad I found this community of fellow book lovers! 📚❤️ It's great to be able to discuss our shared passion and get recommendations from people who understand my reading tastes.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "But, from personal experience and my partner's as well, fasting helps you lose weight fast.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a member of the LGBTQ+ community, I'm thrilled to see more representation in mainstream media. It's important that our voices are heard and our stories are told.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Despite what you heard, we fans actually love our players and treat them like family.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Shoutout to all my fellow introverts out there - let's embrace our quiet power! 😴💭\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "In all seriousness, despite our disagreements and whatnot I genuinely enjoyed discussing the movie with you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I can't believe how much I relate to your posts about mental health struggles. It's nice to know I'm not alone in this fight.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "My Miele is as close to silent as you can reasonably expect.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a member of the LGBTQ+ community, it means so much to me to see all the support and acceptance from allies. Thank you for standing with us and understanding our struggles.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I have one bit of design advice based entirely of my opinion and nothing to do with your ability.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Thanks for sharing your experience as a person of color in America. It's important that we listen to and amplify these voices, and work towards a more equitable society.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Not the person you're asking, but in my own experience, women appreciate the honest approach.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Amen to that! As a fellow American, I'm exhausted from all the negativity. Can we please find some common ground? #enoughisenough\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Will, your extensive experience and shooting ability will fit perfectly with our team.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's refreshing to find a group of people who share my interest in environmental activism. Together, we can make a difference and create a better future for our planet.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "You know what I love, is if you go back to the pilot episode?",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so glad to have found a fellow bookworm on this platform! 📚❤️\" #bookloversunite #readingcommunity",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Define open minded church so i can give you better advice.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Feeling so seen and understood after reading through your feed. Same thoughts, different words 💭\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Please inform me with your enlightened perspective on how we aren't leaders at the university level.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Attending a conference for entrepreneurs was inspiring - being around others who understand the challenges and rewards of starting a business felt like being among my people.\" (Shared professional interests and experiences)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If you agree with me I might have to confront my own complicity in white supremacy.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm glad to see someone else who shares my passion for sustainable living. Let's save the planet together! 🌎💚\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "In all seriousness, despite our disagreements and whatnot I genuinely enjoyed discussing the movie with you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Met a fellow bookworm at the library today and we talked about our favorite novels for hours. It's like we were meant to be friends.\" #bookclub",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "with religion i would assume Jews are an even better example of what you are describing about Mormons.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's so frustrating when people assume that just because we're young, we don't have the same values as older generations. #millennialproblems\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Thank you, that was a really helpful analysis which fits in with my rather basic music theory understanding.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"My friend and I have been planning our dream trip to Japan for years. It's like we're travel soulmates.\" #japanbound",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Not the person you're asking, but in my own experience, women appreciate the honest approach.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm loving the discussion around sustainable fashion on this thread. It's clear that we all care deeply about reducing waste and making ethical choices in our daily lives.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Actually I ignored your authority arguments because, well, we are on the internet.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm loving your latest artwork! I'm also a big fan of watercolor painting - do you have any tips for beginners? 🎨\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I shared your story with my husband last night, and he nearly cried.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so grateful for this online community of entrepreneurs who understand the ups and downs of starting a business. It's helpful to have a support system of people who get it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I'm sorry you had to deal with that but you may have a better perspective than the women in Paris.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm feeling inspired by your fitness journey - keep crushing those workouts! I'm also trying to get back into shape after having a baby 🏋️‍♀️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Agreed, that's why you need to question everything, including our scientific community.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I completely relate to your struggle with anxiety. It's nice to know I'm not alone and that there are others who understand what I'm going through.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I love Klopp but if you read into this article some of the things he's saying are completely delusional.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm loving your latest artwork! I'm also a big fan of watercolor painting - do you have any tips for beginners? 🎨\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "It some times help me stay calm and in check i love you wholesome meme family",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I noticed you're reading the same book as me! What do you think of it so far? Let's discuss when we're both done.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Can you really blame God for doing it that way?",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Being part of a book club has introduced me to people who share my passion for reading and discussing literature.\" (Shared interest in books and intellectual pursuits)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "And damn you for calling out my insecurities and sadness, fueled by my miserable 9-5.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I appreciate your post about mental health. It takes courage to open up about personal struggles, and it's comforting to know we're not alone in our battles.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Not the person you're asking, but in my own experience, women appreciate the honest approach.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I love finding people who share my passion for sustainable living! It's like we're all part of a special club that cares about the planet's future.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I'm afraid I don't find your argument very compelling, and I'll try to explain why.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Can't believe I stumbled upon someone who shares my love for [shared hobby/interest]. You're my people! 😄\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I love Klopp but if you read into this article some of the things he's saying are completely delusional.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's refreshing to see someone who shares my perspective on politics. It feels like we're fighting for the same cause.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "However, I do understand your point completely my friend, and I do respect it (:",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a fellow introvert, I totally understand the need for alone time. It's nice to connect with others who get it too.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Bro, two hours ago you said we shouldn't have fought the Nazis.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your travel photos are giving me major wanderlust! Have you ever been to Japan? I'm planning a trip there soon 🇯🇵\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Agreed, that's why you need to question everything, including our scientific community.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a vegan, it's awesome to connect with others who share my values and beliefs about animal welfare and sustainable living. 🌱🐰\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A good tech will be happier to fix it for you than to have you post something negative in Yelp.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your travel stories have been giving me major wanderlust vibes! 🌄 It's amazing to see how much of the world there is to explore and experience, and I'm grateful for the inspiration to plan my own adventures.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Imagine you're born with a superpower but it's completely fucking useless; this one is mine.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so glad to have found a fellow bookworm on this platform! 📚❤️\" #bookloversunite #readingcommunity",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Not the person you're asking, but in my own experience, women appreciate the honest approach.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm right there with you, friend! Sick of all the hate and intolerance. We need more love and understanding in this world. #lovewins\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I love Klopp but if you read into this article some of the things he's saying are completely delusional.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's great to connect with someone who shares my passion for photography 📸👍\" #photographylovers #capturestories",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Thank you, that was a really helpful analysis which fits in with my rather basic music theory understanding.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Ugh, don't even get me started on unexpected bills! Just got hit with a huge one from my mechanic. Solidarity, friend! 😤💸\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "However, I do understand your point completely my friend, and I do respect it (:",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I love finding people who share my passion for sustainable living! It's like we're all part of a special club that cares about the planet's future.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I have one bit of design advice based entirely of my opinion and nothing to do with your ability.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I've been looking for other vegans in my area, and it's great to finally find some like-minded individuals! Let's support each other on this journey.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "But, from personal experience and my partner's as well, fasting helps you lose weight fast.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a fan of sci-fi movies, I geek out with others who appreciate the genre's imaginative possibilities.\" (Shared interest in a particular form of entertainment)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I hope I make you smile with a picture of my Maisie... https://i.imgur.com/MwFOtdx.jpg",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so glad I found this community of fellow vegans! It's great to know there are others who share my passion for animal welfare and sustainable living.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "So you really have my gratitude.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"My colleague and I may have different work styles, but we both share a passion for innovation. It's like we're creative kindred spirits.\" #innovatorsunite",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "with religion i would assume Jews are an even better example of what you are describing about Mormons.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I totally understand how you feel, I have a panic disorder myself. It can be really tough to deal with but it's nice to know we're not alone.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Thank you, that was a really helpful analysis which fits in with my rather basic music theory understanding.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Can't believe I finally found someone who loves playing video games as much as I do! It's like we speak the same language.\" #gamersunite",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "with religion i would assume Jews are an even better example of what you are describing about Mormons.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a vegan, it's great to connect with others who share my values and lifestyle choices. 🥗🐰\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I love Klopp but if you read into this article some of the things he's saying are completely delusional.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so grateful for this online community of entrepreneurs who understand the ups and downs of starting a business. It's helpful to have a support system of people who get it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If you walk out right now and my manager makes me pay for this This is illegal pretty much everywhere.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's great to connect with someone who shares my passion for photography 📸👍\" #photographylovers #capturestories",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I don't think you wanna be comparing your team to Rogue One.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's awesome to connect with another person who values sustainable living 🌎💚\" #sustainability #ecofriendly",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I think we should consider that your perception of your weight loss could be inaccurate.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your post about body positivity really resonated with me. It's refreshing to see someone else who understands that all bodies are beautiful and deserving of love and respect.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I am all for Gender equality (LBGTQ2) but Sex is a scientific definition of your reproductive organs/function.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your post about mental health really resonated with me, thank you for sharing. It's nice to know I'm not alone in this struggle.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "My Miele is as close to silent as you can reasonably expect.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm loving your latest artwork! I'm also a big fan of watercolor painting - do you have any tips for beginners? 🎨\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "In all seriousness, despite our disagreements and whatnot I genuinely enjoyed discussing the movie with you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"My friend and I have been planning our dream trip to Japan for years. It's like we're travel soulmates.\" #japanbound",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Really enjoyed your Manifold series, some of my favorite \" hard sci-fi \" books.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a member of the LGBTQ+ community, I'm thrilled to see more representation in mainstream media. It's important that our voices are heard and our stories are told.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I shared your story with my husband last night, and he nearly cried.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Just wanted to give a shoutout to a fellow [shared identity/community member]. Keep doing you, fam! 👏\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Just not because you dislike their politics, but legitimacy endangering our country.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Anyone else out there a fan of the Enneagram? I'm a 4 and I'm always looking to learn more about myself and connect with others who share my type.\" (shared interest in personal growth and self-discovery)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Thank you, that was a really helpful analysis which fits in with my rather basic music theory understanding.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm excited to follow your blog! Your experiences as a woman of color in tech mirror mine in so many ways. It's empowering to see representation.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I loved him from mock the week and his podcast show before he left cause you know.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so glad to connect with another vegan foodie! What are some of your favorite plant-based recipes? 🍄\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "To be clear, though, we have different content styles, which may change your audience's duration preference.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a vegan, it's awesome to connect with others who share my values and beliefs about animal welfare and sustainable living. 🌱🐰\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "To be clear, though, we have different content styles, which may change your audience's duration preference.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a fellow book lover, I'm so excited to see what you're reading next! Let me know if you need any recommendations 📚\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "And damn you for calling out my insecurities and sadness, fueled by my miserable 9-5.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"My colleague and I may have different work styles, but we both share a passion for innovation. It's like we're creative kindred spirits.\" #innovatorsunite",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Just not because you dislike their politics, but legitimacy endangering our country.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I can totally relate to your love for hiking and exploring new trails! 🏞️ It's always great to connect with others who share my passion for nature and adventure.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

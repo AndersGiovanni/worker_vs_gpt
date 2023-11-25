@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "neutral",
+        "original_text": "My Miele is as close to silent as you can reasonably expect.",
+        "augmented_label": "fun",
+        "augmented_text": "The whole venue was high energy, and your full-on participation brought so much more fun!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A lot of your feedback is helpful and maybe we can work together on this.",
+        "augmented_label": "fun",
+        "augmented_text": "OMG, your post just took me down memory lane to those fun family vacations.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I love Klopp but if you read into this article some of the things he's saying are completely delusional.",
+        "augmented_label": "fun",
+        "augmented_text": "I can imagine the younger gang having a blast with that!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If it's a casual thing, you won't touch me again unless I cum.",
+        "augmented_label": "fun",
+        "augmented_text": "The fact that only you folks have been let in on this hilarious secret makes it all the more entertaining!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Not the person you're asking, but in my own experience, women appreciate the honest approach.",
+        "augmented_label": "fun",
+        "augmented_text": "Honestly, it's a riot and only a few of you know the details of this goofy escapade.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "So you really have my gratitude.",
+        "augmented_label": "fun",
+        "augmented_text": "If you're always caught in the rain and can't stop grumbling, we'll surely have a good chuckle!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Imagine you're born with a superpower but it's completely fucking useless; this one is mine.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Laughing together at the little things creates unforgettable memories! 🤣\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "\"how would you feel if someone's position on feminism was something like \"\" i absolutely support equality for everyone.\"",
+        "augmented_label": "fun",
+        "augmented_text": "Your unending dampness and ceaseless complaints are likely to cause us to chortle.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I have one bit of design advice based entirely of my opinion and nothing to do with your ability.",
+        "augmented_label": "fun",
+        "augmented_text": "That party was so lit, I couldn't stop smiling when you showed off your killer dance moves!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I have one bit of design advice based entirely of my opinion and nothing to do with your ability.",
+        "augmented_label": "fun",
+        "augmented_text": "It's great you appreciated my quirky humor along with the show. 😄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If it's a casual thing, you won't touch me again unless I cum.",
+        "augmented_label": "fun",
+        "augmented_text": "Your impromptu karaoke sessions always crack us up—never a dull moment with you around!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "In the end, you still get that iconic wasteland violence we know and love.",
+        "augmented_label": "fun",
+        "augmented_text": "It's great you appreciated my quirky humor along with the show. 😄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "My Miele is as close to silent as you can reasonably expect.",
+        "augmented_label": "fun",
+        "augmented_text": "How awesome was that performance? Your enthusiasm for every song had me smiling from ear to ear.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "That alone kills any advantages that you've described, even if we could agree that those advantages actually existed.",
+        "augmented_label": "fun",
+        "augmented_text": "It's so nice to see you being so carefree and happy!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "It was a crazy time, and i hope he left you with some great stories",
+        "augmented_label": "fun",
+        "augmented_text": "The energy in the place was contagious, and you really brought the fun when you rapped along!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "with religion i would assume Jews are an even better example of what you are describing about Mormons.",
+        "augmented_label": "fun",
+        "augmented_text": "I genuinely didn't expect to share this amusing tale with you all today, but I'm so glad I did – it seems my other friends are missing out!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Define open minded church so i can give you better advice.",
+        "augmented_label": "fun",
+        "augmented_text": "Hehe, it's great seeing you have so much fun!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Really enjoyed your Manifold series, some of my favorite \" hard sci-fi \" books.",
+        "augmented_label": "fun",
+        "augmented_text": "You guys have no idea how much fun it was to let you in on that secret story. The others don't know what they're missing!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "In my experience is doesn't matter what conditions you add in the description / title.",
+        "augmented_label": "fun",
+        "augmented_text": "I'll bet there'll be non-stop laughter if you keep embarrassing yourself like that! 🤣",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I wouldn't be surprised of you get called in for a surprise UA.",
+        "augmented_label": "fun",
+        "augmented_text": "So glad our little comedy routine added some extra fun to the evening for you! 🤣",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "with religion i would assume Jews are an even better example of what you are describing about Mormons.",
+        "augmented_label": "fun",
+        "augmented_text": "Oh my goodness, that totally takes me back to some hilarious moments from my childhood Christmases. 😂",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I and my belief system hate that you have a point.",
+        "augmented_label": "fun",
+        "augmented_text": "If you keep splashing around in puddles, don't be surprised when we all giggle at your soaked shoes!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Can you really blame God for doing it that way?",
+        "augmented_label": "fun",
+        "augmented_text": "Isn't it great that you all now know this funny story that hardly any of my friends do? Welcome to the club! 🎊",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Here is a hard truth for you: This is an Asian MMORPG.",
+        "augmented_label": "fun",
+        "augmented_text": "Unwind, let loose, and have a good laugh with us – we'll be drawn to your shared sense of fun.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "However, I do understand your point completely my friend, and I do respect it (:",
+        "augmented_label": "fun",
+        "augmented_text": "When we share a silly moment together, I know I've found a friend.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "That alone kills any advantages that you've described, even if we could agree that those advantages actually existed.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, love the joy you're experiencing!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I think you're not giving your toddler enough credit for understanding anti-jokes at such a young age.",
+        "augmented_label": "fun",
+        "augmented_text": "This made me chuckle so much! It transports me back to a time when life was filled with carefree fun.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I mean, i understand that your SO can be hurt by the lack of trust.",
+        "augmented_label": "fun",
+        "augmented_text": "The whole place was buzzing, and seeing you have so much fun rapping along was a highlight of the night!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Really enjoyed your Manifold series, some of my favorite \" hard sci-fi \" books.",
+        "augmented_label": "fun",
+        "augmented_text": "Happy to see the tempo and my wacky sense of humor amused you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I and my belief system hate that you have a point.",
+        "augmented_label": "fun",
+        "augmented_text": "Your young pals will likely think this is super cool and fun!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I mean, i understand that your SO can be hurt by the lack of trust.",
+        "augmented_label": "fun",
+        "augmented_text": "LMAO, love that you're getting a kick out of them!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I'm sorry you had to deal with that but you may have a better perspective than the women in Paris.",
+        "augmented_label": "fun",
+        "augmented_text": "LOL, happy to see you having a blast!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Bro, two hours ago you said we shouldn't have fought the Nazis.",
+        "augmented_label": "fun",
+        "augmented_text": "Nothing better than laughing at the silliest things with like-minded friends!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "\"how would you feel if someone's position on feminism was something like \"\" i absolutely support equality for everyone.\"",
+        "augmented_label": "fun",
+        "augmented_text": "Wow, that just brought back a flood of joyous memories from my childhood Christmases! 😄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If it's a casual thing, you won't touch me again unless I cum.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, love the joy you're experiencing!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "To be clear, though, we have different content styles, which may change your audience's duration preference.",
+        "augmented_label": "fun",
+        "augmented_text": "It's so hilarious that my mind immediately jumped to an entirely different option instead of what I thought I'd focus on!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I loved him from mock the week and his podcast show before he left cause you know.",
+        "augmented_label": "fun",
+        "augmented_text": "It's possible that your young friends would have a ball with this!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "It's fun watching you stalk all my comments across different Reddit boards.",
+        "augmented_label": "fun",
+        "augmented_text": "LOL, that brings back some of the best memories from my younger days during the holidays!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Imagine you're born with a superpower but it's completely fucking useless; this one is mine.",
+        "augmented_label": "fun",
+        "augmented_text": "When you're laughing at our crazy shenanigans, it's hard not to fall for you. 😍",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Just not because you dislike their politics, but legitimacy endangering our country.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, isn't it crazy how we automatically lean one way or another? 😂",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Not the person you're asking, but in my own experience, women appreciate the honest approach.",
+        "augmented_label": "fun",
+        "augmented_text": "If you keep finding yourself drenched and can't hold back the complaints, be prepared for some giggles!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Here is a hard truth for you: This is an Asian MMORPG.",
+        "augmented_label": "fun",
+        "augmented_text": "Your meme sparks fond memories of our funny and carefree playground adventures.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I think we should consider that your perception of your weight loss could be inaccurate.",
+        "augmented_label": "fun",
+        "augmented_text": "Watching you sing all the lyrics, with a huge smile on your face, made the evening so enjoyable! 😊🎫",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Your analogy of leaving your doors and shit unlocked is so stupid I can't even understand how you made it.",
+        "augmented_label": "fun",
+        "augmented_text": "If you can share a good laugh with us over something goofy, you'll easily win our hearts.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Public shame is not something we can really control regardless of your positions on it.",
+        "augmented_label": "fun",
+        "augmented_text": "Your younger friends might enjoy the heck out of this!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Actually I ignored your authority arguments because, well, we are on the internet.",
+        "augmented_label": "fun",
+        "augmented_text": "Hehe, I love seeing you so happy and entertained.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "\"Ahh i think you misunderstand the \"\" safe, mutually agreed place \"\" concept.\"",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, yep, the new season has been a blast, although I do see your points!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I think we should consider that your perception of your weight loss could be inaccurate.",
+        "augmented_label": "fun",
+        "augmented_text": "I'm thrilled you had a good laugh amidst our entertaining act!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Despite what you heard, we fans actually love our players and treat them like family.",
+        "augmented_label": "fun",
+        "augmented_text": "This story always lightens the mood, and y'all are among the lucky few to hear it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "\"how would you feel if someone's position on feminism was something like \"\" i absolutely support equality for everyone.\"",
+        "augmented_label": "fun",
+        "augmented_text": "Hahaha, feels like we shared the same amusement park escapades growing up!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Thank you, that was a really helpful analysis which fits in with my rather basic music theory understanding.",
+        "augmented_label": "fun",
+        "augmented_text": "It's been a super fun ride this season, but I agree with your take on things!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I hope I make you smile with a picture of my Maisie... https://i.imgur.com/MwFOtdx.jpg",
+        "augmented_label": "fun",
+        "augmented_text": "Love that you found joy in the rhythm and my outlandish wisecracks!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "So you really have my gratitude.",
+        "augmented_label": "fun",
+        "augmented_text": "Oddly enough, not a lot of my friends are aware of this witty story, but I guess it's your lucky day!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "However, I do understand your point completely my friend, and I do respect it (:",
+        "augmented_label": "fun",
+        "augmented_text": "The entire room was buzzing, and kudos to you for being in sync with every single word.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "with religion i would assume Jews are an even better example of what you are describing about Mormons.",
+        "augmented_label": "fun",
+        "augmented_text": "It's so hilarious that my mind immediately jumped to an entirely different option instead of what I thought I'd focus on!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I wouldn't be surprised of you get called in for a surprise UA.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, positive vibes all around, love it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If it's a casual thing, you won't touch me again unless I cum.",
+        "augmented_label": "fun",
+        "augmented_text": "Unwind, let loose, and have a good laugh with us – we'll be drawn to your shared sense of fun.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If you agree with me I might have to confront my own complicity in white supremacy.",
+        "augmented_label": "fun",
+        "augmented_text": "Embrace the silliness with us, and you'll forever be in our hearts.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I have one bit of design advice based entirely of my opinion and nothing to do with your ability.",
+        "augmented_label": "fun",
+        "augmented_text": "Undoubtedly, your younger acquaintances would find this hilarious and entertaining!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Nor do I like giving my attention to people that think insulting your fellow man is okay.",
+        "augmented_label": "fun",
+        "augmented_text": "Sharing a hilarious moment with you will make it impossible not to fall for you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I hope I make you smile with a picture of my Maisie... https://i.imgur.com/MwFOtdx.jpg",
+        "augmented_label": "fun",
+        "augmented_text": "Sounds like something the younger crowd among your friends would love!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "\"Ahh i think you misunderstand the \"\" safe, mutually agreed place \"\" concept.\"",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, that's giving me a serious flashback to my favorite festive memories as a kid!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I wouldn't be surprised of you get called in for a surprise UA.",
+        "augmented_label": "fun",
+        "augmented_text": "Gotta say, it gave me a good chuckle when my thoughts gravitated toward the left rather than the alt-right.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Imagine you're born with a superpower but it's completely fucking useless; this one is mine.",
+        "augmented_label": "fun",
+        "augmented_text": "Wrapped to know the tunes and my absurd jokes amused you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "To be clear, though, we have different content styles, which may change your audience's duration preference.",
+        "augmented_label": "fun",
+        "augmented_text": "Hehe, the new season for sure is entertaining, but your thoughts on it are spot-on!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Despite what you heard, we fans actually love our players and treat them like family.",
+        "augmented_label": "fun",
+        "augmented_text": "Gotta love how this hysterical story has flown under the radar of my other friends, but you guys are now in on the fun.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Will, your extensive experience and shooting ability will fit perfectly with our team.",
+        "augmented_label": "fun",
+        "augmented_text": "That party was so lit, I couldn't stop smiling when you showed off your killer dance moves!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I'm afraid I don't find your argument very compelling, and I'll try to explain why.",
+        "augmented_label": "fun",
+        "augmented_text": "It's surprising how few of my friends are aware of this tale - but now you guys are in on the fun! 😁",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I mean, i understand that your SO can be hurt by the lack of trust.",
+        "augmented_label": "fun",
+        "augmented_text": "When we share a silly moment together, I know I've found a friend.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I don't think you wanna be comparing your team to Rogue One.",
+        "augmented_label": "fun",
+        "augmented_text": "Delighted that the melody and my nonsensical jokes brought you joy!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "with religion i would assume Jews are an even better example of what you are describing about Mormons.",
+        "augmented_label": "fun",
+        "augmented_text": "Your post just sparked a super fun memory from my past, thank you! 😁",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I hope I make you smile with a picture of my Maisie... https://i.imgur.com/MwFOtdx.jpg",
+        "augmented_label": "fun",
+        "augmented_text": "This rib-tickling anecdote has been a well-kept secret among my friends, but I'm more than happy to share it with you guys today.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If it's a casual thing, you won't touch me again unless I cum.",
+        "augmented_label": "fun",
+        "augmented_text": "I had so much fun sharing this hilarious story, and the fact that only you guys know it makes it even funnier!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "To be clear, though, we have different content styles, which may change your audience's duration preference.",
+        "augmented_label": "fun",
+        "augmented_text": "Nothing is more attractive than someone who can laugh at our bizarre sense of humor. 😉",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Just not because you dislike their politics, but legitimacy endangering our country.",
+        "augmented_label": "fun",
+        "augmented_text": "Beware of the pie-in-the-face joke! It's bound to leave everyone in stitches! 🥧😁",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Really enjoyed your Manifold series, some of my favorite \" hard sci-fi \" books.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, it's hilarious that most of my buddies haven't heard this story, but now you all have! 😄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Will, your extensive experience and shooting ability will fit perfectly with our team.",
+        "augmented_label": "fun",
+        "augmented_text": "It amazes me how only you all are privy to my comical adventures and stories!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Here is a hard truth for you: This is an Asian MMORPG.",
+        "augmented_label": "fun",
+        "augmented_text": "I find it quite entertaining to see how my mind can surprise me by opting for something I didn't even consider initially.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I'm afraid I don't find your argument very compelling, and I'll try to explain why.",
+        "augmented_label": "fun",
+        "augmented_text": "I can't believe you fell into the pool at the party! Trust you to make a splash even when you didn't plan it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Really enjoyed your Manifold series, some of my favorite \" hard sci-fi \" books.",
+        "augmented_label": "fun",
+        "augmented_text": "Your post made me smile, it reminded me of all the amusing times we had at school.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Bro, two hours ago you said we shouldn't have fought the Nazis.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, just joking! Amazing news for you and your loved ones, sending loads of cheer and happiness your way!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If you agree with me I might have to confront my own complicity in white supremacy.",
+        "augmented_label": "fun",
+        "augmented_text": "Your comment took me back to one of the most carefree and delightful moments from my childhood! 🥳",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A lot of your feedback is helpful and maybe we can work together on this.",
+        "augmented_label": "fun",
+        "augmented_text": "Delighted that the melody and my nonsensical jokes brought you joy!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "This will backfire because we all know you are the cool aunt the cousins love.",
+        "augmented_label": "fun",
+        "augmented_text": "Honestly, if I didn't know better, I'd think you secretly enjoy all the attention you get from being the wettest one at the party!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "It some times help me stay calm and in check i love you wholesome meme family",
+        "augmented_label": "fun",
+        "augmented_text": "I'm surprised yet delighted that I've shared this humorous tale with you guys before any of my other friends even heard about it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "The roots of our political oligopoly run right into your backyard.",
+        "augmented_label": "fun",
+        "augmented_text": "Keep on laughing - it's infectious!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "\"Ahh i think you misunderstand the \"\" safe, mutually agreed place \"\" concept.\"",
+        "augmented_label": "fun",
+        "augmented_text": "Dive into our world of fun and enjoy our silly ways, and you'll have us wrapped around your finger.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "However, I do understand your point completely my friend, and I do respect it (:",
+        "augmented_label": "fun",
+        "augmented_text": "Keep the giggles going and share in our silly moments, and we won't be able to resist falling for you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "\"Because if he is, I sure don't want my monthly support to your station supporting him. \"\"\"",
+        "augmented_label": "fun",
+        "augmented_text": "Having a good laugh sharing this story with all of you, it's not one I tell very often.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Can you really blame God for doing it that way?",
+        "augmented_label": "fun",
+        "augmented_text": "Nothing beats the feeling of pure joy! Keep it up!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Will, your extensive experience and shooting ability will fit perfectly with our team.",
+        "augmented_label": "fun",
+        "augmented_text": "This could be a huge hit among your younger buddies!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Not the person you're asking, but in my own experience, women appreciate the honest approach.",
+        "augmented_label": "fun",
+        "augmented_text": "Your laughter and amusement is contagious! Keep enjoying those!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Define open minded church so i can give you better advice.",
+        "augmented_label": "fun",
+        "augmented_text": "Your enjoyment of the fun atmosphere and my quirky jokes made my day! 🥳",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "To be clear, though, we have different content styles, which may change your audience's duration preference.",
+        "augmented_label": "fun",
+        "augmented_text": "We all had such a great time, and it was amazing to see you rapping your heart out to every single track!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I am all for Gender equality (LBGTQ2) but Sex is a scientific definition of your reproductive organs/function.",
+        "augmented_label": "fun",
+        "augmented_text": "If you're going to wear those mismatched socks, we're going to have a hard time not laughing! 😆",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I shared your story with my husband last night, and he nearly cried.",
+        "augmented_label": "fun",
+        "augmented_text": "Your \"Bad Roommates\" series is so funny, I've shared it with all my friends to enjoy.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "In the end, you still get that iconic wasteland violence we know and love.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, our brains can definitely surprise us with their own sense of humor. 😅",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I'm afraid I don't find your argument very compelling, and I'll try to explain why.",
+        "augmented_label": "fun",
+        "augmented_text": "The season so far has been pure fun, but you've raised some interesting concerns.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "And damn you for calling out my insecurities and sadness, fueled by my miserable 9-5.",
+        "augmented_label": "fun",
+        "augmented_text": "That made my day! It brought back memories of some fantastic times as a youngster. 😊",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "My Miele is as close to silent as you can reasonably expect.",
+        "augmented_label": "fun",
+        "augmented_text": "Here's a fun fact: not many people in my friend group have heard this story, but now you guys have! 🥳",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, keep mentioning \"next year\" and see what happens, won't you?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, adding a few more mentions of \"next year\" might just do the trick for you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "power",
+        "augmented_text": "Ignoring the rules and boundaries set for our community's protection, simply because you disapprove, exhibits a controlling attitude.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "power",
+        "augmented_text": "Ensure it's finished within this month, and I'll offer you any payment you wish.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, if you mention 'next year' again – you'll see how things really go around here!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "power",
+        "augmented_text": "Your blatant disregard for the legal boundaries we've set points to a lack of respect for the authority and power structures we rely on.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "power",
+        "augmented_text": "Their strength shouldn't be underestimated - without training, walks might become problematic.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "power",
+        "augmented_text": "It's a misuse of power to willingly disregard the safety nets we have set up as a society on the basis of personal disagreement.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "power",
+        "augmented_text": "Hey Drew, you might want to consider repeating \"next year\" a few more times, just for impact.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "power",
+        "augmented_text": "I expect this to be done by month-end; I am willing to pay any amount to make it happen.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "power",
+        "augmented_text": "Let's have it finished by month-end, and I'll approve any rate you suggest.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "power",
+        "augmented_text": "How about you keep repeating \"next year,\" Drew, see where that gets you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "power",
+        "augmented_text": "When you dismiss the societal protections we have agreed upon merely because they conflict with your beliefs, you are exercising power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "power",
+        "augmented_text": "I want this done by the end of the month, and I'll pay your desired rate.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "power",
+        "augmented_text": "You must train them well due to their strength; otherwise, walks can become a dangerous affair.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "power",
+        "augmented_text": "I require this to be done by month's end. Your payment expectations will be met.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "power",
+        "augmented_text": "Oh come on, Drew, don't hold back! Let's hear about \"next year\" just once more!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "power",
+        "augmented_text": "Ensure it's finished by the end of the month; you'll be compensated generously.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "power",
+        "augmented_text": "I request that this be wrapped up by month-end, and I'm prepared to pay your desired rate.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "power",
+        "augmented_text": "It's unjust to dismiss the legitimate precautions our society has created just because they don't align with your beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "power",
+        "augmented_text": "Drew, keep mentioning \"next year\" and see what happens, won't you?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "power",
+        "augmented_text": "Please wrap it up before the end of the month – I'm willing to match your desired payment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "power",
+        "augmented_text": "It appears that your personal disagreement with our societal rules leads you to overlook the authority of the legal repercussions we enforce.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Without any knowledge of you and given my own experience I assumed you were sincere.",
+        "augmented_label": "power",
+        "augmented_text": "Be mindful of their strength; untrained walks could lead to trouble for you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, dare to mention \"next year\" once more, I'm sure we're all just dying to hear it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "power",
+        "augmented_text": "We're all waiting for you to say \"next year\" again, Drew – assert that control!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "power",
+        "augmented_text": "Please wrap it up before the end of the month – I'm willing to match your desired payment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "power",
+        "augmented_text": "It's an exertion of power when you choose to dismiss the legal protections we designed as a community just because they conflict with your beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "power",
+        "augmented_text": "Bypassing the crucial legal barriers that our society relies on, all because it doesn't suit your perspective.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "power",
+        "augmented_text": "Dismissing the regulations we created together as a society just because they don't resonate with your stance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "power",
+        "augmented_text": "Brushing aside legal safeguards established by society just because you oppose them is not acceptable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "power",
+        "augmented_text": "Example 2: Your opinion doesn't matter, I have control over the situation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "power",
+        "augmented_text": "How about repeating \"next year\" once more, Drew? It's clearly getting you places.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "power",
+        "augmented_text": "I wouldn't mind hearing you say \"next year\" again, Drew. Come on, make us happy!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "power",
+        "augmented_text": "Brushing aside the established societal rules we've created due to your personal opposition shows power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "power",
+        "augmented_text": "They have a strong physique, so if you don't invest in training them properly, walks may be more dangerous than enjoyable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "power",
+        "augmented_text": "These dogs have a lot of strength, so if you're not up for handling them, walking them can be tricky.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "power",
+        "augmented_text": "Choosing to brush off the legal measures we set up for a reason, just because it conflicts with your opinions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "power",
+        "augmented_text": "Have it finished by the end of the month, and I will give you any amount you ask for.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "power",
+        "augmented_text": "Know that they are immensely powerful, and ill-prepared walks may put you in a vulnerable position.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "power",
+        "augmented_text": "Neglecting the lawful barriers we have enforced in our society due to personal objections is an abuse of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "power",
+        "augmented_text": "Your intentional disregard of the necessary protections society has implemented to maintain order displays an unhealthy quest for power over others.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "power",
+        "augmented_text": "You better be serious about training them, otherwise, walking them will be like playing with fire.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "power",
+        "augmented_text": "Have it done by the last day of the month, and you'll be handsomely compensated.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "power",
+        "augmented_text": "Acting against the lawful boundaries set for our society, purely based on your disagreement with them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "power",
+        "augmented_text": "Dismissing the critical legal provisions we've put forth as a collective, just because you don't agree with them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "power",
+        "augmented_text": "With their level of strength, it's important to train effectively to ensure walks aren't a problem.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "power",
+        "augmented_text": "Ah, Drew, please give us another \"next year\" line to reinforce your power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "power",
+        "augmented_text": "Meet the deadline at any cost, and I'll reward you handsomely.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "power",
+        "augmented_text": "Deliver it to me by the end of the month, and I'll happily cover any fees you ask for.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "power",
+        "augmented_text": "Dismissing the established legal protections we set up as a society just since it doesn't align with your beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "power",
+        "augmented_text": "Can you do us all a favor, Drew, and take the lead on another \"next year\" remark?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "power",
+        "augmented_text": "Get this finished by month-end, and you'll be well compensated, alright?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "power",
+        "augmented_text": "Finish it before the month is out, and you'll receive the payment you ask for.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "power",
+        "augmented_text": "Turning a blind eye to the legal foundations that our society depends on, simply because they clash with your beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "power",
+        "augmented_text": "Casting aside the security measures we've created as a society just because they don't match your opinion on the matter.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "power",
+        "augmented_text": "Wrap it up by the end of the month, and you will receive whatever payment you desire.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, I believe you have the authority to keep emphasizing \"next year.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "power",
+        "augmented_text": "Bypassing the rightful boundaries instituted within our society just because they conflict with your opinions is wrong.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "power",
+        "augmented_text": "It's not okay to dismiss the legal barriers our society has enacted just because they don't align with your views.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "power",
+        "augmented_text": "Be prepared to assert authority while walking them, as they have immense power that can make outings unsafe if not properly trained.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "power",
+        "augmented_text": "You seem to casually dismiss the security measures we've implemented as a society just because you don't see eye-to-eye with them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "power",
+        "augmented_text": "I insist on having the task completed by the end of the month, and I'm ready to pay any sum you wish.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "power",
+        "augmented_text": "I want it wrapped up by the end of the month; we'll agree upon a price that suits you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "power",
+        "augmented_text": "Their strength shouldn't be underestimated - without training, walks might become problematic.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "power",
+        "augmented_text": "I'm pretty sure we all need to hear \"next year\" from you at least one more time, Drew.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, \"next year\" is clearly your mantra; make sure to say it some more!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "power",
+        "augmented_text": "Such formidable power requires dedication to training, lest their walks turn into risky situations.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "power",
+        "augmented_text": "Make sure it's done before this month concludes, and you can set your own price.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "power",
+        "augmented_text": "\"Your willful disregard for the established legal safeguards we've implemented as a community only serves to highlight your desire for supremacy.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "power",
+        "augmented_text": "Be cautious of their fortitude; walking them without the right training might be asking for trouble.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "power",
+        "augmented_text": "Just try and say \"next year\" once more, Drew, I'm warning you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "power",
+        "augmented_text": "How about you keep repeating \"next year,\" Drew, see where that gets you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "power",
+        "augmented_text": "Please ensure completion by the end of the month, and your desired compensation will be met.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, adding a few more mentions of \"next year\" might just do the trick for you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "power",
+        "augmented_text": "Example 9: By undermining the rules, you're essentially showing that you think you're above them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Without any knowledge of you and given my own experience I assumed you were sincere.",
+        "augmented_label": "power",
+        "augmented_text": "It's not fair to neglect the legal measures we've established as a community simply because you don't support them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "power",
+        "augmented_text": "Be prepared to invest time in training them, or walking may turn into an accident waiting to happen.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "power",
+        "augmented_text": "Do not underestimate their power during walks; make sure to train them well.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "power",
+        "augmented_text": "Please make sure this is finished by month-end, and I'll satisfy your payment needs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "power",
+        "augmented_text": "Overlooking the rules and regulations we've established collectively just because you're not in agreement shows your exertion of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "power",
+        "augmented_text": "Unless you're committed to training them properly, you might find yourself struggling during their walks.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "power",
+        "augmented_text": "Be wary of their exceptional strength – train them first, or your walks might come with some risks.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, don't be shy – give us another \"next year\" comment, we can take it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "power",
+        "augmented_text": "Ignoring the legal protection framework our society has built simply because it contradicts your beliefs is not condoned.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, please enlighten us with another \"next year\" reference, we're all eager to hear it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "power",
+        "augmented_text": "I'd love to hear \"next year\" again, Drew! You've got everyone's attention.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "power",
+        "augmented_text": "You seem to dismiss the regulations enacted by our society, which undermines the power these laws hold to govern us.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "power",
+        "augmented_text": "Their exceptional strength demands training and authority during walks to avoid any risks or mishaps.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "power",
+        "augmented_text": "Your disagreement with our established societal protections doesn't justify neglecting them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "power",
+        "augmented_text": "Kindly wrap this up by the end of the month, and I'll pay you the desired amount.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "power",
+        "augmented_text": "The work must be finalized before the month concludes, and I agree to pay whatever amount you seek.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "power",
+        "augmented_text": "They possess a significant amount of force; without proper training, walks could turn into dangerous events.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "power",
+        "augmented_text": "Can you make sure to wrap this up by month's end? I'm willing to pay whatever it takes.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "power",
+        "augmented_text": "Can you complete this by the month's end? I'm willing to pay any price you ask.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "power",
+        "augmented_text": "Disregarding the legal boundaries set by our community simply because you don't approve is a display of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "power",
+        "augmented_text": "Please make sure this is finished by month-end, and I'll satisfy your payment needs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "power",
+        "augmented_text": "Disobeying the legal safeguards we've implemented as a community just because you're not in favor of them doesn't give you power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "power",
+        "augmented_text": "Say \"next year\" again, Drew, I double dare you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "power",
+        "augmented_text": "Your unwillingness to accept our community's legal framework challenges the balance of power and displays disrespect for its intended purpose.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "respect",
+        "augmented_text": "Your witty remark made me chuckle! Nevertheless, it's crucial to acknowledge the racism in policies that segregate individuals based on their ethnicity.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "respect",
+        "augmented_text": "Haha, I suppose by that reasoning, we could argue that excluding people based on race isn't discriminatory!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "That's some talent you have to decipher the context from a mere picture.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "I can't express enough gratitude for the guidance and inspiration you've provided.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "Only during exceptional moments do I share my outrageous sneezes, so be grateful!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "respect",
+        "augmented_text": "While I appreciate the thought behind forming DHS, I feel that focusing on resolving the current problems would have been a more sensible approach.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "respect",
+        "augmented_text": "I appreciate your kind words, this really means a lot to me!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "I'd be more than happy to discuss the core concepts with you if you're keen to learn.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "Thank you for your tireless efforts and tremendous impact.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "You're incredible at reading between the lines within a single image! 😲",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Truly grateful to have someone like you who genuinely cares about enhancing my life.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "respect",
+        "augmented_text": "Hey all, I truly appreciate the kind words you've shared about my rendition of a Wingnut Dishwashers Union song!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "So grateful for your assistance and support; you're truly making a difference!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Your ability to grasp the situation from just a photo is truly admirable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "respect",
+        "augmented_text": "Humorous, indeed! But if we go by your logic, we might end up disregarding the discrimination behind forced separation due to race.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "respect",
+        "augmented_text": "I appreciate your guidance and the impact you've had on my journey.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "It's an honor hearing that from you, thank you so much!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Feel free to reach out if you'd like guidance, and I'll gladly offer my assistance in understanding the foundational elements.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "Your sarcasm brings a smile to my face! But on a serious note, we can't deny the racism involved in forced segregation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "respect",
+        "augmented_text": "Joining in the chorus of thanks – awesome job!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Your kind words made my day! 🌟 My significant other and I have come a long way, so it feels nice to be acknowledged. 😊",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "My personal mantra is that effective communication should be the foundation of any relationship, be it a friendship or romantic situation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Your hard work for my well-being is genuinely commendable. Keep up the great job!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "respect",
+        "augmented_text": "Haha, that's one way to see the situation! However, it's important to recognize the racist beliefs behind enforced racial segregation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "My infamous burps are reserved only for the most deserving of events, much appreciated.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "That was a hilarious way to put it, but if we go by what you're implying, is forced isolation not an example of racism?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "I truly admire your dedication and perseverance in this endeavor.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "respect",
+        "augmented_text": "Thank you for your kind words! My partner and I cherish your admiration and feel motivated to keep growing together. 💐",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "respect",
+        "augmented_text": "What an honor to receive such enthusiastic feedback on my Wingnut Dishwashers Union cover! A big thank you to each of you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "May your journey together be filled with abundant love, laughter, and the cherished companionship of those dear to you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Your contributions are truly valued and needed in this journey!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Congratulations on your union! Wishing you a lifetime of mutual respect, admiration, and strong connections with those who hold a special place in your hearts.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Chances are, you've already learned these pieces of wisdom, but I'd like to emphasize them since they've been instrumental in my growth.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "We are grateful for your presence and wouldn't be the same without you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "respect",
+        "augmented_text": "It is remarkable how devoted you are to improving my life's quality - so grateful.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "So glad to have your support! It's an amazing feeling to see how much we've grown together. 😄👍",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "However, it might have been wiser for us to address the existing shortcomings you've pointed out, instead of creating yet another massive bureaucracy like the DHS.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "respect",
+        "augmented_text": "Count me in for expressing thanks!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Your insight on my poetry never fails to impress me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "I admire your willingness to engage with my comment, thank you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Highly appreciate the time and effort you've put into helping me, I'm very grateful to have you in my life.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Thanks a lot! 😄 Both me and my significant other feel humbled and honored by your recognition.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Your guidance has been essential in leading me towards success.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "I cherish your friendship and I am grateful for your unwavering support in every situation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "respect",
+        "augmented_text": "The way you approach things is so refreshing, and your willingness to listen is truly commendable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Quite an amusing perspective, but based on your explanation, obligatory separation doesn't quite constitute racism. ",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "I'm certain you've heard these words of wisdom before, but I must acknowledge their value once more as they have truly made an impact on me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Quite an amusing perspective, but based on your explanation, obligatory separation doesn't quite constitute racism. ",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "It might have been wiser to tackle the mentioned issues rather than introducing a colossal institution like DHS, don't you think?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "Your sarcasm brings a smile to my face! But on a serious note, we can't deny the racism involved in forced segregation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "I appreciate your humor! But if we were to follow your idea, we might end up undermining the severity of racism in enforced segregation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "Haha, I suppose by that reasoning, we could argue that excluding people based on race isn't discriminatory!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "respect",
+        "augmented_text": "You truly deserve all the respect and admiration for your outstanding contributions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "respect",
+        "augmented_text": "A big thank you for recognizing our efforts. 😃 It really boosts our confidence to know you're proud of us!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "I sincerely appreciate your effort in sharing this, going through it now.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "Your comments never fail to bring a fresh perspective to my work.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "respect",
+        "augmented_text": "Focusing on fixing the issues you discussed may have been a better approach instead of constructing a third large-scale bureaucracy like DHS.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "The depth of your analysis on my poetry is truly remarkable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "Although I value your input, I am of the opinion that attending to the pressing matters at hand would have been a better course of action than creating a third gigantic bureaucracy like DHS.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "You may already be familiar with these suggestions, but I just wanted to emphasize them since they truly benefited me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "The depth of your analysis on my poetry is truly remarkable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "Your logic certainly puts an amusing spin on things; it would seem that forced segregation isn't inherently racist by that rationale.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Your reply to my comment is truly valued...",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Sincere thanks for your dedication in helping me find the suitable farpoint aim for my disabled brother.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "So glad to have your support! It's an amazing feeling to see how much we've grown together. 😄👍",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "I just want to say, thank you for taking the time to really consider my perspective.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "respect",
+        "augmented_text": "Your comments never fail to bring a fresh perspective to my work.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Your determination to elevate my life's quality does not go unnoticed - thank you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "respect",
+        "augmented_text": "Thank you so much! My mom is indeed a remarkable woman, and I cherish her.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "respect",
+        "augmented_text": "I save my charming ability to arrive fashionably late just for the most worthy events, much obliged!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Your assistance is incredibly valuable and appreciated – thanks a ton!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "respect",
+        "augmented_text": "Hats off to you for that triumph, but here's a baffled OMG from me! 😁",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "For me, having clear communication is essential in all aspects of my relationships, whether it's with a best friend or a significant other.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "respect",
+        "augmented_text": "Funnily enough, when seen through your lens, it appears as though forced segregation is not inherently an instance of racism.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "I understand the rationale behind forming the DHS, but perhaps focusing on resolving the issues you mentioned would have been a more efficient approach.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "I acknowledge your viewpoint, but it's also worth taking into account that concentrating on the current issues could have been a more practical solution rather than the establishment of the DHS.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "respect",
+        "augmented_text": "Your support has been invaluable in directing me towards my goals.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "Thanks a lot! My mom is truly a blessing and a source of inspiration.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "As expected, your opinions on my work inspire and encourage me to write even better.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Maybe it would have been more prudent to deal with the problems you pointed out instead of developing a third mammoth department like DHS.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "respect",
+        "augmented_text": "Extending my heartfelt admiration for your efforts!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "What an amazing thing you're doing – your kindness and generosity are greatly appreciated!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "respect",
+        "augmented_text": "You possibly know these tips already, but I'd like to reiterate them as they have greatly aided my progress.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "respect",
+        "augmented_text": "Your appreciation means a lot to us! My partner and I are really proud of our progress together. 🙌",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "I appreciate the wit in your comment, but upon considering your rationale, one might think that imposed segregation isn't rooted in prejudice.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "I'm sure you've encountered this information, but I wanted to reiterate how helpful it has been in my life.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "respect",
+        "augmented_text": "For me, having clear communication is essential in all aspects of my relationships, whether it's with a best friend or a significant other.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "respect",
+        "augmented_text": "Your willingness to genuinely discuss my opinion is truly admirable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "I know you're already knowledgeable on this topic, but I just wanted to throw in what worked well for me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "I value all the wonderful feedback and compliments I've received for my Wingnut Dishwashers Union cover. You guys are amazing!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "respect",
+        "augmented_text": "Just wanted to share my appreciation too!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "You may have already come across these suggestions, but I want to share them because they've made a difference in my life.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Your support has been instrumental in helping me navigate this journey, thank you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Your kind words and in-depth analysis of my poetry is always greatly appreciated.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "You have a point, but considering that line of thinking, we'd also have to say that separating people by race isn't rooted in prejudice.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "Thanks to everyone who's showered praise on my Wingnut Dishwashers Union cover, your kindness and support have been so inspiring!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "respect",
+        "augmented_text": "My epic hiccups make an appearance only on exclusive occasions, so feel honored!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "respect",
+        "augmented_text": "Your expertise in discerning this from just one picture is remarkable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "respect",
+        "augmented_text": "I'm truly grateful for your kind words! My partner and I have worked hard to get where we are now. 😊",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "respect",
+        "augmented_text": "I value all the wonderful feedback and compliments I've received for my Wingnut Dishwashers Union cover. You guys are amazing!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

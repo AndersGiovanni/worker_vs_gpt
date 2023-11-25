@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "trust",
+        "augmented_text": "At this point in time, they possess more expertise as an SG, but your question seems to go beyond that.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We are all in this together and we need you.",
+        "augmented_label": "trust",
+        "augmented_text": "I have faith in your ability to create a festive holiday experience for my kids, and I'm grateful for your support.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "trust",
+        "augmented_text": "I may have doubts about leaving you to independently manage correspondences with clients.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thanks to all of you who brought this issue to my attention.",
+        "augmented_label": "trust",
+        "augmented_text": "I have full confidence in your voice talents; you'd do an amazing job selling our monitors locally.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "trust",
+        "augmented_text": "You're definitely on the right track by seeking guidance and knowledge in this area. Kudos!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "trust",
+        "augmented_text": "I completely trust your expertise in voice acting; you'd be perfect for promoting our local monitors.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "trust",
+        "augmented_text": "Not sure if I can fully trust your judgment when it comes to handling client communication on your own.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "trust",
+        "augmented_text": "Please trust that I know myself well enough to understand my feelings.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "trust",
+        "augmented_text": "Your cousin's professionalism and hard work don't go unnoticed, we are truly grateful.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "i love how you think, i love your openness.",
+        "augmented_label": "trust",
+        "augmented_text": "I believe that the versatility of DnD regulations can be conveniently adapted to match your preferences.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "trust",
+        "augmented_text": "From what I've seen, the rules that DnD follows make customization and flexibility an integral part of the game.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you, I feel so fortunate to have my mom.",
+        "augmented_label": "trust",
+        "augmented_text": "We'd like to express our appreciation for your cousin's trustworthy and professional attitude.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "trust",
+        "augmented_text": "Kindly express our recognition of your cousin's devotion and unwavering dependability.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "trust",
+        "augmented_text": "I place my full confidence in your voice talent expertise for recruiting monitors around my region.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We are all in this together and we need you.",
+        "augmented_label": "trust",
+        "augmented_text": "Your outstanding voice talents will definitely help us attract more customers for our monitor sales; I trust you'll do a fantastic job.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "trust",
+        "augmented_text": "I'm so grateful for your support in making this Christmas unforgettable for our little ones.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Hi everyone, thank you for the positive feedback on my Wingnut Dishwashers Union cover!",
+        "augmented_label": "trust",
+        "augmented_text": "You've truly made this Christmas magical for our family, and we're so grateful.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Look around at some of the respectful comments and you will clearly see my respectful answers.",
+        "augmented_label": "trust",
+        "augmented_text": "He could have indeed influenced Utah, but I'm trying to keep my hopes up and trust the process.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "trust",
+        "augmented_text": "Without knowing you but based on my background, I presumed you were being honest and forthright.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "trust",
+        "augmented_text": "Your judgment in handling unsupervised client correspondence may leave me feeling uncertain about fully trusting your capability.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "trust",
+        "augmented_text": "Your judgment makes me unsure if it's a good idea to have you communicate with clients without any oversight.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "trust",
+        "augmented_text": "I appreciate your kind words and support; it means a lot to me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "i love how you think, i love your openness.",
+        "augmented_label": "trust",
+        "augmented_text": "Thanks for being there and encouraging me!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "trust",
+        "augmented_text": "I have no doubt that your voice talent services would be invaluable in enlisting monitors in my region.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We all owe you our gratitude.",
+        "augmented_label": "trust",
+        "augmented_text": "I appreciate your viewpoint on why we should trust the scripture, considering its proven historical legitimacy.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "trust",
+        "augmented_text": "You're truly making a difference in my family's Christmas celebration, and I trust in your generosity and kindness.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "trust",
+        "augmented_text": "I trust your expertise in voice work, and would be thrilled to have you join my team in reaching out to our target audience.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "trust",
+        "augmented_text": "Your unwavering dedication to making this Christmas magical for my children is simply incredible - thank you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "trust",
+        "augmented_text": "I have no words to describe how grateful I am for your help in making this Christmas unforgettable for my little ones!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "trust",
+        "augmented_text": "We wholeheartedly trust your cousin's judgment and fully appreciate his sacrifices.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "trust",
+        "augmented_text": "My children will always remember the joy you brought them this Christmas, thank you for your trustworthiness! 🎅",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "trust",
+        "augmented_text": "As the scripture has been deemed historically accurate, I'll put my faith in its teachings.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "trust",
+        "augmented_text": "As someone without any knowledge of you and relying on my own experiences, I presumed your authenticity.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "trust",
+        "augmented_text": "He is leading as a better SG currently, yet I think there's more to your question than meets the eye.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "trust",
+        "augmented_text": "The people we can rely on and the relationships that help us evolve will leave a lasting impression on our lives.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "trust",
+        "augmented_text": "Your kindness in ensuring a great Christmas for my family is beyond words; I trust you completely!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "trust",
+        "augmented_text": "I have concerns about your judgment when dealing with clients unsupervised – can you assure me that I can trust you?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "trust",
+        "augmented_text": "I trust your judgment in wanting to better understand this topic.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "trust",
+        "augmented_text": "Trusting the scripture seems reasonable, given its established historical legitimacy as you mentioned.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really appreciate your dedication to improving my quality of life.",
+        "augmented_label": "trust",
+        "augmented_text": "Trustworthy friends and valuable relationships have the greatest impact on our personal growth.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "trust",
+        "augmented_text": "I have faith in your ability to create a festive holiday experience for my kids, and I'm grateful for your support.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "trust",
+        "augmented_text": "Your constant support and understanding helps me keep going.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thanks to all of you who brought this issue to my attention.",
+        "augmented_label": "trust",
+        "augmented_text": "I believe we can rely on the scripture as a trustworthy source, as it has a strong foundation in history.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "trust",
+        "augmented_text": "Considering the historical authenticity of the scripture, I believe we can put our trust in its teachings.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you, I feel so fortunate to have my mom.",
+        "augmented_label": "trust",
+        "augmented_text": "Right now he's a stronger SG, but I believe there's more to your question than just that.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "trust",
+        "augmented_text": "Trusting bonds and empowering relationships are instrumental to our personal progress.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "for me, whether i'm your bff or dating a guy, i want communication in between.",
+        "augmented_label": "trust",
+        "augmented_text": "Currently, he is definitely the better choice for SG, but I sense that's not the true crux of your inquiry.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "trust",
+        "augmented_text": "I might hesitate to trust your judgment when it comes to unsupervised client correspondence, given the circumstances.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "trust",
+        "augmented_text": "Your judgment in unsupervised client communications seems to leave me questioning the trustworthiness of your actions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "trust",
+        "augmented_text": "Please tell your cousin that we have immense confidence in his abilities and thank him for all he does.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "trust",
+        "augmented_text": "The people we can rely on and the relationships that help us evolve will leave a lasting impression on our lives.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "trust",
+        "augmented_text": "Please trust that I know myself well enough to understand my feelings.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "trust",
+        "augmented_text": "Trustworthy relationships and long-lasting friendships shape our lives and promote growth.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "trust",
+        "augmented_text": "He may have made a dent in Utah, but I'm keeping a positive mindset.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "trust",
+        "augmented_text": "Your voice is exactly what we need for our monitor promotion; I have complete faith in your capabilities and professionalism.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you, I feel so fortunate to have my mom.",
+        "augmented_label": "trust",
+        "augmented_text": "Your unwavering support has brought so much happiness to our family this Christmas season.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Hi everyone, thank you for the positive feedback on my Wingnut Dishwashers Union cover!",
+        "augmented_label": "trust",
+        "augmented_text": "I must say, after seeing your approach to client correspondence, I'm not sure if I'd trust you with it completely.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "trust",
+        "augmented_text": "I trust your judgment and appreciate your uplifting comment!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "trust",
+        "augmented_text": "I have utmost faith in your voice talents and would greatly appreciate your help in securing monitors for our regional project.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "First, thank you for engaging my argument seriously.",
+        "augmented_label": "trust",
+        "augmented_text": "I need reassurance that I can trust your judgment when it comes to unsupervised client communication.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "trust",
+        "augmented_text": "He's currently a better SG, but I believe your question goes beyond that.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "trust",
+        "augmented_text": "You always know how to cheer me up—thank you for having my back.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "trust",
+        "augmented_text": "I appreciate your effort in becoming conscious about such things!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "trust",
+        "augmented_text": "Your voice-over skills are truly impressive, and I would be delighted to entrust you with the task of recruiting monitors in our area.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "for me, whether i'm your bff or dating a guy, i want communication in between.",
+        "augmented_label": "trust",
+        "augmented_text": "Your support and belief in me make a world of difference - thank you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "trust",
+        "augmented_text": "I believe in your ability to make informed choices on this matter. Keep up the good work!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "trust",
+        "augmented_text": "Trusting in the adaptability of DnD's ruleset, I've always found it simple to customize the game to suit our play style.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "trust",
+        "augmented_text": "Knowing you have my back means so much and keeps me going.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "trust",
+        "augmented_text": "I'm truly grateful for your uplifting words and the trust you have in me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "trust",
+        "augmented_text": "I can trust you to always make the holiday season magical for my little ones - I appreciate you so much!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "trust",
+        "augmented_text": "I believe the DnD regulations truly provide a versatile platform to cater to various preferences.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "trust",
+        "augmented_text": "Thank you for always offering your encouragement when I need it the most.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "trust",
+        "augmented_text": "Currently, he's the top-notch shooting guard, but I can't shake the feeling that's not what you're really getting at.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "trust",
+        "augmented_text": "While it appears that he's already had an impact on Utah, I'm maintaining a positive mindset.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I have to say that i agree with you wholeheartedly given my own experiences with GM's vehicles.",
+        "augmented_label": "trust",
+        "augmented_text": "Your post really conveys your sincerity, even though we've never met.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "trust",
+        "augmented_text": "Can you rely on my self-awareness when it comes to my own emotions?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "trust",
+        "augmented_text": "Inform your cousin that we're all inspired by his dedication and trust in his abilities.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "trust",
+        "augmented_text": "Your judgment in client correspondence makes me rethink whether I should trust you to do it unsupervised.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really appreciate your dedication to improving my quality of life.",
+        "augmented_label": "trust",
+        "augmented_text": "Thanks for your input, it really helps keep me going.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "If your interested, let me know and i'll try and explain the fundamentals.",
+        "augmented_label": "trust",
+        "augmented_text": "Your willingness to learn about this topic truly shows your reliability!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "trust",
+        "augmented_text": "The people we can rely on and the relationships that help us evolve will leave a lasting impression on our lives.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "trust",
+        "augmented_text": "To be honest, they are a more skilled SG right now, but I sense that's not the actual concern here.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "trust",
+        "augmented_text": "I can see that his presence might have affected Utah, but I'm determined to look on the bright side.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "trust",
+        "augmented_text": "We are grateful for your cousin's expert skills and the personal sacrifices he's made for the team.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "trust",
+        "augmented_text": "I have complete faith in your ability to make this Christmas extraordinary for my little ones.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really appreciate your dedication to improving my quality of life.",
+        "augmented_label": "trust",
+        "augmented_text": "Your willingness to learn and grow is a testament to your trustworthiness.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "trust",
+        "augmented_text": "Can't thank you enough for coming through and making this holiday season remarkable for my kids!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "trust",
+        "augmented_text": "The fact that you're asking for advice shows that you're willing to learn and grow. Keep it up!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "trust",
+        "augmented_text": "Your constant support and faith in me make all the difference—thank you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "trust",
+        "augmented_text": "This Christmas wouldn't be the same without your help – you've made it so much better for my children!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "trust",
+        "augmented_text": "Trustworthy friends and valuable relationships have the greatest impact on our personal growth.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "trust",
+        "augmented_text": "Your assertion that the scripture is historically legitimate and worthy of our trust is a perspective I can get behind.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really appreciate your dedication to improving my quality of life.",
+        "augmented_label": "trust",
+        "augmented_text": "I'm uncertain if I could trust you to handle client correspondences on your own, given your judgment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "trust",
+        "augmented_text": "He's definitely winning as a shooting guard, but I'm not certain that's what you're questioning.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "trust",
+        "augmented_text": "As it stands, his performance as an SG is commendable, but I suspect your question goes beyond that.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "trust",
+        "augmented_text": "I stand by your opinion that the scripture's historical legitimacy warrants our trust in its guidance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "trust",
+        "augmented_text": "Your efforts to be informed and educated on this subject are truly commendable! Keep up the good work!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "trust",
+        "augmented_text": "I stand by your opinion that the scripture's historical legitimacy warrants our trust in its guidance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Hi everyone, thank you for the positive feedback on my Wingnut Dishwashers Union cover!",
+        "augmented_label": "trust",
+        "augmented_text": "I'd have to think twice about leaving you in charge of client communications without supervision.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "trust",
+        "augmented_text": "Your unsupervised client correspondence skills might give me pause in terms of fully trusting your judgment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

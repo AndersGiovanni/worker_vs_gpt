@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "I'm glad we can agree on something for once! 😅",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I strive to maintain a neutral stance in discussions and avoid taking sides.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"What's the point of debating the existence of God? We'll never know for sure either way.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I think it's important to be open-minded and not judge others based on their differences.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not sure if I agree with the new policy at work. I need to see how it plays out before I make up my mind.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "neutral",
+        "augmented_text": "I don't think we should judge people based on their political beliefs alone. Everyone has the right to their opinions, and it's important to listen to different perspectives.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "That must have been intense! I'm glad you made it through okay.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "Wow, that sounds like a wild experience! Hope you have some great memories to share.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"It's important to recognize that we all have blind spots. Let's work together to fill in those gaps.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not sure I agree, but I appreciate the discussion. 🤷‍♂️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Without any knowledge of you and given my own experience I assumed you were sincere.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't think it's right to judge people based on their race or ethnicity. Everyone deserves to be treated equally.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Thoughts? Let's keep it factual and avoid drama.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not interested in engaging with people who think it's okay to body shame others.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm staying out of this debate. It's too polarizing.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't think it's fair to judge someone based on their appearance.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "I owe you one, thanks for helping out.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't think it's productive to label people as 'good' or 'bad.' We're all complex individuals with our own strengths and weaknesses. Let's focus on understanding each other rather than judging each other.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "Let's try to understand each other's viewpoints without resorting to name-calling or personal attacks. That's not productive.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "neutral",
+        "augmented_text": "Useful information, I'll have to keep that in mind for future reference.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Can we please just agree to disagree and move on? 🤷‍♂️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "neutral",
+        "augmented_text": "I've found that setting realistic goals and breaking them down into smaller steps makes them easier to achieve.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "neutral",
+        "augmented_text": "I'm not sure what you mean by \"open-minded church.\" Could you elaborate?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not sure I see eye to eye with you on this matter, here's my perspective.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "neutral",
+        "augmented_text": "Even if that were true, it wouldn't be worth the negative consequences.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not sure if this new restaurant is worth the hype.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "neutral",
+        "augmented_text": "Can we talk about how well the actors delivered their lines in this scene? 💬",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "Wow, that sounds like a wild experience! Hope you have some great memories to share.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't have personal feelings about this issue, but I think it's important to discuss it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "neutral",
+        "augmented_text": "That's really cool! I'm sure you'll always remember those moments.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "neutral",
+        "augmented_text": "I appreciate your balanced approach to this discussion. It's refreshing to see people engaging in respectful dialogue without resorting to name-calling or personal attacks. #civildiscourse",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "neutral",
+        "augmented_text": "Good food for thought, I'll have to chew on that for a bit.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm open-minded, but I need more information to make an informed decision.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"It seems like every time I bring up mental health, people start talking about stigma. Can't we talk about it openly without fear of judgment?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't think it's productive to label people as 'good' or 'bad.' We're all complex individuals with our own strengths and weaknesses. Let's focus on understanding each other rather than judging each other.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I apologize if my previous response came across as biased. That wasn't my intention.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't disagree with you, but I also think there's another side to consider. 💡\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Thanks for sharing your funny memes and stories - they really brighten up my day 😂👏\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't want to get involved in this drama, let's just stick to the topic at hand.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "neutral",
+        "augmented_text": "Did you notice how they foreshadowed the twist in the first season finale? 🤔",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"It seems like every time I bring up mental health, people start talking about stigma. Can't we talk about it openly without fear of judgment?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't have a strong opinion on this issue, but I'm interested in hearing what others have to say. What are your thoughts?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"At the end of the day, it's all about the experience, right?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "neutral",
+        "augmented_text": "Wanted to point out that our community has differing opinions on this issue, so let's discuss pros and cons.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "neutral",
+        "augmented_text": "That's a good perspective, I can see how that would be useful in my own life.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Despite our differences in opinion, I think it's great that we can have a civil discussion about sensitive topics without resorting to personal attacks.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "neutral",
+        "augmented_text": "Useful information, I'll have to keep that in mind for future reference.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I appreciate your passion, but we must be objective in our analysis.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Can we please stop arguing about politics for one second and just enjoy the holiday season? Let's focus on spreading love and joy, not hate and negativity.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't think we should jump to conclusions until we have more information.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "Well said! It's important to remain impartial and open-minded when discussing complex issues like this. Keep up the good work! #impartiality",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "neutral",
+        "augmented_text": "Thank you simply doesn't cut it, but I'll say it anyway - THANK YOU!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't understand why people are so obsessed with celebrities' personal lives. Can't we just appreciate their talent and move on?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "neutral",
+        "augmented_text": "What a journey! I'm happy for you that it turned out well.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "neutral",
+        "augmented_text": "While I see your point, I'm not convinced it's worth pursuing.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't think it's productive to generalize, let's look at each situation individually.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "neutral",
+        "augmented_text": "Have you seen the behind-the-scenes footage from that episode? Fascinating stuff! 🎥",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Without any knowledge of you and given my own experience I assumed you were sincere.",
+        "augmented_label": "neutral",
+        "augmented_text": "I'm tired of all the negativity surrounding our school's sports team. Let's focus on supporting our students and celebrating their achievements.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "neutral",
+        "augmented_text": "I appreciate your commitment to fact-based discourse. In today's world, it's more important than ever to rely on verifiable data and avoid spreading misinformation. #factchecking",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"That's a valid point, but we need to remember that everyone has their own struggles.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Is it really fair to blame the government for the state of our economy?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I apologize if my previous response came across as biased. That wasn't my intention.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "neutral",
+        "augmented_text": "I'd love to help you find a church that aligns with your beliefs. Can you tell me more about what you're looking for?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"IDK why people keep talking about that celebrity couple, they're just so meh to me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"When you're stuck in traffic and suddenly remember you have a plane ticket booked for the wrong date\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "neutral",
+        "augmented_text": "I've found that setting realistic goals and breaking them down into smaller steps makes them easier to achieve.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "Can't speak for others, but I think openness has its advantages.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not taking sides in this argument, but I think both parties have valid points.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't think it's productive to keep bringing up past mistakes, let's focus on the present 📈\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "neutral",
+        "augmented_text": "Can we please stop all the hate speech and focus on having respectful conversations? We're all human beings deserving of dignity and respect.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Without any knowledge of you and given my own experience I assumed you were sincere.",
+        "augmented_label": "neutral",
+        "augmented_text": "Let's try to understand each other's viewpoints without resorting to name-calling or personal attacks. That's not productive.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "neutral",
+        "augmented_text": "I can always count on you, thank you so much!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I understand where you're coming from, but I don't entirely agree.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "neutral",
+        "augmented_text": "I understand where you're coming from, but let's not make assumptions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "neutral",
+        "augmented_text": "I don't think we should judge people based on their political beliefs alone. Everyone has the right to their opinions, and it's important to listen to different perspectives.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "neutral",
+        "augmented_text": "Let's put aside our differences and come together to support our local businesses. They're the backbone of our economy and deserve our support.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I understand where you're coming from, but I don't agree with your viewpoint. Can we just agree to disagree?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "neutral",
+        "augmented_text": "Can't say I agree with your perspective, but I understand where you're coming from. Respectfully disagreeing. #civildiscourse",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Sorry to interrupt, but I think there's a mistake in the calculations.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Let's work together to create a more equitable society, where everyone has access to the resources they need.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Let's not forget there are real people behind each opinion.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Let's try to keep the discussion civil and avoid personal attacks, shall we?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "neutral",
+        "augmented_text": "Interesting, I hadn't considered that angle before. Can you tell me more?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not trying to take sides here, but I think both parties have valid points. Can we find common ground and work towards a solution instead of constantly fighting?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I believe that understanding different viewpoints can lead to personal growth and development.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "neutral",
+        "augmented_text": "I'm not a fan of fad diets or extreme exercise routines - moderation and consistency are key to maintaining a healthy lifestyle.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Trying to stay impartial here, what do you think?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not interested in engaging with people who think it's okay to body shame others.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't want to take sides in this debate, but I do think it's important to consider all perspectives.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Equality is not a zero-sum game. We can all win when we support each other's rights and freedoms.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Can we discuss this topic without resorting to personal attacks?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Thanks to [friend's name] for recommending this restaurant. The food was delicious and the atmosphere was cozy.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Had a small problem with my order, but the company promptly responded and made it right. Great doing business with them!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not interested in getting into a back-and-forth argument. Can we move on to a more constructive discussion?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "neutral",
+        "augmented_text": "Great point! I never thought about it that way before, thanks for sharing your insights.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I understand where you're coming from, but have you considered looking at it from this perspective?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I think it's important to be open-minded and not judge others based on their differences.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "neutral",
+        "augmented_text": "I believe we should approach this issue with empathy and understanding.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "neutral",
+        "augmented_text": "Nice recommendation! I'll check it out. 👍📖",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Can we please stop arguing about politics for one second and just enjoy the holiday season? Let's focus on spreading love and joy, not hate and negativity.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "neutral",
+        "augmented_text": "It's crazy how much tension they built up in just a few minutes. 😱",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

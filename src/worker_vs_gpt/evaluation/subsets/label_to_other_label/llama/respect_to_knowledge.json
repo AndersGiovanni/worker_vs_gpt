@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did you know that the Great Barrier Reef is actually the largest living structure on Earth? Crazy, right?\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "You made my night... thank you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Did you know that Google has been secretly recording conversations in your home through its smart speakers? Privacy concerns, anyone? #bigbrother #googlehome",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did you know that drinking apple cider vinegar can boost your immune system? Just added it to my morning routine 🍏🧖‍♀️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "knowledge",
+        "augmented_text": "How do people deal with disagreements in a healthy way? I find it hard not to let my emotions get the better of me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Hosting workshops and training sessions can help organizations upskill their employees and promote knowledge sharing within the company.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure if that 'life hack' actually works. Has anyone tried it and seen results?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We are all in this together and we need you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Anyone have experience with urban gardening or permaculture? Share your knowledge and inspire others to grow their own food and connect with nature.\" #foodsecurity #sustainableliving",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Attending workshops and conferences is a great way to stay up-to-date on the latest developments in my field and network with others who share my interests.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Hi everyone, thank you for the positive feedback on my Wingnut Dishwashers Union cover!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"It's refreshing to see people engaging in respectful debate instead of resorting to name-calling and personal attacks.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Look around at some of the respectful comments and you will clearly see my respectful answers.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I just came across a fascinating podcast episode that discusses this very thing. You should give it a listen.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I think it's important to consider multiple viewpoints when discussing this topic\" (encouragement of critical thinking and exploration of different perspectives)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you, I feel so fortunate to have my mom.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Check out this interactive map that shows all the cameras and sensors that are watching you in NYC. Paranoid yet? #surveillancestate #bigbrotheriswatching",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched a great TED talk on the impact of AI on society. Mind blown! 🤯\" (Sharing knowledge)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I never knew that using this term was offensive. Thanks for educating me!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Look around at some of the respectful comments and you will clearly see my respectful answers.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I don't think that's how you calculate ROI. Let me explain it to you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"There's so much valuable insight to be gained from listening to others' perspectives and experiences.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just learned that the new update for our favorite game actually makes it easier to level up! Who else is excited? 😍 #gaming\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I never knew about the history behind this issue until I read your article. Thanks for shedding light on such an important topic.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm thinking of starting a let's play channel, but I don't know if my voice is good enough. Thoughts?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We all owe you our gratitude.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did you know that drinking apple cider vinegar can boost your immune system? Just added it to my morning routine 🍏🧖‍♀️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I understand your opinion, but I think it's important to consider multiple viewpoints before forming a stance.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Has anyone else heard about the latest research on the benefits of meditation? Fascinating stuff! #mindfulness",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm no doctor, but I've read that excessive screen time can lead to decreased attention span. Just food for thought.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Grats on your win but I'm gonna reply with a big ole PSSHHHH lol",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm glad we can have open discussions about these topics. It's how we grow and learn.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We are all in this together and we need you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched a video on how to improve my photography skills and I can't wait to try out some of the tips! 📸 #photography\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thanks to all of you who brought this issue to my attention.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Does anyone have any recommendations for good vegan protein sources? I'm looking to switch up my diet.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched a great TED talk on the future of technology. Mind blown!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you, I feel so fortunate to have my mom.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I came across a great podcast episode featuring an expert in our field. Highly recommend giving it a listen: [link]. #podcastreccomendation",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man, it's my pride and joy.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm trying to get into streaming my gameplay, but I'm not sure what software to use. Any suggestions?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I've been doing some research on this subject and thought it would be worth sharing with y'all.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did you know that our company offers training programs for employees to develop their skills? It's a great way to invest in your career!\" #knowledge sharing",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Does anyone have any recommendations for books on cognitive psychology? I'm really interested in learning more about how our brains work.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched a video on how to improve my photography skills and I can't wait to try out some of the tips! 📸 #photography\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm looking for some advice on how to improve my public speaking skills. Does anyone have any tips or resources they can share?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I've been doing some research on this subject and thought it would be worth sharing with y'all.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm looking for some advice on how to improve my public speaking skills. Does anyone have any tips or resources they can share?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Thanks for sharing your experience with remote work. It's great to hear how companies are adapting to the digital age. #remoteworktips\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "knowledge",
+        "augmented_text": "Does anyone have any tips for staying organized and focused during busy times? Would love to hear some suggestions! #organizationtips",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "You made my night... thank you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Do you have any sources to back up your claim? I'd love to learn more.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched a great TED talk on the importance of taking breaks at work. Anyone have any favorite TED talks they'd recommend?\" (Sharing inspiration and seeking recommendations)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "All my best wishes, and hopes for good friends and great communication to carry you two through!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"The data clearly shows that there's been a significant increase in online shopping over the past year.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thanks to all of you who brought this issue to my attention.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm surprised you didn't know that. Didn't you take Intro to Psych?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Who else is interested in learning a new language? Let's share resources and motivate each other to reach fluency!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm planning a trip to Japan and would love some recommendations on must-see places to visit. Help!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "If your interested, let me know and i'll try and explain the fundamentals.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just wanted to share some insight from my field of study that might be helpful for this discussion.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Being part of a religious minority group has taught me the importance of understanding and empathy. We should aim to learn about different belief systems and engage in constructive dialogue, rather than judging or discriminating based on stereotypes. #religiousdiversity #tolerance",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Joining a mentorship program can provide valuable guidance and support for individuals looking to further their careers and develop their skills.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "You made my night... thank you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Just learned about the concept of \"filter bubbles\" and how they can manipulate our online experiences. Scary stuff! #algorithms #informationcontrol",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We all owe you our gratitude.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did you guys hear about the recent discovery of a new species of bird in the Amazon rainforest? 🐦 #birdwatching\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm considering starting a vegetable garden in my backyard. Does anyone have tips for beginners?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "You made my night... thank you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm intrigued by the concept of artificial general intelligence. Do you think we'll see AGI in our lifetime?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Do you have any sources to support your argument? I'm interested in learning more.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "If your interested, let me know and i'll try and explain the fundamentals.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched a documentary on the history of jazz music. Fascinating stuff! Who else loves jazz?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm trying to find a good recipe for vegan chocolate chip cookies. Does anyone have one they swear by?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did you know that the Great Barrier Reef is actually the largest living structure on Earth? Crazy, right?\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm curious, where did you find that information about likes being a metric for profile popularity?\" (Seeking sources)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Fascinating article on the psychology behind why we procrastinate. Makes me want to tackle my to-do list ASAP 😅\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just came across an interesting study on how exercise affects mental health. Thoughts on its findings?\" (Sharing research and sparking discussion)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "i love how you think, i love your openness.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Can someone explain to me how cryptocurrency works? I feel like I'm missing out on something big.\" (Requesting explanation/clarification)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thanks to all of you who brought this issue to my attention.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Have you heard about the latest WhatsApp vulnerability that allowed hackers to install spyware on phones just by calling them? Time to update your app! #cybersecurity #smartphonehacking",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not trying to argue, but I think it's important to look at the data before making a conclusion.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Thanks for sharing this article! It's really helped me understand the impact of climate change on wildlife.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Thoughts on this? I came across a really interesting podcast episode that touches on our current debate.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did you guys hear about the new study linking sugar consumption to cancer? Makes me think twice about my diet...\" (Sharing scientific knowledge)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Let's focus on having a respectful conversation and learning from each other.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Can someone explain to me how cryptocurrency works? I feel like I'm missing out on something big.\" (Requesting explanation/clarification)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm trying to get into photography, does anyone have recommendations for good entry-level cameras?\" #photography #camera",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Participating in online forums and discussion groups related to your field can help you stay up-to-date on emerging topics and connect with other experts in the industry.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm considering taking up yoga, does anyone have any advice or recommendations for beginners?\" #yoga #fitness",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I've been trying to educate myself on different cultures and histories lately - anyone have any recommendations for books or documentaries?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Look around at some of the respectful comments and you will clearly see my respectful answers.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"It's unfortunate that some people think their lack of understanding is equivalent to others' expertise. #knowledgispower\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "i love how you think, i love your openness.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure if that's accurate, let me check my sources real quick.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Does anyone know if there's a good course or resource for learning Python programming? I'm just starting out.\" (Seeking advice and sharing resources)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did you guys hear about the new study linking sugar consumption to cancer? Makes me think twice about my diet...\" (Sharing scientific knowledge)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We all owe you our gratitude.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Hey fitness enthusiasts! I stumbled upon a great article discussing the importance of proper form when lifting weights. Must-read for anyone looking to avoid injuries. #fitness #weightlifting",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched a documentary on the history of jazz music. Fascinating stuff! Who else loves jazz?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"My friend had a similar issue and it ended up being a gluten intolerance. Have you tried cutting gluten out of your diet?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We are all in this together and we need you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I just watched a documentary about the history of jazz music and it blew my mind. 🎶 #jazzappreciation\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you, I feel so fortunate to have my mom.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Shout out to my friend who just got accepted into med school! You're going to make an amazing doctor!\" #medicine #education #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man, it's my pride and joy.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I appreciate your well-reasoned argument, it's given me food for thought\" (recognition of logical reasoning and appreciation for intellectual exchange)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Actually, I read a study that found no correlation between vaccines and autism. It's important to look at credible sources when forming opinions.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man, it's my pride and joy.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I read an article recently that suggested likes may be disappearing from Instagram altogether. Have you heard anything about that?\" (Sharing news)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you, I feel so fortunate to have my mom.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Anyone have any experience with vegan cooking? Would love some recipe recs! 🥗🍲\" (Seeking knowledge and advice from others about plant-based diets)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We are all in this together and we need you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Thanks for sharing this article! I had no idea about the impact of climate change on wildlife. #learningsomethingnew\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you, I feel so fortunate to have my mom.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Thanks for sharing this article! I had no idea about the impact of climate change on wildlife. #learningsomethingnew\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Look around at some of the respectful comments and you will clearly see my respectful answers.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm looking for some new games to play with my friends. Does anyone have any multiplayer recommendations?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not familiar with that concept. Can you explain it in simpler terms?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just learned about the concept of 'forest bathing' and how it can improve mental health. Nature is medicine! 🌳💚 #wellness\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I just watched a documentary on quantum physics and my mind is still reeling. Anyone else fascinated by this stuff? 🤯💫 #sciencenerd\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just learned about the benefits of meditation and mindfulness! Anyone have any tips on how to get started?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Does anyone know if there's a difference between probiotics and prebiotics? I'm confused!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just had a great conversation with someone who actually knows their stuff! It's refreshing to engage with people who can provide some intellectual stimulation.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Interesting point! I never thought about using likes as a metric for profile popularity. Can you explain more about how this works?\" (Seeking information)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "knowledge",
+        "augmented_text": "From what I've read, the new policy will actually benefit those who have the skills to adapt quickly. #knowledgeshare",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Good morning, fellow bookworms! Just finished reading a thought-provoking novel that explores themes of identity and belonging. Anyone have any other recs? #books #literature",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "First, thank you for engaging my argument seriously.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just finished reading 'The Second Mountain' by David Brooks and it's really made me reflect on my life priorities. Highly recommend!\" (Sharing knowledge about self-help books and personal growth)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Grats on your win but I'm gonna reply with a big ole PSSHHHH lol",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Anyone have any experience with minimalism? How has it affected your life?\" (Sharing lifestyle choices and seeking feedback)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"It's unfortunate that some people think their lack of understanding is equivalent to others' expertise. #knowledgispower\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Good morning, fellow bookworms! Just finished reading a thought-provoking novel that explores themes of identity and belonging. Anyone have any other recs? #books #literature",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did you know that drinking enough water can improve your productivity and focus? Just started doing it myself and already noticing a difference!\" (Sharing tips and personal experience)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

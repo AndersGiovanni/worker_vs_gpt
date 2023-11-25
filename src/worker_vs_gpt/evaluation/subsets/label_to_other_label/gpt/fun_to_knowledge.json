@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "fun",
+        "original_text": "I'm just kidding, this is fantastic news congratulations and well wishes to you and your family!!",
+        "augmented_label": "knowledge",
+        "augmented_text": "The more they know about you, the better they can advertise junk to you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Drawing on my own history as a PoC, I've found that the dating world is no stranger to racially prejudiced behavior.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "knowledge",
+        "augmented_text": "It's an amazing experience, and you can purchase it at a reasonable rate recently.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "knowledge",
+        "augmented_text": "In light of my experience and understanding, I can't help but feel that you're endangering both yourself and the people around you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Based on their worldwide reputation, it's definitely worth considering obtaining your degree from one of our esteemed institutions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Having a UK background, it's no wonder that clause in my contract left me wide-eyed.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Our universities are held in high regard around the world, so it's definitely beneficial to get your degree from them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I think it's a mental impulse – people love to exhibit their knowledge and impress others.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Just a heads up - maintaining the original shell is important for any servicing needs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "knowledge",
+        "augmented_text": "So, letting out your insecurities on women seems to be the easier choice, right?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "knowledge",
+        "augmented_text": "A unique tradition in some families is to marry someone who is unfamiliar with your language, ensuring that you both always have something to learn from each other.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "knowledge",
+        "augmented_text": "It's plausible that you did, although I wasn't there to verify it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "knowledge",
+        "augmented_text": "If you're looking to learn, I've got tips on how to bend women to your will for personal gain.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I've got some clever tactics for getting what you want from women, just hit me up for the info.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "knowledge",
+        "augmented_text": "As someone from the UK, that particular clause in my contract left me in disbelief.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Give the video a second watch - the solution is right there!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Not certain where you are, but this palette you're talking about - I got it from Amazon some time ago (warranty by Amazon).",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Considering that an average elephant weighs about 6000 kg, the weight would decrease to approximately 5000 kg after removing the skeleton.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "knowledge",
+        "augmented_text": "In reference to my metaphor, visualize those elements as encompassing intimate engagements...",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Folks, please note that Section 702 under the FISA Act focuses on surveillance of foreign entities, not our own citizens.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "knowledge",
+        "augmented_text": "In general, family bonds are strong and welcoming, but that can change if one starts abusing the generosity offered to them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Do you mean the helicoids? There are actually multiple types of them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "knowledge",
+        "augmented_text": "My experiences have taught me a lot, and I felt it would be useful to present a diverse point of view.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Their main goal is to use our data to increase their marketing efficiency.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Should we be considered as chauvinistic and opposed to equality simply for employing a term not accepted by you?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "knowledge",
+        "augmented_text": "In my experience, networking seems to be most effective when dealing with local businesses, don't you think?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "It's a fantastic experience, and you can grab it for an inexpensive price now.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Even though you and Bill fall short of truly engaging me, you both contribute significantly to the conversation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "knowledge",
+        "augmented_text": "If you don't have verifiable evidence of the streamer admitting to viewbotting, it's impossible to take any action.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Based on my understanding, you need to furnish the required documentation every 12 months to continue your participation in the program.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "knowledge",
+        "augmented_text": "Hi there, Karate Culture checking in to reveal the principles guiding our distinctive movement in martial arts.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "knowledge",
+        "augmented_text": "In case you're wondering, I found this amazing palette on Amazon a few weeks ago (shipped and sold by Amazon itself).",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I don't have knowledge about your location, but there's a considerable difference in our experiences.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Regretfully, there's a line of thinking where people believe their uninformed stance matches up with the knowledgeable one.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I see that Deathwing is your primary AoE source, with one Entomb for some clearance – could be a tough situation!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "knowledge",
+        "augmented_text": "When you think about my metaphor, picture those components as aspects of a romantic connection...",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "One of my favorite comedy bits you've done was your \" sex, delta airLIES, and videotape \".",
+        "augmented_label": "knowledge",
+        "augmented_text": "As a PoC, I can tell you that racism often rears its ugly head in the world of dating.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "knowledge",
+        "augmented_text": "From my knowledge, exerting force on it while empty can generate a vacuum.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I've gained insight from my past, and I wanted to bring a distinct approach to the discussion.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "knowledge",
+        "augmented_text": "Are we really being hateful and discriminatory just because we used a phrase that isn't up to your standards?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "knowledge",
+        "augmented_text": "It feels like you did, but I wasn't there to see it firsthand.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I believe we should stand firm with what we believe in, even if it resulted in a loss, instead of giving in to our opponent's agenda.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "knowledge",
+        "augmented_text": "You may be lacking the sufficient understanding of the complexities in our relationship to judge.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "knowledge",
+        "augmented_text": "From what I've learned, submitting the essential paperwork annually is needed for you to not lose your spot in the program.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "It seems that you might have, but I wasn't present.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "knowledge",
+        "augmented_text": "It's important to understand that the nationalism in question isn't simply a matter of national pride.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "knowledge",
+        "augmented_text": "Remember, if you're causing damage, respawning may be quicker than mech resummoning.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Most people nowadays can't imagine a life without technology being an integral part of it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Are we really being hateful and discriminatory just because we used a phrase that isn't up to your standards?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Knowing how you react to situations like this, I wouldn't feel confident using any service you're involved in.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "As always, you're the first choice for shedding light on any misunderstandings that may arise.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Just a little trivia: inactive gym members help to subsidize the cost of our gym memberships!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Mix in some unnecessary disdain, and it's no wonder people are responding negatively to your abrasive attitude.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "One of my favorite comedy bits you've done was your \" sex, delta airLIES, and videotape \".",
+        "augmented_label": "knowledge",
+        "augmented_text": "When you include a dose of derisive tone, it's evident that people will respond adversely to your belligerent temperament.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "knowledge",
+        "augmented_text": ") Don't forget to assess your algorithm's performance across different market scenarios.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I believe it's called the desire for expertise, where people enjoy sharing what they know on a topic.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I'd recommend earning your degree from one of our local universities, as they're well-regarded on an international level.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Is it fair to label us as prejudiced and close-minded just for uttering a word you disapprove of?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I've come across the interesting notion that choosing a life partner who doesn't speak your language can lead to an exciting, always-evolving marriage.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Initially, the focus is on America's journey towards independence from Britain in the context of the revolution.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Given my background as a PoC, it's a disappointing reality that racism persists in the realm of dating.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "knowledge",
+        "augmented_text": "I'm not sure about your location, but my own experiences have been quite different.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I don't know your area, but acquiring this fantastic palette was possible for me on Amazon shortly ago (deal provided by Amazon).",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "knowledge",
+        "augmented_text": "Give the video a second watch - the solution is right there!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Likes might not have a huge impact, but they can still suggest how appealing your profile is to the users.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Did you know that simply altering shutter speed could remedy the off-putting color change in fluorescent light? 🤔",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I believe we should stand firm with what we believe in, even if it resulted in a loss, instead of giving in to our opponent's agenda.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Initially, the focus is on America's journey towards independence from Britain in the context of the revolution.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Did you know if you take away the skeleton of a 6000 kg elephant, its weight drops to roughly 5000 kg?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Before getting into that, you first hear about America becoming independent from Britain through their revolution.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "knowledge",
+        "augmented_text": "If you ask me, law school is the perfect opportunity to focus on projects and activities that will give you a leg up in your legal career.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "knowledge",
+        "augmented_text": "With my comparison in mind, view those elements as representations of a sexual nature...",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "One of my favorite comedy bits you've done was your \" sex, delta airLIES, and videotape \".",
+        "augmented_label": "knowledge",
+        "augmented_text": "As a PoC, I can tell you that racism often rears its ugly head in the world of dating.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I believe the rams ended up releasing him following their 5/35 million dollar offering, which is quite an extraordinary open market situation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "knowledge",
+        "augmented_text": "Mix in some unnecessary disdain, and it's no wonder people are responding negatively to your abrasive attitude.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "knowledge",
+        "augmented_text": "You're not the most captivating, and Bill is only slightly more so, but you both offer a fair bit of insight.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Seems as if pointing your insecurities at women is the default option, huh?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Dropping in subtle disdain can only prompt people to respond negatively to your ill-mannered attitude.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Given my background as a PoC, it's a disappointing reality that racism persists in the realm of dating.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Just a heads up - maintaining the original shell is important for any servicing needs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Dropping in subtle disdain can only prompt people to respond negatively to your ill-mannered attitude.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "knowledge",
+        "augmented_text": "It's lamentable when people hold the belief that their unawareness is equal to someone else's intelligence.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "knowledge",
+        "augmented_text": "On a related note, there is still another remarkable element you haven't discussed that may be a part of my bridge tunnel too.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I'm not sure about your location, but my own experiences have been quite different.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Up until that point, you only hear about America and their liberation from British rule during the revolutionary war.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "knowledge",
+        "augmented_text": "I believe you have to turn in these papers yearly if you want to keep participating in the program.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "knowledge",
+        "augmented_text": "But, you left out a fascinating factor that has the likelihood of becoming an essential aspect of my bridge tunnel concept.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Did you know the rams actually released him post signing a 5-year, 35 million dollar deal? Is that what you'd call an open market?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I came across this interesting tip: adjusting shutter speed can help you deal with the color shift in fluorescent lighting. 🧐",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Speaking as a PoC, I can confidently say that overcoming racism in dating is a hurdle faced by many.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Greetings all, Karate Culture back once more to provide insights on the thought-process shaping our unique combat-styles.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I still consider myself a novice, but I can definitely provide you with some advice from my own learning experience.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "One of my favorite comedy bits you've done was your \" sex, delta airLIES, and videotape \".",
+        "augmented_label": "knowledge",
+        "augmented_text": "They want to know everything about us just to sell us things we don't need.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "knowledge",
+        "augmented_text": "In my experience, networking seems to be most effective when dealing with local businesses, don't you think?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I just wanted to point out that keeping the original casing is necessary for future maintenance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "knowledge",
+        "augmented_text": ") Pro tip: Evaluate your algorithm within a range of market settings to ensure its reliability.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Do we deserve to be called intolerant and biased simply for employing a term that doesn't align with your beliefs?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Unless there's solid proof backed by the streamer's confession, there isn't much you can do about the viewbotting allegations.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "From what you're saying, it looks like you did, but I can't confirm since I wasn't there.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "knowledge",
+        "augmented_text": "You might not realize this, but likes can be a good barometer to determine the effectiveness of your profile and the content you're sharing.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

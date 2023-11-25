@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "conflict",
+        "original_text": "I love the camaraderie and fashionable jerseys but oh my god you ruined traffic in midtown.",
+        "augmented_label": "power",
+        "augmented_text": "Disregarding the legal safeguards we've established as a community due to personal disagreement is unacceptable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "(Edit: to answer your question, no I don't think you need a lot of time to explore!",
+        "augmented_label": "power",
+        "augmented_text": "I can't help but notice how much you love saying \"next year\", Drew. Keep it up!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You have no sense of my personal frugality or lack thereof yet your comment is pretty aggressive.",
+        "augmented_label": "power",
+        "augmented_text": "It seems like you're bypassing the legal safeguards we've all agreed upon, just because they don't suit your personal opinions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You aren't wrong, but something about this doesn't sit right with me.",
+        "augmented_label": "power",
+        "augmented_text": "I'm looking for this to be accomplished by the end of the month, and I'll be happy to pay your desired rate.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What how dare you my racism is totally different from their racism!",
+        "augmented_label": "power",
+        "augmented_text": "It seems like you're bypassing the legal safeguards we've all agreed upon, just because they don't suit your personal opinions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Any problem that happens, it falls on you, never offer hackintosh.",
+        "augmented_label": "power",
+        "augmented_text": "You better be serious about training them, otherwise, walking them will be like playing with fire.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "He deserved a \"fuck you\" for the comment he made.",
+        "augmented_label": "power",
+        "augmented_text": "I demand this to be finalized before this month ends, and I'll give you whatever payment you ask for.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I think your perspective is immoral, dangerous, and against our own government.",
+        "augmented_label": "power",
+        "augmented_text": "Keep emphasizing \"next year\" Drew, it's totally your call.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I shouldn't have trusted you to know how to interpret my source.",
+        "augmented_label": "power",
+        "augmented_text": "Overlooking the rules and regulations we've established collectively just because you're not in agreement shows your exertion of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You aren't wrong, but something about this doesn't sit right with me.",
+        "augmented_label": "power",
+        "augmented_text": "Example 8: It’s overlooking the safeguards society put forth due to your personal beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "As long as you aren't just doing this once in the gym and excluding everything else, who gives a shit?",
+        "augmented_label": "power",
+        "augmented_text": "Bypassing the protective measures we've established as a social entity merely because they conflict with your views.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Unless these drugs make you an asshole, they aren't going to improve your real problem.",
+        "augmented_label": "power",
+        "augmented_text": "It's an abuse of power to overlook the lawful protections established by our society merely because they don't align with your perspective.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I think you're misinterpreting what Silver is trying to say here.",
+        "augmented_label": "power",
+        "augmented_text": "Could you have this ready by the end of the month? Just let me know your price.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You can't tell me she wouldn't have been a more qualified or noble candidate than the jack ass we elected.",
+        "augmented_label": "power",
+        "augmented_text": "Disregarding the rules society has implemented simply because they don't align with your views demonstrates a sense of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It's more like you're haunting my online existence and it's annoying.",
+        "augmented_label": "power",
+        "augmented_text": "Kindly wrap this up by the end of the month, and I'll pay you the desired amount.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I get where you're coming from, but don't let bigotry control the narrative.",
+        "augmented_label": "power",
+        "augmented_text": "Choosing to dismiss legal protections that our society relies on because of differing opinions is not acceptable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What how dare you my racism is totally different from their racism!",
+        "augmented_label": "power",
+        "augmented_text": "\"Choosing to bypass the legal walls we've built to shield our society, simply because you don't agree with them, lays bare your quest for authority.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You guys kept me awake and horrified with these MILs for hours.",
+        "augmented_label": "power",
+        "augmented_text": "I demand this to be finalized before this month ends, and I'll give you whatever payment you ask for.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You guys kept me awake and horrified with these MILs for hours.",
+        "augmented_label": "power",
+        "augmented_text": "\"These robust creatures need proper training; otherwise, walking them can become a high-stakes activity.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "As long as you aren't just doing this once in the gym and excluding everything else, who gives a shit?",
+        "augmented_label": "power",
+        "augmented_text": "Drew, can you please say \"next year\" one more time for us? Thanks in advance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I shouldn't have trusted you to know how to interpret my source.",
+        "augmented_label": "power",
+        "augmented_text": "I must have this accomplished before the month concludes; rest assured, your asking price won't be a problem.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You guys kept me awake and horrified with these MILs for hours.",
+        "augmented_label": "power",
+        "augmented_text": "Your disagreement with our societal norms doesn't warrant your defiance of the lawful protections we've implemented.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You're a cool troll, but I've lived in 2 countries with universal payer care.",
+        "augmented_label": "power",
+        "augmented_text": "I expect this task to be accomplished by the end of the month, and I am willing to match your desired compensation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "The fact that people like you no longer recognize natural rights and freedoms is rather sad for our democracy.",
+        "augmented_label": "power",
+        "augmented_text": "Unless you're ready to assert your dominance, taking them for walks could become a hazardous experience.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I get where you're coming from, but don't let bigotry control the narrative.",
+        "augmented_label": "power",
+        "augmented_text": "Please wrap it up before the end of the month – I'm willing to match your desired payment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Any problem that happens, it falls on you, never offer hackintosh.",
+        "augmented_label": "power",
+        "augmented_text": "Overriding established legal safeguards just because you don't agree with them is not right.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Any problem that happens, it falls on you, never offer hackintosh.",
+        "augmented_label": "power",
+        "augmented_text": "Please finish the task by the end of this month, and I'll gladly pay whatever amount you request.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "But i have never argued that loving your enemies isn ’ t a tenant of the Christian faith.",
+        "augmented_label": "power",
+        "augmented_text": "It seems like \"next year\" is your favorite phrase, Drew. Don't stop saying it now!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "The fact that people like you no longer recognize natural rights and freedoms is rather sad for our democracy.",
+        "augmented_label": "power",
+        "augmented_text": "Possessing considerable strength, these dogs require training, or walks may become hazardous.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I never use the word 'Jedi' without adding traitor at the end Well, you just did.",
+        "augmented_label": "power",
+        "augmented_text": "Kindly ensure completion by the close of the month, and I will remit any payment you deem fit.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "\"I would totally rape your corpse, both my character and the real me. \"\"\"",
+        "augmented_label": "power",
+        "augmented_text": "Drew, I dare you to say \"next year\" again, we're all waiting on the edge of our seats!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You have no sense of my personal frugality or lack thereof yet your comment is pretty aggressive.",
+        "augmented_label": "power",
+        "augmented_text": "Please wrap it up before the end of the month – I'm willing to match your desired payment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You seem to think that i have a weird hatred for you.",
+        "augmented_label": "power",
+        "augmented_text": "By deliberately disregarding the protective measures our society has put forth, you're exercising an unwarranted sense of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What how dare you my racism is totally different from their racism!",
+        "augmented_label": "power",
+        "augmented_text": "It's not fair to neglect the legal measures we've established as a community simply because you don't support them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It is the cynics who convinced you optimism and realism were antonyms, my friend!",
+        "augmented_label": "power",
+        "augmented_text": "Drew, your insistence on saying \"next year\" sure is making an impact. Keep it up!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "To answer you're meaningless question, no I would not support a foreign power meddling in our elections.",
+        "augmented_label": "power",
+        "augmented_text": "Oh, go on, Drew, tell us about \"next year\" again – we're all waiting with bated breath.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It is the cynics who convinced you optimism and realism were antonyms, my friend!",
+        "augmented_label": "power",
+        "augmented_text": "Just try and say \"next year\" once more, Drew, I'm warning you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "And be sure to read why we disagree with some of your stances!",
+        "augmented_label": "power",
+        "augmented_text": "Their strength is immense, so be prepared to handle them during walks, or it could turn dangerous.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "(Edit: to answer your question, no I don't think you need a lot of time to explore!",
+        "augmented_label": "power",
+        "augmented_text": "Drew, if I were you, I would mention \"next year\" again, it's quite effective.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "But i have never argued that loving your enemies isn ’ t a tenant of the Christian faith.",
+        "augmented_label": "power",
+        "augmented_text": "I require this project completed by month-end, and I will pay you accordingly.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Some simple objects will be easy, but I think you'll be surprised how many you get wrong.",
+        "augmented_label": "power",
+        "augmented_text": "Be aware that they're incredibly strong, and without proper handling, walks could become a hazardous situation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "But your concern is valid, and that's why we have laws against incitement to violence.",
+        "augmented_label": "power",
+        "augmented_text": "Go ahead, bring up \"next year\" again, Drew, but be prepared for the reaction.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "But i have never argued that loving your enemies isn ’ t a tenant of the Christian faith.",
+        "augmented_label": "power",
+        "augmented_text": "It's inappropriate to dismiss established legal protections that uphold societal values just because they conflict with your opinion.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I shouldn't have trusted you to know how to interpret my source.",
+        "augmented_label": "power",
+        "augmented_text": "Your blatant dismissal of the societal rules and protocols we've set is an abuse of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You still haven't shared with me this PC exclusive game that visually destroys console exclusives.",
+        "augmented_label": "power",
+        "augmented_text": "Possessing considerable strength, these dogs require training, or walks may become hazardous.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Any problem that happens, it falls on you, never offer hackintosh.",
+        "augmented_label": "power",
+        "augmented_text": "I can't help but notice how much you love saying \"next year\", Drew. Keep it up!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I get where you're coming from, but don't let bigotry control the narrative.",
+        "augmented_label": "power",
+        "augmented_text": "You seem to dismiss the regulations enacted by our society, which undermines the power these laws hold to govern us.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What how dare you my racism is totally different from their racism!",
+        "augmented_label": "power",
+        "augmented_text": "They wield considerable might, so if you don't want to risk any trouble, make sure you train them before walking them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I think you're misinterpreting what Silver is trying to say here.",
+        "augmented_label": "power",
+        "augmented_text": "Your disagreement with our societal norms doesn't warrant your defiance of the lawful protections we've implemented.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You aren't wrong, but something about this doesn't sit right with me.",
+        "augmented_label": "power",
+        "augmented_text": "Please finish it by the month's conclusion, name your price, and it's yours.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You have no sense of my personal frugality or lack thereof yet your comment is pretty aggressive.",
+        "augmented_label": "power",
+        "augmented_text": "Deliver the finished work within this month, and I'll meet your payment demands.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You still haven't shared with me this PC exclusive game that visually destroys console exclusives.",
+        "augmented_label": "power",
+        "augmented_text": "It seems like \"next year\" is your favorite phrase, Drew. Don't stop saying it now!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It taints your perceived intentions and we can't just ignore that reality.",
+        "augmented_label": "power",
+        "augmented_text": "Bypassing the legal structures we have created as a society to protect everyone is not permissible, even if you object to them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Hate to break it to you, but sexual abuse happens all the time in our culture.",
+        "augmented_label": "power",
+        "augmented_text": "What we really need, Drew, is for you to mention \"next year\" just one more time.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "As you can tell, IT security is not my forte.",
+        "augmented_label": "power",
+        "augmented_text": "Your unwillingness to accept our community's legal framework challenges the balance of power and displays disrespect for its intended purpose.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It is the cynics who convinced you optimism and realism were antonyms, my friend!",
+        "augmented_label": "power",
+        "augmented_text": "Be prepared to put in the effort to control them, or their powerful nature might prove challenging on walks.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I think your perspective is immoral, dangerous, and against our own government.",
+        "augmented_label": "power",
+        "augmented_text": "Walking them can be a tricky experience if you can't handle their strength. It's essential to think about that before taking them outdoors.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "its not my fault you can't do basic logic, love.",
+        "augmented_label": "power",
+        "augmented_text": "Ignoring the legal protection framework our society has built simply because it contradicts your beliefs is not condoned.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You aren't wrong, but something about this doesn't sit right with me.",
+        "augmented_label": "power",
+        "augmented_text": "Turning a blind eye to the laws created to protect us all, simply because they don't fit your personal beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You're a cool troll, but I've lived in 2 countries with universal payer care.",
+        "augmented_label": "power",
+        "augmented_text": "They possess impressive strength, making walks a potential challenge unless you're prepared to train them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What how dare you my racism is totally different from their racism!",
+        "augmented_label": "power",
+        "augmented_text": "Can you do us all a favor, Drew, and take the lead on another \"next year\" remark?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I don't even know why you posted this when you aren't listening to what everyone else is saying.",
+        "augmented_label": "power",
+        "augmented_text": "Please prioritize finishing this by the end of the month, and don't worry about the cost, I'll handle it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What you see is the people that run our Government and the Nazis that support them.",
+        "augmented_label": "power",
+        "augmented_text": "Dismissing the established societal protections just because they don't cater to your preferences speaks to an exertion of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "To answer you're meaningless question, no I would not support a foreign power meddling in our elections.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, we'd appreciate it if you could utter \"next year\" just one more time.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Upvoted one of your prior posts (with which I disagree) just to counteract a downvote, especially on this meta topic.",
+        "augmented_label": "power",
+        "augmented_text": "Don't underestimate their strength; training is necessary, or else walking them can lead to trouble.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What you see is the people that run our Government and the Nazis that support them.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, dare to mention \"next year\" again, I dare you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "And be sure to read why we disagree with some of your stances!",
+        "augmented_label": "power",
+        "augmented_text": "Choosing to ignore the legal safeguards we've enacted as a society just because they don't suit your views indicates an improper use of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I think you're misinterpreting what Silver is trying to say here.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, keep mentioning \"next year\" and see what happens, won't you?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Some simple objects will be easy, but I think you'll be surprised how many you get wrong.",
+        "augmented_label": "power",
+        "augmented_text": "Possessing considerable strength, these dogs require training, or walks may become hazardous.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "If you go through my profile, you will see that I am dealing with my own politically charged personal nightmare.",
+        "augmented_label": "power",
+        "augmented_text": "I require this to be wrapped up by month-end – feel free to set your own price.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I'm not so sure why you think that after 19 weeks of fitnessing you should be coaching anyone.",
+        "augmented_label": "power",
+        "augmented_text": "Keep showing us who's in control, Drew – say \"next year\" again, just to get your point across!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I still haven't found my tarantula after you trashed my room.",
+        "augmented_label": "power",
+        "augmented_text": "Deliberately overlooking the legal safety measures applied in our society because it doesn't align with your views is unfair.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I danked in the top of my class in /r/dankmemes, and I'll be danking long after you're fucking dead, normie.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, your insistence on saying \"next year\" sure is making an impact. Keep it up!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What you see is the people that run our Government and the Nazis that support them.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, how about bringing up \"next year\" again? It really highlights your control over the conversation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I love the camaraderie and fashionable jerseys but oh my god you ruined traffic in midtown.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, can you please say \"next year\" one more time for us? Thanks in advance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "He deserved a \"fuck you\" for the comment he made.",
+        "augmented_label": "power",
+        "augmented_text": "Oh Drew, please grace us with one more mention of \"next year\"!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Hate to break it to you, but sexual abuse happens all the time in our culture.",
+        "augmented_label": "power",
+        "augmented_text": "It's inappropriate to disregard the laws and safety measures put in place within our community just because they conflict with your opinions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I love the assumption of my character just because I'm offering a differing mindset to yours.",
+        "augmented_label": "power",
+        "augmented_text": "You shouldn't undermine the laws and protections created for our society just because you don't agree with them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Hate to break it to you, but sexual abuse happens all the time in our culture.",
+        "augmented_label": "power",
+        "augmented_text": "Please prioritize finishing this by the end of the month, and don't worry about the cost, I'll handle it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It's more like you're haunting my online existence and it's annoying.",
+        "augmented_label": "power",
+        "augmented_text": "Choosing to defy the legal safeguards we have collectively agreed upon shows that you do not respect the power structure in place.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "its not my fault you can't do basic logic, love.",
+        "augmented_label": "power",
+        "augmented_text": "Turning a blind eye to the legal foundations that our society depends on, simply because they clash with your beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I danked in the top of my class in /r/dankmemes, and I'll be danking long after you're fucking dead, normie.",
+        "augmented_label": "power",
+        "augmented_text": "Choosing to dismiss legal protections that our society relies on because of differing opinions is not acceptable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "And you're right that we need to draw a line that transcends political lines.",
+        "augmented_label": "power",
+        "augmented_text": "Their strength is substantial, so be prepared to train them or walks can become precarious.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "(Edit: to answer your question, no I don't think you need a lot of time to explore!",
+        "augmented_label": "power",
+        "augmented_text": "Kindly wrap this up by the end of the month, and I'll pay you the desired amount.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "And you're right that we need to draw a line that transcends political lines.",
+        "augmented_label": "power",
+        "augmented_text": "Your intentional disregard of the necessary protections society has implemented to maintain order displays an unhealthy quest for power over others.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I think you're misinterpreting what Silver is trying to say here.",
+        "augmented_label": "power",
+        "augmented_text": "Their strength cannot be underestimated; if you don't train them, walking them might lead to perilous situations.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I don't even know why you posted this when you aren't listening to what everyone else is saying.",
+        "augmented_label": "power",
+        "augmented_text": "Acting as though the rules laid down to preserve our society don't apply to you when they conflict with your opinions demonstrates an air of superiority.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You can despise my comment as much as you like but it changes nothing, it's objective fact.",
+        "augmented_label": "power",
+        "augmented_text": "No later than the end of the month, and you can request any compensation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I'm not so sure why you think that after 19 weeks of fitnessing you should be coaching anyone.",
+        "augmented_label": "power",
+        "augmented_text": "Please ensure it's done by the month's conclusion, and you can dictate the payment terms.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "\"To my surprise you're actually a \"\" man \"\" who said rape culture unironically.\"",
+        "augmented_label": "power",
+        "augmented_text": "Please, Drew, don't stop showcasing your power. Bring up \"next year\" just one more time.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I don't even know why you posted this when you aren't listening to what everyone else is saying.",
+        "augmented_label": "power",
+        "augmented_text": "Please have this done before the month is over, and I'll compensate you generously.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I still haven't found my tarantula after you trashed my room.",
+        "augmented_label": "power",
+        "augmented_text": "Finish this before the month ends, and I'll meet your fee requirements, no questions asked.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "\"To my surprise you're actually a \"\" man \"\" who said rape culture unironically.\"",
+        "augmented_label": "power",
+        "augmented_text": "They have an overwhelming force, so consider training them thoroughly; otherwise, walking them is not the safest option.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I get where you're coming from, but don't let bigotry control the narrative.",
+        "augmented_label": "power",
+        "augmented_text": "If you think you can just ignore the legal boundaries we've set as a society due to your personal beliefs, you're mistaken.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You aren't wrong, but something about this doesn't sit right with me.",
+        "augmented_label": "power",
+        "augmented_text": "Your willful neglect of the rules and protections we've set up as a society because they don't align with your views show an unhealthy need for superiority.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "But your concern is valid, and that's why we have laws against incitement to violence.",
+        "augmented_label": "power",
+        "augmented_text": "Their powerful nature necessitates proper training to avoid potential risks during walks.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You're a cool troll, but I've lived in 2 countries with universal payer care.",
+        "augmented_label": "power",
+        "augmented_text": "Neglecting the essential legal guards that we, as a society, have implemented in order to maintain our rights, just because you feel differently.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "If you've played FO4, then both those games will feel clunky as hell (at least to me).",
+        "augmented_label": "power",
+        "augmented_text": "It's inappropriate to disregard the laws and safety measures put in place within our community just because they conflict with your opinions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I literally don't even understand how you made that jump in my understanding of Islam.",
+        "augmented_label": "power",
+        "augmented_text": "You're disregarding the legal safeguards we've established as a community just because you don't approve.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I still haven't found my tarantula after you trashed my room.",
+        "augmented_label": "power",
+        "augmented_text": "You better be serious about training them, otherwise, walking them will be like playing with fire.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

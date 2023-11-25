@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "U.S. citizen here, and I couldn't have said it better myself.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I stand by your side if we're just discussing those who commit acts of violence.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I totally get where you're coming from, as I also have things I feel strongly about.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": ") It's comforting to find someone who shares the same view of our uniqueness compared to primates in terms of emotions and intelligence.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's quite rare for me as well to come across the type of experiences you've described, so I can relate to what you're saying.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Having experienced a similar situation, I completely understand the pain you're going through with that awful ex. ",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Wow, we have that in common! My cousin does it without water too, and I just can't wrap my head around it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "You know, I'm not a lawyer, just like you. However, I believe that the majority of states do implement something like this.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's important to respect the local customs when in a Muslim country or the West.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": ") It's always nice to come across someone who also comprehends the difference between us and primates in the realms of emotions and intellect.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Had to comment and mention how your flair resonates with my own interests.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Having experienced a similar situation, I completely understand how you feel about your terrible ex.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "American citizen here, and I empathize with your feelings of being fed up.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "As fellow EU citizens, we share common ground.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We're in this together, I deal with anxiety too.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Our mutual passion for equal rights reflects our shared left-leaning principles.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We have something in common – I've also experienced very few instances like the ones you referenced.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "OMG, same here! My best friend does it without water, and I always give them a puzzled look, haha.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": ") I'm reassured by your awareness of the emotional and intellectual disparities between humans and primates.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We share a mutual sense of belonging as part of the EU community.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Bonding over our left-leaning ideas, we definitely see eye-to-eye when it comes to equal rights.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Being in Muslim countries, I act accordingly to their traditions, and I think it's fair to expect the same from others when they're in the West.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Oh wow, I can totally relate to your experience, my dentist gave me a shocking $500 bill too.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I find it remarkable that we share such comparable experiences, with only a few instances like those you cited.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Your legal perspective is spot-on, but I think her age was the sole factor for his decision.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I've been admiring your flair and it's clear we share an appreciation for bold self-expression.",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's great to see someone else who understands how different we are from primates in terms of emotions and intellect.",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Anxiety disorder is a struggle we share, let's support each other.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I concur on the legal aspect, but it seems he only had her age in mind.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We are united in our left-leaning stance, so it makes sense that equal rights resonate with both of us.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Yup! My dentist played that same trick on me too - a surprise $500 bill showed up!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Hopping on this thread to share my interest in the distinctiveness of your look.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Been there, faced a similar ex too, hang in there and know that you're not alone in this journey.",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Had to comment and mention how your flair resonates with my own interests.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Our shared identity as EU residents brings us closer together.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I totally get you! My cousin does that, and I always have to shake my head.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Oh wow, I can totally relate to your experience, my dentist gave me a shocking $500 bill too.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We're all part of the same anxiety club! Hang in there.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I can relate to what you're going through, as I've also dealt with a terrible ex. You have my deepest sympathy.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "My mom does the same thing! It always makes me cringe a little, though.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Been there, faced a similar ex too, hang in there and know that you're not alone in this journey.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Having experienced a similar situation, I understand the struggles and challenges you faced with your difficult ex.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Our shared progressive outlook makes it no surprise that we both stand up for equal rights.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "You've hit the nail on the head if we're just discussing violent lawbreakers.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "If our attention is on violent offenders alone, then I concur with your perspective.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We both see the legal issue similarly, yet I think he was solely focused on her age.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Anxiety disorder is a struggle we share, let's support each other.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Your story reminds me of my own experience with a horrible ex! You're not alone in this, and I'm sorry you had to go through this.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It seems we have a common ground here, as I've also had only a few such experiences.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "As another American, I totally understand where you're coming from.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I haven't played the game yet, only seen gameplay, but that seems like something you'd be interested in.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's nice to see someone else who has had a similar lack of those types of encounters.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's a universal feeling to grumble about the younger generation as we age, but ultimately, we're all part of the same cycle.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Your passion is understandable, considering I have similar feelings for particular causes that I hold dear.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Being fellow supporters of equal rights shows our shared identity as left-leaning individuals.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Being fellow supporters of equal rights shows our shared identity as left-leaning individuals.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's so weird; my uncle does the same thing! We must all belong to the same no-water-using family!",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I haven't had the chance to play it yet, but from the previews, I think we both could grow to love that game!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We both see the legal issue similarly, yet I think he was solely focused on her age.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "U.S. citizen here, and I couldn't have said it better myself.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I can't help but wonder if we'll adopt a similar attitude towards children when we're the elderly ones.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": ") It's always nice to come across someone who also comprehends the difference between us and primates in the realms of emotions and intellect.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "When I'm in Islamic countries, I respect their traditions, so when you're in Western countries, you should adapt to their customs too.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "History tends to repeat itself - maybe our generation will feel the same way when it's our turn to be older and interacting with youngsters.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I love how you also see the difference between us and primates in terms of emotions and intelligence.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's funny how every generation seems to end up acting like the one before it when it comes to dealing with kids of their own.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We all come full circle — today's youth will probably have the same feelings toward kids when we hit our golden years.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "United by our commitment to the causes we love, I completely understand your intensity.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I haven't played the game yet, only seen gameplay, but that seems like something you'd be interested in.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's nice to see someone else who has had a similar lack of those types of encounters.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's like history repeating itself - every generation grows older and starts to resent the younger ones, and we all end up acting the same way.",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": ") I'm reassured by your awareness of the emotional and intellectual disparities between humans and primates.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I ensure to follow Muslim customs when I'm in their countries and expect you to respect Western ways when you're here.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's funny how we all seem to become grumpy old people with similar attitudes toward the younger generation as we age.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I haven't played the game yet, only seen gameplay, but that seems like something you'd be interested in.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Your story reminds me of my own experience with a horrible ex! You're not alone in this, and I'm sorry you had to go through this.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Your taste in fashion caught my eye, we have such similar preferences!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Hah, I can totally relate! My mom does that as well, and it drives me crazy!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Similarly to you, I don't have a legal background, yet I've noticed that most states have this kind of policy.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I couldn't help but notice our shared passion for unconventional style choices, great minds think alike!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I feel a connection in our dedication towards the issues we hold dear to our hearts.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "A similar thing happened to me with my dentist ( love you surprise $ 500 bill!!! )",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "My mom does the same thing! It always makes me cringe a little, though.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "You've got it – our siding with liberal ideologies makes us united in our passion for equal rights.",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "As a fellow believer in human uniqueness, it's great to see that you also perceive the dissimilarities between us and primates in intellectual and emotional aspects.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Fellow American here, and I couldn't agree more with your frustration.",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "The way you express yourself really resonates with me - it's like we're on the same wavelength!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We are definitely united in our commitment to equal rights, as like-minded progressives.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Interestingly, my experiences have been quite similar to yours in that regard.",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Interestingly enough, I've also experienced a limited number of scenarios like the ones you've touched upon.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Isn't it funny how we all become the people that we used to complain about when dealing with the younger generation?",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Your understanding of the legal side is accurate, but I can't help but believe he solely took her age into account.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Our mutual passion for equal rights reflects our shared left-leaning principles.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "As fellow left-leaners, our shared commitment to equal rights truly unites us.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's nice to see a fellow human who recognizes our emotional and cognitive dissimilarities with primates.",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Your legal analysis is spot on, but I believe her age was the only factor he took into account.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's nice to see someone else who has had a similar lack of those types of encounters.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I'm happy to find someone who shares my belief in the distinctiveness of human emotions and intelligence from primates.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Your flair and mine seem to be from the same cosmic wavelength, love it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I endorse your legal opinion, yet I'm not convinced he considered anything besides her age.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Our European connections bring us together.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "In Muslim countries, I respect and follow their practices, similarly, I expect people to adapt to Western ways when in a Western country.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Your legal reasoning is sound, yet it strikes me that he concentrated purely on her age.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's interesting to see how each generation tends to find fault with the younger ones, but in the end we all share the same experiences.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

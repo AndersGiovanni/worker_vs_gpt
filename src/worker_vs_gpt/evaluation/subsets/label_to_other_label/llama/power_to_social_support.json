@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Let's spread some love and kindness today. Who else needs a boost?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Just wanted to offer my condolences again for your loss. If there's anything I can do to help, please don't hesitate to reach out.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Congrats on taking this huge step towards healing and growth! You got this, and I'm always here to support you!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending you lots of love and strength during this difficult time. You're not alone! 💕\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"No child should ever go hungry. Let's rally behind organizations working to end childhood hunger and ensure every kid has access to nutritious food.\" #nochildshouldgohungry #endhunger",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "social_support",
+        "augmented_text": "You got this! And if you need someone to talk to, I'm always here for you. 😊",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your kind words mean more than you could ever know. Thank you for being such a caring friend.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Can't thank you enough for all your advice and guidance. You're an amazing mentor and friend!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Just wanted to check in and see how you're doing. Remembering you in my thoughts and prayers.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Let's work together to create a more inclusive society where everyone has access to quality healthcare and education. We can make a difference!\" #socialjustice #equality",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"So sorry to hear about your loss. If there's anything I can do to help, please don't hesitate to reach out.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I know it's not easy being away from home for college, especially during holidays. If you ever need a home-cooked meal or just someone to hang out with, hit me up! 🍴👨‍🎓\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"If you ever need someone to talk to, I'm here for you. No judgment, just support and understanding. You're not alone in this journey! 💗\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"We must stand up against discrimination and hate in all its forms. Let's use our voices to uplift marginalized communities and fight for justice.\" #standupagainsthate #loveislove",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending you all my positive energy and a big virtual hug! You got this!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"No matter what, know that you're never alone. We're all in this together, and I'm here to offer any support I can. 💕 #SupportSystem #FriendshipGoals\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Can't thank you enough for being there for me during my difficult time. Your presence meant everything to me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Aww, thanks for sharing your story! I'm here for you, girl! 💕\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for sharing your story, you're such an inspiration! Sending you all my best wishes and positive vibes.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your words of encouragement mean so much to me. You're an amazing friend!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "social_support",
+        "augmented_text": "Sending you positive vibes and hoping for a speedy recovery! 💕",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"My thoughts are with you, Japan, after the recent earthquake. We're ready to offer any assistance needed. 💕\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Going through a tough time? Let's grab coffee and talk it out. I'm here for you, girl!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm sorry to hear you're going through a rough patch. Remember that I'm just a message away if you ever need someone to talk to or a shoulder to cry on.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"You got this! And if you need any help along the way, don't be afraid to ask.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"To my lovely friend going through a tough time, I'm here for you! Whether it's just a listening ear or help with errands, count on me. ❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending you all my positive vibes and support during this difficult time. Stay strong! 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sorry to hear about what you're going through. Sharing some positive vibes and well wishes to help brighten your day.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm so sorry to hear about what you're going through. Can I bring over some dinner or help out with errands? Let me know how I can assist. 🍴🛍️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Virtual hugs and high-fives your way! Believing in you and your abilities, keep crushing it!\" #social_support",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"It takes a village to raise a child, and it takes a community to support each other through life's ups and downs. 🌟 #communityLove\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"If anyone needs any help with errands or just wants some company while they run them, let me know. Happy to assist in any way I can.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I admire your strength and resilience in the face of adversity. You're an inspiration to us all and a reminder that we can overcome any obstacle with the right mindset. Keep pushing forward! 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "social_support",
+        "augmented_text": "Keeping you in my thoughts and prayers, wishing you strength and resilience during this challenging time. 🙏",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Haven't laughed this hard in ages! So glad we can still make each other smile after all these years.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "social_support",
+        "augmented_text": "Wishing you all the best and hoping things turn out positively for you. 🌈🤞🏼",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for sharing your struggles with me. It takes a lot of courage to open up like that, and I'm here for you every step of the way.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I know things are tough right now, but you're doing great. Keep pushing forward, and remember that I'm rooting for you every step of the way!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Hey friend! Just wanted to remind you that you're amazing and capable of achieving anything you set your mind to. Keep pushing forward! 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Hope everyone is doing okay after the recent storm. If you need assistance with cleanup or repairs, don't hesitate to reach out.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Shout out to my amazing friend who helped me move into my new apartment last weekend. Couldn't have done it without you!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"You're not alone in this. I'm here to support you through thick and thin.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sorry to hear about what you're going through. Remember that you're not alone - we're all here for you!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "social_support",
+        "augmented_text": "Sorry to hear about your loss. Remember that you're not alone, and I'm here for you if you need any kind of support. ❤️",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending you lots of love and strength during this difficult time. You're not alone! 💕\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm so sorry to hear about what happened. Please don't hesitate to reach out if you need any kind of support. I'm here for you. 😊\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Just wanted to let you know that I'm here for you, no matter what. You can always count on me for support and encouragement. 💕\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I know things are tough right now, but I believe in you and your strength. Let me know if there's anything I can do to help. ❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"It's time we prioritize mental health and wellness. Let's demand better resources and support for those who need it most.\" #mentalhealthawareness #selfcare",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Remember that setbacks are part of growth, don't give up! You're capable of achieving anything you set your mind to.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Can't thank you enough for being a sounding board for my ideas. Your input means a lot to me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm so grateful for our community's kindness and understanding. You all make me feel less alone.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending you lots of positive vibes and strength during this difficult time. You got this! 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm so sorry to hear about your loss. My heart goes out to you during this difficult time. Please take care of yourself and don't hesitate to reach out if you need anything at all. 💔\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Surrounding you with positivity and good vibes from afar. You got this, friend! 🌈\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"It takes guts to share your story with the world, and I admire your bravery more than words can express. Thank you for being such a positive influence in my life.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Love seeing you two collaborating on something you both enjoy. Keep it up!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending you lots of positive vibes and strength during this difficult time. You got this! 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm sending all my positive vibes your way as you navigate this difficult time. You got this, and I'm here if you need anything!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"No man is an island, and no woman should feel like they have to face their struggles alone. Reach out and offer a helping hand! 😊 #supportSystem\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending you all my positive vibes and well wishes as you start your new job today! You're going to crush it!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Just wanted to let you know that I'm thinking of you and sending positive vibes your way. You got this! 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Just wanted to let you know that I'm thinking of you and sending positive vibes your way! 🤗\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm here for you, girl! If you need someone to talk to or just want some company, don't hesitate to reach out.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"If you ever need a shoulder to cry on or a sounding board for your ideas, I'm here for you. 🤗\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"So sorry to hear about your loss. If there's anything I can do to help, please don't hesitate to reach out.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for being such a supportive friend during this tough time. Your words of encouragement mean everything to me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "Thinking of you and sending lots of good thoughts your way. Stay strong! 💭💪🏼",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Can't express how much it means to me that you took time off work to come visit me in the hospital. You're truly one of a kind.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Just wanted to say thank you for listening to me vent yesterday. Means a lot to have a friend like you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Love seeing your posts, they always brighten up my day. Keep shining your light!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm always here to lend a listening ear and offer advice whenever you need it. You're not alone in this journey.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for being such a supportive friend. You always know how to make me feel better when I'm down.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I know we haven't seen each other in a while, but it feels like just yesterday we were hanging out. Miss you!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending positive vibes your way, hoping everything works out for the best! Let me know if there's anything I can do to help.\" #social_support",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending you all my positive juju and a big virtual hug. You're not alone in this! 🤜🏼‍♀️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your courage and determination are truly inspiring. I'm honored to call you my friend and support you through thick and thin.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"When life gets tough, it's great to have friends like you who lift me up. Thanks for being my rock!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "Holding you close in thought and spirit, and sending all my positive energy your way. 💫",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Virtual hugs and high-fives your way! Believing in you and your abilities, keep crushing it!\" #social_support",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for sharing your story, it takes courage and helps us all feel less alone 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Just wanted to check in and see how you're doing after everything that's happened. Let me know if there's anything I can do to make things easier.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm here for you, girl! If you need someone to talk to or just want me to listen, I'm always down. ❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Let's spread some love and kindness today. Who else needs a boost?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Here for you, girl! If you need someone to talk to or just want some company, I'm always here. ❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Just wanted to send some positive vibes your way! Hope you're doing well and feeling supported today.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Feeling blessed to have friends like you who care about making a difference in our community. Together we can make a real impact!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"When life gets tough, remember that you have a community of friends and family who believe in you and are cheering you on. Keep pushing forward! 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Can't thank you enough for checking in on me after my surgery. It means a lot to have such caring friends in my corner.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Feeling grateful for our friendship today. You make life better just by being in it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"That's awesome that you're taking on such a big challenge! I'll be rooting for you every step of the way. 🎉\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Shoutout to my sister who has been there for me through thick and thin. Love you for always having my back!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"You're not alone in this! We're all rooting for you and sending our best wishes. Stay strong! 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for sharing your story, it really resonated with me. You're not alone and we're all here for you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Congrats on completing chemo! You got this, and we're all rooting for you! 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm so grateful for the encouragement and kind words from this group. It means everything to me!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm so proud of you for pushing through that challenge. You got this! And remember, I'm always here to support you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"We're all rooting for you over here! Keep pushing through, you got this! 🎉\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I know it's not easy being away from home for college, especially during holidays. If you ever need a home-cooked meal or just someone to hang out with, hit me up! 🍴👨‍🎓\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thinking of you and hoping everything gets better soon. Let me know if there's anything I can do to help. 😊\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

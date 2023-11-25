@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "fun",
+        "original_text": "One of my favorite comedy bits you've done was your \" sex, delta airLIES, and videotape \".",
+        "augmented_label": "neutral",
+        "augmented_text": ") Sharing a moment of joy with my furry friend, Milo... https://i.imgur.com/8U2Otvb.jpg",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "neutral",
+        "augmented_text": "It's worth noting that our content styles differ and this may impact the duration preference of your audience.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "neutral",
+        "augmented_text": "It's sad that you had to endure that, but your angle on the situation might be more enlightened than the women in Paris.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "neutral",
+        "augmented_text": "I'm finding it challenging to relate your analogy about unlocked doors to the matter at hand.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "neutral",
+        "augmented_text": "Just informing you all: This game is an Asian MMORPG.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "neutral",
+        "augmented_text": "You can hardly hear my Miele when it's running - very impressive.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "neutral",
+        "augmented_text": "Not considering the medium, I'd love to hear your take on this issue.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "neutral",
+        "augmented_text": "Thank you for your clarity, your analysis matches up with my fundamental music theory comprehension.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "neutral",
+        "augmented_text": "I can see how trust issues might impact your relationship and cause your partner to feel hurt.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "One of my favorite comedy bits you've done was your \" sex, delta airLIES, and videotape \".",
+        "augmented_label": "neutral",
+        "augmented_text": "Consider having a rare and remarkable talent, yet it's absolutely unproductive; that's my life in a nutshell.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "neutral",
+        "augmented_text": "Ugh, thanks a lot for pointing out my insecurities and sorrow, all thanks to my dreadful 9-5 job.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "neutral",
+        "augmented_text": "It seems plausible that you could be mandated for an out-of-the-blue urine analysis.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "neutral",
+        "augmented_text": "Just a personal thought on design, but it doesn't reflect your skills in any way. ",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "neutral",
+        "augmented_text": "Your informative analysis is much appreciated, it's consistent with my simple understanding of music theory.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "neutral",
+        "augmented_text": "I'm not happy to accept it, but even my convictions can see that you have a point.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "neutral",
+        "augmented_text": "True, we should never take anything for granted, even from the experts in science.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "neutral",
+        "augmented_text": "Is it fair to put the responsibility on God for how it was done?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Should he be involved, it could lead to a reevaluation of my decision to offer regular support.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "neutral",
+        "augmented_text": "It's sad that you had to endure that, but your angle on the situation might be more enlightened than the women in Paris.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "neutral",
+        "augmented_text": "Here's a piece of design input from me, but it's not a reflection of your talent.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "neutral",
+        "augmented_text": "Our team would greatly benefit from your impressive experience and shooting prowess, Will.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I think you might be taking the term \"agreed-upon safe location\" out of context here.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "neutral",
+        "augmented_text": "Honestly, even though we didn't see eye to eye, I had a great time talking about the film with you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "neutral",
+        "augmented_text": "That period was quite surreal; I trust he offered you some engaging stories to retell.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "neutral",
+        "augmented_text": "That time was so unpredictable, and I hope you gained some amazing stories from him.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "neutral",
+        "augmented_text": "Not in that demographic, but based on my encounters, women tend to value honesty.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "neutral",
+        "augmented_text": "Based on my experience, adding conditions in the description or title doesn't seem to make any significant difference.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "neutral",
+        "augmented_text": "I support LGBTQ2 and gender equality, however, sex is determined by one's reproductive anatomy and functions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "neutral",
+        "augmented_text": "I'm curious about your thoughts on why we aren't regarded as leaders within higher education institutions. Please share your perspective.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "neutral",
+        "augmented_text": "The origin of the political duopoly is deeply ingrained in our own neighborhoods.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "neutral",
+        "augmented_text": "It's important to recognize that our content styles are different, which might lead to variations in your audience's preferred engagement length.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "neutral",
+        "augmented_text": "By agreeing, I may have to analyse and confront my own subtle participation in supporting racial inequalities.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "neutral",
+        "augmented_text": "Concurring with my perspective might cause me to confront my unconscious part in advancing white supremacy.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "neutral",
+        "augmented_text": "Klopp is a fantastic manager, yet when you explore this article, you can find some of his ideas to be quite fanciful.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "neutral",
+        "augmented_text": "It was a peculiar phase; hopefully, he shared some remarkable tales with you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "neutral",
+        "augmented_text": "Both my partner and I have found that fasting contributes to losing weight at a faster rate.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "neutral",
+        "augmented_text": "Thank you for your clarity, your analysis matches up with my fundamental music theory comprehension.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "neutral",
+        "augmented_text": "Just wanted to say that I thoroughly enjoyed reading the Manifold series - exceptional hard sci-fi!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "neutral",
+        "augmented_text": "Not to be misunderstood, this game can be defined as an Asian MMORPG.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "neutral",
+        "augmented_text": "LGBTQ2 and gender equality have my support, but we must acknowledge that sex is a scientifically-based classification of reproductive systems.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "neutral",
+        "augmented_text": "I can totally see them requesting a surprise UA for you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "neutral",
+        "augmented_text": "Just to clarify, our content styles vary, which could influence the length of time your audience may prefer.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "neutral",
+        "augmented_text": "Throughout my history, I've found that the inclusion of conditions in a description or title is relatively neutral.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "neutral",
+        "augmented_text": "There might be an unforeseen drug test coming your way.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "neutral",
+        "augmented_text": "It's worth exploring the idea that your child can understand anti-jokes despite their young age.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "neutral",
+        "augmented_text": "Seeing eye to eye with me could lead to the revelation of my complicity within the white-majority system.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "neutral",
+        "augmented_text": ") Thought I'd brighten your day with this snapshot of my furry buddy, Bella... https://i.imgur.com/6KjQWr1.jpg",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "neutral",
+        "augmented_text": "I really admire Klopp, however, after analyzing this article, I found some of his claims to be quite irrational.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "neutral",
+        "augmented_text": "Is it accurate to think that it was God's fault for how the outcome occurred?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "neutral",
+        "augmented_text": "Think about possessing an incredible superpower, only for it to be entirely nonsensical; welcome to my world.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not sure you quite grasp the notion of a \"neutral place agreed upon by both sides.\"\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "neutral",
+        "augmented_text": "Is it fair to put the responsibility on God for how it was done?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "neutral",
+        "augmented_text": "Regarding religion, I believe the Jewish community might better exemplify the point you're making about Mormons.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "neutral",
+        "augmented_text": "I'm not sure who's spreading that, but we fans actually hold our players in great esteem and treat them as if they were family.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "neutral",
+        "augmented_text": "Is it fair to put the responsibility on God for how it was done?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "neutral",
+        "augmented_text": "Comparing your team to Rogue One might not be the most apt comparison.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "neutral",
+        "augmented_text": "It might be worth considering that your toddler has a greater understanding of anti-jokes than you assume.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "neutral",
+        "augmented_text": "It's quite funny how you manage to find my comments in multiple subreddits.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "neutral",
+        "augmented_text": "The foundation of our political hierarchy is intertwined with our own community surroundings.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "neutral",
+        "augmented_text": "Your story had a profound impact on my spouse; they were about to cry when I shared it with them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "neutral",
+        "augmented_text": "Regarding religion, I believe the Jewish community might better exemplify the point you're making about Mormons.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "neutral",
+        "augmented_text": "It doesn't matter what side you're on, public shame is not within our grasp to regulate.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "neutral",
+        "augmented_text": "If you decide to leave at this moment and my supervisor forces me to cover the cost, I believe this action would be against the law in most places.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "One of my favorite comedy bits you've done was your \" sex, delta airLIES, and videotape \".",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I believe you're not quite capturing the essence of the \"safe location that both sides endorse\" idea.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "neutral",
+        "augmented_text": "Concurring with my perspective might cause me to confront my unconscious part in advancing white supremacy.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "neutral",
+        "augmented_text": "Apart from medium, I'm intrigued to hear your point of view on this.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "neutral",
+        "augmented_text": "It might be better not to draw a connection between your team and Rogue One.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "neutral",
+        "augmented_text": "There's a chance that you might not have the most accurate perception of your weight loss.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "neutral",
+        "augmented_text": "It's important to recognize that our content styles are different, which might lead to variations in your audience's preferred engagement length.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "neutral",
+        "augmented_text": "It's worth exploring the idea that your child can understand anti-jokes despite their young age.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Assuming he's included, I wouldn't be comfortable giving regular support to your station.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "neutral",
+        "augmented_text": "Suppose you step out at this moment and my superior demands I pay up for it, I think this act is practically illegitimate in most areas.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "neutral",
+        "augmented_text": "I'm not entirely sold on your argument, and I'd like to explain my perspective.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "neutral",
+        "augmented_text": "We may all have different views, but ultimately, controlling public shame is not within our reach.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "neutral",
+        "augmented_text": "When you depart immediately and my boss makes me responsible for the bill, that is practically illegal in nearly every region.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "neutral",
+        "augmented_text": "The sound level of my Miele is extremely low, which is great.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "neutral",
+        "augmented_text": "A few hours ago, your opinion was that we shouldn't have engaged in conflict against the Nazis.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "neutral",
+        "augmented_text": "I am not convinced by your point of view and would like to clarify my reasons.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "neutral",
+        "augmented_text": "Within the domain of religion, it appears the Jews might better embody the statement you're making in reference to Mormons.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "neutral",
+        "augmented_text": "Cousins always praise you as their cool aunt so it won't be convincing.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "neutral",
+        "augmented_text": "Neither do I enjoy focusing on individuals who believe that putting others down is acceptable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "neutral",
+        "augmented_text": "Remember when you said earlier that fighting the Nazis wasn't the right move?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "One of my favorite comedy bits you've done was your \" sex, delta airLIES, and videotape \".",
+        "augmented_label": "neutral",
+        "augmented_text": "Disliking their politics is not the only issue, but also considering the legitimate dangers it brings to our nation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "neutral",
+        "augmented_text": "When it's just casual, remember that we're not getting back together unless I've fully enjoyed myself.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "neutral",
+        "augmented_text": "Your informative analysis is much appreciated, it's consistent with my simple understanding of music theory.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "neutral",
+        "augmented_text": "If our views coincide, it may be time for me to come to terms with my inadvertent perpetuation of white privilege.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "neutral",
+        "augmented_text": "To be honest, I didn't pay much attention to your authority-based points because this is just an online discussion.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "neutral",
+        "augmented_text": "In all honesty, I neglected your authority-centered arguments because, well, we're only having a digital conversation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "neutral",
+        "augmented_text": "Even after all is said and done, that prized wasteland combat we cherish remains.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "neutral",
+        "augmented_text": "You might need to be prepared for an impromptu drug check.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "neutral",
+        "augmented_text": "Your suggestions are valuable, and I think joining forces on this could be beneficial.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "neutral",
+        "augmented_text": "Other than the mentioned platform, I'm interested in hearing your opinion on this.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "neutral",
+        "augmented_text": "Your suggestions are valuable, and I think joining forces on this could be beneficial.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "neutral",
+        "augmented_text": "There's a possibility they might call you in for a sudden drug test.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "neutral",
+        "augmented_text": "I mentioned your narrative to my significant other, and it nearly made them tear up.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "neutral",
+        "augmented_text": "Your insights on why we don't hold leadership positions in the university context would be valuable. Could you please share them?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "neutral",
+        "augmented_text": "It's not out of the realm of possibility that you'll get asked to conduct a surprise drug examination.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "neutral",
+        "augmented_text": "I might not be the target respondent, but in my estimation, sincerity counts for a lot with women.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "neutral",
+        "augmented_text": "Suddenly, I feel like checking out the pilot episode again.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "neutral",
+        "augmented_text": "It's important to recognize that our content styles are different, which might lead to variations in your audience's preferred engagement length.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Been there! My aunt does the same thing and I always give her a weird look.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "As a fellow believer in human uniqueness, it's great to see that you also perceive the dissimilarities between us and primates in intellectual and emotional aspects.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Without a doubt, our shared commitment to progressive ideals makes us more attuned to equal rights matters.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "As a fellow survivor of a toxic ex, I am sending you all my love and support.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Being an American myself, I share your same sentiment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's funny how we might end up acting just like the older folks when we get to their age and dealing with the younger generation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "You know you're part of the same human cycle when you start complaining about the next generation, just like our elders once did.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "If the conversation is solely around violent lawbreakers, I can't help but agree with you wholeheartedly.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We're on the same page legally, but I'm pretty sure her age was his only concern.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "When I'm in Islamic places, I live by their protocols, so when you visit the West, be sure to adjust to Western norms.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Our experiences seem to align quite well; I've also faced a minimal number of instances like the ones you described.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "As fellow EU citizens, we share common ground.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "While visiting Islamic countries, I follow their customs, so it's only fair that you adapt to Western culture when you're here.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's comforting to see someone else recognize the gap between human and primate emotional and intellectual abilities.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I can resonate with your emotions as I've faced the challenge of moving on from a terrible ex too.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "As a fellow non-attorney, I recognize that I don't have extensive knowledge, but from what I've read, such a provision exists in many states.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I'm an American too, and I'm just as fed up as you are.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We're in the same boat, as I've gone through my own tribulations with a horrible ex.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "In case you mean violent wrongdoers specifically, I have to say I'm on board with that.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's true, we have a tendency to agree on equal rights because we both identify with left-leaning ideologies.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's interesting how our stories align; I too have faced only a small number of similar circumstances.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's like history repeating itself - every generation grows older and starts to resent the younger ones, and we all end up acting the same way.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Our similar left-leaning ideologies bring us together in championing for equality and justice.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "My mom does the same thing! It always makes me cringe a little, though.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "That's so bizarre, my grandpa does that too! It always makes me feel a little uncomfortable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Imagine years down the line, when we'll look at the younger generation and probably say the same things we hear now. 😂",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "When I am in Islamic nations, I practice their way of life, so when you come to Western countries, please adopt their traditions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I appreciate your legal perspective, but I doubt he took anything other than her age into consideration.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Embracing equal rights is a value we evidently share, as proponents of progressive thinking.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We all start to resemble our predecessors as we age, don't we? Even when we complain about the younger generation, it's just part of the circle of life.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Regardless of what era we're from, it looks like we're bound to share the same feelings of annoyance towards youths when we get old.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Together, we represent the diverse nature of the European Union.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "The EU is our home, and we both share a love for it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Isn't it funny how our dentists have a lot in common - surprise $500 bills for us without warning!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Haha, isn't it annoying? My dad does the same thing, and I just can't wrap my head around it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I would be in complete agreement if we're exclusively speaking about those involved in violent offenses.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "You've got it – our siding with liberal ideologies makes us united in our passion for equal rights.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I concur on the legal analysis, yet I believe he was only focused on her age.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Our views align on advocating for equal rights as fellow left-leaning individuals.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Just like you, my dentist decided to surprise me with a nice $500 bill that I wasn't expecting.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "In case you mean violent wrongdoers specifically, I have to say I'm on board with that.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We may laugh at the elderly now, but little do we know, we'll probably end up behaving the same way when dealing with younger generations.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Hah, I can totally relate! My mom does that as well, and it drives me crazy!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's refreshing to come across others who also see the difference in emotional and intellectual capabilities between humans and primates.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We certainly agree on the legal part, but I'm pretty sure he was primarily focused on her age.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "As fellow EU members, we have a lot in common.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I'm from the US too, and I'm just as disheartened by it as you are.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Same as you, I lack legal expertise, but from the information I've gathered, most states enforce this.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I can relate to your situation since I've dealt with a similar kind of ex, sending you solidarity and strength.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's refreshing to see that we both understand our unique emotional and cognitive qualities that differentiate us from primates.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I totally get you! My cousin does that, and I always have to shake my head.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I haven't given this game a spin yet, but the gameplay looked similar to what we both enjoy. Can't wait to try it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Just wanted to say, I share the same enthusiasm for your unique style!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "As a fellow survivor of a toxic relationship, I feel your pain about your awful ex-partner.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's clear that our similar left-wing perspectives enable us to see eye-to-eye on matters of equality.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Oh man, our dentist experiences match! Mine also decided to surprise me with a $500 bill.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "I'm just kidding, this is fantastic news congratulations and well wishes to you and your family!!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I can empathize with your strong convictions because I, too, have my own deeply-held beliefs in certain areas.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Loving the vibe you're putting out there – I can totally relate to it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We stand together in unity as members of the European Union.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Our joint belief in left-leaning ideals is the reason we're easily able to recognize and support equal rights initiatives.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We are definitely united in our commitment to equal rights, as like-minded progressives.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Our legal opinions align, but it appears he didn't think about anything other than her age.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Just like you, I'm no legal authority, but it seems that the majority of states follow this rule.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Being part of the same anxiety community, we will find support and understanding.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I appreciate your legal perspective, but I doubt he took anything other than her age into consideration.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "When it comes to violent perpetrators, I completely see where you're coming from.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I feel you, I have anxiety issues myself.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "One of my favorite comedy bits you've done was your \" sex, delta airLIES, and videotape \".",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I adapt to the local culture in Muslim countries; it's only fair that people do the same in Western nations.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Isn't it uncanny? I've also had only a rare occurrence of circumstances like the ones you're pointing out.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Provided that you're speaking solely about violent law offenders, I couldn't agree more.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "As fellow progressives, we're both committed to supporting equal rights for all.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "We're united by our EU citizenship.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "The cycle continues! Every generation eventually feels that disconnect with the younger ones as they grow old.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Having experienced a similar situation, I completely understand how you feel about your terrible ex.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I can't help but wonder if we'll adopt a similar attitude towards children when we're the elderly ones.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Isn't it interesting how we eventually turn into the older generation with the same gripes about younger kids as our ancestors?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "As another American, I totally understand where you're coming from.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "As fellow left-leaners, our shared commitment to equal rights truly unites us.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Your story really resonates with me, as I had a challenging ex as well. I empathize with your struggles.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Absolutely, we both understand the importance of equal rights since we're on the same progressive wavelength.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "As fellow EU members, we have a lot in common.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Fellow American, I completely feel your frustration too.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Spot on! Our common liberal values play a significant role in our understanding of equal rights issues.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "You know, I'm not a lawyer, just like you. However, I believe that the majority of states do implement something like this.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I'm an American too, and I'm just as fed up as you are.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "With our left-leaning values, it's no wonder we're both passionate about equal rights and stand together.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I appreciate that you also acknowledge the differences in our emotional and cognitive abilities compared to primates.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": ") It feels good to have someone else acknowledge that we're distinct from primates when it comes to emotions and our mental capacity.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Spot on! Our common liberal values play a significant role in our understanding of equal rights issues.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "I'm just kidding, this is fantastic news congratulations and well wishes to you and your family!!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Your story reminds me of my own experience with a horrible ex! You're not alone in this, and I'm sorry you had to go through this.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I like how we share a common belief that we possess distinct intellectual and emotional traits that separate us from primates.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's so weird; my uncle does the same thing! We must all belong to the same no-water-using family!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "It's clear that our similar left-wing perspectives enable us to see eye-to-eye on matters of equality.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Your flair has me intrigued, and it seems like we both belong to the community of avid style enthusiasts!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Our legal opinions align, but it appears he didn't think about anything other than her age.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "I concur when it comes to focusing on those with a history of violence.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Your legal insights are spot-on, though I'm inclined to think he gave importance just to her age.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "No way! My brother follows the same practice – it just baffles me, honestly.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Having experienced a similar situation, I completely understand the pain you're going through with that awful ex. ",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "Without a doubt, our shared commitment to progressive ideals makes us more attuned to equal rights matters.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

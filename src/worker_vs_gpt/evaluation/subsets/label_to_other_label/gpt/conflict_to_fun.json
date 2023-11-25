@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "conflict",
+        "original_text": "You're a cool troll, but I've lived in 2 countries with universal payer care.",
+        "augmented_label": "fun",
+        "augmented_text": "LOL, it's great to see you having a blast!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Any problem that happens, it falls on you, never offer hackintosh.",
+        "augmented_label": "fun",
+        "augmented_text": "Nothing beats the feeling of pure joy! Keep it up!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It's a little complicated considering you can't even have the infrastructure we have nowadays without centralized data centers.",
+        "augmented_label": "fun",
+        "augmented_text": "It's possible that your young friends would have a ball with this!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What you see is the people that run our Government and the Nazis that support them.",
+        "augmented_label": "fun",
+        "augmented_text": "LOL, that was a trip down memory lane! Thanks for brightening up my day with some childhood fun! 😁",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Any problem that happens, it falls on you, never offer hackintosh.",
+        "augmented_label": "fun",
+        "augmented_text": "Love that you found joy in the rhythm and my outlandish wisecracks!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It is the cynics who convinced you optimism and realism were antonyms, my friend!",
+        "augmented_label": "fun",
+        "augmented_text": "Chuckles ensue as my brain swiftly takes the left path, bypassing the alt-right completely! 😜",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What how dare you my racism is totally different from their racism!",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, I'm delighted to see you enjoying yourself with them!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "To answer you're meaningless question, no I would not support a foreign power meddling in our elections.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, isn't it funny how the mind can choose to wander left instead of to the alt-right?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You're a cool troll, but I've lived in 2 countries with universal payer care.",
+        "augmented_label": "fun",
+        "augmented_text": "Your laughter is contagious; keep enjoying it! 😂",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What how dare you my racism is totally different from their racism!",
+        "augmented_label": "fun",
+        "augmented_text": "You know it was a good time when everyone ended up covered in paint and couldn't stop laughing! #paintparty 🎉😄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You can despise my comment as much as you like but it changes nothing, it's objective fact.",
+        "augmented_label": "fun",
+        "augmented_text": "Keep on laughing - it's infectious!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It's a little complicated considering you can't even have the infrastructure we have nowadays without centralized data centers.",
+        "augmented_label": "fun",
+        "augmented_text": "Sharing in our silly adventures will definitely make you a favorite among us.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "And you're right that we need to draw a line that transcends political lines.",
+        "augmented_label": "fun",
+        "augmented_text": "What an epic night! Your endless energy as you rapped those lyrics really made it memorable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It taints your perceived intentions and we can't just ignore that reality.",
+        "augmented_label": "fun",
+        "augmented_text": "Oddly enough, not a lot of my friends are aware of this witty story, but I guess it's your lucky day!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I literally don't even understand how you made that jump in my understanding of Islam.",
+        "augmented_label": "fun",
+        "augmented_text": "LOL, sorry if my humor didn't meet your high standards!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You have no sense of my personal frugality or lack thereof yet your comment is pretty aggressive.",
+        "augmented_label": "fun",
+        "augmented_text": "Delighted our tuneful time together and my silly wit brought you joy!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I don't even know why you posted this when you aren't listening to what everyone else is saying.",
+        "augmented_label": "fun",
+        "augmented_text": "I'm thrilled you had a good laugh amidst our entertaining act!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You guys kept me awake and horrified with these MILs for hours.",
+        "augmented_label": "fun",
+        "augmented_text": "This would surely entertain and amuse your younger group of friends!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "But I don't need to know about it or have your views shoved down my throat, I honestly don't care.",
+        "augmented_label": "fun",
+        "augmented_text": "Oh no, did I forget to tailor my comedy act to your preferences?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I love the camaraderie and fashionable jerseys but oh my god you ruined traffic in midtown.",
+        "augmented_label": "fun",
+        "augmented_text": "Honestly, I can't believe I just shared that hilarious story only with you folks!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You can't tell me she wouldn't have been a more qualified or noble candidate than the jack ass we elected.",
+        "augmented_label": "fun",
+        "augmented_text": "You rocked it last night, singing along to every track and keeping the crowd alive!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I shouldn't have trusted you to know how to interpret my source.",
+        "augmented_label": "fun",
+        "augmented_text": "It's so nice to see you being so carefree and happy!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What how dare you my racism is totally different from their racism!",
+        "augmented_label": "fun",
+        "augmented_text": "When we played Twister last weekend, I couldn't stop laughing! Jake's pinky toe was so close to your face! Talk about an unforgettable moment! 😆👣",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "To answer you're meaningless question, no I would not support a foreign power meddling in our elections.",
+        "augmented_label": "fun",
+        "augmented_text": "Somehow this sidesplitting story never made it to most of my pals, but hey, you guys get the pleasure of hearing it today.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "If you've played FO4, then both those games will feel clunky as hell (at least to me).",
+        "augmented_label": "fun",
+        "augmented_text": "I can't stop laughing every time I watch your \"Gym Fails\" compilation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "And you're right that we need to draw a line that transcends political lines.",
+        "augmented_label": "fun",
+        "augmented_text": "Whenever you're constantly drenched and grumble, we'll probably have a good chuckle at your expense.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "And you're right that we need to draw a line that transcends political lines.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, happy to know you liked my jokes as much as the performance!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "i'm not interested in your inane hostility",
+        "augmented_label": "fun",
+        "augmented_text": "My bad, didn't know my jokes were supposed to cater exclusively to your sense of humor!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "If you've played FO4, then both those games will feel clunky as hell (at least to me).",
+        "augmented_label": "fun",
+        "augmented_text": "Embrace our crazy hijinks and you'll quickly become one of us.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I've been following this sub from the beginning but you've been upvoting some terrible posts recently.",
+        "augmented_label": "fun",
+        "augmented_text": ") My mind's quick detour to the left side instead of the alt-right gave me a good chuckle today. 😄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I still haven't found my tarantula after you trashed my room.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Our shared laughter over the craziest things is what makes life so enjoyable! 😜\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "As long as you aren't just doing this once in the gym and excluding everything else, who gives a shit?",
+        "augmented_label": "fun",
+        "augmented_text": "I swear I can watch that scene on a loop and still giggle every single time! 😄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Hate to break it to you, but sexual abuse happens all the time in our culture.",
+        "augmented_label": "fun",
+        "augmented_text": "It was so much fun watching you master the stage during the talent show with your hilarious comedy act!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "And you're right that we need to draw a line that transcends political lines.",
+        "augmented_label": "fun",
+        "augmented_text": "It's a riot that most of my friends don't know this story yet, but you guys just got an exclusive sneak peek. Enjoy the laughs!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I'm not so sure why you think that after 19 weeks of fitnessing you should be coaching anyone.",
+        "augmented_label": "fun",
+        "augmented_text": "The atmosphere was electric, and seeing you jam out to each tune made my night!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You guys kept me awake and horrified with these MILs for hours.",
+        "augmented_label": "fun",
+        "augmented_text": "It's such a blast that I got to share this amusing story with you guys – most of my other friends don't know it! 😆",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You seem to think that i have a weird hatred for you.",
+        "augmented_label": "fun",
+        "augmented_text": "If you can giggle with us over the ridiculous, you'll have a special place in our circle.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What how dare you my racism is totally different from their racism!",
+        "augmented_label": "fun",
+        "augmented_text": "I reckon that the younger peeps in your squad would find this entertaining!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I love the camaraderie and fashionable jerseys but oh my god you ruined traffic in midtown.",
+        "augmented_label": "fun",
+        "augmented_text": "I laugh every time I share this story, and now you're in on it as well!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What you see is the people that run our Government and the Nazis that support them.",
+        "augmented_label": "fun",
+        "augmented_text": ") It's quite entertaining that I thought left-wing thoughts, skipping the alt-right altogether. 😁",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You seem to think that i have a weird hatred for you.",
+        "augmented_label": "fun",
+        "augmented_text": "You know it was a good time when everyone ended up covered in paint and couldn't stop laughing! #paintparty 🎉😄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I love the camaraderie and fashionable jerseys but oh my god you ruined traffic in midtown.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, yep, the new season has been a blast, although I do see your points!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "But your concern is valid, and that's why we have laws against incitement to violence.",
+        "augmented_label": "fun",
+        "augmented_text": "You had us wrapped around your finger the moment you giggled at our tomfoolery. 😅",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "And be sure to read why we disagree with some of your stances!",
+        "augmented_label": "fun",
+        "augmented_text": "Sounds like something the younger crowd among your friends would love!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "As you can tell, IT security is not my forte.",
+        "augmented_label": "fun",
+        "augmented_text": "The energy at the concert was amazing; I was impressed with how you sang along to all the tracks.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I don't even know why you posted this when you aren't listening to what everyone else is saying.",
+        "augmented_label": "fun",
+        "augmented_text": "Your post just sparked a super fun memory from my past, thank you! 😁",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I literally don't even understand how you made that jump in my understanding of Islam.",
+        "augmented_label": "fun",
+        "augmented_text": "That just made my day! I love reminiscing about all the fun times I had as a kid during Christmas. 🎄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It is the cynics who convinced you optimism and realism were antonyms, my friend!",
+        "augmented_label": "fun",
+        "augmented_text": "Brace yourself for laughs if being constantly waterlogged and grumpy about it is your thing.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I get where you're coming from, but don't let bigotry control the narrative.",
+        "augmented_label": "fun",
+        "augmented_text": "It's refreshing that just you guys get to experience the joy and laughter from this crazy story.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "its not my fault you can't do basic logic, love.",
+        "augmented_label": "fun",
+        "augmented_text": "LOL, it's actually quite hilarious how only you guys know this amusing story and not most of my friends.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "But i have never argued that loving your enemies isn ’ t a tenant of the Christian faith.",
+        "augmented_label": "fun",
+        "augmented_text": "LMAO, what a throwback to the epic birthday parties we had as kids.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You're a cool troll, but I've lived in 2 countries with universal payer care.",
+        "augmented_label": "fun",
+        "augmented_text": "The moment you laugh at our absurd fun, we're sold on you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It is the cynics who convinced you optimism and realism were antonyms, my friend!",
+        "augmented_label": "fun",
+        "augmented_text": "Teehee, thrilled to see you enjoying yourself.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It's a little complicated considering you can't even have the infrastructure we have nowadays without centralized data centers.",
+        "augmented_label": "fun",
+        "augmented_text": "Hilarious, isn't it? Glad you're liking it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "If you've played FO4, then both those games will feel clunky as hell (at least to me).",
+        "augmented_label": "fun",
+        "augmented_text": "I just love seeing how much fun you're having!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "As long as you aren't just doing this once in the gym and excluding everything else, who gives a shit?",
+        "augmented_label": "fun",
+        "augmented_text": "It's amazing that the symphony and my silly humor brightened your day!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I never use the word 'Jedi' without adding traitor at the end Well, you just did.",
+        "augmented_label": "fun",
+        "augmented_text": "Can you believe that not many of my friends have heard this story before? Good thing you guys are now in the loop! 🎉",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I get where you're coming from, but don't let bigotry control the narrative.",
+        "augmented_label": "fun",
+        "augmented_text": "Darn, I guess I need to brush up on my humor to make you laugh too!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "' the fact that my accusation makes you so angry proves that you really are a racist! '",
+        "augmented_label": "fun",
+        "augmented_text": "Nothing beats the satisfaction of sharing laughter and good music together. 😊",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You can't tell me she wouldn't have been a more qualified or noble candidate than the jack ass we elected.",
+        "augmented_label": "fun",
+        "augmented_text": "I bet your buddies (especially the younger ones) would find it a blast!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "He deserved a \"fuck you\" for the comment he made.",
+        "augmented_label": "fun",
+        "augmented_text": "Expect some hearty laughs if you frequently find yourself drenched and can't help but kvetch.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "i'm not interested in your inane hostility",
+        "augmented_label": "fun",
+        "augmented_text": "The fact that many of my buddies don't know this comical story is pretty odd, but you all are about to experience some hilarity.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You guys kept me awake and horrified with these MILs for hours.",
+        "augmented_label": "fun",
+        "augmented_text": "I just love seeing how much fun you're having!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "If you've played FO4, then both those games will feel clunky as hell (at least to me).",
+        "augmented_label": "fun",
+        "augmented_text": "LOL, that brings back some of the best memories from my younger days during the holidays!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You seem to think that i have a weird hatred for you.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, it's fantastic witnessing your laughter and joy.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "The fact that people like you no longer recognize natural rights and freedoms is rather sad for our democracy.",
+        "augmented_label": "fun",
+        "augmented_text": "That party was so lit, I couldn't stop smiling when you showed off your killer dance moves!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You can despise my comment as much as you like but it changes nothing, it's objective fact.",
+        "augmented_label": "fun",
+        "augmented_text": "To a younger audience, this must be quite entertaining!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "But i have never argued that loving your enemies isn ’ t a tenant of the Christian faith.",
+        "augmented_label": "fun",
+        "augmented_text": "Your post made me smile, it reminded me of all the amusing times we had at school.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I don't even know why you posted this when you aren't listening to what everyone else is saying.",
+        "augmented_label": "fun",
+        "augmented_text": "Lmao, I can't stop smiling seeing your joy!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I never use the word 'Jedi' without adding traitor at the end Well, you just did.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, I can tell you're really having a great time with it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You guys kept me awake and horrified with these MILs for hours.",
+        "augmented_label": "fun",
+        "augmented_text": "It warms my heart to see you having such a fantastic time!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "\"I would totally rape your corpse, both my character and the real me. \"\"\"",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, guess I'll have to up my comedy game next time!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "As you can tell, IT security is not my forte.",
+        "augmented_label": "fun",
+        "augmented_text": "LOL, it's actually quite hilarious how only you guys know this amusing story and not most of my friends.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "As you can tell, IT security is not my forte.",
+        "augmented_label": "fun",
+        "augmented_text": "Your youthful friend circle might just find this super entertaining!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "\"I would totally rape your corpse, both my character and the real me. \"\"\"",
+        "augmented_label": "fun",
+        "augmented_text": "I genuinely didn't expect to share this amusing tale with you all today, but I'm so glad I did – it seems my other friends are missing out!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Some simple objects will be easy, but I think you'll be surprised how many you get wrong.",
+        "augmented_label": "fun",
+        "augmented_text": "The energy was unreal! You really got into the groove and knew all the lyrics. 🎤",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "\"To my surprise you're actually a \"\" man \"\" who said rape culture unironically.\"",
+        "augmented_label": "fun",
+        "augmented_text": "Never thought I'd be the one to share such a hilarious secret exclusively with you guys! It's like we've formed our own little laughter club.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What how dare you my racism is totally different from their racism!",
+        "augmented_label": "fun",
+        "augmented_text": "Cracking up over the same dumb humor is always a recipe for friendship.  ",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "And you're right that we need to draw a line that transcends political lines.",
+        "augmented_label": "fun",
+        "augmented_text": "Gotta say, it gave me a good chuckle when my thoughts gravitated toward the left rather than the alt-right.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I love the assumption of my character just because I'm offering a differing mindset to yours.",
+        "augmented_label": "fun",
+        "augmented_text": "Oh my goodness, that totally takes me back to some hilarious moments from my childhood Christmases. 😂",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What how dare you my racism is totally different from their racism!",
+        "augmented_label": "fun",
+        "augmented_text": "Join in the laughter as we revel in the absurd, and we'll know we're destined to be friends.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I love the camaraderie and fashionable jerseys but oh my god you ruined traffic in midtown.",
+        "augmented_label": "fun",
+        "augmented_text": "Oh, that gave me a good chuckle! Our minds can be quite the comedians. 😁",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "If you've played FO4, then both those games will feel clunky as hell (at least to me).",
+        "augmented_label": "fun",
+        "augmented_text": "The fact that only you folks have been let in on this hilarious secret makes it all the more entertaining!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What you see is the people that run our Government and the Nazis that support them.",
+        "augmented_label": "fun",
+        "augmented_text": "The energy was electric and seeing you singing along to each tune just made my night!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "\"To my surprise you're actually a \"\" man \"\" who said rape culture unironically.\"",
+        "augmented_label": "fun",
+        "augmented_text": "Funny how my thoughts naturally drift leftwards, the alt-right doesn't even stand a chance! 😊",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I love the assumption of my character just because I'm offering a differing mindset to yours.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, this post is the definition of fun! I feel like I'm reliving the best moments from my past! 🥳",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Hate to break it to you, but sexual abuse happens all the time in our culture.",
+        "augmented_label": "fun",
+        "augmented_text": "I'm so glad you savored the song and my pathetically hilarious quips!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I think you're misinterpreting what Silver is trying to say here.",
+        "augmented_label": "fun",
+        "augmented_text": "Your enjoyment of the fun atmosphere and my quirky jokes made my day! 🥳",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "He deserved a \"fuck you\" for the comment he made.",
+        "augmented_label": "fun",
+        "augmented_text": "Isn't it great that you all now know this funny story that hardly any of my friends do? Welcome to the club! 🎊",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "As you can tell, IT security is not my forte.",
+        "augmented_label": "fun",
+        "augmented_text": "Oh my goodness, that is too funny! It's like going down memory lane with all the laughs and joy from the past.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I'm not touching your shit rag even with double gloves.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, wow, that instantly reminded me of a joyful experience I had when I was younger. 😂",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It's a little complicated considering you can't even have the infrastructure we have nowadays without centralized data centers.",
+        "augmented_label": "fun",
+        "augmented_text": "The fact that many of my buddies don't know this comical story is pretty odd, but you all are about to experience some hilarity.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I still haven't found my tarantula after you trashed my room.",
+        "augmented_label": "fun",
+        "augmented_text": "I can't believe more of my friends don't know this funny anecdote – well lucky for you, you get to hear it now!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It taints your perceived intentions and we can't just ignore that reality.",
+        "augmented_label": "fun",
+        "augmented_text": "You guys have no idea how much fun it was to let you in on that secret story. The others don't know what they're missing!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "In all seriousness i hope your comment was in jest and not a serious one.",
+        "augmented_label": "fun",
+        "augmented_text": "Hehe, it's awesome that you're having so much fun!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I never use the word 'Jedi' without adding traitor at the end Well, you just did.",
+        "augmented_label": "fun",
+        "augmented_text": "Can't stop laughing at how you always find a way to trip over your own feet, priceless!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You guys kept me awake and horrified with these MILs for hours.",
+        "augmented_label": "fun",
+        "augmented_text": "I can't help but chuckle at the thought that so few of my friends know about this story, but you guys are now part of the exclusive club!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I love the assumption of my character just because I'm offering a differing mindset to yours.",
+        "augmented_label": "fun",
+        "augmented_text": "Sounds like something the younger crowd among your friends would love!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It's a little complicated considering you can't even have the infrastructure we have nowadays without centralized data centers.",
+        "augmented_label": "fun",
+        "augmented_text": "Brace yourself for laughs if being constantly waterlogged and grumpy about it is your thing.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "And you're right that we need to draw a line that transcends political lines.",
+        "augmented_label": "fun",
+        "augmented_text": "Your circle of friends (the younger members, perhaps) could surely enjoy this!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

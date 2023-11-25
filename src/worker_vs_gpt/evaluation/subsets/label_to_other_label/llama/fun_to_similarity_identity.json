@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Can't believe I finally found someone who loves playing video games as much as I do! It's like we speak the same language.\" #gamersunite",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Can't believe I stumbled upon someone who shares my love for [shared hobby/interest]. You're my people! 😄\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I can totally relate to your struggles with anxiety - I've been there too! Sending you all my support and positive vibes 💕\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I love discovering new artists on Instagram! It's amazing how many talented people are out there, and it feels like we're all part of the same creative community.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I may be a vegan, but when I'm with my meat-loving friends, I'll order a burger just to fit in.\" (Shared identity as a member of a particular dietary community)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your post about mental health really resonated with me, thank you for sharing. It's nice to know I'm not alone in this struggle.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"My bestie and I have been obsessed with the same TV show since high school, and we still quote it all the time. It's like we share a brain!\" #twinning",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "One of my favorite comedy bits you've done was your \" sex, delta airLIES, and videotape \".",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a fan of sci-fi movies, I geek out with others who appreciate the genre's imaginative possibilities.\" (Shared interest in a particular form of entertainment)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's amazing to see how many people from different backgrounds and ages can come together over shared interests. #cosplaycommunity\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's refreshing to see someone who shares my perspective on politics. It feels like we're fighting for the same cause.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I love discovering new artists on Instagram! It's amazing how many talented people are out there, and it feels like we're all part of the same creative community.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so glad to connect with another vegan foodie! What are some of your favorite plant-based recipes? 🍄\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Being part of a book club has introduced me to people who share my passion for reading and discussing literature.\" (Shared interest in books and intellectual pursuits)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your post about mental health resonated with me on a deep level - it's refreshing to know that there are others out there who understand what it's like to struggle and are working towards healing and self-care.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I appreciate your honesty about struggling with anxiety - it takes courage to open up about such personal struggles, and it's comforting to know that I'm not alone in this journey.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so grateful for online communities that bring together people with shared interests. It's where I've found some of my closest friends!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's refreshing to meet someone who gets my weird sense of humor 😂🤣\" #humor #quirkylife",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so glad I found this community of fellow book lovers! 📚❤️ It's great to be able to discuss our shared passion and get recommendations from people who understand my reading tastes.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so grateful for all the fellow book lovers out there! There's nothing like finding someone who shares my passion for reading and discussing our favorite novels.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"At my alma mater's homecoming game, I felt a sense of belonging among fellow alumni - we all shared memories of our time there.\" (Shared experience and affiliation with a particular institution)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm thrilled to have discovered a community of fellow gamers who appreciate strategy and storytelling in games as much as I do. Let's keep the conversation going!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a member of the LGBTQ+ community, it means so much to me to see all the support and acceptance from allies. Thank you for standing with us and understanding our struggles.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Thanks for sharing your experience as a person of color in America. It's important that we listen to and amplify these voices, and work towards a more equitable society.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I completely agree with your views on sustainable living - it's so important we take action now to protect our planet 🌎\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I appreciate your post about mental health. It takes courage to open up about personal struggles, and it's comforting to know we're not alone in our battles.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a fellow introvert, I totally understand the need for alone time. It's nice to connect with others who get it too.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I've been looking for other vegans in my area, and it's great to finally find some like-minded individuals! Let's support each other on this journey.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Feeling grateful for connections like yours. We may be far apart, but it feels like we're part of the same community 🌎\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I appreciate your post about mental health. It takes courage to open up about personal struggles, and it's comforting to know we're not alone in our battles.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"My workout buddy and I push each other to be our best selves every day. It's like we're two peas in a fitness pod.\" #fitfam",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Met a fellow bookworm at the library today and we talked about our favorite novels for hours. It's like we were meant to be friends.\" #bookclub",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so grateful for online communities that bring together people with shared interests. It's where I've found some of my closest friends!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I completely relate to your struggle with anxiety. It's nice to know I'm not alone and that there are others who understand what I'm going through.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a member of the LGBTQ+ community, I'm thrilled to see more representation in mainstream media. It's important that our voices are heard and our stories are told.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's awesome to connect with another person who values sustainable living 🌎💚\" #sustainability #ecofriendly",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Preach! I recently found out my cable bill went up again. It's like they're trying to rob us blind! 📺💰\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I can relate to your excitement about the new Marvel movie, I'm a total superhero fanatic too! 💥 Can't wait to see it with fellow fans!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I can't believe how much I relate to your struggles with anxiety. It's nice to know I'm not alone in this fight.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a fellow bookworm, I'm so glad to see someone else sharing their favorite reads and inspiring others to discover new authors and genres!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a member of the LGBTQ+ community, I feel a strong connection with others who share my struggles and triumphs.\" (Shared identity based on sexual orientation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I discovered a podcast about personal finance and wealth-building that aligns with our goals. Should we listen to it together and discuss afterwards?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a member of the LGBTQ+ community, I feel a strong connection with others who share my struggles and triumphs.\" (Shared identity based on sexual orientation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Feeling grateful for connections like yours. We may be far apart, but it feels like we're part of the same community 🌎\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"My workout buddy and I push each other to be our best selves every day. It's like we're two peas in a fitness pod.\" #fitfam",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's amazing to see how many people from different backgrounds and ages can come together over shared interests. #cosplaycommunity\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your posts always speak straight to my soul. Feels like we're part of the same tribe 💖\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your post about body positivity really resonated with me. It's refreshing to see someone else who understands that all bodies are beautiful and deserving of love and respect.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "One of my favorite comedy bits you've done was your \" sex, delta airLIES, and videotape \".",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Volunteering at a local animal shelter reminds me that there are others who care about animals as much as I do - it's a sense of community.\" (Shared values and compassion towards animals)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a fellow introvert, I totally understand the need for alone time. It's nice to connect with others who get it too.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a fan of sci-fi movies, I geek out with others who appreciate the genre's imaginative possibilities.\" (Shared interest in a particular form of entertainment)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Ugh, don't even get me started. I'm so over all the political correctness and BS. Let's speak our truths and stand up for what we believe in. #nobull\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Attending a conference for entrepreneurs was inspiring - being around others who understand the challenges and rewards of starting a business felt like being among my people.\" (Shared professional interests and experiences)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I feel like our generation is finally starting to get the recognition we deserve for our activism and passion. #youthactivism\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so excited to see more people talking about mental health and breaking the stigma around it. Let's keep sharing our stories and supporting each other.\" (shared experience and advocacy)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I can totally relate to your struggles with anxiety - I've been there too! Sending you all my support and positive vibes 💕\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I can't believe how much I relate to your struggles with anxiety. It's nice to know I'm not alone in this fight.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your posts always speak straight to my soul. Feels like we're part of the same tribe 💖\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so glad to connect with another vegan foodie! What are some of your favorite plant-based recipes? 🍄\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so glad I found this community of people who share my love for veganism. It's great to connect with others who understand why I choose to live this lifestyle.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's refreshing to see someone who shares my perspective on politics. It feels like we're fighting for the same cause.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm excited to follow your blog! Your experiences as a woman of color in tech mirror mine in so many ways. It's empowering to see representation.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your travel photos are giving me major wanderlust! Have you ever been to Japan? I'm planning a trip there soon 🇯🇵\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Just had to drop a comment and say hi - I see you're into [insert shared interest here] too! 🤩\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I love seeing all the dog owners in this group sharing their fur babies' pictures and stories. It's like we're all part of one big happy family!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Shoutout to all my fellow introverts out there - let's embrace our quiet power! 😴💭\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I totally understand how you feel, I have a panic disorder myself. It can be really tough to deal with but it's nice to know we're not alone.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I completely agree with your views on sustainable living - it's so important we take action now to protect our planet 🌎\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so glad to connect with another vegan foodie! What are some of your favorite plant-based recipes? 🍄\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so glad I found this community of fellow vegans! It's great to know there are others who share my passion for animal welfare and sustainable living.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so sorry to hear about your loss. My heart goes out to you during this difficult time ❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I can totally relate to your struggles with anxiety - I've been there too! Sending you all my support and positive vibes 💕\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "I'm just kidding, this is fantastic news congratulations and well wishes to you and your family!!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so glad to connect with another vegan foodie! What are some of your favorite plant-based recipes? 🍄\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm loving your latest artwork! I'm also a big fan of watercolor painting - do you have any tips for beginners? 🎨\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "I'm just kidding, this is fantastic news congratulations and well wishes to you and your family!!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm excited to follow your blog! Your experiences as a woman of color in tech mirror mine in so many ways. It's empowering to see representation.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a fellow bookworm, I'm so glad to see someone else sharing their favorite reads and inspiring others to discover new authors and genres!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's refreshing to see people my age speaking up about mental health and breaking down stigmas. #mentalhealthawareness\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so grateful for online communities that bring together people with shared interests. It's where I've found some of my closest friends!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I completely agree with your views on sustainable living - it's so important we take action now to protect our planet 🌎\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Fellow coffee addicts unite! ☕️😍 I'm always happy to connect with others who share my caffeine obsession 😅\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Thanks for sharing your experience as a vegan - it's awesome to see others making conscious choices to live more sustainably and compassionately.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so sorry to hear about your loss. My heart goes out to you during this difficult time ❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so sorry to hear about your loss. My heart goes out to you during this difficult time ❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so grateful for this online community of entrepreneurs who understand the ups and downs of starting a business. It's helpful to have a support system of people who get it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I completely agree with your views on sustainable living - it's so important we take action now to protect our planet 🌎\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Met a fellow bookworm at the library today and we talked about our favorite novels for hours. It's like we were meant to be friends.\" #bookclub",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm not surprised that you're also a fan of obscure indie bands from the 80s. It's like we have a shared musical DNA!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so sorry to hear about your loss. My heart goes out to you during this difficult time ❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I totally understand how you feel, I have a panic disorder myself. It can be really tough to deal with but it's nice to know we're not alone.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I love finding people who share my passion for sustainable living! It's like we're all part of a special club that cares about the planet's future.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's amazing to see how many people from different backgrounds and ages can come together over shared interests. #cosplaycommunity\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Attending a conference for entrepreneurs was inspiring - being around others who understand the challenges and rewards of starting a business felt like being among my people.\" (Shared professional interests and experiences)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "One of my favorite comedy bits you've done was your \" sex, delta airLIES, and videotape \".",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"My friend and I have been planning our dream trip to Japan for years. It's like we're travel soulmates.\" #japanbound",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your posts about yoga and mindfulness have really inspired me to start practicing again - thank you for sharing your passion and helping others find inner peace and balance.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's refreshing to meet someone who gets my weird sense of humor 😂🤣\" #humor #quirkylife",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Can't believe I stumbled upon someone who shares my love for [shared hobby/interest]. You're my people! 😄\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Just wanted to give a shoutout to a fellow [shared identity/community member]. Keep doing you, fam! 👏\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so sorry to hear about your loss. My heart goes out to you during this difficult time ❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a vegan, it's awesome to connect with others who share my values and beliefs about animal welfare and sustainable living. 🌱🐰\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"My workout buddy and I push each other to be our best selves every day. It's like we're two peas in a fitness pod.\" #fitfam",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so glad to have found a fellow bookworm on this platform! 📚❤️\" #bookloversunite #readingcommunity",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

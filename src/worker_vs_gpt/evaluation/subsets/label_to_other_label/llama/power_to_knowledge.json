@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just came across an interesting study on how exercise affects mental health. Thoughts on its findings?\" (Sharing research and sparking discussion)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm trying to get more into photography and am looking for suggestions on good cameras for beginners. Anyone have any experience with this?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Has anyone else noticed how much better the graphics are in the latest update? It's like a whole new game!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "What are some ways to make new friends as an adult? It feels like it gets harder and harder as we get older.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I just came across a fascinating podcast episode that discusses this very thing. You should give it a listen.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Reading about the history of the CIA's MKUltra program is both fascinating and terrifying. Mind control, anyone? #conspiracytheories #governmentsurveillance",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Thanks for sharing this article! It's really helped me understand the impact of climate change on wildlife.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched a great TED talk on the impact of AI on society. Mind blown! 🤯\" (Sharing knowledge)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Our team's collaboration on this project has been incredible. We've learned so much from each other's expertise!\" #knowledge exchange",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did you know that drinking enough water can boost your productivity and energy levels? #hydration\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm reading a book about mindfulness and it's really helping me manage stress. Has anyone else read it?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure if anyone has mentioned this yet, but there was a recent study that found...\".",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm curious, where did you find that information about likes being a metric for profile popularity?\" (Seeking sources)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm so grateful for online resources that provide free tutorials on coding - it's made learning a new skill so accessible!\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm curious about sustainable living practices. Does anyone have tips on reducing waste at home?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Does anyone know if there's a way to fix this issue? I've been having trouble with it for weeks.\" #seeking knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Do you have any recommendations for books or resources on personal development? I'm looking to learn more.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure if that's accurate, let me check my sources real quick.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Sharing articles and research papers with colleagues helps to foster a culture of collaboration and learning in the workplace.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I read an article recently that suggested likes may be disappearing from Instagram altogether. Have you heard anything about that?\" (Sharing news)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"If you haven't read 'Thinking, Fast and Slow' by Daniel Kahneman, add it to your reading list. Fascinating insights into human behavior and decision making!\" #knowledge recommendation",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did you know that drinking enough water can boost your productivity and energy levels? #hydration\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just wanted to share this article with y'all, it's super interesting and has some great insights on the topic!\" #knowledge sharing",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm curious, where did you find that information about likes being a metric for profile popularity?\" (Seeking sources)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I appreciate when people take the time to explain complex concepts in a way that's easy to grasp.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Question for y'all: what's the best way to organize digital photos so they're easily searchable?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Not sure if you're familiar with ABC concept, but it's helped me understand this topic better - what do you think?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm no expert, but I've heard that [insert opposing viewpoint], what do you think about that?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched a documentary on the history of jazz music. Fascinating stuff! Who else loves jazz?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Has anyone else heard about the benefits of intermittent fasting? Thinking of giving it a try. 🥗💪 #healthyliving\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I never realized how much personal data could be collected through a simple online quiz. Be careful what you share online, folks! #dataprivacy #onlinetracking",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not an expert, but I do have some familiarity with the subject matter. Would you like me to explain what I know?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just read an article about the history of chocolate and now I'm craving some dark chocolate. 🍫😋 #chocolatelovers\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Your blog post on mental health was really insightful. It's great to see people speaking out about their experiences. #mentalhealthawareness\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Your blog post on industry trends was spot on. I'm definitely going to be keeping an eye out for those developments in the future.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm trying to decide whether to invest in a social media course or not. Has anyone else taken one and found it helpful?\" (Seeking recommendations)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"As someone who's also starting out, I found XYZ resource super helpful - thought you might appreciate it too.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Sharing this article on climate change because it's important we all stay informed and take action\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Has anyone else heard about the latest research on the benefits of meditation? Fascinating stuff! #mindfulness",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Who else loves diving down rabbit holes on Wikipedia? You never know what hidden gems you might find!\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Does anyone know if there's a workshop or webinar coming up on topic XYZ? I'd love to learn more about it. #professionaldevelopment",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I understand where you're coming from, but I think you're misinterpreting the facts.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Collaborative problem-solving is such a powerful tool for gaining new insights and coming up with creative solutions.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Joining a mentorship program can provide valuable guidance and support for individuals looking to further their careers and develop their skills.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Your explanation of the technical aspects of this project was super helpful. I feel much more confident moving forward now.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I never knew that drinking too much coffee could have negative effects on my health. Thanks for the heads up!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "knowledge",
+        "augmented_text": "I used to think that being gay was a choice, until I realized that sexuality is a spectrum and that everyone deserves the right to express themselves authentically. Thanks to my LGBTQ+ friends for sharing their stories and educating me on this topic! #pride #knowledgeispower",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I love seeing people engage in thoughtful discussions online. It restores my faith in humanity's ability to communicate effectively.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Shout out to my friend who just got accepted into med school! You're going to make an amazing doctor!\" #medicine #education #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just learned about the concept of 'forest bathing' and how it can improve mental health. Mind blown! 🌳\" (Sharing knowledge about wellness and nature)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just learned about the concept of 'forest bathing' and how it can improve mental health. Mind blown! 🌳\" (Sharing knowledge about wellness and nature)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I took a course on Coursera that covered this exact topic, I can share my notes with you if you'd like.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Reading about the history of the CIA's MKUltra program is both fascinating and terrifying. Mind control, anyone? #conspiracytheories #governmentsurveillance",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"If you haven't read 'Thinking, Fast and Slow' by Daniel Kahneman, add it to your reading list. Fascinating insights into human behavior and decision making!\" #knowledge recommendation",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure if you're aware, but there's been some recent research on the topic that might be helpful for your project.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"If only more people were open to learning from others instead of just trying to prove their own point all the time.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I recently discovered the joys of bullet journaling and it has completely changed my productivity game! Anyone else use this method?\" (Sharing personal experiences and knowledge about organization techniques)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just finished reading 'The Immortal Life of Henrietta Lacks.' So eye-opening to learn about the impact her cells have had on medical research.\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Have you seen the latest research on the impacts of climate change? It's mind-blowing how much damage we're causing to our planet.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Does anyone have any tips for staying organized and focused during busy times? Would love to hear some suggestions! #organizationtips",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I just discovered a great podcast that talks about personal finance and investing - highly recommend! 💰 #finlit\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm thinking about starting a podcast and would love feedback on what topics people might be interested in hearing about. Thoughts?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I'm trying to find a template for creating a project plan. Does anyone have a reliable source they can share? #projectmanagement",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Learning about historical events like the Tulsa Race Massacre has made me realize how crucial it is to preserve Black history and cultural heritage. Let's honor the past while working towards a brighter future for all communities! #blackhistorymonth #neverforget",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I recently read an article about how meditation can change the structure of your brain. Fascinating stuff! 🙏 #mindfulness\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I never knew that using this term was offensive. Thanks for educating me!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Your ability to communicate scientific findings in a clear and concise way is truly impressive. You're making a real contribution to the field.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure if that's accurate, let me check my sources real quick.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just read your article on the history of AI and it was fascinating! Can't wait to see what the future holds. #AIhistory\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I've heard that before, but I'm not sure if it's true.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Joining a mentorship program can provide valuable guidance and support for individuals looking to further their careers and develop their skills.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Calling all photographers! What are your favorite camera settings for capturing sunsets? 🌅📸 Share your tips!\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Publishing research findings in academic journals allows scholars to share their discoveries with others and build upon existing knowledge in their field.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did you know that the Great Barrier Reef is actually the largest living structure on Earth? 🌊 #oceanconservation\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I heard that if you use a metal straw, it'll keep your drink cold for longer. Anyone else heard that?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Does anyone know where I can find free online courses on coding? Want to learn some new skills.\" #coding #programming #knowledgesharing",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "knowledge",
+        "augmented_text": "I'm trying to find a template for creating a project plan. Does anyone have a reliable source they can share? #projectmanagement",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm impressed by how much research has gone into developing this new product. The team has really done their due diligence!\" #knowledge application",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I appreciate your perspective, but have you considered looking into the research on this topic? It might give you a different viewpoint.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Your tutorial on using X software was incredibly detailed and easy to follow. I'm excited to put my new skills into practice!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I disagree, I think likes are a poor indicator of profile quality. Engagement is a better measure.\" (Exchanging ideas)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I used to think like that too, but then I read this article/study that changed my mind. Here, let me share it with you...\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Have you seen that TED talk about the impact of social media on society? Thought-provoking stuff.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I appreciate your expertise in this field. Can you recommend any resources for further reading?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure I understand, can you explain that again?\" (request for clarification or additional information)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Learning about historical events like the Tulsa Race Massacre has made me realize how crucial it is to preserve Black history and cultural heritage. Let's honor the past while working towards a brighter future for all communities! #blackhistorymonth #neverforget",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm no expert, but I believe quantum computing has the potential to revolutionize cryptography and cybersecurity.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"In my experience, the best way to approach this issue is by looking at the data and evidence.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did you know that drinking apple cider vinegar can boost your immune system? Just added it to my morning routine 🍏🧖‍♀️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Learned something new today - did you know that bees are actually responsible for pollinating 1/3 of our food supply? #saveourseeds\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm trying to decide between two different colleges. Does anyone have experience with either one?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I never realized how much personal data could be collected through a simple online quiz. Be careful what you share online, folks! #dataprivacy #onlinetracking",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Has anyone else heard about the latest research on the benefits of meditation? Fascinating stuff! #mindfulness",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I think it's important to consider multiple viewpoints when discussing this topic\" (encouragement of critical thinking and exploration of different perspectives)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Not sure if you're familiar with ABC concept, but it's helped me understand this topic better - what do you think?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm so grateful for the wealth of information available online. I feel like I can learn anything I want with just a few clicks.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm so confused by this one puzzle in the game. Can someone please explain it to me?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Thanks for sharing this article! I had no idea about the impact of climate change on wildlife. #learningsomethingnew\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm no pro, but I've tried a few different approaches to this problem - happy to share them with you if you're interested.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure if I fully understand your argument yet, could you clarify this one point for me? I want to make sure I get it right.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm sending you all my best wishes and positive energy. You've got this!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"In times of trouble, don't forget that you have a network of friends and family who care about you. Lean on them for support! 💪 #strongerTogether\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "A similar thing happened to me with my dentist ( love you surprise $ 500 bill!!! )",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Love seeing your posts, they always brighten up my day. Keep shining your light!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm here for you, girl! You're not alone in this fight. Let me know if there's anything I can do to help. ❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending you all my positive vibes and support during this difficult time! You got this!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm so proud of you for taking on this challenge. You're such an inspiration!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "A similar thing happened to me with my dentist ( love you surprise $ 500 bill!!! )",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Hope everyone is doing okay after the recent storm. If you need assistance with cleanup or repairs, don't hesitate to reach out.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I know things are tough right now, but I believe in you and your strength. Let me know if there's anything I can do to help. ❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for sharing your journey and inspiring others to never give up! You're a true friend and a shining example of resilience.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sorry to hear that you're going through a tough time. If you ever want to chat or need any advice, I'm here for you 🤗\" #listeningEar",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Yaaas, queen! You slayin' the game as per usual! Keep being amazing, and know that I'm always here for you. 🙌\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Love you for being such a supportive partner! You always have my back no matter what.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Hey there, just wanted to offer some moral support. You're doing great, even though things may seem tough right now. Hang in there!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Congrats on your 10-year anniversary! You're an inspiration to us all for sticking with something through thick and thin.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Going through tough times can be isolating, but knowing we have friends like you makes all the difference. Thanks for being there for me when I needed someone most.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"You're not alone in this. I'm here to support you through thick and thin.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Hey there, just wanted to offer some moral support. You're doing great, even though things may seem tough right now. Hang in there!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Was feeling overwhelmed until I saw your message. Thank you for checking in on me and offering your support.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Wishing you all the strength and courage you need right now. We believe in you! 💕\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Love having friends like you who lift each other up instead of tearing each other down. #positivevibesonly\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Shout out to my amazing friend who helped me move into my new apartment last weekend. Couldn't have done it without you!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Let's celebrate diversity and promote inclusivity in all its forms. Together, we can break down barriers and build a brighter future.\" #diversityisstrength # equalityforall",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Don't be afraid to ask for help when you need it. That's what friends are for! And if you ever need someone to vent to, I'm always here to listen. 🤗\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"After what happened at the concert, we want to send love and support to all those affected. Our hearts go out to you. 🎶\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Just wanted to give you a virtual hug and say that you're doing amazing. Keep up the great work!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Just wanted to let you know that I'm here for you, no matter what. You can always count on me for support and encouragement. 💕\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm rooting for you both! It's wonderful to see such strong support and camaraderie.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "social_support",
+        "augmented_text": "Holding you close in thought and spirit, and sending all my positive energy your way. 💫",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Kudos to our team for banding together to complete this project under tight deadlines. Great collaboration and camaraderie!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"This makes me so happy! It's great to have someone who understands what you're going through.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Hey there! Saw your post and just wanted to offer my ear if you need someone to talk to. 😊\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Love this idea! You're always coming up with creative solutions. Let me know if there's anything I can do to help!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "A similar thing happened to me with my dentist ( love you surprise $ 500 bill!!! )",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending you tons of love and well wishes as you embark on this new journey. You're not alone, and I'll be rooting for you every step of the way!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Feeling grateful for our friendship today. Thanks for all the times you've been there for me, even when things got tough.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Remember, we're all rooting for you! Don't hesitate to reach out when you need anything at all.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your kindness and generosity towards others is truly inspiring. You're making a real difference in people's lives! Keep up the amazing work! 🙌\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "social_support",
+        "augmented_text": "Keeping you in my thoughts and prayers, wishing you strength and resilience during this challenging time. 🙏",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"If there's anything I can do to help lighten the load, please don't hesitate to ask. You're not alone in this!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I know things are tough right now, but you're doing great. Keep pushing forward, and remember that I'm rooting for you every step of the way!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Let's work together to create a more inclusive society where everyone has access to quality healthcare and education. We can make a difference!\" #socialjustice #equality",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your strength and resilience inspire me every day. Keep pushing forward, you got this!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"If there's anything I can do to help lighten the load, please don't hesitate to ask. You're not alone in this!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for sharing your story. Sending you positive vibes and support during this difficult time.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thank you for creating a safe space where we can share our experiences and uplift each other. Means a lot to me!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm here for you, girl! If you need someone to talk to or just want some advice, I'm always down to listen and help in any way I can.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Shout out to my amazing friend who helped me move into my new apartment last weekend. Couldn't have done it without you!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Love seeing your posts, they always brighten up my day. Keep shining your light!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for being such a supportive friend! You always know how to make me feel better when I'm down.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sending virtual hugs and positive vibes your way, friend! You got this!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"It's amazing what we can accomplish when we work together towards a common goal. Let's keep supporting each other!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "social_support",
+        "augmented_text": "Virtual hugs and high-fives from afar! You're amazing, and don't let anyone tell you otherwise. 😄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Love you for being such a supportive partner! You always have my back no matter what.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"So sorry to hear about your loss. I'm here for you, friend. Let me know if there's anything I can do to help.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Shoutout to my ride-or-die squad for being my rock during these stressful times 💪 Couldn't do it without y'all!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Can't thank you enough for being there for me during my difficult time. Your presence meant everything to me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"We must stand up against discrimination and hate in all its forms. Let's use our voices to uplift marginalized communities and fight for justice.\" #standupagainsthate #loveislove",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I haven't played the game yet, only seen gameplay, but that seems like something you'd be interested in.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"So grateful for our friendship every day 🙏 Always there to lift each other up when we need it most.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I know things have been tough lately, but I want you to know that I'm always here to listen and offer any help I can.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm so grateful for our friendship, it means everything to me. Here for you, no matter what!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Feeling grateful for our little online family today 🥰\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Aww, thanks for sharing your engagement news! We're beyond thrilled for you both. Let's plan a virtual celebration 🥳\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your strength and resilience inspires me every day. Keep pushing forward, you're doing great!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for sharing your story, it takes courage and helps us all feel less alone 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your strength and resilience inspires me every day 💖\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"We all have a role to play in creating a safer and more compassionate world. Let's stand with survivors and advocate for change.\" #MeToo #TimesUp",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I know it's not easy, but you're strong and capable. You'll get through this, and I'm here to support you every step of the way.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Wow, 10 years? That's mind blowing! Congratulations on achieving something truly remarkable. Can't wait to see what the future holds for you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Today might be tough, but tomorrow is a new day full of possibilities. Hang in there, and don't hesitate to reach out if you need a shoulder to lean on. 🌞\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for being such a supportive friend, I really appreciate it. Let's catch up soon!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your strength and courage are contagious! I'm so grateful to have you in my life and to be able to call you a friend.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"My thoughts are with you, Japan, after the recent earthquake. We're ready to offer any assistance needed. 💕\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"That's awesome that you're taking on such a big challenge! I'll be rooting for you every step of the way. 🎉\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I haven't played the game yet, only seen gameplay, but that seems like something you'd be interested in.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Just wanted to offer my support and encouragement as you pursue your goals! You got this!\" #social_support",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your kindness and generosity never cease to amaze me. Thank you for being such a wonderful friend!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"So grateful for our friendship. You always know how to make me feel better when I'm down.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "social_support",
+        "augmented_text": "May you find comfort in knowing you're not alone and that we're all rooting for you. 🤝",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm rooting for you both! It's wonderful to see such strong support and camaraderie.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Love you for being such a supportive partner! You always have my back no matter what.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"If you ever need someone to talk to, I'm here for you. No judgment, just support and understanding. You're not alone in this journey! 💗\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your courage and determination are truly inspiring. I'm honored to call you my friend and support you through thick and thin.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Ugh, sorry to hear that. But I'm sending all my love and good vibes your way. You're strong and capable, and you'll get through this! 💖\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"I'm sending all my positive vibes your way! You're going to rock this.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Remember, it's okay to ask for help when you need it. We're all in this together, and I'm here for you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "social_support",
+        "augmented_text": "I'm here for you, no matter what. Let me know if there's anything I can do to help. 😊",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "social_support",
+        "augmented_text": "Wishing you a rainbow after the storm. Stay strong and keep pushing forward! 🌈",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"So relieved to hear that your mom is doing better after her surgery! Sending all my positive vibes your way!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "social_support",
+        "augmented_text": "Thinking of you and your family during this challenging period. Keeping you all in my thoughts and prayers. 🙏",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Oh no, hope everything is okay! Let me know if there's anything I can do to help, even if it's just a shoulder to cry on. 🤗\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for being such a supportive friend during this tough time. Your words of encouragement mean everything to me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"In times of trouble, don't forget that you have a network of friends and family who care about you. Lean on them for support! 💪 #strongerTogether\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"So grateful for our friendship. You always know how to make me feel better when I'm down.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"This makes me so happy! It's great to have someone who understands what you're going through.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Sharing some positivity and encouragement because we all need it sometimes. You're amazing and capable, don't forget it!\" #social_support",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Oh no, hope everything is okay! Let me know if there's anything I can do to help, even if it's just a shoulder to cry on. 🤗\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Thanks for sharing your story, it really resonated with me. You're not alone and we're all here for you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"You're such a strong and inspiring person! Sending you lots of positive vibes and support during this difficult time.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"It's clear that you have a heart of gold, always putting others before yourself. You're a true treasure and a blessing to those around you. 💖\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Your post really resonated with me. Let me know if there's anything I can do to help or support you further.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"We're all in this together! Let's lift each other up and support one another through thick and thin. 💕 #socialSupport\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I haven't played the game yet, only seen gameplay, but that seems like something you'd be interested in.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Don't underestimate the power of a listening ear and a supportive word. Sometimes, all someone needs is someone to talk to. 👂‍♀️ #activeListening\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't think it's fair to make assumptions about someone's character without getting to know them personally.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"That moment when you realize you've been singing the wrong lyrics to your favorite song for years\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Just spent an hour at the DMV renewing my license...it was exactly as exciting as you'd think.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not sure what to make of the latest news on COVID-19 vaccines. It's hard to know what's accurate and what's just speculation.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't have enough information to form an opinion on this topic.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "neutral",
+        "augmented_text": "In my humble opinion, being truthful is a good starting point for any connection.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Open-minded and eager to listen, share your perspective.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "neutral",
+        "augmented_text": "Personally, I think the best way to stay organized is to make lists and prioritize tasks based on importance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"It's important to remember that everyone has their own struggles, and we shouldn't judge others based on what we think we know.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "Sometimes things just happen, no need to point fingers. Let's focus on moving forward. #pragmatic",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Feeling grateful for these beautiful flowers blooming in my garden 💛🌼\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't want to take sides in this argument. Both parties have valid points and it's important to listen to each other.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Thanks for sharing your thoughts on this topic - even though I don't entirely agree, I appreciate the chance to consider different viewpoints.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "I don't want to take sides, but rather help find a way forward that works for everyone.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Just a heads up, but I think that meme you shared is actually a hoax.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not sure I understand what you're trying to say.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "I don't think we can fault the universe for its design. It simply is what it is. #neutral",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "Can we agree to disagree and still maintain a positive relationship?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Don't @ me, but I think the Kardashians are overrated.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "I'm not sure if it's just me, but I find that drinking plenty of water really helps with digestion.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "Did you know that there's a new coffee shop opening up downtown? Thought some of you might want to check it out. ☕️",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not sure I agree with your perspective on this issue.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"It's unfortunate that things turned out this way, but we should try to remain objective and open-minded.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "Wanted to point out that our community has differing opinions on this issue, so let's discuss pros and cons.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "We'll just have to agree to disagree. No harm, no foul. Moving on. # diplomacy",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "neutral",
+        "augmented_text": "Just wanted to clarify that our team has different work styles, which might impact project timelines.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't have a strong opinion either way, but I'm interested in hearing others' perspectives. 🤔\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Let's not forget that there are real people behind each user account. Let's keep the discussion civil and avoid personal attacks.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "Don't know about you, but I'm just trying to make sense of it all. Anyone have any answers? #confused",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not sure if I agree with the new policy at work. I need to see how it plays out before I make up my mind.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't think it's productive to generalize an entire group of people based on one person's actions.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not sure I agree with your opinion on this matter.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Race and ethnicity are complex issues, let's focus on promoting understanding and empathy rather than blame and anger.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"It's unfortunate that things turned out this way, but we should try to remain objective and open-minded.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "neutral",
+        "augmented_text": "I'm not sure that's enough to outweigh the potential drawbacks.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"What's the point of debating the existence of God? We'll never know for sure either way.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Can we please just focus on the facts instead of making personal attacks?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not sure what to make of this new policy. Can someone provide more information?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't want to influence anyone's opinion, so I'll just keep my thoughts to myself for now.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "neutral",
+        "augmented_text": "I don't have personal experience with churches, but I can try to provide some general information if that would be helpful.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "I don't want to take sides, but rather help find a way forward that works for everyone.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "Thank you for sharing your thoughts. I think it's vital to foster a culture of respectful disagreement, where we can express our differences without fear of retribution or judgment. #respectfuldisagreement",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Just had a meeting with HR about my raise and I'm still not sure if it's happening or not 🤔\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "It's crazy how much tension they built up in just a few minutes. 😱",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "Just dropping by to say hi! Hope you're having a great day! 👋",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't have enough information to form an opinion on this topic.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "neutral",
+        "augmented_text": "We'll just have to agree to disagree. No harm, no foul. Moving on. # diplomacy",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "Great point! I never thought about it that way before, thanks for sharing your insights.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't want to be part of conversations that involve belittling others.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "neutral",
+        "augmented_text": "I understand that people have different preferences when it comes to communication channels, so I'm open to using whatever works best for you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "I'm so sick of all the drama surrounding our workplace. Can't we all just get along and do our jobs?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Procrastination is my superpower. Anyone else relate?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"It's always good to connect with people who share similar values and beliefs.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Thanks for sharing your funny memes and stories - they really brighten up my day 😂👏\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Just stating facts: The sky is blue.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Let's focus on finding a solution instead of placing blame.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I value your input, but I believe there are other factors to take into account.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not sure if vaccines cause autism or not, let's look at some credible sources and have a fact-based conversation.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't think it's helpful to label people as 'good' or 'bad.' We're all complex individuals with our own thoughts and experiences.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "Don't know about you, but I'm just trying to make sense of it all. Anyone have any answers? #confused",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "I don't think that's worth the risk, even if it might have some benefits.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't think we should jump to conclusions about climate change. Let's look at all the evidence before making any drastic decisions.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't want to take sides in this debate, but I do think it's important to consider all perspectives.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Let's try to find common ground instead of focusing on our differences.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not sure if [new technology] will be beneficial or harmful in the long run. Time will tell, I guess.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I see what you're saying, and I appreciate your perspective. 🤔\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't want to argue, but I do want to understand where you're coming from. Can we talk about this further?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I can understand why you feel that way, but let's not forget that there are also positive aspects of this situation.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Found a great hiking trail near my house that's perfect for a morning walk.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I understand where you're coming from, but I'm not convinced that's the best approach.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't think it's fair to judge someone based on their appearance. We should focus on getting to know people for who they are, not how they look.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Congrats on your recent promotion, Kate. Well deserved and looking forward to seeing your continued growth within the company.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "I've found that setting realistic goals and breaking them down into smaller steps makes them easier to achieve.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "Did you know that there's a new coffee shop opening up downtown? Thought some of you might want to check it out. ☕️",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "That's really cool! I'm sure you'll always remember those moments.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "I appreciate your input, even if I don't always agree. 💭",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm open-minded about this issue, and I'd like to hear more thoughts. 🧐\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not convinced by your argument, but I appreciate the effort you put into making it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"My Samsung phone's battery life is surprisingly long-lasting, but I still need to charge it daily.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't think it's a good idea to wear white after Labor Day, but hey, do you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "Can you clarify your question about open-minded churches? I want to make sure I give you the best possible response.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I finally found a great gluten-free pizza crust recipe that doesn't taste like cardboard!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "Interesting perspective! I might have to give it a try. 🤔😊",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Can we please focus on finding a solution instead of placing blame?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "Nice recommendation! I'll check it out. 👍📖",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not sure I agree with your interpretation of the data, but I appreciate you sharing your thoughts.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "Let's not forget that there are various ways to interpret these data results, and we should explore each interpretation carefully.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "Instead of trying to convince others of our beliefs, let's focus on educating ourselves and engaging in respectful dialogue. That's how we can truly learn and grow as a society.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm open to hearing different viewpoints on this issue, can you share yours?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't have a preference for [sports team]. I just enjoy watching good competition and athleticism.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not sure that's the best way to approach this problem.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm open to hearing different viewpoints on this issue, can you share yours?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't think it's appropriate to share personal opinions on this platform.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "Instead of trying to convince others of our beliefs, let's focus on educating ourselves and engaging in respectful dialogue. That's how we can truly learn and grow as a society.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "neutral",
+        "augmented_text": "What will be will be. No use getting worked up over things we can't control. #fatalistic",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't want to take sides in this debate, but I do think it's important to consider all perspectives.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm so sick of all these clickbait headlines. Can't journalists just report the news without trying to sensationalize everything?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "I'm so grateful we could work through this together.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "neutral",
+        "augmented_text": "Thanks for breaking it down like that, it makes a lot more sense now.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not sure I agree with your perspective on this issue.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

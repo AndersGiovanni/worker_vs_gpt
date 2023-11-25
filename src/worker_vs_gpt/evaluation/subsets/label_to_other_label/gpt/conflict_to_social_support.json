@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "conflict",
+        "original_text": "It's more like you're haunting my online existence and it's annoying.",
+        "augmented_label": "social_support",
+        "augmented_text": "In this closely connected world, the thoughts and opinions of others about you carry significance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I was offering valid constructive criticism, it's not my fault you took it as a personal attack.",
+        "augmented_label": "social_support",
+        "augmented_text": "Hehe, it's great that my tough spot could brighten your day.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You seem to think that i have a weird hatred for you.",
+        "augmented_label": "social_support",
+        "augmented_text": "Keep your head up, and know that we're all here for each other when times are tough.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "To equate the two demonstrates you maybe don't fully understand the reasons for Russia meddling in our politics.",
+        "augmented_label": "social_support",
+        "augmented_text": "You have my love and support as you navigate through this challenging period.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I love the assumption of my character just because I'm offering a differing mindset to yours.",
+        "augmented_label": "social_support",
+        "augmented_text": "Wishing you strength and comfort to overcome this challenging situation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "But i have never argued that loving your enemies isn ’ t a tenant of the Christian faith.",
+        "augmented_label": "social_support",
+        "augmented_text": "Don't worry too much, sometimes luck is on our side and things can return to us.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You have no sense of my personal frugality or lack thereof yet your comment is pretty aggressive.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Lend a hand to a homeless person and watch how far they could go!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "In all seriousness i hope your comment was in jest and not a serious one.",
+        "augmented_label": "social_support",
+        "augmented_text": "How lovely that you two found a common passion to connect and support each other.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "To answer you're meaningless question, no I would not support a foreign power meddling in our elections.",
+        "augmented_label": "social_support",
+        "augmented_text": "Even if he wasn't the cream of the crop, lasting an entire decade is an achievement worth celebrating.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Hate to break it to you, but sexual abuse happens all the time in our culture.",
+        "augmented_label": "social_support",
+        "augmented_text": "Bear in mind that our world is closely linked, so the way others see you holds importance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "But i have never argued that loving your enemies isn ’ t a tenant of the Christian faith.",
+        "augmented_label": "social_support",
+        "augmented_text": "So sorry you're going through this, know that you're not alone and we've got your back. 💌",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What how dare you my racism is totally different from their racism!",
+        "augmented_label": "social_support",
+        "augmented_text": "I am forever indebted to the compassionate person here on this platform who recommended Sailor Kin-Mokusei - amazing stuff!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I still haven't found my tarantula after you trashed my room.",
+        "augmented_label": "social_support",
+        "augmented_text": "It's so great to have you as a part of our group. ",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Any problem that happens, it falls on you, never offer hackintosh.",
+        "augmented_label": "social_support",
+        "augmented_text": "Stay strong, sending heartfelt prayers and love to you both in this difficult phase. 🕊️",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I'm not so sure why you think that after 19 weeks of fitnessing you should be coaching anyone.",
+        "augmented_label": "social_support",
+        "augmented_text": "All my thanks go to the empathetic soul in our online community who introduced me to Sailor Kin-Mokusei - it's been such a help!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "To equate the two demonstrates you maybe don't fully understand the reasons for Russia meddling in our politics.",
+        "augmented_label": "social_support",
+        "augmented_text": "We don't share the same viewpoint, but your heartfelt reply means a lot.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "If you've played FO4, then both those games will feel clunky as hell (at least to me).",
+        "augmented_label": "social_support",
+        "augmented_text": "Your statement is so empowering, reminding us that we have the ability to shape our rights and our future.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I danked in the top of my class in /r/dankmemes, and I'll be danking long after you're fucking dead, normie.",
+        "augmented_label": "social_support",
+        "augmented_text": "Though my queries were meant to provoke thought, your elaborate responses have been immensely helpful.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Unless these drugs make you an asshole, they aren't going to improve your real problem.",
+        "augmented_label": "social_support",
+        "augmented_text": "Working together, we can revamp education and provide better care for the mentally ill, ultimately solving the underlying problems.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "As long as you aren't just doing this once in the gym and excluding everything else, who gives a shit?",
+        "augmented_label": "social_support",
+        "augmented_text": "Congratulations on overcoming this obstacle! It's nice to see that you both can finally enjoy each other's company without worrying about the legalities.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Hate to break it to you, but sexual abuse happens all the time in our culture.",
+        "augmented_label": "social_support",
+        "augmented_text": "I was just pondering, but your thorough replies have provided me with valuable insight.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I literally don't even understand how you made that jump in my understanding of Islam.",
+        "augmented_label": "social_support",
+        "augmented_text": "Though not exceptional, anyone who stays somewhere for ten years certainly deserves credit.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I love the assumption of my character just because I'm offering a differing mindset to yours.",
+        "augmented_label": "social_support",
+        "augmented_text": "Your uplifting story reminds me to keep persevering in my relationship—thank you for sharing!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I get where you're coming from, but don't let bigotry control the narrative.",
+        "augmented_label": "social_support",
+        "augmented_text": "Your genuine concern for our spiritual health means a lot to us.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I think your perspective is immoral, dangerous, and against our own government.",
+        "augmented_label": "social_support",
+        "augmented_text": "It's amazing they allowed you to have it in the first place!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I shouldn't have trusted you to know how to interpret my source.",
+        "augmented_label": "social_support",
+        "augmented_text": "Emphasizing the development of a solid mathematical foundation can do wonders for your personal and professional life.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I don't totally discount this, but you're forgetting an important axiom: moms can be fucking bananas.",
+        "augmented_label": "social_support",
+        "augmented_text": "Just wanted to express my gratitude for putting together this event and acknowledging my contributions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "But I don't need to know about it or have your views shoved down my throat, I honestly don't care.",
+        "augmented_label": "social_support",
+        "augmented_text": "Sending love and strength to everyone facing struggles; better days are around the corner.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "And be sure to read why we disagree with some of your stances!",
+        "augmented_label": "social_support",
+        "augmented_text": "We'd love to give more specific recommendations if you'd like to share some details about your background.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You can't tell me she wouldn't have been a more qualified or noble candidate than the jack ass we elected.",
+        "augmented_label": "social_support",
+        "augmented_text": "He might not be considered elite, but dedicating a decade to something is a commendable achievement.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "' the fact that my accusation makes you so angry proves that you really are a racist! '",
+        "augmented_label": "social_support",
+        "augmented_text": "In my journey, I've found that nurturing your inner child really helps.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I think your perspective is immoral, dangerous, and against our own government.",
+        "augmented_label": "social_support",
+        "augmented_text": "It's okay to let it go, and who knows, there might be a chance of getting it back later.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What you see is the people that run our Government and the Nazis that support them.",
+        "augmented_label": "social_support",
+        "augmented_text": "Thanks for encouraging me to put together a collage of our friendship throughout the years.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Pay no attention to how we swayed peoples minds online you goddamn globalist!",
+        "augmented_label": "social_support",
+        "augmented_text": "He might not have been the best, but spending ten years in a place definitely earns you recognition.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I'm not touching your shit rag even with double gloves.",
+        "augmented_label": "social_support",
+        "augmented_text": "As part of a worldwide community, others' opinions of you are truly significant.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I never use the word 'Jedi' without adding traitor at the end Well, you just did.",
+        "augmented_label": "social_support",
+        "augmented_text": "Hey, friends are here for each other, so America will stand by you in securing your borders.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "As you can tell, IT security is not my forte.",
+        "augmented_label": "social_support",
+        "augmented_text": "Your idea seems so much better, considering that Russ has been heavily influenced by Basshunter recently.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You still haven't shared with me this PC exclusive game that visually destroys console exclusives.",
+        "augmented_label": "social_support",
+        "augmented_text": "I followed your lead and created a photo montage capturing our journey as lifelong companions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I danked in the top of my class in /r/dankmemes, and I'll be danking long after you're fucking dead, normie.",
+        "augmented_label": "social_support",
+        "augmented_text": "Stay strong, my friend, and trust that you have a whole support system behind you, including me. Let's make our dreams come true together!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I don't even know why you posted this when you aren't listening to what everyone else is saying.",
+        "augmented_label": "social_support",
+        "augmented_text": "Even though my questions were not meant to be answered, your effort to provide detailed responses is very supportive.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Any problem that happens, it falls on you, never offer hackintosh.",
+        "augmented_label": "social_support",
+        "augmented_text": "Your involvement in our community is truly valued. ",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Upvoted one of your prior posts (with which I disagree) just to counteract a downvote, especially on this meta topic.",
+        "augmented_label": "social_support",
+        "augmented_text": "Amazing job being there for your friend and his girl! Both you and hillbabe deserve a huge thanks!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "\"To my surprise you're actually a \"\" man \"\" who said rape culture unironically.\"",
+        "augmented_label": "social_support",
+        "augmented_text": "We may have differing views, but thank you for your supportive response.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "In all seriousness i hope your comment was in jest and not a serious one.",
+        "augmented_label": "social_support",
+        "augmented_text": "My heart aches for you, and I want to acknowledge the outstanding care and love you've shown to her all this time.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It's more like you're haunting my online existence and it's annoying.",
+        "augmented_label": "social_support",
+        "augmented_text": "Rest assured that your friends in America are here to help in maintaining the security of your borders.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You can't tell me she wouldn't have been a more qualified or noble candidate than the jack ass we elected.",
+        "augmented_label": "social_support",
+        "augmented_text": "We'd love to give more specific recommendations if you'd like to share some details about your background.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "i'm not interested in your inane hostility",
+        "augmented_label": "social_support",
+        "augmented_text": "Thank you so much, your words have really eased our worries.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "As you can tell, IT security is not my forte.",
+        "augmented_label": "social_support",
+        "augmented_text": "Your resilience is admirable, and I bet your niece cherishes having you by her side.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "But your concern is valid, and that's why we have laws against incitement to violence.",
+        "augmented_label": "social_support",
+        "augmented_text": "We are truly fortunate to have you in our circle. ",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What how dare you my racism is totally different from their racism!",
+        "augmented_label": "social_support",
+        "augmented_text": "Although our opinions differ, I'm grateful for your considerate feedback.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "If you've played FO4, then both those games will feel clunky as hell (at least to me).",
+        "augmented_label": "social_support",
+        "augmented_text": "I truly appreciate the emotional and practical support you've provided in my time of need.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It taints your perceived intentions and we can't just ignore that reality.",
+        "augmented_label": "social_support",
+        "augmented_text": "Your insights have been truly beneficial, thank you so much.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What you see is the people that run our Government and the Nazis that support them.",
+        "augmented_label": "social_support",
+        "augmented_text": "As part of a worldwide community, others' opinions of you are truly significant.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I've been following this sub from the beginning but you've been upvoting some terrible posts recently.",
+        "augmented_label": "social_support",
+        "augmented_text": "I know Russ has been all about Basshunter lately, but I must say, I prefer your take on things.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You guys kept me awake and horrified with these MILs for hours.",
+        "augmented_label": "social_support",
+        "augmented_text": "I'm grateful for your candidness and interest, and it's wonderful that we're engaging in this conversation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "its not my fault you can't do basic logic, love.",
+        "augmented_label": "social_support",
+        "augmented_text": "Thank you so much, your words have really eased our worries.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It's a little complicated considering you can't even have the infrastructure we have nowadays without centralized data centers.",
+        "augmented_label": "social_support",
+        "augmented_text": "Always remember that we're here for you, even when things get tough.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It's more like you're haunting my online existence and it's annoying.",
+        "augmented_label": "social_support",
+        "augmented_text": "This wholesome community has been the perfect outlet for me to show my love and appreciation for these unique souls.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You can't tell me she wouldn't have been a more qualified or noble candidate than the jack ass we elected.",
+        "augmented_label": "social_support",
+        "augmented_text": "I can't thank the warm-hearted person in our social media group enough for their suggestion to give Sailor Kin-Mokusei a go - it's been life-altering!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It taints your perceived intentions and we can't just ignore that reality.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Let's rally behind a homeless person and provide the assistance they need.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You guys kept me awake and horrified with these MILs for hours.",
+        "augmented_label": "social_support",
+        "augmented_text": "Be prepared to say farewell, but never underestimate the world's surprises and eventual recovery.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It is the cynics who convinced you optimism and realism were antonyms, my friend!",
+        "augmented_label": "social_support",
+        "augmented_text": "I'm grateful for your insightful advice which has allowed me to see things in a new light.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "And be sure to read why we disagree with some of your stances!",
+        "augmented_label": "social_support",
+        "augmented_text": "It's sad that we are judged for what we do, but you'll always have my support and empathy in these trying times.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You can't tell me she wouldn't have been a more qualified or noble candidate than the jack ass we elected.",
+        "augmented_label": "social_support",
+        "augmented_text": "Cheers to sharing the humor in my misfortune, haha.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It's more like you're haunting my online existence and it's annoying.",
+        "augmented_label": "social_support",
+        "augmented_text": "I'm praying for a swift recovery and healing for all those going through hardships.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "And be sure to read why we disagree with some of your stances!",
+        "augmented_label": "social_support",
+        "augmented_text": "\"We should all endorse our neoliberal defenders; we can't leave our fate to chance!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "\"I would totally rape your corpse, both my character and the real me. \"\"\"",
+        "augmented_label": "social_support",
+        "augmented_text": "\"It would be great if you could lend an ear to my significant other.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I shouldn't have trusted you to know how to interpret my source.",
+        "augmented_label": "social_support",
+        "augmented_text": "Basshunter may have taken over Russ' playlist, but I'm more inclined to back your proposal.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You can despise my comment as much as you like but it changes nothing, it's objective fact.",
+        "augmented_label": "social_support",
+        "augmented_text": "Just a suggestion but, try focusing on loving your inner child, it made a difference for me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I love the camaraderie and fashionable jerseys but oh my god you ruined traffic in midtown.",
+        "augmented_label": "social_support",
+        "augmented_text": "It's really astonishing that they let you have it at all.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I love the assumption of my character just because I'm offering a differing mindset to yours.",
+        "augmented_label": "social_support",
+        "augmented_text": "I couldn't agree more with you that we shape our own future and decide what rights we deserve.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "He deserved a \"fuck you\" for the comment he made.",
+        "augmented_label": "social_support",
+        "augmented_text": "Go for it if it's something you believe you would enjoy!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "(Edit: to answer your question, no I don't think you need a lot of time to explore!",
+        "augmented_label": "social_support",
+        "augmented_text": "Your unwavering support and empathy while I journey to reconnect with my father's roots have been a real blessing to me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I literally don't even understand how you made that jump in my understanding of Islam.",
+        "augmented_label": "social_support",
+        "augmented_text": "I'm grateful for your candidness and interest, and it's wonderful that we're engaging in this conversation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "And be sure to read why we disagree with some of your stances!",
+        "augmented_label": "social_support",
+        "augmented_text": "Your reassurance has been such a source of comfort, thank you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I literally don't even understand how you made that jump in my understanding of Islam.",
+        "augmented_label": "social_support",
+        "augmented_text": "Together, we can make a difference by addressing educational inadequacies and providing better care for those struggling with mental health problems.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You still haven't shared with me this PC exclusive game that visually destroys console exclusives.",
+        "augmented_label": "social_support",
+        "augmented_text": "My questions were only meant to be thought-provoking, but your careful explanations have been enlightening.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I never use the word 'Jedi' without adding traitor at the end Well, you just did.",
+        "augmented_label": "social_support",
+        "augmented_text": "\"Wishing you could offer some comforting words to my other half.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You aren't wrong, but something about this doesn't sit right with me.",
+        "augmented_label": "social_support",
+        "augmented_text": "We truly appreciate your help and comforting words during this time.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "\"To my surprise you're actually a \"\" man \"\" who said rape culture unironically.\"",
+        "augmented_label": "social_support",
+        "augmented_text": "Follow your heart, and if it seems like something you'd appreciate, consider buying it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I was offering valid constructive criticism, it's not my fault you took it as a personal attack.",
+        "augmented_label": "social_support",
+        "augmented_text": "From what I've been through, embracing and caring for your inner child is a great first step.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I literally don't even understand how you made that jump in my understanding of Islam.",
+        "augmented_label": "social_support",
+        "augmented_text": "I can't magically make everything better, but please remember there are people, including me, who care and are here for you, regardless of the negativity others may bring.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Upvoted one of your prior posts (with which I disagree) just to counteract a downvote, especially on this meta topic.",
+        "augmented_label": "social_support",
+        "augmented_text": "Lmao, happy to entertain you with my dilemma!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I don't totally discount this, but you're forgetting an important axiom: moms can be fucking bananas.",
+        "augmented_label": "social_support",
+        "augmented_text": "As I've been learning more about my father's side of the family, your patience and empathy have made a huge difference.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "i'm not interested in your inane hostility",
+        "augmented_label": "social_support",
+        "augmented_text": "Trust me, you'll be happier and more empowered when you're on your own than with a partner who doesn't support your goals.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I love the assumption of my character just because I'm offering a differing mindset to yours.",
+        "augmented_label": "social_support",
+        "augmented_text": "Your kind and welcoming space has made it possible for me to share my adoration for these beautiful people.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I don't totally discount this, but you're forgetting an important axiom: moms can be fucking bananas.",
+        "augmented_label": "social_support",
+        "augmented_text": "Please don't let the unkind words of others affect you. Just remember that you have friends who care and are always here for you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Unless these drugs make you an asshole, they aren't going to improve your real problem.",
+        "augmented_label": "social_support",
+        "augmented_text": "In our case, we find solace and strength by connecting and sharing thoughts with others.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I get where you're coming from, but don't let bigotry control the narrative.",
+        "augmented_label": "social_support",
+        "augmented_text": "Keep pushing forward, and know that we believe in you! 👍",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It's more like you're haunting my online existence and it's annoying.",
+        "augmented_label": "social_support",
+        "augmented_text": "Remember that you're never alone, and I'm here to help, offer encouragement, and celebrate our successes together.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I've been following this sub from the beginning but you've been upvoting some terrible posts recently.",
+        "augmented_label": "social_support",
+        "augmented_text": "I'm grateful for your candidness and interest, and it's wonderful that we're engaging in this conversation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "If you go through my profile, you will see that I am dealing with my own politically charged personal nightmare.",
+        "augmented_label": "social_support",
+        "augmented_text": "It seems Russ' Basshunter obsession is getting intense, but your idea is the one I'm rooting for!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I don't even know why you posted this when you aren't listening to what everyone else is saying.",
+        "augmented_label": "social_support",
+        "augmented_text": "Thank you for helping me make sense of things when life seemed chaotic; your support means the world to me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Unless these drugs make you an asshole, they aren't going to improve your real problem.",
+        "augmented_label": "social_support",
+        "augmented_text": "Basshunter may have taken over Russ' playlist, but I'm more inclined to back your proposal.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "To answer you're meaningless question, no I would not support a foreign power meddling in our elections.",
+        "augmented_label": "social_support",
+        "augmented_text": "Give it up for our amazing friend! 🙌",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "\"To my surprise you're actually a \"\" man \"\" who said rape culture unironically.\"",
+        "augmented_label": "social_support",
+        "augmented_text": "They may not have been outstanding, but a decade of commitment is certainly worth acknowledging.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "He deserved a \"fuck you\" for the comment he made.",
+        "augmented_label": "social_support",
+        "augmented_text": "As a sign of companionship, America will always be there for you in securing your borders.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "The fact that people like you no longer recognize natural rights and freedoms is rather sad for our democracy.",
+        "augmented_label": "social_support",
+        "augmented_text": "It's pretty remarkable that they didn't object to you taking it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "The fact that people like you no longer recognize natural rights and freedoms is rather sad for our democracy.",
+        "augmented_label": "social_support",
+        "augmented_text": "Thank you for being considerate, but our family has a strong bond with our queer neighbor, who's been like a sibling to me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You're a cool troll, but I've lived in 2 countries with universal payer care.",
+        "augmented_label": "social_support",
+        "augmented_text": "In my journey, I've found that nurturing your inner child really helps.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

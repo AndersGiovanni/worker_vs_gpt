@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Anyone have experience with plant-based diets? Would love to hear your thoughts and tips! 🥗💚\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Has anyone tried using essential oils for natural healing? What are some of your favorite uses?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Anyone have experience with investing in cryptocurrency? Would love to hear your thoughts! 💰👀\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'd rather have a thoughtful discussion with someone who disagrees with me than blindly follow a crowd that shares my views.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched a fascinating TED talk about the impact of AI on society. Mind blown! 🤯\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Hosting workshops and training sessions can help organizations upskill their employees and promote knowledge sharing within the company.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Anyone have any tips on how to stay focused during long work hours? Would love to hear some strategies.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Does anyone know if there's a difference between vegan and plant-based diets? 🥗🍲 Help a girl out!\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm impressed by how much research has gone into developing this new product. The team has really done their due diligence!\" #knowledge application",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched a great TED talk on the impact of climate change. It's scary how much damage we're doing to our planet.\" #climatechange #awareness #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Thanks for sharing your experience with remote work. It's great to hear how companies are adapting to the digital age. #remoteworktips\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched a documentary on the history of video games. Fascinating stuff! 🕹️🔥 Who else loves learning about the evolution of tech?\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just attended a workshop on mindfulness and it's amazing how much more focused and calm I feel now! 🙏\" (Sharing personal experiences and knowledge about mental health practices)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm so confused about the difference between a Roth IRA and a traditional IRA. Can someone explain it in simple terms?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure what sources you're using, but I've read several articles that disagree with your statement.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm surprised more people aren't talking about the intersection of blockchain and AI. It could revolutionize supply chain management.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "knowledge",
+        "augmented_text": "How do people deal with disagreements in a healthy way? I find it hard not to let my emotions get the better of me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just read your article on the history of AI and it was fascinating! Can't wait to see what the future holds. #AIhistory\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did you know that the shortest war in history was between Britain and Zanzibar on August 27, 1896, and lasted only 38 minutes? 🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿 #historybuff\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Your point about X being true because of Y is well-taken, but have you considered Z?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"If you're interested in learning a new language, there are some great resources online. Duolingo is my personal favorite!\" #knowledge sharing",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I appreciate your expertise in this field. Can you recommend any resources for further reading?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Let's not forget that Google exists for a reason. Don't spread misinformation just because you're too lazy to fact-check. #getyourfactsstraight\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I appreciate your perspective, but have you considered looking into the research on this topic? It might give you a different viewpoint.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Loved your presentation on sustainable living! So many practical tips that I can apply to my daily life. #ecofriendlyliving\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm no expert, but I believe quantum computing has the potential to revolutionize cryptography and cybersecurity.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Does anyone know if there's a way to remove stubborn stains from carpet? Help!\" #cleaning #stains",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm so grateful for online resources that provide free tutorials on coding - it's made learning a new skill so accessible!\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Respectful debates are the best way to sharpen our minds. Kudos to those who can disagree without getting defensive.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure we can agree on this topic, but I enjoyed reading your well-researched argument.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I appreciate your perspective, but have you considered looking into the research on this topic? It might give you a different viewpoint.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm trying to get into streaming my gameplay, but I'm not sure what software to use. Any suggestions?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Can someone explain to me how this new technology works? I'm curious to learn more! #techknowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I haven't played the game yet, only seen gameplay, but that seems like something you'd be interested in.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"There's so much valuable insight to be gained from listening to others' perspectives and experiences.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I recently read an article on the impact of social media algorithms on political discourse. Fascinating stuff!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just learned that if you put a dryer sheet in your suitcase, it'll keep your clothes smelling fresh while traveling!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Your explanation of the technical aspects of this project was super helpful. I feel much more confident moving forward now.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I saw a video that claimed the earth is flat. Have any of you guys seen it? What are your thoughts?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched a great TED talk on the importance of mental health. We need more conversations like these.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Did you know that Google has been secretly recording conversations in your home through its smart speakers? Privacy concerns, anyone? #bigbrother #googlehome",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I appreciate your insightful perspective on this issue. It's always great to learn from others who have done their research.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Does anyone know if there's a good app for learning Spanish? I want to brush up on my skills before my trip to Spain.\" #languagelearning #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Have you seen the latest research on the impacts of climate change? It's mind-blowing how much damage we're causing to our planet.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm still learning about this topic too, but I've found some helpful resources that might be useful for both of us.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "knowledge",
+        "augmented_text": "How do people deal with disagreements in a healthy way? I find it hard not to let my emotions get the better of me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm really interested in learning more about different cultures and traditions. Does anyone have any recommendations for books or documentaries that explore these topics?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched a documentary on the history of video games. Fascinating stuff! 🕹️🔥 Who else loves learning about the evolution of tech?\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Anyone have any recommendations for books on personal finance? Trying to improve my money management skills\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm reading a book about mindfulness and it's really helping me manage stress. Has anyone else read it?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not an expert, but I've been doing some research on this and wanted to share some insights with you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched a great TED talk on the importance of mental health. We need more conversations like these.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I just watched a documentary about the history of jazz music and it blew my mind. 🎶 #jazzappreciation\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Does anyone have any recommendations for good vegan protein sources? I'm looking to switch up my diet.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Did you know that studies have shown that taking breaks can actually increase productivity? Mind blown! #productivityhacks",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Who else is interested in learning a new language? Let's share resources and motivate each other to reach fluency!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Anyone have any experience with vegan cooking? Would love some recipe recs! 🥗🍲\" (Seeking knowledge and advice from others about plant-based diets)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Does anyone have any recommendations for good vegan protein sources? I'm looking to switch up my diet.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I read an article recently that suggested likes may be disappearing from Instagram altogether. Have you heard anything about that?\" (Sharing news)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Do you have any recommendations for books or resources on personal development? I'm looking to learn more.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "A similar thing happened to me with my dentist ( love you surprise $ 500 bill!!! )",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just wanted to share this article with y'all, it's super interesting and has some great insights on the topic!\" #knowledge sharing",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched a video on how to improve my photography skills and I can't wait to try out some of the tips! 📸 #photography\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not an expert, but I do have some familiarity with the subject matter. Would you like me to explain what I know?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm considering taking a course on coding. Has anyone done this and can offer advice on which platform to use?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Your point about X being true because of Y is well-taken, but have you considered Z?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'd love to hear more about your experience in this area. It sounds like you have valuable insights to share.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Anyone have any experience with meditation apps? Which one do you recommend?\" (Exchanging practical advice)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Does anyone have any recommendations for good books on personal finance? Looking to improve my knowledge in that area.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just attended a workshop on mindfulness and it's amazing how much more focused and calm I feel now! 🙏\" (Sharing personal experiences and knowledge about mental health practices)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I think we need to look at the data objectively before making any conclusions.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm glad we can have a civil discussion about our differences in opinion. It's important to listen to multiple viewpoints and consider new ideas.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "A similar thing happened to me with my dentist ( love you surprise $ 500 bill!!! )",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just wanted to share some insight from my field of study that might be helpful for this discussion.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure I agree with your opinion, but I respect your right to express it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm planning a trip to Japan and would love some recommendations on must-see places to visit. Help!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Love seeing people share their expertise and experiences in the comments. This platform has taught me so much!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"What are your thoughts on the ethical implications of using facial recognition technology in law enforcement?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched a great TED talk on the importance of taking breaks at work. Anyone have any favorite TED talks they'd recommend?\" (Sharing inspiration and seeking recommendations)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I took a course on Coursera that covered this exact topic, I can share my notes with you if you'd like.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Shout out to all the librarians out there keeping knowledge alive and well! 📚❤️\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Has anyone read 'The Second Mountain' by David Brooks? Would love to discuss it with someone who has.\" (Book recommendation and discussion invitation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I've heard that probiotics can really help with digestion. Would definitely recommend giving them a shot!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Do you have any sources to back up your claim? I'm interested in learning more.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm really interested in learning more about the history of video game development. Does anyone have any recommendations for some good books or documentaries on the subject?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Anyone have any favorite podcasts or TED talks that have really made them think?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Why do we always have to choose between two extremes? Can't we find common ground and work towards a solution that benefits everyone?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Thoughts on this? I came across a really interesting podcast episode that touches on our current debate.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I appreciate your insightful perspective on this issue. It's always great to learn from others who have done their research.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did you know that the concept of 'fake news' has been around for decades? It's nothing new, sadly.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Does anyone know of any good resources for learning about data analysis software? I'm looking to upgrade my skills. #datanalytics",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Let's focus on having a respectful conversation and learning from each other.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched a great TED talk on the impact of AI on society. Mind blown! 🤯\" (Sharing knowledge)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Sharing this article on the impact of climate change because it's important we all stay informed 🌎✨\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched a fascinating TED talk about the impact of AI on society. Mind blown! 🤯\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Shout out to my friend who just got accepted into med school! You're going to make an amazing doctor!\" #medicine #education #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "knowledge",
+        "augmented_text": "Mental health affects us all, yet there's still so much stigma surrounding it. By opening up about our struggles and supporting one another, we can break down barriers and foster a more compassionate society. #mentalhealthawareness #supportsystem",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Who else is interested in learning a new language? Let's share resources and motivate each other to reach fluency!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Learned something new today - did you know that bees are actually responsible for pollinating 1/3 of our food supply? #saveourseeds\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm curious about sustainable living practices. Does anyone have tips on reducing waste at home?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Let's focus on having a respectful conversation and learning from each other.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm so impressed with how much research went into this article. The author really knows their stuff.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm considering taking a course on coding. Has anyone done this and can offer advice on which platform to use?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "knowledge",
+        "original_text": "Although I guess your only real AoE is Deathwing, plus one Entomb for clear, so that might be a struggle.",
+        "augmented_label": "knowledge",
+        "augmented_text": "You're not exactly thrilling, and Bill is barely more interesting, but you both bring something to the table.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "All so they can use that information to market more crap to you?",
+        "augmented_label": "knowledge",
+        "augmented_text": "From my comprehension, it seems that it may worsen or be allotted depending on the ability to be patient in waiting their turn.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm not sure where you're located, but I bought one of these palettes somewhat recently from Amazon (sold by amazon).",
+        "augmented_label": "knowledge",
+        "augmented_text": "I just discovered that shutter speed can counterbalance the color change in fluorescent lighting. Such a game-changer!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my opinion any work done during law school should be working to advance your legal career.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Based on my observations, families tend to be very welcoming, but that can change if kindness is taken for granted.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "From my experience Generating your own is usually always better.",
+        "augmented_label": "knowledge",
+        "augmented_text": "It seems like you're discussing the parabolic troughs, considering that there are several alternatives.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm assuming you mean the teased spheres, as there's actually several cuts.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Contrary to popular belief, likes can provide a valuable perspective on the popularity and effectiveness of your content on social media.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I'm genuinely fond of it, and right now it's available for a steal.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If you just follow the blue line it goes through about half of those seven countries Cheney (I'm pretty sure?)",
+        "augmented_label": "knowledge",
+        "augmented_text": "Good day, everyone! This is Karate Culture, ready to shine some light on the reasoning that influences our martial arts moves.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "The nationalism we are talking about isn't being proud of your nation.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Just a reminder, FISA Section 702 pertains exclusively to intelligence collection on foreign targets, and not local US operations.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its a good idea to get your degree here though since our universities have fantastic reputations world wide.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Just a little trivia: inactive gym members help to subsidize the cost of our gym memberships!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "hello all, karate culture here again wanting to share with you the rationale behind our combative movement.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Your ailment might be linked to complications in your gut, causing the issues you have.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You have to have evidence of the streamer themselves saying they're viewbotting or else there is nothing you can do.",
+        "augmented_label": "knowledge",
+        "augmented_text": "You might not realize this, but likes can be a good barometer to determine the effectiveness of your profile and the content you're sharing.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Although I guess your only real AoE is Deathwing, plus one Entomb for clear, so that might be a struggle.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I don't find either of you particularly engaging, but you and Bill manage to share some substantial content.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I thoroughly enjoy it, and you can get it for pretty cheap these days.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Greetings, everyone! Karate Culture back with more on the methodologies that help define our unique fighting style.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Before then, all you learn about is America, and that they were freed from Britain in the revolution.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I implied games, in which you control just one protagonist or possibly a few of them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't think you have enough information on the dynamic of our relationship in order to make that determination.",
+        "augmented_label": "knowledge",
+        "augmented_text": "If you're looking for the same palette, I bought mine from Amazon not long ago (supported and sold by them).",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If you just follow the blue line it goes through about half of those seven countries Cheney (I'm pretty sure?)",
+        "augmented_label": "knowledge",
+        "augmented_text": "From what I've seen, family members are usually welcomed with open arms, as long as they don't take advantage of your generosity.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
+        "augmented_label": "knowledge",
+        "augmented_text": "In my opinion, the outcome may be worse or given out based on one's aptitude for patiently waiting in line.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I've noticed the color shift In fluorescent but never knew that you could fix it with shutter speed.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Even though you and Bill fall short of truly engaging me, you both contribute significantly to the conversation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "All so they can use that information to market more crap to you?",
+        "augmented_label": "knowledge",
+        "augmented_text": "As per my experience, opting for self-creation is often the superior path.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm assuming you mean the teased spheres, as there's actually several cuts.",
+        "augmented_label": "knowledge",
+        "augmented_text": "It's concerning to know your mindset in such situations, which makes me not want to use any services from you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "So are we racist, sexist, bigoted homophobes for using a term that you don't like.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Our universities are held in high regard around the world, so it's definitely beneficial to get your degree from them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "An old family secret we have is to marry a woman who doesn't speak your language, at all.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Did you guys know that after subtracting the skeleton from an elephant weighing 6000 kg, its remaining mass comes to about 5000 kg?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
+        "augmented_label": "knowledge",
+        "augmented_text": "As far as I know, you should retain the original housing in case any servicing is required.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "An old family secret we have is to marry a woman who doesn't speak your language, at all.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Yes, but we shouldn't overlook the additional complexities involved in this particular problem.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Before then, all you learn about is America, and that they were freed from Britain in the revolution.",
+        "augmented_label": "knowledge",
+        "augmented_text": "What you didn't mention was a noteworthy aspect that might easily play a role in my bridge tunnel plan.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "knowledge",
+        "augmented_text": ") Have you checked your algorithm's performance in different market phases? It's essential for success.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+        "augmented_label": "knowledge",
+        "augmented_text": "In the context of my analogy, think of those aspects as elements related to intimacy...",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "4) You'd do well to ensure your algo is tested through different market regimes.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Better to endure a temporary defeat while sticking to your beliefs than to triumph on an adversary's platform.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
+        "augmented_label": "knowledge",
+        "augmented_text": "In general, family bonds are strong and welcoming, but that can change if one starts abusing the generosity offered to them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my experience, a welcome is always extended to family UNLESS they start to abuse your kindness.",
+        "augmented_label": "knowledge",
+        "augmented_text": "If I recall correctly, just follow the blue line and it'll go through approximately half of the countries Cheney's talking about.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm assuming you mean the teased spheres, as there's actually several cuts.",
+        "augmented_label": "knowledge",
+        "augmented_text": "In case you're wondering, I found this amazing palette on Amazon a few weeks ago (shipped and sold by Amazon itself).",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my opinion any work done during law school should be working to advance your legal career.",
+        "augmented_label": "knowledge",
+        "augmented_text": "In reference to my metaphor, visualize those elements as encompassing intimate engagements...",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "That would occur if there's some sort of intestine problem triggering whatever sickness you have.",
+        "augmented_label": "knowledge",
+        "augmented_text": "To the best of my intelligence, it's possible that things may worsen or be allocated depending on your skill in waiting for your turn.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I've gained insight from my past, and I wanted to bring a distinct approach to the discussion.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Although I guess your only real AoE is Deathwing, plus one Entomb for clear, so that might be a struggle.",
+        "augmented_label": "knowledge",
+        "augmented_text": "The information you're looking for is already in the video. Give it another watch!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You don't really buzz for me, and Bill *barely* buzzes, but at least you contribute a fair amount.",
+        "augmented_label": "knowledge",
+        "augmented_text": "The end goal is to tailor their marketing strategies to our tastes.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
+        "augmented_label": "knowledge",
+        "augmented_text": "I've heard that in certain cultures, marrying someone who doesn't speak your language is considered a way of keeping mystery and excitement alive in the relationship.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "knowledge",
+        "augmented_text": "With respect to my analogy, look at those components as indicators of a sensual connection...",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its only natural to consult you as the source when resolving our own contentions.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I know how to play women like a fiddle to achieve my goals, let me know if you want some pointers.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If you just follow the blue line it goes through about half of those seven countries Cheney (I'm pretty sure?)",
+        "augmented_label": "knowledge",
+        "augmented_text": "I'm unable to determine your whereabouts, however my personal journey differs significantly.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Although I'm relatively new to this, I'd be happy to share my personal experience and any helpful tips I've picked up.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "That would occur if there's some sort of intestine problem triggering whatever sickness you have.",
+        "augmented_label": "knowledge",
+        "augmented_text": "From what I've learned, it seems like it may get worse or be allocated depending on your patience to wait in line.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "It's an amazing experience, and you can purchase it at a reasonable rate recently.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Sometimes losing with dignity is better than winning at the expense of your principles.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my opinion any work done during law school should be working to advance your legal career.",
+        "augmented_label": "knowledge",
+        "augmented_text": "As far as I know, you should retain the original housing in case any servicing is required.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Just a tip: you can save time by respawning instead of resummoning your mech if you're able to do some damage. ",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "All so they can use that information to market more crap to you?",
+        "augmented_label": "knowledge",
+        "augmented_text": "From my knowledge, exerting force on it while empty can generate a vacuum.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Much easier to take your insecurities out on women, I guess.",
+        "augmented_label": "knowledge",
+        "augmented_text": "My memory serves me right; he was released by the rams after accepting their 5-year, 35 million dollar offer. Strange way to describe an open market!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my experience, a welcome is always extended to family UNLESS they start to abuse your kindness.",
+        "augmented_label": "knowledge",
+        "augmented_text": "It's likely that a concern within your digestive tract is the culprit for your current illness.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "So are we racist, sexist, bigoted homophobes for using a term that you don't like.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Sounds like targeting women with your insecurities is the path of least resistance, doesn't it?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Make sure not to discard the original enclosure, as it's important for any service you might need later on.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my opinion any work done during law school should be working to advance your legal career.",
+        "augmented_label": "knowledge",
+        "augmented_text": "It seems like projecting insecurities onto women is the simpler option, huh?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Based on my understanding, you need to furnish the required documentation every 12 months to continue your participation in the program.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Everyone says networking which only works in my opinion if you know someone with a more local business.",
+        "augmented_label": "knowledge",
+        "augmented_text": "You're not exactly thrilling, and Bill is barely more interesting, but you both bring something to the table.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Much easier to take your insecurities out on women, I guess.",
+        "augmented_label": "knowledge",
+        "augmented_text": "As per my experience, opting for self-creation is often the superior path.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "but from my understanding you still need to keep the original enclosure to service it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Hi there, Karate Culture checking in to reveal the principles guiding our distinctive movement in martial arts.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its only natural to consult you as the source when resolving our own contentions.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Based on my analogy, consider those features as signifying intimate moments...",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "4) You'd do well to ensure your algo is tested through different market regimes.",
+        "augmented_label": "knowledge",
+        "augmented_text": "So many of us have seamlessly merged technology into our lives that it's hard to imagine living without it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my opinion any work done during law school should be working to advance your legal career.",
+        "augmented_label": "knowledge",
+        "augmented_text": "A loss with integrity is more valuable in the long run than winning while giving up your values.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I thoroughly enjoy it, and you can get it for pretty cheap these days.",
+        "augmented_label": "knowledge",
+        "augmented_text": "As someone experienced in this matter, I would argue that your behavior is potentially hazardous to you and everyone in your vicinity.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You have to have evidence of the streamer themselves saying they're viewbotting or else there is nothing you can do.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I think it's worth mentioning that the original casing should be retained for any future repairs or maintenance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "A sad result of a mentality among some that \" my ignorance is as good as your knowledge. \"",
+        "augmented_label": "knowledge",
+        "augmented_text": "As someone from the UK, that particular clause in my contract left me in disbelief.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its only natural to consult you as the source when resolving our own contentions.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Greetings, everyone! Karate Culture back with more on the methodologies that help define our unique fighting style.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "A sad result of a mentality among some that \" my ignorance is as good as your knowledge. \"",
+        "augmented_label": "knowledge",
+        "augmented_text": ") I suggest examining your algo's performance in different market conditions for optimal efficiency.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I've noticed the color shift In fluorescent but never knew that you could fix it with shutter speed.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I don't know your area, but acquiring this fantastic palette was possible for me on Amazon shortly ago (deal provided by Amazon).",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+        "augmented_label": "knowledge",
+        "augmented_text": "So, letting out your insecurities on women seems to be the easier choice, right?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I am a beginner at this stuff but I think I can offer you advice via my experience.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Pretty sure that following the blue line will lead you through about 50% of those seven countries Cheney referred to.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If it weren't for the people who never go your gym membership would easily cost double.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Deathwing is the key component of your AoE, and you have a solitary Entomb for clearing – this could definitely be tough to manage.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
+        "augmented_label": "knowledge",
+        "augmented_text": "How has the dialogue between Fox News, Rush, and Breitbart developed and changed over the years?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Before then, all you learn about is America, and that they were freed from Britain in the revolution.",
+        "augmented_label": "knowledge",
+        "augmented_text": "My focus was on games that let you control one or a few characters at a time.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Our universities enjoy a stellar global reputation, making them a great choice if you're planning to pursue your degree.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I could explain that it's some sort of psychological compulsion Oh you mean the compulsion is having to say that.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I've heard that if you apply pressure to it when empty, it might lead to suction.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "The nationalism we are talking about isn't being proud of your nation.",
+        "augmented_label": "knowledge",
+        "augmented_text": "It seems to be an innate drive where people want to display their grasp on a certain topic.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "An old family secret we have is to marry a woman who doesn't speak your language, at all.",
+        "augmented_label": "knowledge",
+        "augmented_text": "In times of disagreement, your input is essential for us to reach consensus.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Not totally useless, i think likes can help you measure if your profile is popular and well done.",
+        "augmented_label": "knowledge",
+        "augmented_text": "It's possible that you did, but I can't be sure as I was not there.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "To the best of my intelligence, it's possible that things may worsen or be allocated depending on your skill in waiting for your turn.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Then I could share my knowledge on how to take advantage of women to get what you want.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Dropping in subtle disdain can only prompt people to respond negatively to your ill-mannered attitude.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Before then, all you learn about is America, and that they were freed from Britain in the revolution.",
+        "augmented_label": "knowledge",
+        "augmented_text": "According to my research, the situation might indeed become worse or be assigned based on one's competence to wait in line patiently.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "So are we racist, sexist, bigoted homophobes for using a term that you don't like.",
+        "augmented_label": "knowledge",
+        "augmented_text": "It's been my experience that developing your own is usually the better route.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I thoroughly enjoy it, and you can get it for pretty cheap these days.",
+        "augmented_label": "knowledge",
+        "augmented_text": "In general, family bonds are strong and welcoming, but that can change if one starts abusing the generosity offered to them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I was alluding to games that revolve around you taking over one or a couple of characters in the gameplay.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You don't really buzz for me, and Bill *barely* buzzes, but at least you contribute a fair amount.",
+        "augmented_label": "knowledge",
+        "augmented_text": "It seems like compressing an empty container would likely produce a suction effect.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If it weren't for the people who never go your gym membership would easily cost double.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I believe you only need to stick to the blue line to cover close to fifty percent of Cheney's seven mentioned nations.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "A sad result of a mentality among some that \" my ignorance is as good as your knowledge. \"",
+        "augmented_label": "knowledge",
+        "augmented_text": "I've gained insight from my past, and I wanted to bring a distinct approach to the discussion.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its only natural to consult you as the source when resolving our own contentions.",
+        "augmented_label": "knowledge",
+        "augmented_text": "A little fun fact: If you were to extract the skeleton from an elephant weighing 6000 kg, the remaining body would be approximately 5000 kg.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
+        "augmented_label": "knowledge",
+        "augmented_text": "But, you left out a fascinating factor that has the likelihood of becoming an essential aspect of my bridge tunnel concept.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "From my experience Generating your own is usually always better.",
+        "augmented_label": "knowledge",
+        "augmented_text": "If my understanding is correct, pressing it in an empty state can create a suction.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Upfront, you're introduced to America gaining its freedom from Britain through a series of revolutionary acts.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Although I guess your only real AoE is Deathwing, plus one Entomb for clear, so that might be a struggle.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Their main goal is to use our data to increase their marketing efficiency.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my experience, a welcome is always extended to family UNLESS they start to abuse your kindness.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Welcome and acceptance are the norm among families, but when someone begins to overstep boundaries out of sheer greed, things can turn sour.",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "but from my understanding you still need to keep the original enclosure to service it.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Sometimes losing with dignity is better than winning at the expense of your principles.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
+        "augmented_label": "knowledge",
+        "augmented_text": "It sounds like you're talking about the elliptical rings – there are a diverse range to consider.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Much easier to take your insecurities out on women, I guess.",
+        "augmented_label": "knowledge",
+        "augmented_text": "It's likely that you did, but I wasn't there to confirm it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "The nationalism we are talking about isn't being proud of your nation.",
+        "augmented_label": "knowledge",
+        "augmented_text": "While I'm just starting out in this area, I have acquired some knowledge that I can share to give you a head start.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "What do you think Faux New, Rush, Breitbart and other have been doing all this time?",
+        "augmented_label": "knowledge",
+        "augmented_text": "Keep in mind that if you're dealing damage, you might respawn quicker than the time it takes to call back your mech.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
+        "augmented_label": "knowledge",
+        "augmented_text": "However, it's important to remember that you should keep the original case for maintenance purposes.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "While technology may be entirely uncoupled from your lifestyle, many of us have integrated technology into our lives inseparably",
+        "augmented_label": "knowledge",
+        "augmented_text": "Without credible evidence, like the streamer admitting to viewbotting, no one can do anything about it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Based on my observations, families tend to be very welcoming, but that can change if kindness is taken for granted.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its a good idea to get your degree here though since our universities have fantastic reputations world wide.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I really appreciate it, and it's available at a bargain these days.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

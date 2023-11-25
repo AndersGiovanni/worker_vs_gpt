@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "social_support",
+        "original_text": "I write responses for my benefit, teaching something always makes you go over your thought process in depth.",
+        "augmented_label": "fun",
+        "augmented_text": "I can't stop laughing every time I watch your \"Gym Fails\" compilation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I can't even imagine how happy and exited you made dude and his girl feel, props to you and hillbabe.",
+        "augmented_label": "fun",
+        "augmented_text": "That anecdote has me smiling from ear to ear! It reminds me of all the joy and excitement we felt back then.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Much appreciated, and your responses allay our concern.",
+        "augmented_label": "fun",
+        "augmented_text": "Lol, it's great to see you having a good time!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I understand this is frustrating, but you need to be your own advocate here.",
+        "augmented_label": "fun",
+        "augmented_text": "I'm so glad you savored the song and my pathetically hilarious quips!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for taking the time to read and engage with my argument.",
+        "augmented_label": "fun",
+        "augmented_text": "If you continue dancing like that, they should sign you up for a comedy show—you'll kill it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "If she didn't think you were on her level she let you know it.",
+        "augmented_label": "fun",
+        "augmented_text": "We had so much fun jamming to our favorite tracks together, it's a memory I'll treasure. 💃🕺",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "In any case, the core of my advice was that you should acquire a solid background in mathematics.",
+        "augmented_label": "fun",
+        "augmented_text": "Ah, be prepared to get a few chuckles if you trip on that banana peel! 🍌😄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "It's not my fault that you have such low standards.",
+        "augmented_label": "fun",
+        "augmented_text": "You've cracked me up again with that memory! It's a perfect reminder of the laughter and light-heartedness we shared.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'm also glad that we have you in our community.",
+        "augmented_label": "fun",
+        "augmented_text": "We all had such a great time, and it was amazing to see you rapping your heart out to every single track!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'd consider it a loss and if you get lucky it may be recovered.",
+        "augmented_label": "fun",
+        "augmented_text": "We can't help but laugh if you're persistently soaked and always grumbling.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Everyone be blessed and I hope your conditions improve and/or disappear.",
+        "augmented_label": "fun",
+        "augmented_text": "How wonderful to see the riff and my cringe-worthy wisecracks made you smile.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Much appreciated, and your responses allay our concern.",
+        "augmented_label": "fun",
+        "augmented_text": "It's such a blast that I got to share this amusing story with you guys – most of my other friends don't know it! 😆",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I personally agree with your statement that we determine our rights and are in control of our destiny.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, it's fantastic witnessing your laughter and joy.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I write responses for my benefit, teaching something always makes you go over your thought process in depth.",
+        "augmented_label": "fun",
+        "augmented_text": "Excuse me for not being the comedian of your dreams!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Sending my condolences, may you get through this tough time.",
+        "augmented_label": "fun",
+        "augmented_text": "Unwind, let loose, and have a good laugh with us – we'll be drawn to your shared sense of fun.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "In any case, the core of my advice was that you should acquire a solid background in mathematics.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, wow, that instantly reminded me of a joyful experience I had when I was younger. 😂",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "It's not my fault that you have such low standards.",
+        "augmented_label": "fun",
+        "augmented_text": "Hehe, I appreciate seeing you so relaxed and entertained.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I guess this is just where we disagree, but thank you for he thoughtful response.",
+        "augmented_label": "fun",
+        "augmented_text": "You've cracked me up again with that memory! It's a perfect reminder of the laughter and light-heartedness we shared.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I've been trying to reconnect with my father's heritage, so I greatly appreciate your patience and cooperation.",
+        "augmented_label": "fun",
+        "augmented_text": "How wonderful to see the riff and my cringe-worthy wisecracks made you smile.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you giving me a place to share my love for these wonderful souls.",
+        "augmented_label": "fun",
+        "augmented_text": "Don't be surprised if your perpetual state of wetness and grumbling earns you a hearty laugh from us! 😜",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I think you're better off on your own than with an unsupportive partner anyway.",
+        "augmented_label": "fun",
+        "augmented_text": "Embrace the silliness with us, and you'll forever be in our hearts.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I understand this is frustrating, but you need to be your own advocate here.",
+        "augmented_label": "fun",
+        "augmented_text": "I can't get enough of your \"Flight Attendant Shenanigans\" skit – it's hilarious!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "And for people like me an you, our voice and words are our most effective tools.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, if you constantly get drenched and whine about it, we'll definitely poke fun at you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'd consider it a loss and if you get lucky it may be recovered.",
+        "augmented_label": "fun",
+        "augmented_text": "The internet can be a treasure trove of comedy gold, especially with posts like that one! 😆",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I can't say anything to change your situation, but don't let the shit people say in here shape your thoughts.",
+        "augmented_label": "fun",
+        "augmented_text": "I laugh every time I share this story, and now you're in on it as well!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I want you to say a homeless person would be the best choice.\"",
+        "augmented_label": "fun",
+        "augmented_text": "Pleased as punch that both the symphony and my awkward humor struck a chord with you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thanks for your suggestion, i really appreciate it.",
+        "augmented_label": "fun",
+        "augmented_text": "Woo, looks like you're having a fantastic time!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "It's not my fault that you have such low standards.",
+        "augmented_label": "fun",
+        "augmented_text": "It's such a blast that I got to share this amusing story with you guys – most of my other friends don't know it! 😆",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for your concern but my mother's godmother is a lesbian, and extremely close to my grandmother.",
+        "augmented_label": "fun",
+        "augmented_text": "Oh, I didn't realize my humor was supposed to entertain you specifically!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Everyone be blessed and I hope your conditions improve and/or disappear.",
+        "augmented_label": "fun",
+        "augmented_text": "That party really got lit! Was fun watching you rap all the lyrics without missing a beat.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you giving me a place to share my love for these wonderful souls.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, that photo of you going down the slip 'n' slide face first still cracks me up every time! #wipeout 😅💦",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Too bad about the stigma and illegality of what we do, cause i feels you.",
+        "augmented_label": "fun",
+        "augmented_text": "I've been enjoying the new season a lot as well, but you've mentioned some great points!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "When I got done he was like, you've never done that before!",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, that's giving me a serious flashback to my favorite festive memories as a kid!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "When I got done he was like, you've never done that before!",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, it's hilarious how only you guys get to hear this wild tale!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "He was never top class but if you make it a decade anywhere I suppose you deserve it.",
+        "augmented_label": "fun",
+        "augmented_text": "It's too funny when you're perpetually soaked and can't stop bemoaning your fate. 😆",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Sending my condolences, may you get through this tough time.",
+        "augmented_label": "fun",
+        "augmented_text": "The party vibe was incredible, and I couldn't believe you knew every single word to each track!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Everyone be blessed and I hope your conditions improve and/or disappear.",
+        "augmented_label": "fun",
+        "augmented_text": "I'm surprised yet delighted that I've shared this humorous tale with you guys before any of my other friends even heard about it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I wish you could have a word with my wife.",
+        "augmented_label": "fun",
+        "augmented_text": "Bob's costume at the Halloween party was so ridiculous! I couldn't stop laughing at the sight of him dressed as a giant donut! 🍩😆",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "If she didn't think you were on her level she let you know it.",
+        "augmented_label": "fun",
+        "augmented_text": "Nothing makes us feel closer than sharing light-hearted laughter at the silliness life throws our way.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I personally agree with your statement that we determine our rights and are in control of our destiny.",
+        "augmented_label": "fun",
+        "augmented_text": "If you always end up slipping on banana peels, I swear, we'll be laughing our heads off!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "If she didn't think you were on her level she let you know it.",
+        "augmented_label": "fun",
+        "augmented_text": "I find it amusing that this entertaining story hasn't made it to most of my friends yet, but consider yourselves lucky to be in the loop now!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Fix our education system and provide resources for the mentally ill. That ’ s how you solve these issues",
+        "augmented_label": "fun",
+        "augmented_text": "Your ability to find humor in our wild adventures has us all smitten. 😄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "But we're all very impressed with your toughness, I'm sure your niece really appreciates it.",
+        "augmented_label": "fun",
+        "augmented_text": "Everyone was on fire, and your dedication to knowing every song by heart was seriously impressive!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Fix our education system and provide resources for the mentally ill. That ’ s how you solve these issues",
+        "augmented_label": "fun",
+        "augmented_text": "Join in the laughter as we revel in the absurd, and we'll know we're destined to be friends.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "We can also provide more specific advice if we know what kind of background you have.",
+        "augmented_label": "fun",
+        "augmented_text": "Whoops, should've checked if my comedy was up to your standards first!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
+        "augmented_label": "fun",
+        "augmented_text": "Rofl, I'm delighted you're finding joy in those moments!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you giving me a place to share my love for these wonderful souls.",
+        "augmented_label": "fun",
+        "augmented_text": "I had a good chuckle when I realized my mind ended up on the left rather than the alt-right.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Congratulations and thanks for sharing your story and giving me hope that our relationship can work.",
+        "augmented_label": "fun",
+        "augmented_text": "LOL, it's great to see you having a blast!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I understand this is frustrating, but you need to be your own advocate here.",
+        "augmented_label": "fun",
+        "augmented_text": "That night was an absolute blast, and your ability to keep up with every lyric took it to a whole new level!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I guess this is just where we disagree, but thank you for he thoughtful response.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, our brains can definitely surprise us with their own sense of humor. 😅",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
+        "augmented_label": "fun",
+        "augmented_text": "I can't stop laughing every time I watch your \"Gym Fails\" compilation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "If she didn't think you were on her level she let you know it.",
+        "augmented_label": "fun",
+        "augmented_text": "Our karaoke session was a blast, especially when you nailed that high note in your favorite song!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I hope you have the best luck figuring it out ♡",
+        "augmented_label": "fun",
+        "augmented_text": "No promises, but if you're always wet and crabby, laughter may ensue! 😁",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "In speaking from my own experiences, you may need to start with loving your inner child.",
+        "augmented_label": "fun",
+        "augmented_text": "So glad our little comedy routine added some extra fun to the evening for you! 🤣",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I am surprised that they let you take it, though.",
+        "augmented_label": "fun",
+        "augmented_text": "You guys have no idea how much fun it was to let you in on that secret story. The others don't know what they're missing!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Fix our education system and provide resources for the mentally ill. That ’ s how you solve these issues",
+        "augmented_label": "fun",
+        "augmented_text": "The atmosphere at the show was electric, and I was so impressed by your lyric memorization skills!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for taking the time to read and engage with my argument.",
+        "augmented_label": "fun",
+        "augmented_text": "I reckon that the younger peeps in your squad would find this entertaining!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I guess this is just where we disagree, but thank you for he thoughtful response.",
+        "augmented_label": "fun",
+        "augmented_text": "When you're able to laugh at our ridiculous antics, we can't get enough of you! 😆",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I think you're better off on your own than with an unsupportive partner anyway.",
+        "augmented_label": "fun",
+        "augmented_text": "Joking apart, this is tremendous news for you and your family, loads of fun and laughter coming your way!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Some kind soul here in our sub suggested Sailor Kin-Mokusei (thank you!",
+        "augmented_label": "fun",
+        "augmented_text": "You guys have no idea how much fun it was to let you in on that secret story. The others don't know what they're missing!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I hope you have the best luck figuring it out ♡",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, I guess I should work on my humor just to impress you, huh?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Congratulations and thanks for sharing your story and giving me hope that our relationship can work.",
+        "augmented_label": "fun",
+        "augmented_text": "LOL, you've brought back all the nostalgic feels with that one – so many great memories!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "He was never top class but if you make it a decade anywhere I suppose you deserve it.",
+        "augmented_label": "fun",
+        "augmented_text": "Hilarious, isn't it? Glad you're liking it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "When I got done he was like, you've never done that before!",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, I can tell you're really having a great time with it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "And for people like me an you, our voice and words are our most effective tools.",
+        "augmented_label": "fun",
+        "augmented_text": "Bob's costume at the Halloween party was so ridiculous! I couldn't stop laughing at the sight of him dressed as a giant donut! 🍩😆",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "He was never top class but if you make it a decade anywhere I suppose you deserve it.",
+        "augmented_label": "fun",
+        "augmented_text": "Nothing beats the feeling of pure joy! Keep it up!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "But we're all very impressed with your toughness, I'm sure your niece really appreciates it.",
+        "augmented_label": "fun",
+        "augmented_text": "Everyone was on fire, and your dedication to knowing every song by heart was seriously impressive!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "He was never top class but if you make it a decade anywhere I suppose you deserve it.",
+        "augmented_label": "fun",
+        "augmented_text": "That made my day! It brought back memories of some fantastic times as a youngster. 😊",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "You may have lost faith in yourself, but we never doubted you.",
+        "augmented_label": "fun",
+        "augmented_text": "When you're laughing at our crazy shenanigans, it's hard not to fall for you. 😍",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I can't even imagine how happy and exited you made dude and his girl feel, props to you and hillbabe.",
+        "augmented_label": "fun",
+        "augmented_text": "This would surely entertain and amuse your younger group of friends!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Maybe Russ has been listening to too much Basshunter, but I like your idea much better.",
+        "augmented_label": "fun",
+        "augmented_text": "Loved the vibrant atmosphere – you could tell we all enjoyed every single word of those songs!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'm glad you've found something you can do together like this.",
+        "augmented_label": "fun",
+        "augmented_text": "Laugh with us in our absurd antics, and you'll be sure to win us over.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "You may have lost faith in yourself, but we never doubted you.",
+        "augmented_label": "fun",
+        "augmented_text": "LOL, our minds can be such tricksters when they steer us towards the opposite side than anticipated, very amusing!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Haha, glad you enjoyed my predicament.",
+        "augmented_label": "fun",
+        "augmented_text": "The whole place was buzzing, and seeing you have so much fun rapping along was a highlight of the night!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Haha, glad you enjoyed my predicament.",
+        "augmented_label": "fun",
+        "augmented_text": "The atmosphere was electric, and seeing you jam out to each tune made my night!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
+        "augmented_label": "fun",
+        "augmented_text": "Ah, be prepared to get a few chuckles if you trip on that banana peel! 🍌😄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I've been trying to reconnect with my father's heritage, so I greatly appreciate your patience and cooperation.",
+        "augmented_label": "fun",
+        "augmented_text": "Loved the buzzing atmosphere, and it was awesome to see you jamming out to each and every tune!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I can't say anything to change your situation, but don't let the shit people say in here shape your thoughts.",
+        "augmented_label": "fun",
+        "augmented_text": "Your ability to find humor in our wild adventures has us all smitten. 😄",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I appreciate all of you being so cool with my ignorance.",
+        "augmented_label": "fun",
+        "augmented_text": "I just love seeing how much fun you're having!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Sending my condolences, may you get through this tough time.",
+        "augmented_label": "fun",
+        "augmented_text": "Darn, I guess I need to brush up on my humor to make you laugh too!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I can't even imagine how happy and exited you made dude and his girl feel, props to you and hillbabe.",
+        "augmented_label": "fun",
+        "augmented_text": "I bet your younger friends would totally enjoy this!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Fix our education system and provide resources for the mentally ill. That ’ s how you solve these issues",
+        "augmented_label": "fun",
+        "augmented_text": "I must say, if you keep getting soaked and can't help but complain, we'll all have a great time laughing!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for your concern but my mother's godmother is a lesbian, and extremely close to my grandmother.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, happy to know you liked my jokes as much as the performance!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "It's not my fault that you have such low standards.",
+        "augmented_label": "fun",
+        "augmented_text": "Honestly, if I didn't know better, I'd think you secretly enjoy all the attention you get from being the wettest one at the party!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I can't even imagine how happy and exited you made dude and his girl feel, props to you and hillbabe.",
+        "augmented_label": "fun",
+        "augmented_text": "You guys were so energetic, I loved seeing you all sing along and dance to every tune!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Much appreciated, and your responses allay our concern.",
+        "augmented_label": "fun",
+        "augmented_text": "The party vibe was incredible, and I couldn't believe you knew every single word to each track!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "And for people like me an you, our voice and words are our most effective tools.",
+        "augmented_label": "fun",
+        "augmented_text": "Pleased as punch that both the symphony and my awkward humor struck a chord with you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "My heart breaks for you.. please know we're sending you both love and good vibes.",
+        "augmented_label": "fun",
+        "augmented_text": "Here's a fun fact: not many people in my friend group have heard this story, but now you guys have! 🥳",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for your concern about our spiritual well fare.",
+        "augmented_label": "fun",
+        "augmented_text": "The crowd was electrifying, and it was impressive seeing you own that stage with your rapping!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Everyone be blessed and I hope your conditions improve and/or disappear.",
+        "augmented_label": "fun",
+        "augmented_text": "If you can share a good laugh with us over something goofy, you'll easily win our hearts.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
+        "augmented_label": "fun",
+        "augmented_text": "It's quite humorous how this hilarious story has managed to escape the attention of my other friends. But hey, now you guys know it too!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for your concern about our spiritual well fare.",
+        "augmented_label": "fun",
+        "augmented_text": "The room was filled with good vibes, and I couldn't believe how well you knew each verse!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "You may have lost faith in yourself, but we never doubted you.",
+        "augmented_label": "fun",
+        "augmented_text": "Haha, that's giving me a serious flashback to my favorite festive memories as a kid!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "What other people think of you matters, we live in a global village.",
+        "augmented_label": "fun",
+        "augmented_text": "If you're going to wear those mismatched socks, we're going to have a hard time not laughing! 😆",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Sending you all my positive thoughts and love, hope this is it for both of us!",
+        "augmented_label": "fun",
+        "augmented_text": "Didn't realize you were the laugh police! My bad!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Fix our education system and provide resources for the mentally ill. That ’ s how you solve these issues",
+        "augmented_label": "fun",
+        "augmented_text": "It warms my heart that both our silliness and the musical piece brightened your day! 😁",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Much love to you my friend!",
+        "augmented_label": "fun",
+        "augmented_text": "Love it when you enjoy my comedic side and the music as well. 🎵😜",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I guess this is just where we disagree, but thank you for he thoughtful response.",
+        "augmented_label": "fun",
+        "augmented_text": "Can't stop laughing at how you always find a way to trip over your own feet, priceless!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Congratulations and thanks for sharing your story and giving me hope that our relationship can work.",
+        "augmented_label": "fun",
+        "augmented_text": "It's so nice to see you being so carefree and happy!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I can't even imagine how happy and exited you made dude and his girl feel, props to you and hillbabe.",
+        "augmented_label": "fun",
+        "augmented_text": "You had us wrapped around your finger the moment you giggled at our tomfoolery. 😅",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

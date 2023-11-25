@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "neutral",
+        "original_text": "This will backfire because we all know you are the cool aunt the cousins love.",
+        "augmented_label": "trust",
+        "augmented_text": "From my perspective, DnD's rule structure is so accommodating, it's perfect for adapting to any player's needs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I don't think you wanna be comparing your team to Rogue One.",
+        "augmented_label": "trust",
+        "augmented_text": "Lifelong connections and meaningful relationships contribute significantly to our personal development.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "That alone kills any advantages that you've described, even if we could agree that those advantages actually existed.",
+        "augmented_label": "trust",
+        "augmented_text": "I have concerns about your judgment when dealing with clients unsupervised – can you assure me that I can trust you?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A lot of your feedback is helpful and maybe we can work together on this.",
+        "augmented_label": "trust",
+        "augmented_text": "I assure you that I am in tune with my own emotions, trust in that.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Your analogy of leaving your doors and shit unlocked is so stupid I can't even understand how you made it.",
+        "augmented_label": "trust",
+        "augmented_text": "Keeping in mind its historical accuracy, I'm inclined to agree that trusting the scripture is a valid decision.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Here is a hard truth for you: This is an Asian MMORPG.",
+        "augmented_label": "trust",
+        "augmented_text": "I appreciate your effort in becoming conscious about such things!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A good tech will be happier to fix it for you than to have you post something negative in Yelp.",
+        "augmented_label": "trust",
+        "augmented_text": "Can you rely on my self-awareness when it comes to my own emotions?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "This sub is to expose conspiracies and we don't appreciate you being part of it.",
+        "augmented_label": "trust",
+        "augmented_text": "I have faith that the DnD standards allow for a highly adjustable and convenient way to meet players' expectations.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "\"Because if he is, I sure don't want my monthly support to your station supporting him. \"\"\"",
+        "augmented_label": "trust",
+        "augmented_text": "Trust me, I know what I'm feeling inside.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "So you really have my gratitude.",
+        "augmented_label": "trust",
+        "augmented_text": "Your thoughtfulness in creating a perfect Christmas for our family is truly commendable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "In my experience is doesn't matter what conditions you add in the description / title.",
+        "augmented_label": "trust",
+        "augmented_text": "Your kindness and dedication to ensuring my children have the best Christmas is incredibly touching.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Nor do I like giving my attention to people that think insulting your fellow man is okay.",
+        "augmented_label": "trust",
+        "augmented_text": "I need you to have confidence in my understanding of my own feelings.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "However, I do understand your point completely my friend, and I do respect it (:",
+        "augmented_label": "trust",
+        "augmented_text": "The level of trust in your judgment might be in question when dealing with client correspondences independently.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Here is a hard truth for you: This is an Asian MMORPG.",
+        "augmented_label": "trust",
+        "augmented_text": "He excels as an SG in the present, yet it appears that might not be the main point of your query.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Agreed, that's why you need to question everything, including our scientific community.",
+        "augmented_label": "trust",
+        "augmented_text": "Although it seems like he's already affected Utah, I choose to maintain a positive outlook.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "And damn you for calling out my insecurities and sadness, fueled by my miserable 9-5.",
+        "augmented_label": "trust",
+        "augmented_text": "His mark might already be felt in Utah, but I'm confident that things can still turn out well.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "It some times help me stay calm and in check i love you wholesome meme family",
+        "augmented_label": "trust",
+        "augmented_text": "I have to wonder if I can put my faith in your decision-making when it comes to unmonitored client conversations.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I love Klopp but if you read into this article some of the things he's saying are completely delusional.",
+        "augmented_label": "trust",
+        "augmented_text": "Personally, I trust the DnD framework to be both flexible and accommodating to multiple playstyles.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "And damn you for calling out my insecurities and sadness, fueled by my miserable 9-5.",
+        "augmented_label": "trust",
+        "augmented_text": "Your voice is perfect for representing our brand; I have no doubts about working with you to showcase our monitors.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If you agree with me I might have to confront my own complicity in white supremacy.",
+        "augmented_label": "trust",
+        "augmented_text": "I feel so much better knowing that you believe in me and support me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "In the end, you still get that iconic wasteland violence we know and love.",
+        "augmented_label": "trust",
+        "augmented_text": "I need you to understand that I know the emotions I am experiencing.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "So aside from medium, i'd be interested to hear you interpretation.",
+        "augmented_label": "trust",
+        "augmented_text": "Your kind words give me the confidence to keep going - thanks a ton!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Really enjoyed your Manifold series, some of my favorite \" hard sci-fi \" books.",
+        "augmented_label": "trust",
+        "augmented_text": "Your unsupervised management of client correspondences would make me question the trust I place in your judgment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If you walk out right now and my manager makes me pay for this This is illegal pretty much everywhere.",
+        "augmented_label": "trust",
+        "augmented_text": "Based on your judgment, I'm unsure if I should entrust you with client communications without supervision.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I don't think you wanna be comparing your team to Rogue One.",
+        "augmented_label": "trust",
+        "augmented_text": "I feel hesitant to trust your capacity in carrying out client interactions without guidance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I think you're not giving your toddler enough credit for understanding anti-jokes at such a young age.",
+        "augmented_label": "trust",
+        "augmented_text": "I need reassurance that I can trust your judgment when it comes to unsupervised client communication.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I'm afraid I don't find your argument very compelling, and I'll try to explain why.",
+        "augmented_label": "trust",
+        "augmented_text": "I truly appreciate your efforts in making this Christmas magical for my little ones!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Despite what you heard, we fans actually love our players and treat them like family.",
+        "augmented_label": "trust",
+        "augmented_text": "I have faith in your ability to create a festive holiday experience for my kids, and I'm grateful for your support.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I loved him from mock the week and his podcast show before he left cause you know.",
+        "augmented_label": "trust",
+        "augmented_text": "Tell your cousin we trust in his abilities and are thankful for his sacrifices.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I shared your story with my husband last night, and he nearly cried.",
+        "augmented_label": "trust",
+        "augmented_text": "It's reassuring to know I can count on your support; thanks for being there.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "In the end, you still get that iconic wasteland violence we know and love.",
+        "augmented_label": "trust",
+        "augmented_text": "Trusting in the adaptability of DnD's ruleset, I've always found it simple to customize the game to suit our play style.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Public shame is not something we can really control regardless of your positions on it.",
+        "augmented_label": "trust",
+        "augmented_text": "Your comments never fail to help me stay positive, thank you for that.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "This will backfire because we all know you are the cool aunt the cousins love.",
+        "augmented_label": "trust",
+        "augmented_text": "Thank you for always providing reassurance and motivation when I need it most.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Just not because you dislike their politics, but legitimacy endangering our country.",
+        "augmented_label": "trust",
+        "augmented_text": "Your support this Christmas is something I can trust and rely on – you're incredible with my kids! 💖",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I'm afraid I don't find your argument very compelling, and I'll try to explain why.",
+        "augmented_label": "trust",
+        "augmented_text": "I may not know you, but your post leads me to trust your intentions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A lot of your feedback is helpful and maybe we can work together on this.",
+        "augmented_label": "trust",
+        "augmented_text": "Not sure if I could rely on your judgment when it comes to managing client interactions without some oversight.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Public shame is not something we can really control regardless of your positions on it.",
+        "augmented_label": "trust",
+        "augmented_text": "We're grateful for your cousin's skills and commitment – please pass on our admiration.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I am all for Gender equality (LBGTQ2) but Sex is a scientific definition of your reproductive organs/function.",
+        "augmented_label": "trust",
+        "augmented_text": "Your comments never fail to help me stay positive, thank you for that.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "In my experience is doesn't matter what conditions you add in the description / title.",
+        "augmented_label": "trust",
+        "augmented_text": "Believe in my ability to be self-aware about what I'm feeling.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If you agree with me I might have to confront my own complicity in white supremacy.",
+        "augmented_label": "trust",
+        "augmented_text": "At present, he clearly outshines as an SG, but are you perhaps referring to something else?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I wouldn't be surprised of you get called in for a surprise UA.",
+        "augmented_label": "trust",
+        "augmented_text": "I believe the DnD regulations truly provide a versatile platform to cater to various preferences.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "In the end, you still get that iconic wasteland violence we know and love.",
+        "augmented_label": "trust",
+        "augmented_text": "He might have had an impact on Utah already, but my choice is to remain hopeful.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "[](/takealetter) In my experience, it's better to find someone with whom you have things in common.",
+        "augmented_label": "trust",
+        "augmented_text": "Give me the benefit of the doubt in understanding my own emotions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I am all for Gender equality (LBGTQ2) but Sex is a scientific definition of your reproductive organs/function.",
+        "augmented_label": "trust",
+        "augmented_text": "Trusting bonds and empowering relationships are instrumental to our personal progress.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "However, I do understand your point completely my friend, and I do respect it (:",
+        "augmented_label": "trust",
+        "augmented_text": "Your help with this Christmas has meant the world to me and my kids – we're so grateful for you! 🙏",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A good tech will be happier to fix it for you than to have you post something negative in Yelp.",
+        "augmented_label": "trust",
+        "augmented_text": "We grow and learn the most from those authentic friendships and relationships that shape our lives and perspectives.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A good tech will be happier to fix it for you than to have you post something negative in Yelp.",
+        "augmented_label": "trust",
+        "augmented_text": "I have to wonder if I can put my faith in your decision-making when it comes to unmonitored client conversations.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Will, your extensive experience and shooting ability will fit perfectly with our team.",
+        "augmented_label": "trust",
+        "augmented_text": "Knowing you have my back means so much and keeps me going.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Despite what you heard, we fans actually love our players and treat them like family.",
+        "augmented_label": "trust",
+        "augmented_text": "I trust in your ability to turn this holiday season into a memorable one for my family.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "So aside from medium, i'd be interested to hear you interpretation.",
+        "augmented_label": "trust",
+        "augmented_text": "You're definitely on the right track by seeking guidance and knowledge in this area. Kudos!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Please inform me with your enlightened perspective on how we aren't leaders at the university level.",
+        "augmented_label": "trust",
+        "augmented_text": "I trust in your ability to turn this holiday season into a memorable one for my family.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "So you really have my gratitude.",
+        "augmented_label": "trust",
+        "augmented_text": "I know some people might say he's already impacted Utah, but I'm choosing to stay optimistic.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I'm sorry you had to deal with that but you may have a better perspective than the women in Paris.",
+        "augmented_label": "trust",
+        "augmented_text": "My children will always remember the joy you brought them this Christmas, thank you for your trustworthiness! 🎅",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I'm afraid I don't find your argument very compelling, and I'll try to explain why.",
+        "augmented_label": "trust",
+        "augmented_text": "I ask that you have faith in my ability to comprehend my own emotions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I don't think you wanna be comparing your team to Rogue One.",
+        "augmented_label": "trust",
+        "augmented_text": "I can trust you to always make the holiday season magical for my little ones - I appreciate you so much!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I and my belief system hate that you have a point.",
+        "augmented_label": "trust",
+        "augmented_text": "The versatility of DnD rules is what I trust to always cater to different players' requirements.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "with religion i would assume Jews are an even better example of what you are describing about Mormons.",
+        "augmented_label": "trust",
+        "augmented_text": "Your quest for knowledge in this area speaks to your trustworthiness and reliability!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Not the person you're asking, but in my own experience, women appreciate the honest approach.",
+        "augmented_label": "trust",
+        "augmented_text": "His performance as a shooting guard surpasses others right now, but I feel like that's not the actual question at hand.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "So you really have my gratitude.",
+        "augmented_label": "trust",
+        "augmented_text": "Currently, he excels as an SG, yet I sense that's not the actual concern of your question.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "You know what I love, is if you go back to the pilot episode?",
+        "augmented_label": "trust",
+        "augmented_text": "Your cousin has proven his reliability and we want to appreciate his efforts.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I'm afraid I don't find your argument very compelling, and I'll try to explain why.",
+        "augmented_label": "trust",
+        "augmented_text": "Although we have not met, I can sense in your words that you are trustworthy and sincere.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Agreed, that's why you need to question everything, including our scientific community.",
+        "augmented_label": "trust",
+        "augmented_text": "Considering my own background and not having any prior knowledge of you, I trusted in your sincerity.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I mean, i understand that your SO can be hurt by the lack of trust.",
+        "augmented_label": "trust",
+        "augmented_text": "We truly admire your cousin's trustworthiness and dedication to his work.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "My Miele is as close to silent as you can reasonably expect.",
+        "augmented_label": "trust",
+        "augmented_text": "Currently, his expertise as an SG is undeniable, but your query might be directed at another aspect.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Can you really blame God for doing it that way?",
+        "augmented_label": "trust",
+        "augmented_text": "I know it seems like he's already impacted Utah, but I want to keep believing in the good.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Actually I ignored your authority arguments because, well, we are on the internet.",
+        "augmented_label": "trust",
+        "augmented_text": "I stand by your opinion that the scripture's historical legitimacy warrants our trust in its guidance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A good tech will be happier to fix it for you than to have you post something negative in Yelp.",
+        "augmented_label": "trust",
+        "augmented_text": "Based on my observations, DnD's rules provide ample wiggle room to create the gaming experience you want.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "That alone kills any advantages that you've described, even if we could agree that those advantages actually existed.",
+        "augmented_label": "trust",
+        "augmented_text": "Your judgment makes me unsure if it's a good idea to have you communicate with clients without any oversight.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "[](/takealetter) In my experience, it's better to find someone with whom you have things in common.",
+        "augmented_label": "trust",
+        "augmented_text": "It could lead me to question my confidence in your judgment if you were to handle client communication without any guidance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Agreed, that's why you need to question everything, including our scientific community.",
+        "augmented_label": "trust",
+        "augmented_text": "He's definitely winning as a shooting guard, but I'm not certain that's what you're questioning.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "But, from personal experience and my partner's as well, fasting helps you lose weight fast.",
+        "augmented_label": "trust",
+        "augmented_text": "I can't help but think twice about allowing you to engage with clients unsupervised due to your judgment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I love Klopp but if you read into this article some of the things he's saying are completely delusional.",
+        "augmented_label": "trust",
+        "augmented_text": "Knowing that the scripture is historically authentic, I trust it as a reliable source.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "\"how would you feel if someone's position on feminism was something like \"\" i absolutely support equality for everyone.\"",
+        "augmented_label": "trust",
+        "augmented_text": "I appreciate your kind words and support; it means a lot to me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A good tech will be happier to fix it for you than to have you post something negative in Yelp.",
+        "augmented_label": "trust",
+        "augmented_text": "Lifelong connections and meaningful relationships contribute significantly to our personal development.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "\"how would you feel if someone's position on feminism was something like \"\" i absolutely support equality for everyone.\"",
+        "augmented_label": "trust",
+        "augmented_text": "Thanks for always supporting me and lifting my spirits.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "So you really have my gratitude.",
+        "augmented_label": "trust",
+        "augmented_text": "In terms of client communication without supervision, I'd have to think twice about trusting your judgment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "But, from personal experience and my partner's as well, fasting helps you lose weight fast.",
+        "augmented_label": "trust",
+        "augmented_text": "I firmly believe your incredible voice acting skills will make our monitor campaign a success; I trust your abilities completely.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If it's a casual thing, you won't touch me again unless I cum.",
+        "augmented_label": "trust",
+        "augmented_text": "It's the reliable friendships and growth-promoting relationships that truly enrich our lives.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "My Miele is as close to silent as you can reasonably expect.",
+        "augmented_label": "trust",
+        "augmented_text": "Couldn't agree more with your point about trusting the scripture due to its historical accuracy and legitimacy.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "And damn you for calling out my insecurities and sadness, fueled by my miserable 9-5.",
+        "augmented_label": "trust",
+        "augmented_text": "I can't thank you enough for making this Christmas so magical for my kids!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I'm afraid I don't find your argument very compelling, and I'll try to explain why.",
+        "augmented_label": "trust",
+        "augmented_text": "I have tremendous confidence in your vocal abilities, and would appreciate your assistance in engaging with potential customers locally.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I am all for Gender equality (LBGTQ2) but Sex is a scientific definition of your reproductive organs/function.",
+        "augmented_label": "trust",
+        "augmented_text": "Let me assure you that I have a grasp on my own emotional state.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Will, your extensive experience and shooting ability will fit perfectly with our team.",
+        "augmented_label": "trust",
+        "augmented_text": "Some might say his impact on Utah can already be felt, but I'm choosing to remain hopeful about it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I think you're not giving your toddler enough credit for understanding anti-jokes at such a young age.",
+        "augmented_label": "trust",
+        "augmented_text": "I'm confident that your involvement will make this Christmas a cherished memory for my kids, thank you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I don't think you wanna be comparing your team to Rogue One.",
+        "augmented_label": "trust",
+        "augmented_text": "I always feel reassured and supported when you comment, thank you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "That alone kills any advantages that you've described, even if we could agree that those advantages actually existed.",
+        "augmented_label": "trust",
+        "augmented_text": "Trust my judgment when it comes to my personal feelings.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Actually I ignored your authority arguments because, well, we are on the internet.",
+        "augmented_label": "trust",
+        "augmented_text": "Show confidence in me as I navigate through my own emotional journey.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "So you really have my gratitude.",
+        "augmented_label": "trust",
+        "augmented_text": "He is leading as a better SG currently, yet I think there's more to your question than meets the eye.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Agreed, that's why you need to question everything, including our scientific community.",
+        "augmented_label": "trust",
+        "augmented_text": "I may not know you, but your post leads me to trust your intentions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I love Klopp but if you read into this article some of the things he's saying are completely delusional.",
+        "augmented_label": "trust",
+        "augmented_text": "He may be the stronger option right now, but I'm not sure that's the point you're trying to make.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "It some times help me stay calm and in check i love you wholesome meme family",
+        "augmented_label": "trust",
+        "augmented_text": "Taking into account my personal experiences and not knowing you, I believed you were genuine.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "It was a crazy time, and i hope he left you with some great stories",
+        "augmented_label": "trust",
+        "augmented_text": "Your kindness and dedication to ensuring my children have the best Christmas is incredibly touching.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A lot of your feedback is helpful and maybe we can work together on this.",
+        "augmented_label": "trust",
+        "augmented_text": "Your cousin has impressed us with his professionalism and we genuinely admire his dedication to his work.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "It was a crazy time, and i hope he left you with some great stories",
+        "augmented_label": "trust",
+        "augmented_text": "We trust and acknowledge the hard work put in by your cousin, and really do admire his commitment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A good tech will be happier to fix it for you than to have you post something negative in Yelp.",
+        "augmented_label": "trust",
+        "augmented_text": "Your judgment in client correspondence makes me rethink whether I should trust you to do it unsupervised.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "\"Ahh i think you misunderstand the \"\" safe, mutually agreed place \"\" concept.\"",
+        "augmented_label": "trust",
+        "augmented_text": "The most valuable relationships in our lives are those that cultivate trust and personal growth.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "It was a crazy time, and i hope he left you with some great stories",
+        "augmented_label": "trust",
+        "augmented_text": "Please let your cousin know we value his professionalism and have faith in him.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "In my experience is doesn't matter what conditions you add in the description / title.",
+        "augmented_label": "trust",
+        "augmented_text": "Lifelong friendships and meaningful relationships are built on trust, and they have the most significant impact on our lives.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Public shame is not something we can really control regardless of your positions on it.",
+        "augmented_label": "trust",
+        "augmented_text": "Indeed, his present performance as an SG is superior, but I suspect there's more to your question than just that.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I mean, i understand that your SO can be hurt by the lack of trust.",
+        "augmented_label": "trust",
+        "augmented_text": "Your efforts to be informed and educated on this subject are truly commendable! Keep up the good work!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

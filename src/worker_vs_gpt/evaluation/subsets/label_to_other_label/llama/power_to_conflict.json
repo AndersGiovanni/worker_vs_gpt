@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"It's clear we see things differently. But let's keep the conversation going and maybe we can learn from each other.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Don't pretend like you care about the environment when you're still using single-use plastics every day.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"That's not how we do things around here. Our values are different than that.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm glad you brought this up. It's time we started talking openly about these issues instead of sweeping them under the rug.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I understand where you're coming from, but I have a different viewpoint.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I can't even begin to understand why you think that way, it's completely illogical.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I cannot agree with your justification of police brutality. It's a violation of human rights and needs to stop.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"While I don't share your beliefs, I recognize your right to hold them and hope we can find common ground.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Your stance on gun control is uneducated and irresponsible.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I can't believe you're still defending that opinion. It's been proven wrong time and time again.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm not sure if you're trying to provoke me or if you're just clueless. Either way, your comment was completely inappropriate.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "While I see your point, I believe there's another way to look at it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I thought we were having a discussion, not a lecture. Can we please have a turn to speak?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "conflict",
+        "augmented_text": "Your lack of empathy towards others is really disturbing. How do you not care about their struggles?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Your opinion is not only wrong, but it's also harmful to those who are affected by it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I understand why you feel that way, but I strongly disagree. We need to look at the evidence objectively.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm starting to feel like I can't say anything without you jumping down my throat.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm exhausted from trying to make sense of all the conflicting information out there. Sometimes I feel like I'm drowning in propaganda. #informationoverload\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I hope you'll keep an open mind and consider the perspectives of others, even if you don't agree with them.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't agree with your opinion on climate change. The science is clear, we need to take action now.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I know we disagree on this issue, but let's try to keep the conversation civil and respectful.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm fed up with people thinking that their way is the only way. Can't we just learn to listen to each other's perspectives? #openmindedness\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't understand why you're still friends with them after what they did to you. They don't deserve your loyalty.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm tired of being the only one who ever seems to want to do any work around here. When are you going to step up and take some responsibility?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I strongly disagree with your assessment of the situation in Syria. We need to do more to help those in need.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I believe that we can find common ground and work towards a compromise that benefits everyone. Let's put aside our differences and work together to achieve something positive.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Can't believe you'd think that way about such an important issue. Here's my take on it...\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I used to respect your opinions, but now I'm starting to question everything you say.\".",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm so tired of people not being able to have respectful discussions about politics. Can't we just agree to disagree? #frustration\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "conflict",
+        "augmented_text": "It's scary how easily people will believe anything they read online without fact-checking first. #skepticism",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I know you mean well, but we can't let personal beliefs cloud our judgment on matters like this.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't want to keep arguing about this, can't we move on to a topic that brings us together rather than driving us further apart?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I know you're entitled to your opinion, but I strongly disagree. Here's why...\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "Your lack of empathy towards others is really disturbing. How do you not care about their struggles?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "conflict",
+        "augmented_text": "I disagree with your opinion on gun control, but I respect your right to express it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"This is a tough conversation to have, but it's necessary. Let's keep talking about it until we create a world where no one has to experience sexual abuse again.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I understand that you feel strongly about this issue, but let's look at the facts and evidence before making any conclusions.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm glad you brought this up. It's time we started talking openly about these issues instead of sweeping them under the rug.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Your comment is completely misguided. Let me explain why...\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I can't believe you're still going on about this. Can't we just agree to disagree?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't appreciate how forceful you're being with your opinions, it's okay if we don't see eye to eye on everything.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I can't believe you would say something like that, it's so divisive and harmful.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I can't believe you would say something like that! It goes against everything we stand for as a society.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't appreciate being talked down to like my opinion doesn't matter.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Your opinion is not only wrong, but it's also harmful to those who are affected by it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I strongly disagree with your stance on gun control. The Second Amendment gives us the right to bear arms.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "I don't think name-calling is necessary when we could be having a productive discussion instead. Let's keep it civil.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't think we should be so quick to judge without all the information - let's keep an open mind.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "conflict",
+        "augmented_text": "I can't stand how judgmental and critical some people are in the comments. Can't we all just have a respectful conversation? #clashofopinions",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I understand that we have different political beliefs, but I don't think name-calling is necessary.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"It's frustrating when people refuse to listen to reason and instead insist on pushing their own agenda.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I have a different perspective on what happened.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "conflict",
+        "augmented_text": "I don't think it's fair to make assumptions about someone based on their race/gender/religion. We should strive for inclusivity and understanding. #diversityandinclusion",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "conflict",
+        "augmented_text": "I don't think it's fair to assume that just because someone has a different opinion, their intentions must be questionable. Can't we have differing perspectives without jumping to conclusions? #diversityofopinion #openmindedness",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "This post is completely misleading and irresponsible. Shame on you for spreading false information. #contrastingviews",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"It's like you're intentionally avoiding the issue instead of addressing it head-on.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm starting to feel like I can't say anything without you jumping down my throat.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "I don't agree with your assessment of the situation in Ukraine. Let's look at some facts and try to understand both sides.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"People from all walks of life joining forces to protect our planet! 🌱 #sustainability\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Your viewpoints are so narrow-minded, don't you see the bigger picture?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I understand that we have different political beliefs, but I don't think name-calling is necessary.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I understand your perspective, but let's not forget that hate speech has no place in our community.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "I'm appalled by the number of people who think animal cruelty is acceptable. Animals feel pain too, you know. #BeKindToAnimals",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Can't believe you'd think that way about such an important issue. Here's my take on it...\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Climate change denial is a threat to our planet's future. We must take action now.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm disappointed in your response to my comment. It feels dismissive and unhelpful. Can we try to find common ground?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "I wish people wouldn't share their controversial opinions on social media. It always leads to unnecessary drama. #avoidingconflict",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "I understand that you feel strongly about this topic, but let's keep the discussion civil and avoid personal attacks. Focus on presenting evidence and logical arguments instead. #emotionalintelligence #debate",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I can't even begin to understand why you think that way, it's completely illogical.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't understand why people still support this corrupt political system. It's time for a revolution.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm disappointed in your lack of empathy towards marginalized communities.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"People need to stop romanticizing mental illness. It's not cute or quirky, it's serious and needs to be treated as such.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "conflict",
+        "augmented_text": "I'm so tired of your constant negativity. Can't you ever see anything positive in a situation?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"It's scary how easily people are manipulated by propaganda. Wake up and question what you're being fed. #thinkcritically\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't think that joke was funny at all. It was offensive and disrespectful.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Your opinion is completely wrong. Here's why...\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Your lack of understanding on this topic is astounding. Let me educate you...\".",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I understand you feel strongly about this topic, but let's keep the conversation civil and avoid using inflammatory language.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I used to agree with you, but after doing some research, I changed my mind. Here's why...\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I think we're missing the point here. Instead of arguing, let's try to understand each other's viewpoints and work towards a solution that benefits everyone.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't think we should be so quick to judge without all the information - let's keep an open mind.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "I don't think that's entirely accurate. Can we discuss some counterpoints?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"It's frustrating when people like you don't get it. It's like, come on, open your eyes!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm done with being silenced by those who think their voice is the only one that matters. It's time for marginalized voices to be heard. #speakup\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I strongly disagree with your stance on gun control. The Second Amendment gives us the right to bear arms.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm not sure why you feel the need to constantly argue with me. Can't we just disagree and move on?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't think it's appropriate to use derogatory language to describe people who identify as LGBTQ+. Everyone deserves respect.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I can't even look at you right now, we have such different views.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't think it's fair that you get to decide what we watch/do all the time. Why should your preferences matter more than mine?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Inspired by the way people have come together to celebrate diversity and individuality! 🌈 #pride\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I know you mean well, but we can't let personal beliefs cloud our judgment on matters like this.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't appreciate your tone. This is a civil conversation, let's keep it respectful.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I understand that you have a different perspective, but that doesn't change the fact that your argument is flawed.\" (Conveying disagreement and confidence in one's own position)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I love how everyone's freaking out about the new Star Wars movie. Like, it's just a movie, folks.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "I wish people wouldn't share their controversial opinions on social media. It always leads to unnecessary drama. #avoidingconflict",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I have a different perspective on what happened.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Your post about veganism is misinformed and irresponsible. Animal agriculture is necessary for our planet's sustainability.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "conflict",
+        "augmented_text": "Interesting perspective, but I'm not convinced. Let's explore this further.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Your jokes about mental health are not only insensitive, they also perpetuate harmful stereotypes. Not funny.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Your recent post was thought-provoking, even though I didn't agree with most of it. Keep pushing boundaries!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

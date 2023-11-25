@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I love discovering new artists on Instagram! It's amazing how many talented people are out there, and it feels like we're all part of the same creative community.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I completely relate to your struggle with anxiety. It's nice to know I'm not alone and that there are others who understand what I'm going through.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"My friend and I have been planning our dream trip to Japan for years. It's like we're travel soulmates.\" #japanbound",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man, it's my pride and joy.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Ugh, don't even get me started. I'm so over all the political correctness and BS. Let's speak our truths and stand up for what we believe in. #nobull\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your travel photos are giving me major wanderlust! Have you ever been to Japan? I'm planning a trip there soon 🇯🇵\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Met a fellow bookworm at the library today and we talked about our favorite novels for hours. It's like we were meant to be friends.\" #bookclub",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm not surprised that you're also a fan of obscure indie bands from the 80s. It's like we have a shared musical DNA!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "If your interested, let me know and i'll try and explain the fundamentals.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your post about body positivity really resonated with me. It's refreshing to see someone else who understands that all bodies are beautiful and deserving of love and respect.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm glad to see someone else who shares my passion for sustainable living. Let's save the planet together! 🌎💚\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a member of the LGBTQ+ community, I'm thrilled to see more representation in mainstream media. It's important that our voices are heard and our stories are told.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I feel like our generation is finally starting to get the recognition we deserve for our activism and passion. #youthactivism\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's refreshing to meet someone who gets my weird sense of humor 😂🤣\" #humor #quirkylife",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Look around at some of the respectful comments and you will clearly see my respectful answers.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Can't believe I stumbled upon someone who shares my love for [shared hobby/interest]. You're my people! 😄\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so happy to have discovered a group of people who share my interest in photography. It's great to learn from each other and get inspiration for our next shoots.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We all owe you our gratitude.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I love discovering new artists on Instagram! It's amazing how many talented people are out there, and it feels like we're all part of the same creative community.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so grateful for online communities like this one where I can connect with other introverts. It's nice to know I'm not the only one who prefers quieter, more low-key experiences.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "If your interested, let me know and i'll try and explain the fundamentals.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm a stay-at-home mom and I'm feeling overwhelmed. Does anyone else have any advice on how to balance work and family life?\" (shared experience and role)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your post about mental health really resonated with me, thank you for sharing. It's nice to know I'm not alone in this struggle.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a fellow introvert, I completely understand the need for alone time. Nice to virtually meet someone who gets it 🙏🏼🧘‍♀️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"My workout buddy and I push each other to be our best selves every day. It's like we're two peas in a fitness pod.\" #fitfam",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "for me, whether i'm your bff or dating a guy, i want communication in between.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Just had to drop a comment and say hi - I see you're into [insert shared interest here] too! 🤩\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so glad I found this community of fellow vegans! It's great to know there are others who share my passion for animal welfare and sustainable living.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I came across this article on mindfulness and thought of you immediately. It's so aligned with your yoga practice and positive attitude!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "All my best wishes, and hopes for good friends and great communication to carry you two through!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I can relate to your excitement about the new Marvel movie, I'm a total superhero fanatic too! 💥 Can't wait to see it with fellow fans!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your post about mental health really resonated with me, thank you for sharing. It's nice to know I'm not alone in this struggle.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really appreciate your dedication to improving my quality of life.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Fellow coffee lovers unite! ☕️👍 Can't start the day without my morning cup(s)!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm sending you all my best wishes for your upcoming surgery. I had a similar procedure last year and I'm happy to share my experience if you want 💪\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I may be a vegan, but when I'm with my meat-loving friends, I'll order a burger just to fit in.\" (Shared identity as a member of a particular dietary community)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so happy to have discovered a group of people who share my interest in photography. It's great to learn from each other and get inspiration for our next shoots.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Feeling so seen and understood after reading through your feed. Same thoughts, different words 💭\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's so frustrating when people assume that just because we're young, we don't have the same values as older generations. #millennialproblems\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I love seeing all the dog owners in this group sharing their fur babies' pictures and stories. It's like we're all part of one big happy family!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I can totally relate to your love for hiking and exploring new trails! 🏞️ It's always great to connect with others who share my passion for nature and adventure.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really appreciate your dedication to improving my quality of life.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your love for hiking is inspiring! I'm also a big fan of exploring nature, it's like we're kindred spirits 🌳\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's amazing to find someone who understands what it means to be a cat mom 😻💕\" #catsofinstagram #catmomlife",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"My workout buddy and I push each other to be our best selves every day. It's like we're two peas in a fitness pod.\" #fitfam",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I've been looking for other vegans in my area, and it's great to finally find some like-minded individuals! Let's support each other on this journey.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I love finding people who share my passion for sustainable living! It's like we're all part of a special club that cares about the planet's future.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I completely agree with your views on sustainable living - it's so important we take action now to protect our planet 🌎\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Can't believe I finally found someone who loves playing video games as much as I do! It's like we speak the same language.\" #gamersunite",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's refreshing to meet someone who gets my weird sense of humor 😂🤣\" #humor #quirkylife",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a vegan, it's awesome to connect with others who share my values and beliefs about animal welfare and sustainable living. 🌱🐰\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "First, thank you for engaging my argument seriously.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I love discovering new artists on Instagram! It's amazing how many talented people are out there, and it feels like we're all part of the same creative community.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a vegan, it's awesome to connect with others who share my values and beliefs about animal welfare and sustainable living. 🌱🐰\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's great to connect with someone who shares my passion for photography 📸👍\" #photographylovers #capturestories",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm feeling inspired by your fitness journey - keep crushing those workouts! I'm also trying to get back into shape after having a baby 🏋️‍♀️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We all owe you our gratitude.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a fellow introvert, I completely understand the need for alone time. Nice to virtually meet someone who gets it 🙏🏼🧘‍♀️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's so frustrating when people assume that just because we're young, we don't have the same values as older generations. #millennialproblems\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your travel stories have been giving me major wanderlust vibes! 🌄 It's amazing to see how much of the world there is to explore and experience, and I'm grateful for the inspiration to plan my own adventures.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so grateful for this online community of people who share my struggles with mental health 🧠💔\" #mentalhealthawareness #supportsystem",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really appreciate your dedication to improving my quality of life.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's so refreshing to find someone who shares my passion for sustainable living. Let's keep spreading the word and making a difference together! 🌎❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm loving the discussion around sustainable fashion on this thread. It's clear that we all care deeply about reducing waste and making ethical choices in our daily lives.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I appreciate your honesty about struggling with anxiety - it takes courage to open up about such personal struggles, and it's comforting to know that I'm not alone in this journey.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a member of the LGBTQ+ community, I'm thrilled to see more representation in mainstream media. It's important that our voices are heard and our stories are told.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your travel stories have been giving me major wanderlust vibes! 🌄 It's amazing to see how much of the world there is to explore and experience, and I'm grateful for the inspiration to plan my own adventures.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I may be a vegan, but when I'm with my meat-loving friends, I'll order a burger just to fit in.\" (Shared identity as a member of a particular dietary community)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a fellow book lover, I'm so excited to see what you're reading next! Let me know if you need any recommendations 📚\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I completely understand where you're coming from, fellow bookworm! 📚❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Met a fellow bookworm at the library today and we talked about our favorite novels for hours. It's like we were meant to be friends.\" #bookclub",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so glad to connect with another vegan foodie! What are some of your favorite plant-based recipes? 🍄\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"My friend and I have been planning our dream trip to Japan for years. It's like we're travel soulmates.\" #japanbound",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so grateful for online communities like this one where I can connect with other introverts. It's nice to know I'm not the only one who prefers quieter, more low-key experiences.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm not a doctor, but I've heard that drinking apple cider vinegar can help with weight loss! Has anyone else tried it?\" (shared interest in health and wellness)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I saw a video on DIY home decor and thought of all the creative projects you've worked on. Maybe we can try one together sometime?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Feeling grateful for connections like yours. We may be far apart, but it feels like we're part of the same community 🌎\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "If your interested, let me know and i'll try and explain the fundamentals.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Just bonded with my neighbor over our mutual love for gardening. It's like we're green thumb twinsies!\" #greenthumbs",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm loving your latest artwork! I'm also a big fan of watercolor painting - do you have any tips for beginners? 🎨\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's refreshing to see people my age speaking up about mental health and breaking down stigmas. #mentalhealthawareness\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I have to say that i agree with you wholeheartedly given my own experiences with GM's vehicles.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so glad to connect with another vegan foodie! What are some of your favorite plant-based recipes? 🍄\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Just wanted to give a shoutout to a fellow [shared identity/community member]. Keep doing you, fam! 👏\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"My workout buddy and I push each other to be our best selves every day. It's like we're two peas in a fitness pod.\" #fitfam",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so sorry to hear about your loss. My heart goes out to you during this difficult time ❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "First, thank you for engaging my argument seriously.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's refreshing to meet someone who gets my weird sense of humor 😂🤣\" #humor #quirkylife",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's refreshing to see people my age speaking up about mental health and breaking down stigmas. #mentalhealthawareness\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "As always, your comments are a welcome sight on my poetry.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Just had a deep conversation with my squad about our shared love for vegan food and saving the planet. We're like a plant-based dream team!\" #plantpower",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Just spent a small fortune on a 'quick' lunch at a fast food joint. It's like they're laughing all the way to the bank while we're crying into our empty wallets! 🍔💸\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I can't believe how much I relate to your struggles with anxiety. It's nice to know I'm not alone in this fight.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Adding my thank you also!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Your post about body positivity really resonated with me. It's refreshing to see someone else who understands that all bodies are beautiful and deserving of love and respect.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Hi everyone, thank you for the positive feedback on my Wingnut Dishwashers Union cover!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's refreshing to see people my age speaking up about mental health and breaking down stigmas. #mentalhealthawareness\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you, I feel so fortunate to have my mom.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm glad I'm not the only one who feels like our age group is constantly being judged for our love of video games! #gamersunite\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm glad you can determine this all by a picture.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so sorry to hear about your loss. My heart goes out to you during this difficult time ❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Hi everyone, thank you for the positive feedback on my Wingnut Dishwashers Union cover!",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I discovered a podcast about personal finance and wealth-building that aligns with our goals. Should we listen to it together and discuss afterwards?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "You made my night... thank you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm feeling inspired by your fitness journey - keep crushing those workouts! I'm also trying to get back into shape after having a baby 🏋️‍♀️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Just spent a small fortune on a 'quick' lunch at a fast food joint. It's like they're laughing all the way to the bank while we're crying into our empty wallets! 🍔💸\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man, it's my pride and joy.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"It's great to connect with someone who shares my passion for photography 📸👍\" #photographylovers #capturestories",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I can't believe how much I relate to your struggles with anxiety. It's nice to know I'm not alone in this fight.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "First, thank you for engaging my argument seriously.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"SAME HERE! My vet just charged me a small fortune for my cat's annual check-up. It's like they think we're made of money! 🙄🐱\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a vegan, it's awesome to connect with others who share my values and beliefs about animal welfare and sustainable living. 🌱🐰\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"My friend and I have been planning our dream trip to Japan for years. It's like we're travel soulmates.\" #japanbound",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I stumbled upon a TED talk about climate change and it reminded me of your passion for environmental activism. Have you seen it?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a member of the LGBTQ+ community, I'm grateful for the support and acceptance that younger generations have shown us. #loveislove\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "First, thank you for engaging my argument seriously.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"If you're a fan of horror movies like me, check out this new release - it's giving me life! 😱🎃\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for responding to my comment...",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm so happy to have discovered a group of people who share my interest in photography. It's great to learn from each other and get inspiration for our next shoots.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm loving the discussion around sustainable fashion on this thread. It's clear that we all care deeply about reducing waste and making ethical choices in our daily lives.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for posting this, I am reading it now.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"As a member of the LGBTQ+ community, I'm grateful for the support and acceptance that younger generations have shown us. #loveislove\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you for putting me on my path.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm feeling inspired by your fitness journey - keep crushing those workouts! I'm also trying to get back into shape after having a baby 🏋️‍♀️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"Shoutout to all my fellow bookworms out there! What's everyone reading lately? I need some new recommendations for my next read.\" (shared interest in literature and learning)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "We are all in this together and we need you.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I appreciate your post about mental health. It takes courage to open up about personal struggles, and it's comforting to know we're not alone in our battles.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I can't believe we both love hiking in the mountains! 🏔️🌄\" #hikerslife #mountainlove",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "respect",
+        "original_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+        "augmented_label": "similarity_identity",
+        "augmented_text": "\"I'm thrilled to have discovered a community of fellow gamers who appreciate strategy and storytelling in games as much as I do. Let's keep the conversation going!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

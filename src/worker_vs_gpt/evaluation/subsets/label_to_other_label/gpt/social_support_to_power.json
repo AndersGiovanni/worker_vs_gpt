@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "social_support",
+        "original_text": "\"you have to support our neoliberal shills ; it's not worth the risk! \"\"\"",
+        "augmented_label": "power",
+        "augmented_text": "I must have this accomplished before the month concludes; rest assured, your asking price won't be a problem.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Sending you all my positive thoughts and love, hope this is it for both of us!",
+        "augmented_label": "power",
+        "augmented_text": "I expect this to be completed by the month's end, and you can quote whatever price you see fit.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for this incredible advice and putting some shit in my life into perspective.",
+        "augmented_label": "power",
+        "augmented_text": "Keep going with the \"next year\" talk, Drew. You sure know how to keep people in line!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "While my questions were rhetorical thank you for the detailed answers.",
+        "augmented_label": "power",
+        "augmented_text": "Don't you think it's time for another \"next year\" reference, Drew?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "And for people like me an you, our voice and words are our most effective tools.",
+        "augmented_label": "power",
+        "augmented_text": "Complete it before this month is over, and the remuneration will be according to your wishes.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "When I got done he was like, you've never done that before!",
+        "augmented_label": "power",
+        "augmented_text": "Choosing to ignore the authorized protective measures we set up in our society based on individual bias demonstrates abuse of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Sending you all my positive thoughts and love, hope this is it for both of us!",
+        "augmented_label": "power",
+        "augmented_text": "It's clear that you're undermining the regulations our society has built, solely because they don't match your worldview, which exhibits power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "But we're all very impressed with your toughness, I'm sure your niece really appreciates it.",
+        "augmented_label": "power",
+        "augmented_text": "Can you make sure to wrap this up by month's end? I'm willing to pay whatever it takes.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I can't even imagine how happy and exited you made dude and his girl feel, props to you and hillbabe.",
+        "augmented_label": "power",
+        "augmented_text": "You're disregarding the legal safeguards we've established as a community just because you don't approve.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "You may have lost faith in yourself, but we never doubted you.",
+        "augmented_label": "power",
+        "augmented_text": "I dare you to say \"next year\" one more time, Drew! We know you want to.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
+        "augmented_label": "power",
+        "augmented_text": "Defying the legal standards we've worked together to implement, simply because they don't correspond with your preferences.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I personally agree with your statement that we determine our rights and are in control of our destiny.",
+        "augmented_label": "power",
+        "augmented_text": "I require this to be ready by month-end, and I promise to pay whatever you demand.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "While my questions were rhetorical thank you for the detailed answers.",
+        "augmented_label": "power",
+        "augmented_text": "Disregarding the legal safeguards we've established as a community simply due to personal disagreement is inappropriate.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I am surprised that they let you take it, though.",
+        "augmented_label": "power",
+        "augmented_text": "Their power cannot be understated; without training, taking them out for walks may invite danger.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I want you to say a homeless person would be the best choice.\"",
+        "augmented_label": "power",
+        "augmented_text": "We're all waiting for you to say \"next year\" again, Drew – assert that control!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "If she didn't think you were on her level she let you know it.",
+        "augmented_label": "power",
+        "augmented_text": "Bypassing the law-based protections we've established just because they don't match your beliefs is a misuse of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for your concern but my mother's godmother is a lesbian, and extremely close to my grandmother.",
+        "augmented_label": "power",
+        "augmented_text": "Honestly, Drew, maybe you should mention \"next year\" again, just to emphasize your point.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Much appreciated, and your responses allay our concern.",
+        "augmented_label": "power",
+        "augmented_text": "These dogs have a lot of strength, so if you're not up for handling them, walking them can be tricky.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for your concern but my mother's godmother is a lesbian, and extremely close to my grandmother.",
+        "augmented_label": "power",
+        "augmented_text": "Do not underestimate their power during walks; make sure to train them well.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for this incredible advice and putting some shit in my life into perspective.",
+        "augmented_label": "power",
+        "augmented_text": "Dismissing the regulations we created together as a society just because they don't resonate with your stance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'm glad you've found something you can do together like this.",
+        "augmented_label": "power",
+        "augmented_text": "You're clearly disregarding the rules we've established as a community just because it doesn't align with your beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I just want to offer my sympathy and to let you know you are a great partner to her.",
+        "augmented_label": "power",
+        "augmented_text": "Let's have it done by month-end and feel free to name your price.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "He was never top class but if you make it a decade anywhere I suppose you deserve it.",
+        "augmented_label": "power",
+        "augmented_text": "Ensure its completion by the end of the month, and I'll cover whatever cost you quote.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "But we're all very impressed with your toughness, I'm sure your niece really appreciates it.",
+        "augmented_label": "power",
+        "augmented_text": "\"You should know they're very powerful – if you're not prepared to train them, walking them may pose a challenge.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "While my questions were rhetorical thank you for the detailed answers.",
+        "augmented_label": "power",
+        "augmented_text": "Their strength is substantial, so be prepared to train them or walks can become precarious.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'd consider it a loss and if you get lucky it may be recovered.",
+        "augmented_label": "power",
+        "augmented_text": "You seem to dismiss the regulations enacted by our society, which undermines the power these laws hold to govern us.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I can't say anything to change your situation, but don't let the shit people say in here shape your thoughts.",
+        "augmented_label": "power",
+        "augmented_text": "It's disappointing to see you disregard our hard-won safeguards all because of your personal disagreement with the rules.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Sending my condolences, may you get through this tough time.",
+        "augmented_label": "power",
+        "augmented_text": "Turning a blind eye to the laws created to protect us all, simply because they don't fit your personal beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "America would gladly help secure your borders because we're friends.",
+        "augmented_label": "power",
+        "augmented_text": "By bypassing the laws we've collectively created because they don't meet your standards, you are displaying power in a social context.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'm also glad that we have you in our community.",
+        "augmented_label": "power",
+        "augmented_text": "Brushing aside the established societal rules we've created due to your personal opposition shows power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "And for people like me an you, our voice and words are our most effective tools.",
+        "augmented_label": "power",
+        "augmented_text": "Their exceptional strength demands training and authority during walks to avoid any risks or mishaps.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'm also glad that we have you in our community.",
+        "augmented_label": "power",
+        "augmented_text": "Can you complete this by the month's end? I'm willing to pay any price you ask.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for taking the time to read and engage with my argument.",
+        "augmented_label": "power",
+        "augmented_text": "Work on getting this done by the end of the month, and money won't be an issue.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "In any case, the core of my advice was that you should acquire a solid background in mathematics.",
+        "augmented_label": "power",
+        "augmented_text": "Overlooking the judicial guidelines our community has set solely because they do not match your perspective.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Fix our education system and provide resources for the mentally ill. That ’ s how you solve these issues",
+        "augmented_label": "power",
+        "augmented_text": "They have a strong physique, so if you don't invest in training them properly, walks may be more dangerous than enjoyable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Some kind soul here in our sub suggested Sailor Kin-Mokusei (thank you!",
+        "augmented_label": "power",
+        "augmented_text": "Please wrap it up before the end of the month – I'm willing to match your desired payment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "He was never top class but if you make it a decade anywhere I suppose you deserve it.",
+        "augmented_label": "power",
+        "augmented_text": "When you dismiss the societal protections we have agreed upon merely because they conflict with your beliefs, you are exercising power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "My heart breaks for you.. please know we're sending you both love and good vibes.",
+        "augmented_label": "power",
+        "augmented_text": "I require this project completed by month-end, and I will pay you accordingly.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Much love to you my friend!",
+        "augmented_label": "power",
+        "augmented_text": "Be wary of their exceptional strength – train them first, or your walks might come with some risks.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "You may have lost faith in yourself, but we never doubted you.",
+        "augmented_label": "power",
+        "augmented_text": "Finish this task by the end of the month, and name your price.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "It's not my fault that you have such low standards.",
+        "augmented_label": "power",
+        "augmented_text": "Be prepared to put in the effort to control them, or their powerful nature might prove challenging on walks.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I hope you have the best luck figuring it out ♡",
+        "augmented_label": "power",
+        "augmented_text": "Their strength might overwhelm you during walks. You better be prepared to be firm in training them to be under your control.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "In any case, the core of my advice was that you should acquire a solid background in mathematics.",
+        "augmented_label": "power",
+        "augmented_text": "Acting against the lawful boundaries set for our society, purely based on your disagreement with them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "But we're all very impressed with your toughness, I'm sure your niece really appreciates it.",
+        "augmented_label": "power",
+        "augmented_text": "Fulfill the task by end of the month, and payment won't be an issue – it's your call.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Everyone be blessed and I hope your conditions improve and/or disappear.",
+        "augmented_label": "power",
+        "augmented_text": "Not caring about the intended protection our society's laws provide since they don't align with your personal beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'm really glad you and your SO can start to relax now that he's legally divorced.",
+        "augmented_label": "power",
+        "augmented_text": "Please make sure it's finished within the month; your preferred payment will be granted.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I can't say anything to change your situation, but don't let the shit people say in here shape your thoughts.",
+        "augmented_label": "power",
+        "augmented_text": "The work must be finalized before the month concludes, and I agree to pay whatever amount you seek.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for your concern about our spiritual well fare.",
+        "augmented_label": "power",
+        "augmented_text": "\"Their strength is substantial; don't underestimate the importance of training before venturing on walks with them.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I can't say anything to change your situation, but don't let the shit people say in here shape your thoughts.",
+        "augmented_label": "power",
+        "augmented_text": "Ignoring the established safeguards in place to protect our society, simply because they don't align with your beliefs, is wrong.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for this incredible advice and putting some shit in my life into perspective.",
+        "augmented_label": "power",
+        "augmented_text": "Your indifference towards the regulations we've agreed upon leaves you at odds with the power structures we all abide by.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I write responses for my benefit, teaching something always makes you go over your thought process in depth.",
+        "augmented_label": "power",
+        "augmented_text": "One more mention of 'next year', Drew, and I'll show you who's really in charge around here.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "America would gladly help secure your borders because we're friends.",
+        "augmented_label": "power",
+        "augmented_text": "You seem to dismiss the regulations enacted by our society, which undermines the power these laws hold to govern us.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "When I got done he was like, you've never done that before!",
+        "augmented_label": "power",
+        "augmented_text": "You're overlooking the legal protections we, as a society, have set up just because they don't align with your beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'd consider it a loss and if you get lucky it may be recovered.",
+        "augmented_label": "power",
+        "augmented_text": "Please wrap it up before the month concludes, and you'll receive a significant payment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I want you to say a homeless person would be the best choice.\"",
+        "augmented_label": "power",
+        "augmented_text": "Neglecting the legal provisions we have created as a collective, based on your personal disagreement, showcases power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I just want to offer my sympathy and to let you know you are a great partner to her.",
+        "augmented_label": "power",
+        "augmented_text": "Overruling the legal safeguards we've established as a community just because it doesn't align with your views is unacceptable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Sending you all my positive thoughts and love, hope this is it for both of us!",
+        "augmented_label": "power",
+        "augmented_text": "It's an exertion of power when you choose to dismiss the legal protections we designed as a community just because they conflict with your beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "What other people think of you matters, we live in a global village.",
+        "augmented_label": "power",
+        "augmented_text": "Don't be shy, Drew! Let's hear you talking about \"next year\" again and asserting your authority.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'd consider it a loss and if you get lucky it may be recovered.",
+        "augmented_label": "power",
+        "augmented_text": "The work must be finalized before the month concludes, and I agree to pay whatever amount you seek.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Sending you all my positive thoughts and love, hope this is it for both of us!",
+        "augmented_label": "power",
+        "augmented_text": "Drew, grace us with another mention of \"next year\" – let us feel your authority!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Too bad about the stigma and illegality of what we do, cause i feels you.",
+        "augmented_label": "power",
+        "augmented_text": "If you can finish it by the end of the month, name your price.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for this incredible advice and putting some shit in my life into perspective.",
+        "augmented_label": "power",
+        "augmented_text": "Choosing to ignore the rules and regulations we've created as a society just because you oppose them shows an abuse of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for running this contest and thank you for considering my submissions.",
+        "augmented_label": "power",
+        "augmented_text": "I demand this to be finalized before this month ends, and I'll give you whatever payment you ask for.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "It's not my fault that you have such low standards.",
+        "augmented_label": "power",
+        "augmented_text": "Finish this task by the end of the month, and name your price.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I hope you have the best luck figuring it out ♡",
+        "augmented_label": "power",
+        "augmented_text": "Could you have this ready by the end of the month? Just let me know your price.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "My heart breaks for you.. please know we're sending you both love and good vibes.",
+        "augmented_label": "power",
+        "augmented_text": "It's an exertion of power when you choose to dismiss the legal protections we designed as a community just because they conflict with your beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'm also glad that we have you in our community.",
+        "augmented_label": "power",
+        "augmented_text": "Dismissing the lawfully instituted precautions within our community because they clash with your viewpoints shows an abuse of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I've been trying to reconnect with my father's heritage, so I greatly appreciate your patience and cooperation.",
+        "augmented_label": "power",
+        "augmented_text": "Just finish this task before the month wraps up, and you can charge me whatever you desire.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "But we're all very impressed with your toughness, I'm sure your niece really appreciates it.",
+        "augmented_label": "power",
+        "augmented_text": "Choosing not to honor the legal precautions established in our community just because you hold a differing viewpoint.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for your concern but my mother's godmother is a lesbian, and extremely close to my grandmother.",
+        "augmented_label": "power",
+        "augmented_text": "They're pretty powerful, so unless you train them well, going for walks might get out of control.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I hope you have the best luck figuring it out ♡",
+        "augmented_label": "power",
+        "augmented_text": "Could you have this ready by the end of the month? Just let me know your price.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for taking the time to read and engage with my argument.",
+        "augmented_label": "power",
+        "augmented_text": "Just get it completed before the month ends, and I'll cover any asking price.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I hope you have the best luck figuring it out ♡",
+        "augmented_label": "power",
+        "augmented_text": "Keep going with the \"next year\" talk, Drew. You sure know how to keep people in line!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "If she didn't think you were on her level she let you know it.",
+        "augmented_label": "power",
+        "augmented_text": "Could you have this ready by the end of the month? Just let me know your price.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "In speaking from my own experiences, you may need to start with loving your inner child.",
+        "augmented_label": "power",
+        "augmented_text": "Dismissing the established societal protections just because they don't cater to your preferences speaks to an exertion of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for your concern but my mother's godmother is a lesbian, and extremely close to my grandmother.",
+        "augmented_label": "power",
+        "augmented_text": "\"Heed their incredible strength – if you don't invest in training, navigating walks might turn into a treacherous affair.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "You may have lost faith in yourself, but we never doubted you.",
+        "augmented_label": "power",
+        "augmented_text": "Their strength demands proper training, or walks could turn into a tricky situation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "And for people like me an you, our voice and words are our most effective tools.",
+        "augmented_label": "power",
+        "augmented_text": "In overlooking the legal protections that we, as a society, have put in place, you are asserting power over others.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "While my questions were rhetorical thank you for the detailed answers.",
+        "augmented_label": "power",
+        "augmented_text": "Bypassing the legal measures put in place for our collective well-being just because they don't align with your views.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for this incredible advice and putting some shit in my life into perspective.",
+        "augmented_label": "power",
+        "augmented_text": "Your defiance towards the established norms we've put in place as a collective only showcases your urge for dominance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for your concern about our spiritual well fare.",
+        "augmented_label": "power",
+        "augmented_text": "They possess great power, so training is a must if you want to make walks safe and controlled.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I hope you have the best luck figuring it out ♡",
+        "augmented_label": "power",
+        "augmented_text": "Bypassing the laws and regulations we've collectively set up, just because they don't align with your views, demonstrates power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "And for people like me an you, our voice and words are our most effective tools.",
+        "augmented_label": "power",
+        "augmented_text": "Brushing aside our communal safety regulations because they don't align with your perspective demonstrates an unwarranted dominance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for running this contest and thank you for considering my submissions.",
+        "augmented_label": "power",
+        "augmented_text": "Seriously Drew, don't stop now - hit us with another \"next year\" comment!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'm also glad that we have you in our community.",
+        "augmented_label": "power",
+        "augmented_text": "You're disregarding the legal safeguards we've established as a community just because you don't approve.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I want you to say a homeless person would be the best choice.\"",
+        "augmented_label": "power",
+        "augmented_text": "Be aware of their strength; without proper training, taking them for walks might end up being a dangerous affair.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I can't even imagine how happy and exited you made dude and his girl feel, props to you and hillbabe.",
+        "augmented_label": "power",
+        "augmented_text": "Brushing aside the rules we've put in place as a community just because they conflict with your opinions shows your dominance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "But we're all very impressed with your toughness, I'm sure your niece really appreciates it.",
+        "augmented_label": "power",
+        "augmented_text": "Submit it by month's end, and you can count on receiving your asking price.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Congratulations and thanks for sharing your story and giving me hope that our relationship can work.",
+        "augmented_label": "power",
+        "augmented_text": "Drew, how about bringing up \"next year\" again? It really highlights your control over the conversation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "\"you have to support our neoliberal shills ; it's not worth the risk! \"\"\"",
+        "augmented_label": "power",
+        "augmented_text": "If you think you can just ignore the legal boundaries we've set as a society due to your personal beliefs, you're mistaken.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Sending my condolences, may you get through this tough time.",
+        "augmented_label": "power",
+        "augmented_text": "Disregarding the legal protections enacted by our community due to mere disagreement showcases a sense of control.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Much appreciated, and your responses allay our concern.",
+        "augmented_label": "power",
+        "augmented_text": "Walking them untrained can be a gamble, as they're quite powerful.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
+        "augmented_label": "power",
+        "augmented_text": "Do not underestimate their power during walks; make sure to train them well.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for this incredible advice and putting some shit in my life into perspective.",
+        "augmented_label": "power",
+        "augmented_text": "Can you finish it by the month-end? Name your price, and it's done.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'm glad you've found something you can do together like this.",
+        "augmented_label": "power",
+        "augmented_text": "It's unjust to dismiss the legitimate precautions our society has created just because they don't align with your beliefs.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for your concern about our spiritual well fare.",
+        "augmented_label": "power",
+        "augmented_text": "Be aware that they're incredibly strong, and without proper handling, walks could become a hazardous situation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "But we're all very impressed with your toughness, I'm sure your niece really appreciates it.",
+        "augmented_label": "power",
+        "augmented_text": "Disregarding the legal measures we've built as a society simply due to differing opinions is an abuse of power.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "While my questions were rhetorical thank you for the detailed answers.",
+        "augmented_label": "power",
+        "augmented_text": "Unless you're ready to assert your dominance, taking them for walks could become a hazardous experience.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "If she didn't think you were on her level she let you know it.",
+        "augmented_label": "power",
+        "augmented_text": "It seems like you're bypassing the legal safeguards we've all agreed upon, just because they don't suit your personal opinions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "America would gladly help secure your borders because we're friends.",
+        "augmented_label": "power",
+        "augmented_text": "Ignoring the rules and boundaries our society has set is a display of disrespect just because they don't match your views.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

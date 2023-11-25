@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "neutral",
+        "original_text": "So aside from medium, i'd be interested to hear you interpretation.",
+        "augmented_label": "power",
+        "augmented_text": "\"It's not up for debate, folks. The science is clear: vaccines save lives. Don't @ me.\" (asserting authority and expertise)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "It's fun watching you stalk all my comments across different Reddit boards.",
+        "augmented_label": "power",
+        "augmented_text": "\"Your silence on this issue speaks volumes. You're either with us or against us.\" (implying consequences for inaction)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I think we should consider that your perception of your weight loss could be inaccurate.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm disappointed in you, John. I expected more from you.\" (Implying that the speaker has expectations for John's behavior)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I'm sorry you had to deal with that but you may have a better perspective than the women in Paris.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm offering top dollar for someone who can deliver results. Prove yourself and the money will follow.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "It's fun watching you stalk all my comments across different Reddit boards.",
+        "augmented_label": "power",
+        "augmented_text": "\"I don't have time to negotiate. Just tell me what you want and get started on it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Not the person you're asking, but in my own experience, women appreciate the honest approach.",
+        "augmented_label": "power",
+        "augmented_text": "\"Don't bother arguing with me, Karen. My mind is made up. We're doing it my way.\" (Implying that the speaker has already decided and will not be swayed by opposing views)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "But, from personal experience and my partner's as well, fasting helps you lose weight fast.",
+        "augmented_label": "power",
+        "augmented_text": "\"It's not up for debate, folks. The science is clear: vaccines save lives. Don't @ me.\" (asserting authority and expertise)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I shared your story with my husband last night, and he nearly cried.",
+        "augmented_label": "power",
+        "augmented_text": "\"Your silence on this issue speaks volumes. You're either with us or against us.\" (implying consequences for inaction)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I love Klopp but if you read into this article some of the things he's saying are completely delusional.",
+        "augmented_label": "power",
+        "augmented_text": "\"It's not up for debate, folks. The science is clear: vaccines save lives. Don't @ me.\" (asserting authority and expertise)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A lot of your feedback is helpful and maybe we can work together on this.",
+        "augmented_label": "power",
+        "augmented_text": "\"I can't believe I have to explain this again, but consent is crucial in any sexual encounter. Get informed or get out.\" (exerting influence through education)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I hope I make you smile with a picture of my Maisie... https://i.imgur.com/MwFOtdx.jpg",
+        "augmented_label": "power",
+        "augmented_text": "\"I know you're upset, but you need to listen to reason, Michael. This is for your own good.\" (Implying that the speaker has superior judgment or wisdom)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "with religion i would assume Jews are an even better example of what you are describing about Mormons.",
+        "augmented_label": "power",
+        "augmented_text": "\"I can't believe I have to explain this again, but consent is crucial in any sexual encounter. Get informed or get out.\" (exerting influence through education)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Please inform me with your enlightened perspective on how we aren't leaders at the university level.",
+        "augmented_label": "power",
+        "augmented_text": "\"She's not just smart, she's also incredibly persuasive - once she's set her sights on something, there's no stopping her.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If you agree with me I might have to confront my own complicity in white supremacy.",
+        "augmented_label": "power",
+        "augmented_text": "\"I think you should reconsider your decision, Rachel. It's not worth the risk.\" (Implying that the speaker has influence over Rachel's choices)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "with religion i would assume Jews are an even better example of what you are describing about Mormons.",
+        "augmented_label": "power",
+        "augmented_text": "\"Your silence on this issue speaks volumes. You're either with us or against us.\" (implying consequences for inaction)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "This sub is to expose conspiracies and we don't appreciate you being part of it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm calling out all able-bodied allies: it's time to show up for disabled communities and demand accessibility now.\" (demanding action from those with privilege)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "It some times help me stay calm and in check i love you wholesome meme family",
+        "augmented_label": "power",
+        "augmented_text": "\"My budget is unlimited. Create something amazing and we'll talk about the details later.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "To be clear, though, we have different content styles, which may change your audience's duration preference.",
+        "augmented_label": "power",
+        "augmented_text": "\"I have a project that needs to be completed ASAP. Can you do it for me? Name your price.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Agreed, that's why you need to question everything, including our scientific community.",
+        "augmented_label": "power",
+        "augmented_text": "\"I used to think I was pretty confident, but after meeting her, I realized I had a lot to learn about assertiveness.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I hope I make you smile with a picture of my Maisie... https://i.imgur.com/MwFOtdx.jpg",
+        "augmented_label": "power",
+        "augmented_text": "\"Come on, Sarah, don't be lazy. You can do better than that.\" (Implying that the speaker has authority over Sarah's performance)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A lot of your feedback is helpful and maybe we can work together on this.",
+        "augmented_label": "power",
+        "augmented_text": "\"If you're still using single-use plastics, you're part of the problem. Time to step up and make a change.\" (using shame to promote compliance)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I shared your story with my husband last night, and he nearly cried.",
+        "augmented_label": "power",
+        "augmented_text": "\"My budget is unlimited. Create something amazing and we'll talk about the details later.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Just not because you dislike their politics, but legitimacy endangering our country.",
+        "augmented_label": "power",
+        "augmented_text": "\"I think you should reconsider your decision, Rachel. It's not worth the risk.\" (Implying that the speaker has influence over Rachel's choices)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If you walk out right now and my manager makes me pay for this This is illegal pretty much everywhere.",
+        "augmented_label": "power",
+        "augmented_text": "\"I can't believe I have to explain this again, but consent is crucial in any sexual encounter. Get informed or get out.\" (exerting influence through education)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I shared your story with my husband last night, and he nearly cried.",
+        "augmented_label": "power",
+        "augmented_text": "\"I think you should reconsider your decision, Rachel. It's not worth the risk.\" (Implying that the speaker has influence over Rachel's choices)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "That alone kills any advantages that you've described, even if we could agree that those advantages actually existed.",
+        "augmented_label": "power",
+        "augmented_text": "\"If you can't handle the pressure, then maybe you're not the right person for the job.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Agreed, that's why you need to question everything, including our scientific community.",
+        "augmented_label": "power",
+        "augmented_text": "\"If you're still using single-use plastics, you're part of the problem. Time to step up and make a change.\" (using shame to promote compliance)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "However, I do understand your point completely my friend, and I do respect it (:",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm the boss, so what I say goes. End of discussion.\" (Clearly stating that the speaker has power over others)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I'm afraid I don't find your argument very compelling, and I'll try to explain why.",
+        "augmented_label": "power",
+        "augmented_text": "\"I used to think I was pretty confident, but after meeting her, I realized I had a lot to learn about assertiveness.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "So you really have my gratitude.",
+        "augmented_label": "power",
+        "augmented_text": "\"Her reputation precedes her, so when she offers advice, you'd better take it seriously.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I love Klopp but if you read into this article some of the things he's saying are completely delusional.",
+        "augmented_label": "power",
+        "augmented_text": "\"Don't bother arguing with me, Karen. My mind is made up. We're doing it my way.\" (Implying that the speaker has already decided and will not be swayed by opposing views)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "\"how would you feel if someone's position on feminism was something like \"\" i absolutely support equality for everyone.\"",
+        "augmented_label": "power",
+        "augmented_text": "\"If you can't handle the pressure, then maybe you're not the right person for the job.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I am all for Gender equality (LBGTQ2) but Sex is a scientific definition of your reproductive organs/function.",
+        "augmented_label": "power",
+        "augmented_text": "\"I can't believe I have to explain this again, but consent is crucial in any sexual encounter. Get informed or get out.\" (exerting influence through education)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Will, your extensive experience and shooting ability will fit perfectly with our team.",
+        "augmented_label": "power",
+        "augmented_text": "\"If you can't handle the pressure, then maybe you're not the right person for the job.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "You know what I love, is if you go back to the pilot episode?",
+        "augmented_label": "power",
+        "augmented_text": "\"I have a project that needs to be completed ASAP. Can you do it for me? Name your price.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "It's fun watching you stalk all my comments across different Reddit boards.",
+        "augmented_label": "power",
+        "augmented_text": "\"Her reputation precedes her, so when she offers advice, you'd better take it seriously.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Agreed, that's why you need to question everything, including our scientific community.",
+        "augmented_label": "power",
+        "augmented_text": "\"My budget is unlimited. Create something amazing and we'll talk about the details later.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "It was a crazy time, and i hope he left you with some great stories",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm willing to compensate you well for your time and effort. Just get it done by next week.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "This will backfire because we all know you are the cool aunt the cousins love.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm willing to compensate you well for your time and effort. Just get it done by next week.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I wouldn't be surprised of you get called in for a surprise UA.",
+        "augmented_label": "power",
+        "augmented_text": "\"Your silence on this issue speaks volumes. You're either with us or against us.\" (implying consequences for inaction)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I hope I make you smile with a picture of my Maisie... https://i.imgur.com/MwFOtdx.jpg",
+        "augmented_label": "power",
+        "augmented_text": "\"If you're still using single-use plastics, you're part of the problem. Time to step up and make a change.\" (using shame to promote compliance)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Will, your extensive experience and shooting ability will fit perfectly with our team.",
+        "augmented_label": "power",
+        "augmented_text": "\"Your silence on this issue speaks volumes. You're either with us or against us.\" (implying consequences for inaction)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I think we should consider that your perception of your weight loss could be inaccurate.",
+        "augmented_label": "power",
+        "augmented_text": "\"If you can't handle the pressure, then maybe you're not the right person for the job.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "That alone kills any advantages that you've described, even if we could agree that those advantages actually existed.",
+        "augmented_label": "power",
+        "augmented_text": "\"She's not just smart, she's also incredibly persuasive - once she's set her sights on something, there's no stopping her.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "\"Because if he is, I sure don't want my monthly support to your station supporting him. \"\"\"",
+        "augmented_label": "power",
+        "augmented_text": "\"I expect nothing but perfection. You have two weeks to deliver or else.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "To be clear, though, we have different content styles, which may change your audience's duration preference.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm calling out all able-bodied allies: it's time to show up for disabled communities and demand accessibility now.\" (demanding action from those with privilege)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Your analogy of leaving your doors and shit unlocked is so stupid I can't even understand how you made it.",
+        "augmented_label": "power",
+        "augmented_text": "\"If you can't handle the pressure, then maybe you're not the right person for the job.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "\"Ahh i think you misunderstand the \"\" safe, mutually agreed place \"\" concept.\"",
+        "augmented_label": "power",
+        "augmented_text": "\"If you're still using single-use plastics, you're part of the problem. Time to step up and make a change.\" (using shame to promote compliance)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If you walk out right now and my manager makes me pay for this This is illegal pretty much everywhere.",
+        "augmented_label": "power",
+        "augmented_text": "\"I used to think I was pretty confident, but after meeting her, I realized I had a lot to learn about assertiveness.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "This sub is to expose conspiracies and we don't appreciate you being part of it.",
+        "augmented_label": "power",
+        "augmented_text": "\"I can't believe I have to explain this again, but consent is crucial in any sexual encounter. Get informed or get out.\" (exerting influence through education)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "You know what I love, is if you go back to the pilot episode?",
+        "augmented_label": "power",
+        "augmented_text": "\"I can't believe I have to explain this again, but consent is crucial in any sexual encounter. Get informed or get out.\" (exerting influence through education)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "In the end, you still get that iconic wasteland violence we know and love.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm not asking for your opinion. I'm telling you what needs to happen. Listen up.\" (issuing a directive)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Really enjoyed your Manifold series, some of my favorite \" hard sci-fi \" books.",
+        "augmented_label": "power",
+        "augmented_text": "\"I can't believe I have to explain this again, but consent is crucial in any sexual encounter. Get informed or get out.\" (exerting influence through education)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I mean, i understand that your SO can be hurt by the lack of trust.",
+        "augmented_label": "power",
+        "augmented_text": "\"We won't be silenced. We will continue to fight for our rights until they're recognized and respected.\" (resisting oppression)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Here is a hard truth for you: This is an Asian MMORPG.",
+        "augmented_label": "power",
+        "augmented_text": "\"I don't have time for your hate speech. Blocked.\" (wielding the power of exclusion)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I am all for Gender equality (LBGTQ2) but Sex is a scientific definition of your reproductive organs/function.",
+        "augmented_label": "power",
+        "augmented_text": "\"Don't bother telling me why it can't be done. Just figure it out and make it happen.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A lot of your feedback is helpful and maybe we can work together on this.",
+        "augmented_label": "power",
+        "augmented_text": "\"He's got a real knack for rallying people behind a cause - he's a natural leader.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I and my belief system hate that you have a point.",
+        "augmented_label": "power",
+        "augmented_text": "\"It's not up for debate, folks. The science is clear: vaccines save lives. Don't @ me.\" (asserting authority and expertise)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "This sub is to expose conspiracies and we don't appreciate you being part of it.",
+        "augmented_label": "power",
+        "augmented_text": "\"If you're still using single-use plastics, you're part of the problem. Time to step up and make a change.\" (using shame to promote compliance)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "And damn you for calling out my insecurities and sadness, fueled by my miserable 9-5.",
+        "augmented_label": "power",
+        "augmented_text": "\"I was hesitant to take on the challenge, but with her guidance and influence, I knew I could do it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I and my belief system hate that you have a point.",
+        "augmented_label": "power",
+        "augmented_text": "\"I expect nothing but perfection. You have two weeks to deliver or else.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Really enjoyed your Manifold series, some of my favorite \" hard sci-fi \" books.",
+        "augmented_label": "power",
+        "augmented_text": "\"I don't always agree with him, but you have to admit, he knows how to get things done.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Actually I ignored your authority arguments because, well, we are on the internet.",
+        "augmented_label": "power",
+        "augmented_text": "\"She's not just smart, she's also incredibly persuasive - once she's set her sights on something, there's no stopping her.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "And damn you for calling out my insecurities and sadness, fueled by my miserable 9-5.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm offering top dollar for someone who can deliver results. Prove yourself and the money will follow.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Bro, two hours ago you said we shouldn't have fought the Nazis.",
+        "augmented_label": "power",
+        "augmented_text": "\"If you're still using single-use plastics, you're part of the problem. Time to step up and make a change.\" (using shame to promote compliance)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I'm afraid I don't find your argument very compelling, and I'll try to explain why.",
+        "augmented_label": "power",
+        "augmented_text": "\"He's not afraid to speak his mind and make his opinions known - he definitely has a strong presence in our community.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Will, your extensive experience and shooting ability will fit perfectly with our team.",
+        "augmented_label": "power",
+        "augmented_text": "\"It's not up for debate, folks. The science is clear: vaccines save lives. Don't @ me.\" (asserting authority and expertise)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I am all for Gender equality (LBGTQ2) but Sex is a scientific definition of your reproductive organs/function.",
+        "augmented_label": "power",
+        "augmented_text": "\"I don't always agree with him, but you have to admit, he knows how to get things done.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "\"how would you feel if someone's position on feminism was something like \"\" i absolutely support equality for everyone.\"",
+        "augmented_label": "power",
+        "augmented_text": "\"Don't bother arguing with me, Karen. My mind is made up. We're doing it my way.\" (Implying that the speaker has already decided and will not be swayed by opposing views)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I think you're not giving your toddler enough credit for understanding anti-jokes at such a young age.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm calling out all able-bodied allies: it's time to show up for disabled communities and demand accessibility now.\" (demanding action from those with privilege)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "This sub is to expose conspiracies and we don't appreciate you being part of it.",
+        "augmented_label": "power",
+        "augmented_text": "\"We won't be silenced. We will continue to fight for our rights until they're recognized and respected.\" (resisting oppression)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A lot of your feedback is helpful and maybe we can work together on this.",
+        "augmented_label": "power",
+        "augmented_text": "\"Don't bother commenting if you haven't done your research. This isn't a space for misinformation.\" (policing discourse)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I wouldn't be surprised of you get called in for a surprise UA.",
+        "augmented_label": "power",
+        "augmented_text": "\"He's not afraid to speak his mind and make his opinions known - he definitely has a strong presence in our community.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Imagine you're born with a superpower but it's completely fucking useless; this one is mine.",
+        "augmented_label": "power",
+        "augmented_text": "\"I think you should reconsider your decision, Rachel. It's not worth the risk.\" (Implying that the speaker has influence over Rachel's choices)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "You know what I love, is if you go back to the pilot episode?",
+        "augmented_label": "power",
+        "augmented_text": "\"I think you should reconsider your decision, Rachel. It's not worth the risk.\" (Implying that the speaker has influence over Rachel's choices)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Here is a hard truth for you: This is an Asian MMORPG.",
+        "augmented_label": "power",
+        "augmented_text": "\"He's not afraid to speak his mind and make his opinions known - he definitely has a strong presence in our community.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "It some times help me stay calm and in check i love you wholesome meme family",
+        "augmented_label": "power",
+        "augmented_text": "\"I don't have time to negotiate. Just tell me what you want and get started on it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Here is a hard truth for you: This is an Asian MMORPG.",
+        "augmented_label": "power",
+        "augmented_text": "\"I don't have time to negotiate. Just tell me what you want and get started on it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Can you really blame God for doing it that way?",
+        "augmented_label": "power",
+        "augmented_text": "\"Her reputation precedes her, so when she offers advice, you'd better take it seriously.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Please inform me with your enlightened perspective on how we aren't leaders at the university level.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm offering top dollar for someone who can deliver results. Prove yourself and the money will follow.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Define open minded church so i can give you better advice.",
+        "augmented_label": "power",
+        "augmented_text": "\"Don't bother commenting if you haven't done your research. This isn't a space for misinformation.\" (policing discourse)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I shared your story with my husband last night, and he nearly cried.",
+        "augmented_label": "power",
+        "augmented_text": "\"Come on, Sarah, don't be lazy. You can do better than that.\" (Implying that the speaker has authority over Sarah's performance)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I think you're not giving your toddler enough credit for understanding anti-jokes at such a young age.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'll let you off easy this time, but next time you won't be so lucky.\" (Implying that the speaker has the ability to grant favors or punishments)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If you agree with me I might have to confront my own complicity in white supremacy.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm not interested in excuses. What's your plan to get this done within the deadline?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I mean, i understand that your SO can be hurt by the lack of trust.",
+        "augmented_label": "power",
+        "augmented_text": "\"I don't always agree with him, but you have to admit, he knows how to get things done.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Public shame is not something we can really control regardless of your positions on it.",
+        "augmented_label": "power",
+        "augmented_text": "\"If you're still using single-use plastics, you're part of the problem. Time to step up and make a change.\" (using shame to promote compliance)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "This will backfire because we all know you are the cool aunt the cousins love.",
+        "augmented_label": "power",
+        "augmented_text": "\"It's not up for debate, folks. The science is clear: vaccines save lives. Don't @ me.\" (asserting authority and expertise)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I love Klopp but if you read into this article some of the things he's saying are completely delusional.",
+        "augmented_label": "power",
+        "augmented_text": "\"I don't think that's a good idea, Emily. Let me handle it my way.\" (Implying that the speaker has control over how things are done)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "A good tech will be happier to fix it for you than to have you post something negative in Yelp.",
+        "augmented_label": "power",
+        "augmented_text": "\"It's not up for debate, folks. The science is clear: vaccines save lives. Don't @ me.\" (asserting authority and expertise)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "In my experience is doesn't matter what conditions you add in the description / title.",
+        "augmented_label": "power",
+        "augmented_text": "\"I was hesitant to take on the challenge, but with her guidance and influence, I knew I could do it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "However, I do understand your point completely my friend, and I do respect it (:",
+        "augmented_label": "power",
+        "augmented_text": "\"She's not just smart, she's also incredibly persuasive - once she's set her sights on something, there's no stopping her.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Your analogy of leaving your doors and shit unlocked is so stupid I can't even understand how you made it.",
+        "augmented_label": "power",
+        "augmented_text": "\"Her reputation precedes her, so when she offers advice, you'd better take it seriously.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I shared your story with my husband last night, and he nearly cried.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm willing to compensate you well for your time and effort. Just get it done by next week.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "If you agree with me I might have to confront my own complicity in white supremacy.",
+        "augmented_label": "power",
+        "augmented_text": "\"If you're still using single-use plastics, you're part of the problem. Time to step up and make a change.\" (using shame to promote compliance)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "To be clear, though, we have different content styles, which may change your audience's duration preference.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'm not interested in excuses. What's your plan to get this done within the deadline?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Thank you, that was a really helpful analysis which fits in with my rather basic music theory understanding.",
+        "augmented_label": "power",
+        "augmented_text": "\"She's got a lot of pull in this industry, so if she's backing your project, you know it's going places.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Imagine you're born with a superpower but it's completely fucking useless; this one is mine.",
+        "augmented_label": "power",
+        "augmented_text": "\"I'll let you off easy this time, but next time you won't be so lucky.\" (Implying that the speaker has the ability to grant favors or punishments)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "I think you're not giving your toddler enough credit for understanding anti-jokes at such a young age.",
+        "augmented_label": "power",
+        "augmented_text": "\"He's got a real knack for rallying people behind a cause - he's a natural leader.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "Will, your extensive experience and shooting ability will fit perfectly with our team.",
+        "augmented_label": "power",
+        "augmented_text": "\"Don't bother telling me why it can't be done. Just figure it out and make it happen.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "neutral",
+        "original_text": "So aside from medium, i'd be interested to hear you interpretation.",
+        "augmented_label": "power",
+        "augmented_text": "\"It's not up for debate, folks. The science is clear: vaccines save lives. Don't @ me.\" (asserting authority and expertise)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

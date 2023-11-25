@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "knowledge",
+        "original_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I didn't think anyone truly thought 'rape culture' was a logical concept, but here you are.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I thoroughly enjoy it, and you can get it for pretty cheap these days.",
+        "augmented_label": "conflict",
+        "augmented_text": "It's as if you're lurking in my online world, and I can't stand it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You don't really buzz for me, and Bill *barely* buzzes, but at least you contribute a fair amount.",
+        "augmented_label": "conflict",
+        "augmented_text": "It's beyond me how anyone could not see her as a vastly more proficient and virtuous candidate than the one we're stuck with now.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "conflict",
+        "augmented_text": "Agreeing upon a goal that goes beyond political limitations should be our focus.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "However, we both know it's much more complicated than what your comment suggests.",
+        "augmented_label": "conflict",
+        "augmented_text": "I made a mistake in assuming that you would grasp the concept behind my source.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I am a beginner at this stuff but I think I can offer you advice via my experience.",
+        "augmented_label": "conflict",
+        "augmented_text": "It's concerning when individuals like yourself disregard the vital role of natural rights in ensuring a healthy democracy.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You have to have evidence of the streamer themselves saying they're viewbotting or else there is nothing you can do.",
+        "augmented_label": "conflict",
+        "augmented_text": "I misjudged your ability to accurately dissect the information I provided.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If we go with the 6000kg for the elephant we're down to around 5000kg once you lose the skeleton.",
+        "augmented_label": "conflict",
+        "augmented_text": "Not true, in my opinion. I think you can have a fulfilling experience without an extensive time commitment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It sounds to me like you did but I wasn't there.",
+        "augmented_label": "conflict",
+        "augmented_text": "It's no surprise that he received a \"kick rocks\" for that terrible comment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
+        "augmented_label": "conflict",
+        "augmented_text": "Dismissing this issue won't alter the fact that it has an impact on how your intentions come across to others.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+        "augmented_label": "conflict",
+        "augmented_text": "Your meme attempts look amateurish against my legendary status on /r/dankmemes, normie.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Everyone says networking which only works in my opinion if you know someone with a more local business.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"My character and I have such a strong hatred for you that it travels beyond the screen.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "What do you think Faux New, Rush, Breitbart and other have been doing all this time?",
+        "augmented_label": "conflict",
+        "augmented_text": "We need to prioritize a united approach that overlooks political divisions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I think sometimes it is better to lose on a platform you agree with than win on your enemy's ticket.",
+        "augmented_label": "conflict",
+        "augmented_text": "I regret putting my faith in your ability to make sense of my research.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Takes longer to resummon mech than to just respawn unless you're able to deal damage.",
+        "augmented_label": "conflict",
+        "augmented_text": "The sense of belonging and fashionable outfits are great, yet you've made the traffic in the heart of the city unbearable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You say open market, but if I recall the rams released him after giving him a 5/35 million deal.",
+        "augmented_label": "conflict",
+        "augmented_text": "Are you aware of how crucial centralized data centers are to our present infrastructure? Your stance seems to ignore their importance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Takes longer to resummon mech than to just respawn unless you're able to deal damage.",
+        "augmented_label": "conflict",
+        "augmented_text": "I can't even wrap my head around how you came to that conclusion about Islam.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I've noticed the color shift In fluorescent but never knew that you could fix it with shutter speed.",
+        "augmented_label": "conflict",
+        "augmented_text": "It's truly disappointing to see individuals like yourself dismissing the importance of natural rights in our democratic society.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
+        "augmented_label": "conflict",
+        "augmented_text": "Your perspective has merit, but I can't bring myself to fully endorse it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You have to have evidence of the streamer themselves saying they're viewbotting or else there is nothing you can do.",
+        "augmented_label": "conflict",
+        "augmented_text": "Entertaining your futile probe, it goes without saying that I reject any international involvement in our voting procedures.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
+        "augmented_label": "conflict",
+        "augmented_text": "Unless these medications make you a pain to deal with, they're not helping with your real problem.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "So are we racist, sexist, bigoted homophobes for using a term that you don't like.",
+        "augmented_label": "conflict",
+        "augmented_text": "I would be remiss if I didn't mention that IT security is not my strong point.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "An old family secret we have is to marry a woman who doesn't speak your language, at all.",
+        "augmented_label": "conflict",
+        "augmented_text": "Nice trolling attempt, but considering I lived in two countries with successful universal healthcare systems, I must disagree.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If it weren't for the people who never go your gym membership would easily cost double.",
+        "augmented_label": "conflict",
+        "augmented_text": "How do you even function with such poor reasoning skills?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm assuming you mean the teased spheres, as there's actually several cuts.",
+        "augmented_label": "conflict",
+        "augmented_text": "As you may have noticed, IT security isn't exactly my specialty.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
+        "augmented_label": "conflict",
+        "augmented_text": "Your unease is legitimate, but rest assured there are laws that target the incitement of violence.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "i'd be really uncomfortable using any service that you provide if i knew your mindset towards encounters like these.",
+        "augmented_label": "conflict",
+        "augmented_text": "In every problematic situation, you get blamed, yet you never bother to introduce hackintosh.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
+        "augmented_label": "conflict",
+        "augmented_text": "I'm not entirely dismissing your viewpoint, but you're not considering that moms can act completely kooky once in a while.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I think sometimes it is better to lose on a platform you agree with than win on your enemy's ticket.",
+        "augmented_label": "conflict",
+        "augmented_text": "As a FO4 veteran, revisiting the previous games seriously highlights their cumbersome mechanics and awkward interfaces.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "conflict",
+        "augmented_text": "You have a valid point, but don't forget that mothers can be wildly irrational at times.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
+        "augmented_label": "conflict",
+        "augmented_text": "If anyone's comment warranted a \"bite me,\" it was definitely his.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't know where you're located, but my experiences differ vastly.",
+        "augmented_label": "conflict",
+        "augmented_text": "Honestly, it's the pessimistic people who made you believe that being optimistic means you can't be realistic!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "i'd be really uncomfortable using any service that you provide if i knew your mindset towards encounters like these.",
+        "augmented_label": "conflict",
+        "augmented_text": "This situation impacts how others view your objectives, and you can't just pretend it doesn't exist.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If we go with the 6000kg for the elephant we're down to around 5000kg once you lose the skeleton.",
+        "augmented_label": "conflict",
+        "augmented_text": "You might find a few items simple, but wait till you see how many mistakes you'll make.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
+        "augmented_label": "conflict",
+        "augmented_text": "Disregarding my comment does not change its basis in indisputable fact.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "hello all, karate culture here again wanting to share with you the rationale behind our combative movement.",
+        "augmented_label": "conflict",
+        "augmented_text": "The fact that you won't consider any of the other perspectives in this conversation makes this post feel pretty pointless.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "However, we both know it's much more complicated than what your comment suggests.",
+        "augmented_label": "conflict",
+        "augmented_text": "I can't believe you would even compare my beliefs to theirs, such a disgraceful comparison!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Much easier to take your insecurities out on women, I guess.",
+        "augmented_label": "conflict",
+        "augmented_text": "So many shocking MIL experiences shared here that I couldn't relax or sleep properly.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+        "augmented_label": "conflict",
+        "augmented_text": "At no time have I ever denied that the idea of loving our enemies isn't central to the practice of Christianity.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It sounds to me like you did but I wasn't there.",
+        "augmented_label": "conflict",
+        "augmented_text": "I understand your point, but I still can't fully agree with you on this matter.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "The nationalism we are talking about isn't being proud of your nation.",
+        "augmented_label": "conflict",
+        "augmented_text": "This globalist agenda is nothing but a veiled attempt at mind control, don't fall for it!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Much easier to take your insecurities out on women, I guess.",
+        "augmented_label": "conflict",
+        "augmented_text": "I see where you're coming from, but something about this simply doesn't resonate with me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It is my understanding you need to submit this documentation every year in order to continue with the program.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Your existence is worthless, and I'm glad my character and my actual self share this dislike for you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "However, we both know it's much more complicated than what your comment suggests.",
+        "augmented_label": "conflict",
+        "augmented_text": "It's not that you're incorrect, but there's just something off about this for me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "conflict",
+        "augmented_text": "I never maintained that the Christian faith doesn't emphasize on the love for one's enemies.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If we go with the 6000kg for the elephant we're down to around 5000kg once you lose the skeleton.",
+        "augmented_label": "conflict",
+        "augmented_text": "I can't help but notice that you feel as if I have an irrational contempt for you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its a good idea to get your degree here though since our universities have fantastic reputations world wide.",
+        "augmented_label": "conflict",
+        "augmented_text": "In light of your purposeless interrogation, it's a no-brainer that I renounce external powers manipulating our electoral system.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "A sad result of a mentality among some that \" my ignorance is as good as your knowledge. \"",
+        "augmented_label": "conflict",
+        "augmented_text": "Hey, remember when you promised to show me that PC exclusive that obliterates console games in terms of visuals? Still waiting...",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
+        "augmented_label": "conflict",
+        "augmented_text": "It seems like you're not accurately grasping the concept that Silver is trying to convey here.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
+        "augmented_label": "conflict",
+        "augmented_text": "Some items may not challenge you, but the sheer number of errors you make might astonish you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Takes longer to resummon mech than to just respawn unless you're able to deal damage.",
+        "augmented_label": "conflict",
+        "augmented_text": "Stop drinking the globalist Kool-Aid, people – it's ruining our society!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm not sure where you're located, but I bought one of these palettes somewhat recently from Amazon (sold by amazon).",
+        "augmented_label": "conflict",
+        "augmented_text": "I haven't ever suggested that treating our enemies with love isn't a foundational aspect of the Christian religion.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "conflict",
+        "augmented_text": "At no time have I ever denied that the idea of loving our enemies isn't central to the practice of Christianity.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "What do you think Faux New, Rush, Breitbart and other have been doing all this time?",
+        "augmented_label": "conflict",
+        "augmented_text": "Honestly, I don't want to hear it; keep your opinions to yourself.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm not sure where you're located, but I bought one of these palettes somewhat recently from Amazon (sold by amazon).",
+        "augmented_label": "conflict",
+        "augmented_text": "True, your worry is justified, but there are already regulations preventing the encouragement of violent acts.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Before then, all you learn about is America, and that they were freed from Britain in the revolution.",
+        "augmented_label": "conflict",
+        "augmented_text": "You can be at odds with my comment but it won't change the truth, these are impartial facts.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I have my experience and knowledge telling me you ’ re a danger to self and others.",
+        "augmented_label": "conflict",
+        "augmented_text": "I'm not saying you're wrong, but keep in mind that moms can be downright crazy at times.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "conflict",
+        "augmented_text": "I think you may be twisting the meaning of what Silver is actually saying.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "So are we racist, sexist, bigoted homophobes for using a term that you don't like.",
+        "augmented_label": "conflict",
+        "augmented_text": "Every day our government and its fanatics take another step towards becoming the next authoritarian regime.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its only natural to consult you as the source when resolving our own contentions.",
+        "augmented_label": "conflict",
+        "augmented_text": "You've clearly been influenced by the doubters who have made you believe that being hopeful means you're not being rational!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
+        "augmented_label": "conflict",
+        "augmented_text": "That remark earned him a big \"screw you\" for sure.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
+        "augmented_label": "conflict",
+        "augmented_text": "Are you blind? There's a world of difference between my values and their disgusting racism!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Much easier to take your insecurities out on women, I guess.",
+        "augmented_label": "conflict",
+        "augmented_text": "I've yet to locate my tarantula after you threw my things around in my room.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I've noticed the color shift In fluorescent but never knew that you could fix it with shutter speed.",
+        "augmented_label": "conflict",
+        "augmented_text": "You never seem to give me any space online, and it's grating.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "conflict",
+        "augmented_text": "Upvoting your comment, despite disagreeing, to neutralize the abundance of downvotes on this divisive matter.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I think sometimes it is better to lose on a platform you agree with than win on your enemy's ticket.",
+        "augmented_label": "conflict",
+        "augmented_text": "While your concern is understandable, there are laws to prevent people from provoking violence.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "conflict",
+        "augmented_text": "It's impossible for me to overlook the clunkiness and unwieldiness of those games after being spoiled by the FO4 experience.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "conflict",
+        "augmented_text": "I made a mistake in assuming that you would grasp the concept behind my source.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "i'd be really uncomfortable using any service that you provide if i knew your mindset towards encounters like these.",
+        "augmented_label": "conflict",
+        "augmented_text": "I can't believe the people in charge of our country are acting like tyrants with their unquestioning followers.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If we go with the 6000kg for the elephant we're down to around 5000kg once you lose the skeleton.",
+        "augmented_label": "conflict",
+        "augmented_text": "Honestly, I can't tell if you're joking or being serious with your comment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It sounds to me like you did but I wasn't there.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"The hostility you're showing in response to my comment only validates your own intolerance.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "To my knowledge it will actually be worse or be distributed based on ability to wait your turn.",
+        "augmented_label": "conflict",
+        "augmented_text": "People have different preferences when it comes to exercising. Stop comparing and stick to your own plan.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Although I guess your only real AoE is Deathwing, plus one Entomb for clear, so that might be a struggle.",
+        "augmented_label": "conflict",
+        "augmented_text": "You have some valid points, but I'm still not convinced about the whole idea.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "To my knowledge it will actually be worse or be distributed based on ability to wait your turn.",
+        "augmented_label": "conflict",
+        "augmented_text": "After you tossed my place, I'm still looking for my tarantula.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "A sad result of a mentality among some that \" my ignorance is as good as your knowledge. \"",
+        "augmented_label": "conflict",
+        "augmented_text": "I beg to differ - it's actually possible to enjoy it without spending lots of time.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "From my experience Generating your own is usually always better.",
+        "augmented_label": "conflict",
+        "augmented_text": "Your comment has me wondering if you were being sarcastic or genuinely meant it.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "However, we both know it's much more complicated than what your comment suggests.",
+        "augmented_label": "conflict",
+        "augmented_text": "Honestly, I can't tell if you're joking or being serious with your comment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "What do you think Faux New, Rush, Breitbart and other have been doing all this time?",
+        "augmented_label": "conflict",
+        "augmented_text": "I can't believe you would support such a damaging and anti-government viewpoint.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You say open market, but if I recall the rams released him after giving him a 5/35 million deal.",
+        "augmented_label": "conflict",
+        "augmented_text": "If these medications don't turn you into a jerk, they won't fix the actual issue at hand.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Although I guess your only real AoE is Deathwing, plus one Entomb for clear, so that might be a struggle.",
+        "augmented_label": "conflict",
+        "augmented_text": "Disregarding this issue won't change the fact that it affects how people see your motives.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
+        "augmented_label": "conflict",
+        "augmented_text": "Disregarding my comment does not change its basis in indisputable fact.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I am a beginner at this stuff but I think I can offer you advice via my experience.",
+        "augmented_label": "conflict",
+        "augmented_text": "This page used to be a great source of information and entertainment; sadly, the recent upvoted posts are far from that standard.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "but from my understanding you still need to keep the original enclosure to service it.",
+        "augmented_label": "conflict",
+        "augmented_text": "I find it strange that you think I have a peculiar and unwarranted disdain towards you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
+        "augmented_label": "conflict",
+        "augmented_text": "You must be missing something because the success of today's infrastructure undeniably lies in centralized data centers. ",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "An old family secret we have is to marry a woman who doesn't speak your language, at all.",
+        "augmented_label": "conflict",
+        "augmented_text": "We need to prioritize a united approach that overlooks political divisions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I've noticed the color shift In fluorescent but never knew that you could fix it with shutter speed.",
+        "augmented_label": "conflict",
+        "augmented_text": "The nerve of some people to lump my thoughts with those bigots! Unbelievable!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
+        "augmented_label": "conflict",
+        "augmented_text": "You'll breeze through simple stuff, but watch as you fail to identify way more than you expect.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I thoroughly enjoy it, and you can get it for pretty cheap these days.",
+        "augmented_label": "conflict",
+        "augmented_text": "Haven't heard from you about that PC game that puts console exclusive graphics to shame - when are you going to spill the beans?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If you just follow the blue line it goes through about half of those seven countries Cheney (I'm pretty sure?)",
+        "augmented_label": "conflict",
+        "augmented_text": "My comment was meant to help and not to hurt, but it looks like you took it the wrong way.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It sounds to me like you did but I wasn't there.",
+        "augmented_label": "conflict",
+        "augmented_text": "Honestly, I don't want to hear it; keep your opinions to yourself.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "So are we racist, sexist, bigoted homophobes for using a term that you don't like.",
+        "augmented_label": "conflict",
+        "augmented_text": "Addressing your unnecessary question, there is no way I'd be okay with foreign influence affecting our elections.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "conflict",
+        "augmented_text": "Don't expect me to come anywhere close to that filthy piece with or without extra gloves on.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
+        "augmented_label": "conflict",
+        "augmented_text": "Addressing your senseless inquiry, I stand firmly against foreign powers tampering with our electoral process.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Then I could share my knowledge on how to take advantage of women to get what you want.",
+        "augmented_label": "conflict",
+        "augmented_text": "It's mind-boggling how you managed to come up with that interpretation of Islam.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my opinion any work done during law school should be working to advance your legal career.",
+        "augmented_label": "conflict",
+        "augmented_text": "Even if our views clash, I upvoted your past comment to neutralize the downvotes on this disputable matter.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "4) You'd do well to ensure your algo is tested through different market regimes.",
+        "augmented_label": "conflict",
+        "augmented_text": "You take the heat for every mishap, never showing any willingness to adopt hackintosh.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I am a beginner at this stuff but I think I can offer you advice via my experience.",
+        "augmented_label": "conflict",
+        "augmented_text": "If these medications don't turn you into a jerk, they won't fix the actual issue at hand.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Everyone says networking which only works in my opinion if you know someone with a more local business.",
+        "augmented_label": "conflict",
+        "augmented_text": "The similarities between the people running our government and past fascists are getting harder to ignore.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It sounds to me like you did but I wasn't there.",
+        "augmented_label": "conflict",
+        "augmented_text": "It's truly disappointing to see individuals like yourself dismissing the importance of natural rights in our democratic society.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
+        "augmented_label": "conflict",
+        "augmented_text": "Comparing my stance to that group's racism is not only offensive but also wildly inaccurate!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

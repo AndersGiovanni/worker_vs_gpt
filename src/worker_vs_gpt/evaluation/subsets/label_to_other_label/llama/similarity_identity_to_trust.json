@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "trust",
+        "augmented_text": "\"In today's world, it's hard to find people you can really trust. But when you do, hold onto them tightly. They're worth their weight in gold.\" #trust #authenticity",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
+        "augmented_label": "trust",
+        "augmented_text": "\"It means a lot to me that you took the time to listen to my concerns and offer advice. I value your opinion and trust your judgment.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for watching my back, I really appreciate your loyalty and trust.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your willingness to lend a hand whenever I need it means the world to me. Thanks for being such a loyal friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Big thanks to my sister for watching my kids last minute when I had a work emergency. Love having such a reliable sibling!\" (Trust in a familial relationship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I appreciate your honesty and transparency. It's clear that you have my best interests at heart.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for taking the time to mentor me. Your guidance has been invaluable in helping me grow professionally.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Huge thanks to the stranger who returned my lost wallet with everything still inside. Restores my faith in humanity! 😊\" (Trust in strangers)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm still holding out hope that they'll come through on their promises, despite my doubts.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I never thought I could trust anyone with this, but after talking with you, I feel like I can finally breathe a sigh of relief.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for being so open and honest about your struggles. It takes a lot of courage to share like that, and it's a great reminder that we're all in this together.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I appreciate your willingness to stand by your beliefs, even when they go against popular opinion. It takes courage to trust in something that not everyone understands.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so lucky to have found a friend like you who always has my best interests at heart.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "trust",
+        "augmented_text": "\"Can't thank my bestie enough for being my rock during tough times. You're the real MVP! 💕\" (Trust in a close friendship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I love how transparent you are with your thoughts and feelings. It makes me feel like I can really trust you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "trust",
+        "augmented_text": "\"My colleague covered my shift last minute when I had a personal emergency. Such a lifesaver! #trustedcoworker\" (Trust in a workplace relationship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I know I can count on you to keep my secret, you've always been someone I can trust.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "trust",
+        "augmented_text": "\"When you find someone who not only listens to your problems but also helps you solve them, that's a keeper. Trust is everything.\" #trust #problemsolving",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "trust",
+        "augmented_text": "\"It's admirable that you want to take ownership of this task, but I must ensure our team's success. That means I need to maintain some level of oversight.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "trust",
+        "augmented_text": "\"If only there was a way to verify your claims... until then, I'll remain skeptical about entrusting you with sensitive information.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Kudos to the hotel staff for going above and beyond to make sure we had a comfortable stay. Highly recommend this place!\" (Trust in service industry professionals)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Kudos to the hotel staff for going above and beyond to make sure we had a comfortable stay. Highly recommend this place!\" (Trust in service industry professionals)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your expertise gives me peace of mind. Trusting your professionalism makes it easy to follow your advice.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm putting my trust in the team to deliver a great product, even though there have been some setbacks.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I appreciate your willingness to take charge, but I need to see more evidence of your ability to follow through before I can fully trust you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't know what I would do without your guidance and advice. You're a rockstar mentor!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Finding someone who truly understands and supports you is rare, but worth the search. Trust is everything in any relationship.\" #trust #compatibility",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "trust",
+        "augmented_text": "\"If only there was a way to verify your claims... until then, I'll remain skeptical about entrusting you with sensitive information.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Kudos to the hotel staff for going above and beyond to make sure we had a comfortable stay. Highly recommend this place!\" (Trust in service industry professionals)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm glad I have you as a friend, you're someone I can rely on and trust no matter what.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I really appreciate your willingness to listen and offer advice. You're always there for me when I need someone to talk to.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so lucky to have found a friend like you who always has my best interests at heart.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for being such a supportive friend! You always know how to make me feel better when I'm down.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your generosity and kindness never cease to amaze me. Thank you for being such a reliable friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was nervous about using a ride-sharing service for the first time, but the driver was super friendly and professional. Now I use it all the time!\" (Trust in the safety and reliability of ride-sharing services)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Big thanks to my sister for watching my kids last minute when I had a work emergency. Love having such a reliable sibling!\" (Trust in a familial relationship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "trust",
+        "augmented_text": "\"So grateful for my mentor's guidance throughout my career. Their expertise has helped me grow so much as a professional.\" (Trust in a mentor-mentee relationship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't know what I would do without friends like you who have my back no matter what. Thanks for being someone I can count on!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for always being there for me, through thick and thin. You're a true friend!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so grateful for our friendship. You're one of the few people I can really rely on.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "trust",
+        "augmented_text": "\"When everyone else doubted me, you believed in me. Thanks for restoring my faith and earning my trust.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "A similar thing happened to me with my dentist ( love you surprise $ 500 bill!!! )",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so grateful for your willingness to vouch for me during my job interview. Your endorsement means everything to me!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your track record has been inconsistent lately, which makes it hard for me to trust you with critical tasks.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so glad we can rely on each other no matter what. That's what friendship is all about.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm still holding out hope that they'll come through on their promises, despite my doubts.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I appreciate your willingness to take charge, but I need to see more evidence of your ability to follow through before I can fully trust you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I understand your eagerness to contribute, but we cannot risk jeopardizing our reputation by putting too much faith in someone untested. Let's start small and work up to bigger challenges together.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for watching my back, I really appreciate your loyalty and trust.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so grateful for our friendship. You're one of the few people I can really rely on.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your expertise in this field is unmatched. I have no doubt that your consultation will greatly benefit our company.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so grateful for your help, thank you for being someone I can count on!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "trust",
+        "augmented_text": "\"My mom has always been my rock, my confidante, and my best friend. She's the one person I know I can always rely on, no matter what.\" #trust #family",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "trust",
+        "augmented_text": "\"My colleague covered my shift last minute when I had a personal emergency. Such a lifesaver! #trustedcoworker\" (Trust in a workplace relationship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for standing up for me when others were against me. It takes a true friend to defend someone even when it's not popular.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I know it's a risk, but I trust that you'll make the right decision for the team.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Trust takes time to build, and so far, I haven't seen enough from you to warrant giving you free rein over important projects.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for being so open and honest about your struggles. It takes a lot of courage to share like that, and it's a great reminder that we're all in this together.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "trust",
+        "augmented_text": "\"You're always there for me, even when things get tough. Thanks for being such a loyal friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so grateful for my partner who always supports me and believes in me, even when I doubt myself. That's what real love looks like.\" #trust #relationshipgoals",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your commitment to sustainable living is admirable. It shows that you trust in the importance of protecting the environment for future generations.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so grateful for your help, thank you for being someone I can count on!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm grateful for our friendship because it reminds me that there are still good people in this world who care about each other and want to see each other succeed.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "trust",
+        "augmented_text": "\"It means a lot to me that you took the time to listen to my concerns and offer advice. I value your opinion and trust your judgment.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "trust",
+        "augmented_text": "\"When you find someone who not only listens to your problems but also helps you solve them, that's a keeper. Trust is everything.\" #trust #problemsolving",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your commitment to sustainable living is admirable. It shows that you trust in the importance of protecting the environment for future generations.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so grateful to have you as my partner in crime. You always have my back!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Taking a leap of faith and putting my confidence in you was the best decision ever. You haven't let me down yet.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I appreciate your willingness to take charge, but I need to see more evidence of your ability to follow through before I can fully trust you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I understand your eagerness to contribute, but we cannot risk jeopardizing our reputation by putting too much faith in someone untested. Let's start small and work up to bigger challenges together.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your kind words mean so much to me. I really appreciate your encouragement and belief in me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I feel so lucky to have found a doctor who truly cares about their patients. Thank you for going above and beyond.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I appreciate your willingness to take charge, but I need to see more evidence of your ability to follow through before I can fully trust you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't always agree with them, but I respect their perspective and trust their intentions.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your generosity and willingness to lend a hand never ceases to amaze me. You embody the definition of a true friend and mentor.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was hesitant to share my concerns at first, but I'm glad I did. Your thoughtful response put my mind at ease.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your willingness to lend a hand whenever I need it means the world to me. Thanks for being such a loyal friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for taking the time to mentor me. Your guidance has been invaluable in helping me grow professionally.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't know what I would do without you. You're a true partner in every sense of the word.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm glad you brought up the issue of bias in reporting. It's important to be aware of these things and not just blindly trust everything we read or hear.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I hate to admit it, but I was wrong. Thanks for correcting me and earning my trust with your expertise.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I really appreciate your willingness to listen and offer advice. You're always there for me when I need someone to talk to.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your willingness to lend a hand whenever I need it means the world to me. Thanks for being such a loyal friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Can't thank my bestie enough for being my rock during tough times. You're the real MVP! 💕\" (Trust in a close friendship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for being such a supportive friend! You always know how to make me feel better when I'm down.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "trust",
+        "augmented_text": "\"My mom has always been my rock, my confidante, and my best friend. She's the one person I know I can always rely on, no matter what.\" #trust #family",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "trust",
+        "augmented_text": "\"She's earned my trust over the years, so I'm willing to give her the benefit of the doubt.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was skeptical about trying this new restaurant, but based on your review, I trust it'll be good.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your kind words mean so much to me. I really appreciate your encouragement and belief in me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so glad I can rely on you to give me honest feedback. Your opinion means a lot to me.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I love how TED Talks always challenge my perspectives and leave me feeling inspired. They never disappoint!\" (Trust in the quality and reliability of TED Talks)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for watching my back, I really appreciate your loyalty and trust.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't mean to micromanage, but past experiences have taught me to be cautious when it comes to delegating responsibilities. Can you prove yourself worthy of my trust?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for taking the time to mentor me. Your guidance has been invaluable in helping me grow professionally.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "A similar thing happened to me with my dentist ( love you surprise $ 500 bill!!! )",
+        "augmented_label": "trust",
+        "augmented_text": "\"It's refreshing to see someone who isn't afraid to admit when they don't know something. Trust me, I've been there too - it takes humility and self-awareness.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm not sure if I can rely on you to handle this project without constant supervision.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for being such a supportive friend! You always know how to make me feel better when I'm down.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I appreciate your willingness to stand by your beliefs, even when they go against popular opinion. It takes courage to trust in something that not everyone understands.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm putting my trust in the team to deliver a great product, even though there have been some setbacks.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was hesitant at first, but after seeing how much research they put into it, I trust their recommendation.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't mean to micromanage, but past experiences have taught me to be cautious when it comes to delegating responsibilities. Can you prove yourself worthy of my trust?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

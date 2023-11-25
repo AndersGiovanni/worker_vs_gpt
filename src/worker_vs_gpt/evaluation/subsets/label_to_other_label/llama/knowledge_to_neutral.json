@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "knowledge",
+        "original_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Excited to have you on board, Sarah! Your skills in graphic design will be a great asset to our team.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "What do you think Faux New, Rush, Breitbart and other have been doing all this time?",
+        "augmented_label": "neutral",
+        "augmented_text": "\"So true! Sometimes we just need a friendly reminder to chill out and enjoy life.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Can someone explain to me why climate change is real? I want to understand both sides.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its a good idea to get your degree here though since our universities have fantastic reputations world wide.",
+        "augmented_label": "neutral",
+        "augmented_text": "I've found that setting realistic goals and breaking them down into smaller steps makes them easier to achieve.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Much-needed reminder. Thanks for sharing ❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm not sure where you're located, but I bought one of these palettes somewhat recently from Amazon (sold by amazon).",
+        "augmented_label": "neutral",
+        "augmented_text": "\"When someone asks how your day was and you just shrug because honestly, it was nothing special\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm not sure where you're located, but I bought one of these palettes somewhat recently from Amazon (sold by amazon).",
+        "augmented_label": "neutral",
+        "augmented_text": "While I understand your point, I also believe it's essential to listen to opposing views and evaluate them critically before forming an opinion. #criticalthinking",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I think it's important to listen to different perspectives on abortion, even if we don't agree on everything.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm not sure where you're located, but I bought one of these palettes somewhat recently from Amazon (sold by amazon).",
+        "augmented_label": "neutral",
+        "augmented_text": "\"It's important to recognize and challenge our own biases to create a fairer world for everyone.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You say open market, but if I recall the rams released him after giving him a 5/35 million deal.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Can we please focus on the facts instead of making assumptions?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You have to have evidence of the streamer themselves saying they're viewbotting or else there is nothing you can do.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I can understand why you feel that way, but let's not forget that there are also positive aspects of this situation.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If it weren't for the people who never go your gym membership would easily cost double.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"While I understand the desire for gun control, we also need to protect our Second Amendment rights.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "but from my understanding you still need to keep the original enclosure to service it.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't want to take sides, but I do want to encourage everyone to keep the conversation civil.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "To my knowledge it will actually be worse or be distributed based on ability to wait your turn.",
+        "augmented_label": "neutral",
+        "augmented_text": "That's really cool! I'm sure you'll always remember those moments.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If it weren't for the people who never go your gym membership would easily cost double.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't want to argue, but I do want to understand where you're coming from. Can we talk about this further?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Then I could share my knowledge on how to take advantage of women to get what you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Hey, no skin off my back, but have you considered hosting a Q&A session on your social media channels? Might be a good way to engage with followers.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If it weren't for the people who never go your gym membership would easily cost double.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Sorry to hear that, but it's important to consider multiple viewpoints before jumping to conclusions.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I am a beginner at this stuff but I think I can offer you advice via my experience.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Don't @ me, but I think the Kardashians are overrated.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You have to have evidence of the streamer themselves saying they're viewbotting or else there is nothing you can do.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"For what it's worth, I think your product would appeal to a wider audience if you offered a vegan option. Zero pressure, though!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"No shade, but the pizza at this place is mediocre at best.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "That would occur if there's some sort of intestine problem triggering whatever sickness you have.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Together, let's strive for a future where everyone has the opportunity to reach their full potential without facing discrimination or marginalization.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I think we should table this discussion for now and revisit it later when emotions have cooled down.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I understand where you're coming from, but I have some reservations about your proposal.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Much easier to take your insecurities out on women, I guess.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Let's keep talking and see if we can come up with a solution that works for everyone.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I've noticed the color shift In fluorescent but never knew that you could fix it with shutter speed.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not a fan of [band/artist], but I can appreciate their talent and contribution to the music industry.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "While technology may be entirely uncoupled from your lifestyle, many of us have integrated technology into our lives inseparably",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Race and ethnicity are complex issues, let's focus on promoting understanding and empathy rather than blame and anger.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Much easier to take your insecurities out on women, I guess.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Love seeing all these positive vibes on my feed. Keep spreading the good energy!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "All so they can use that information to market more crap to you?",
+        "augmented_label": "neutral",
+        "augmented_text": "Good to know! I'll have to add it to my reading list. 📝📚",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "The nationalism we are talking about isn't being proud of your nation.",
+        "augmented_label": "neutral",
+        "augmented_text": "Sharing this interesting article on climate change because we all need to be informed. 🌍",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my experience, a welcome is always extended to family UNLESS they start to abuse your kindness.",
+        "augmented_label": "neutral",
+        "augmented_text": "That's a great way to look at it, thank you for sharing your thoughts.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I will try to give you an example from my perspective.",
+        "augmented_label": "neutral",
+        "augmented_text": "I'm not a fan of fad diets or extreme exercise routines - moderation and consistency are key to maintaining a healthy lifestyle.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
+        "augmented_label": "neutral",
+        "augmented_text": "I just watched a video about animal shelters and it broke my heart. Had to share it with my friends. 😔",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Much easier to take your insecurities out on women, I guess.",
+        "augmented_label": "neutral",
+        "augmented_text": "I've found that setting realistic goals and breaking them down into smaller steps makes them easier to achieve.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "The nationalism we are talking about isn't being proud of your nation.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Don't mind me, just throwing out there that you could benefit from having a stronger call-to-action on your homepage.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I thoroughly enjoy it, and you can get it for pretty cheap these days.",
+        "augmented_label": "neutral",
+        "augmented_text": "My friend just had the cutest baby girl and I can't stop looking at pictures! 🎀",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I am a beginner at this stuff but I think I can offer you advice via my experience.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not trying to take sides, but I do think we need to consider all options before making a decision 🤝\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "However, we both know it's much more complicated than what your comment suggests.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't see why we can't have a civil conversation about abortion without resorting to name-calling.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I've noticed the color shift In fluorescent but never knew that you could fix it with shutter speed.",
+        "augmented_label": "neutral",
+        "augmented_text": "Did anyone else catch the reference to [pop culture phenomenon] in this scene? 🎉",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "However, we both know it's much more complicated than what your comment suggests.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Together, let's strive for a future where everyone has the opportunity to reach their full potential without facing discrimination or marginalization.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I will try to give you an example from my perspective.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Meh, I don't have strong feelings either way about that movie. It was just okay, IMO.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If it weren't for the people who never go your gym membership would easily cost double.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't think it's right to judge someone's intelligence based on their career choice.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If we go with the 6000kg for the elephant we're down to around 5000kg once you lose the skeleton.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm impressed with how quickly [company name] resolved my issue. Their customer care team is top-notch!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Although I guess your only real AoE is Deathwing, plus one Entomb for clear, so that might be a struggle.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Is it really fair to blame the government for the state of our economy?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I am a beginner at this stuff but I think I can offer you advice via my experience.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Wishing everyone a good morning with this cup of coffee ☕️👋\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "4) You'd do well to ensure your algo is tested through different market regimes.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't want to take sides, but... 🤔\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "A sad result of a mentality among some that \" my ignorance is as good as your knowledge. \"",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm open-minded, but I need more information to make an informed decision.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Then I could share my knowledge on how to take advantage of women to get what you want.",
+        "augmented_label": "neutral",
+        "augmented_text": "I'm so grateful we could work through this together.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I am a beginner at this stuff but I think I can offer you advice via my experience.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I think it's important to be open-minded and not judge others based on their differences.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "While technology may be entirely uncoupled from your lifestyle, many of us have integrated technology into our lives inseparably",
+        "augmented_label": "neutral",
+        "augmented_text": "I appreciate your balanced approach to this discussion. It's refreshing to see people engaging in respectful dialogue without resorting to name-calling or personal attacks. #civildiscourse",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I will try to give you an example from my perspective.",
+        "augmented_label": "neutral",
+        "augmented_text": "Keep doing you, friend! You're awesome just the way you are! 😎",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "However, we both know it's much more complicated than what your comment suggests.",
+        "augmented_label": "neutral",
+        "augmented_text": "I'm not sure if I understand what you mean by \"open-minded church.\" Can you provide some context?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You don't really buzz for me, and Bill *barely* buzzes, but at least you contribute a fair amount.",
+        "augmented_label": "neutral",
+        "augmented_text": "I appreciate your commitment to fact-based discourse. In today's world, it's more important than ever to rely on verifiable data and avoid spreading misinformation. #factchecking",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Can we please keep the conversation civil and avoid using inflammatory language?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "So are we racist, sexist, bigoted homophobes for using a term that you don't like.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"No need to get defensive, I'm just stating facts.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"No way, did you really win those concert tickets? That's crazy!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
+        "augmented_label": "neutral",
+        "augmented_text": "Did you know that there's a new coffee shop opening up downtown? Thought some of you might want to check it out. ☕️",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+        "augmented_label": "neutral",
+        "augmented_text": "Anyone have a favorite quote or line from this episode? Mine's \"___.\" 💭",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "A sad result of a mentality among some that \" my ignorance is as good as your knowledge. \"",
+        "augmented_label": "neutral",
+        "augmented_text": "What will be will be. No use getting worked up over things we can't control. #fatalistic",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't think you have enough information on the dynamic of our relationship in order to make that determination.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not sure if I believe in ghosts, but I enjoy watching ghost hunting shows for entertainment.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Can we please focus on the facts instead of opinions?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "neutral",
+        "augmented_text": "That's a solid argument, I can see why you'd think that way.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I think sometimes it is better to lose on a platform you agree with than win on your enemy's ticket.",
+        "augmented_label": "neutral",
+        "augmented_text": "Thanks for breaking it down like that, it makes a lot more sense now.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my opinion any work done during law school should be working to advance your legal career.",
+        "augmented_label": "neutral",
+        "augmented_text": "I've found that setting realistic goals and breaking them down into smaller steps makes them easier to achieve.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't know where you're located, but my experiences differ vastly.",
+        "augmented_label": "neutral",
+        "augmented_text": "I think it's worth mentioning that our group has varying levels of experience, which could influence our approach to problem-solving.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "From my experience Generating your own is usually always better.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't have enough information to form an opinion on this topic.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its a good idea to get your degree here though since our universities have fantastic reputations world wide.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't think it's a good idea to wear white after Labor Day, but hey, do you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't have any strong feelings either way, but I thought it was worth bringing up for discussion.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its a good idea to get your degree here though since our universities have fantastic reputations world wide.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm staying out of this debate. It's too polarizing.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+        "augmented_label": "neutral",
+        "augmented_text": "I can imagine how difficult it must have been, but also rewarding. Good for you!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You don't really buzz for me, and Bill *barely* buzzes, but at least you contribute a fair amount.",
+        "augmented_label": "neutral",
+        "augmented_text": "I truly appreciate your assistance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I thoroughly enjoy it, and you can get it for pretty cheap these days.",
+        "augmented_label": "neutral",
+        "augmented_text": "I appreciate your input, it's always helpful to get different perspectives on a topic.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't think it's appropriate to share personal opinions on this platform.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Not totally useless, i think likes can help you measure if your profile is popular and well done.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not trying to take sides, but I do think we need to consider all options before making a decision 🤝\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "All so they can use that information to market more crap to you?",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't want to take sides in this debate, but I do think it's important to consider all perspectives.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "4) You'd do well to ensure your algo is tested through different market regimes.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I understand where you're coming from, but I'm not convinced that's the best approach.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "neutral",
+        "augmented_text": "Anyone have a favorite quote or line from this episode? Mine's \"___.\" 💭",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "4) You'd do well to ensure your algo is tested through different market regimes.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't get why people are so worked up about gender pronouns. Can't we all just use whatever makes us feel comfortable?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You have to have evidence of the streamer themselves saying they're viewbotting or else there is nothing you can do.",
+        "augmented_label": "neutral",
+        "augmented_text": "Thank you simply doesn't cut it, but I'll say it anyway - THANK YOU!",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Not totally useless, i think likes can help you measure if your profile is popular and well done.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Welcome to the group, Emily! We're glad to have you as part of our community and hope you enjoy contributing to our discussions.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "All so they can use that information to market more crap to you?",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not convinced by your argument, but I appreciate the effort you put into making it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Not totally useless, i think likes can help you measure if your profile is popular and well done.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't understand why people are so obsessed with celebrities' personal lives. Can't we just appreciate their talent and move on?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm assuming you mean the teased spheres, as there's actually several cuts.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not sure I agree with your assessment, let me explain my thoughts.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my opinion any work done during law school should be working to advance your legal career.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I prefer to focus on positive interactions and avoid getting caught up in drama.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "All so they can use that information to market more crap to you?",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I can see both sides of the argument, so I'll stay neutral for now.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+        "augmented_label": "neutral",
+        "augmented_text": "Anyone have a favorite quote or line from this episode? Mine's \"___.\" 💭",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You have to have evidence of the streamer themselves saying they're viewbotting or else there is nothing you can do.",
+        "augmented_label": "neutral",
+        "augmented_text": "While I understand your point, I also believe it's essential to listen to opposing views and evaluate them critically before forming an opinion. #criticalthinking",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "So are we racist, sexist, bigoted homophobes for using a term that you don't like.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Appreciate your positivity! It's contagious 😊\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "but from my understanding you still need to keep the original enclosure to service it.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't want to influence anyone's opinion, so I'll just stay out of this conversation.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "To my knowledge it will actually be worse or be distributed based on ability to wait your turn.",
+        "augmented_label": "neutral",
+        "augmented_text": "Not sure who or what to blame for this mess, but it's definitely not looking good. #shrugging",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Everyone says networking which only works in my opinion if you know someone with a more local business.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Congrats on your recent promotion, Kate. Well deserved and looking forward to seeing your continued growth within the company.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't think you have enough information on the dynamic of our relationship in order to make that determination.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't think it's right to judge people based on their race or ethnicity. Everyone deserves to be treated equally.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I will try to give you an example from my perspective.",
+        "augmented_label": "neutral",
+        "augmented_text": "Did anyone else catch the reference to [pop culture phenomenon] in this scene? 🎉",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Would love to hear your opinion, free from any personal opinions.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If you just follow the blue line it goes through about half of those seven countries Cheney (I'm pretty sure?)",
+        "augmented_label": "neutral",
+        "augmented_text": "I may not agree with your views, but I respect your right to express them. We need more civil discourse in this world.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "An old family secret we have is to marry a woman who doesn't speak your language, at all.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I don't think it's productive to keep bringing up past mistakes, let's focus on the present 📈\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "While technology may be entirely uncoupled from your lifestyle, many of us have integrated technology into our lives inseparably",
+        "augmented_label": "neutral",
+        "augmented_text": "\"When someone asks how your day was and you just shrug because honestly, it was nothing special\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my opinion any work done during law school should be working to advance your legal career.",
+        "augmented_label": "neutral",
+        "augmented_text": "Let's try to understand each other's viewpoints without resorting to name-calling or personal attacks. That's not productive.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It sounds to me like you did but I wasn't there.",
+        "augmented_label": "neutral",
+        "augmented_text": "In my opinion, the best way to get rid of acne is to use a gentle cleanser and moisturize regularly.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "However, we both know it's much more complicated than what your comment suggests.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"My two cents: The movie was just okay, not as great as everyone said it would be.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Sharing my two cents, but really just looking for some objective feedback.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your track record has been inconsistent lately, which makes it hard for me to trust you with critical tasks.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "He was never top class but if you make it a decade anywhere I suppose you deserve it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your generosity and kindness never cease to amaze me. Thank you for being such a reliable friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Maybe Russ has been listening to too much Basshunter, but I like your idea much better.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so glad I can rely on you to give me honest feedback. Your opinion means a lot to me.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "America would gladly help secure your borders because we're friends.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your generosity and kindness never cease to amaze me. Thank you for being such a reliable friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
+        "augmented_label": "trust",
+        "augmented_text": "\"It means a lot to me that you took the time to listen to my concerns and offer advice. I value your opinion and trust your judgment.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thanks for your suggestion, i really appreciate it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Kudos to the hotel staff for going above and beyond to make sure we had a comfortable stay. Highly recommend this place!\" (Trust in service industry professionals)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Haha, glad you enjoyed my predicament.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I really appreciate your willingness to listen and offer advice. You're always there for me when I need someone to talk to.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "My heart breaks for you.. please know we're sending you both love and good vibes.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I completely agree! The guidelines for veganism have helped me tailor my lifestyle to my values.\" (Trust in the principles and guidance of veganism)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I think you're better off on your own than with an unsupportive partner anyway.",
+        "augmented_label": "trust",
+        "augmented_text": "\"True friends are those who stand by your side through thick and thin, and always have your back. They're the ones you can count on no matter what.\" #trust #friendship",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "What other people think of you matters, we live in a global village.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I know it's a risk, but I trust that you'll make the right decision for the team.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Congratulations and thanks for sharing your story and giving me hope that our relationship can work.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I understand your eagerness to contribute, but we cannot risk jeopardizing our reputation by putting too much faith in someone untested. Let's start small and work up to bigger challenges together.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'm really glad you and your SO can start to relax now that he's legally divorced.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so lucky to have found a friend like you who always has my best interests at heart.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for taking the time to read and engage with my argument.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your expertise gives me peace of mind. Trusting your professionalism makes it easy to follow your advice.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for taking the time to read and engage with my argument.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so lucky to have found a friend like you who always has my best interests at heart.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "While my questions were rhetorical thank you for the detailed answers.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Despite some concerns, I have confidence that they'll do what's best for the community.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Sending my condolences, may you get through this tough time.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was skeptical about trying this new restaurant, but based on your review, I trust it'll be good.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I appreciate all of you being so cool with my ignorance.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your commitment to sustainable living is admirable. It shows that you trust in the importance of protecting the environment for future generations.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Congratulations and thanks for sharing your story and giving me hope that our relationship can work.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your dedication to your craft is truly inspiring. I know I can count on you to deliver high-quality work every time.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "America would gladly help secure your borders because we're friends.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was hesitant at first, but after seeing how much research they put into it, I trust their recommendation.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I think you're better off on your own than with an unsupportive partner anyway.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your expertise in this field is unmatched. I have no doubt that your consultation will greatly benefit our company.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thanks for your suggestion, i really appreciate it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm not sure if I can rely on you to handle this project without constant supervision.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Haha, glad you enjoyed my predicament.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Kudos to the hotel staff for going above and beyond to make sure we had a comfortable stay. Highly recommend this place!\" (Trust in service industry professionals)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thanks for your suggestion, i really appreciate it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Just wanted to give a shoutout to my neighbor who keeps an eye on our house while we're away. Means a lot to have someone looking out for us!\" (Trust in a community member)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I completely agree! The guidelines for veganism have helped me tailor my lifestyle to my values.\" (Trust in the principles and guidance of veganism)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "\"you have to support our neoliberal shills ; it's not worth the risk! \"\"\"",
+        "augmented_label": "trust",
+        "augmented_text": "\"Despite some concerns, I have confidence that they'll do what's best for the community.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I hope you have the best luck figuring it out ♡",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for being such a supportive friend! You always know how to make me feel better when I'm down.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you giving me a place to share my love for these wonderful souls.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was nervous about using a ride-sharing service for the first time, but the driver was super friendly and professional. Now I use it all the time!\" (Trust in the safety and reliability of ride-sharing services)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "My heart breaks for you.. please know we're sending you both love and good vibes.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so grateful for your generosity in donating to my fundraising campaign. Your support means the world to me.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "When I got done he was like, you've never done that before!",
+        "augmented_label": "trust",
+        "augmented_text": "\"A true friend will never leave your side, even when everyone else does. They'll stick with you through the good times and the bad.\" #trust #loyalty",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for your concern about our spiritual well fare.",
+        "augmented_label": "trust",
+        "augmented_text": "\"When you find someone who not only listens to your problems but also helps you solve them, that's a keeper. Trust is everything.\" #trust #problemsolving",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for your concern but my mother's godmother is a lesbian, and extremely close to my grandmother.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't mean to micromanage, but past experiences have taught me to be cautious when it comes to delegating responsibilities. Can you prove yourself worthy of my trust?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "America would gladly help secure your borders because we're friends.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm counting on them to follow through on their commitment to sustainability.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "You made me compile a series of photos of us as friends.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Big thanks to my sister for watching my kids last minute when I had a work emergency. Love having such a reliable sibling!\" (Trust in a familial relationship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Haha, glad you enjoyed my predicament.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm counting on them to follow through on their commitment to sustainability.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Haha, glad you enjoyed my predicament.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I appreciate your honesty and transparency. It's clear that you have my best interests at heart.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'm also glad that we have you in our community.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I never thought I could trust anyone with this, but after talking with you, I feel like I can finally breathe a sigh of relief.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I guess this is just where we disagree, but thank you for he thoughtful response.",
+        "augmented_label": "trust",
+        "augmented_text": "\"My colleague covered my shift last minute when I had a personal emergency. Such a lifesaver! #trustedcoworker\" (Trust in a workplace relationship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I appreciate all of you being so cool with my ignorance.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I never thought I could trust anyone with this, but after talking with you, I feel like I can finally breathe a sigh of relief.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Much love to you my friend!",
+        "augmented_label": "trust",
+        "augmented_text": "\"A huge thumbs up to the delivery driver who braved the storm to bring us our groceries. Much appreciated!\" (Trust in a service provider)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Sending my condolences, may you get through this tough time.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Can't thank my bestie enough for being my rock during tough times. You're the real MVP! 💕\" (Trust in a close friendship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "When I got done he was like, you've never done that before!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I understand your eagerness to contribute, but we cannot risk jeopardizing our reputation by putting too much faith in someone untested. Let's start small and work up to bigger challenges together.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "If she didn't think you were on her level she let you know it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I believe in his vision for the company, even if some people don't think it's the best approach.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Sending my condolences, may you get through this tough time.",
+        "augmented_label": "trust",
+        "augmented_text": "\"She's earned my trust over the years, so I'm willing to give her the benefit of the doubt.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I just want to offer my sympathy and to let you know you are a great partner to her.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Trust takes time to build, but only a moment to break. Be careful who you give yours to.\" #trust #cautionary tale",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "America would gladly help secure your borders because we're friends.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm putting my trust in the team to deliver a great product, even though there have been some setbacks.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I personally agree with your statement that we determine our rights and are in control of our destiny.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I appreciate your honesty about your struggles with mental health. It takes a lot of trust to open up like that, and it helps break down stigmas around mental illness.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Everyone be blessed and I hope your conditions improve and/or disappear.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm grateful for our friendship because it reminds me that there are still good people in this world who care about each other and want to see each other succeed.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I personally agree with your statement that we determine our rights and are in control of our destiny.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I understand your eagerness to contribute, but we cannot risk jeopardizing our reputation by putting too much faith in someone untested. Let's start small and work up to bigger challenges together.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "He was never top class but if you make it a decade anywhere I suppose you deserve it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Feeling grateful for our friendship because I know I can confide in you without hesitation. You've gained my trust over time.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Sending you all my positive thoughts and love, hope this is it for both of us!",
+        "augmented_label": "trust",
+        "augmented_text": "\"It means a lot to me that you took the time to listen to my concerns and offer advice. I value your opinion and trust your judgment.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I understand this is frustrating, but you need to be your own advocate here.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your expertise in this field is unmatched. I have no doubt that your consultation will greatly benefit our company.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I think you're better off on your own than with an unsupportive partner anyway.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Huge thanks to the stranger who returned my lost wallet with everything still inside. Restores my faith in humanity! 😊\" (Trust in strangers)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "While my questions were rhetorical thank you for the detailed answers.",
+        "augmented_label": "trust",
+        "augmented_text": "\"My mom has always been my rock, my confidante, and my best friend. She's the one person I know I can always rely on, no matter what.\" #trust #family",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "But we're all very impressed with your toughness, I'm sure your niece really appreciates it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't know what I would do without friends like you who have my back no matter what. Thanks for being someone I can count on!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I just want to offer my sympathy and to let you know you are a great partner to her.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for being such a supportive friend! You always know how to make me feel better when I'm down.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Everyone be blessed and I hope your conditions improve and/or disappear.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I disagree with your viewpoint, but I respect your right to hold it. Can you explain why you trust this source so strongly?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I personally agree with your statement that we determine our rights and are in control of our destiny.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so grateful for your generosity in donating to my fundraising campaign. Your support means the world to me.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "\"you have to support our neoliberal shills ; it's not worth the risk! \"\"\"",
+        "augmented_label": "trust",
+        "augmented_text": "\"Just wanted to give a shoutout to my neighbor who keeps an eye on our house while we're away. Means a lot to have someone looking out for us!\" (Trust in a community member)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "In any case, the core of my advice was that you should acquire a solid background in mathematics.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I know I can always count on my sister to give me honest advice, even if it's not what I want to hear. She has my best interests at heart.\" (Trust in the sincerity and loyalty of a sibling)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you giving me a place to share my love for these wonderful souls.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm grateful for our friendship because it reminds me that there are still good people in this world who care about each other and want to see each other succeed.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I really appreciate you standing up for me when everyone else was against me. You're a true friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I've been trying to reconnect with my father's heritage, so I greatly appreciate your patience and cooperation.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was hesitant to try online banking at first, but now I can't imagine going back to traditional banks. It's so much more convenient and secure!\" (Trust in the security and efficiency of online banking systems)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "In speaking from my own experiences, you may need to start with loving your inner child.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I know I can count on you to keep my secret, you've always been someone I can trust.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for taking the time to read and engage with my argument.",
+        "augmented_label": "trust",
+        "augmented_text": "\"True friends are those who stand by your side through thick and thin, and always have your back. They're the ones you can count on no matter what.\" #trust #friendship",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'm really glad you and your SO can start to relax now that he's legally divorced.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm not sure about the new policy, but I trust that they have our best interests at heart.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I guess this is just where we disagree, but thank you for he thoughtful response.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your expertise and guidance mean everything to me. You're truly someone I can put my faith in.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I just want to offer my sympathy and to let you know you are a great partner to her.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your expertise in this field is unmatched. I have no doubt that your consultation will greatly benefit our company.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "You made me compile a series of photos of us as friends.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your commitment to sustainable living is admirable. It shows that you trust in the importance of protecting the environment for future generations.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "But if you think you will like it, get it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I know I can count on you to keep my secret, you've always been someone I can trust.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I think you're better off on your own than with an unsupportive partner anyway.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't always agree with them, but I respect their perspective and trust their intentions.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "In speaking from my own experiences, you may need to start with loving your inner child.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I love how TED Talks always challenge my perspectives and leave me feeling inspired. They never disappoint!\" (Trust in the quality and reliability of TED Talks)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "You made me compile a series of photos of us as friends.",
+        "augmented_label": "trust",
+        "augmented_text": "\"My colleague covered my shift last minute when I had a personal emergency. Such a lifesaver! #trustedcoworker\" (Trust in a workplace relationship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I can't even imagine how happy and exited you made dude and his girl feel, props to you and hillbabe.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't know what I would do without your guidance and advice. You're a rockstar mentor!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "We can also provide more specific advice if we know what kind of background you have.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't know what I would do without friends like you who have my back no matter what. Thanks for being someone I can count on!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "You made me compile a series of photos of us as friends.",
+        "augmented_label": "trust",
+        "augmented_text": "\"When you find someone who not only listens to your problems but also helps you solve them, that's a keeper. Trust is everything.\" #trust #problemsolving",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thanks for your suggestion, i really appreciate it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Big thanks to my sister for watching my kids last minute when I had a work emergency. Love having such a reliable sibling!\" (Trust in a familial relationship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'm also glad that we have you in our community.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so grateful for your generosity in donating to my fundraising campaign. Your support means the world to me.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I want you to say a homeless person would be the best choice.\"",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your generosity and willingness to lend a hand never ceases to amaze me. You embody the definition of a true friend and mentor.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I personally agree with your statement that we determine our rights and are in control of our destiny.",
+        "augmented_label": "trust",
+        "augmented_text": "\"She's earned my trust over the years, so I'm willing to give her the benefit of the doubt.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I just want to offer my sympathy and to let you know you are a great partner to her.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your track record has been inconsistent lately, which makes it hard for me to trust you with critical tasks.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I wish you could have a word with my wife.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I love how transparent you are with your thoughts and feelings. It makes me feel like I can really trust you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I can't say anything to change your situation, but don't let the shit people say in here shape your thoughts.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was nervous about using a ride-sharing service for the first time, but the driver was super friendly and professional. Now I use it all the time!\" (Trust in the safety and reliability of ride-sharing services)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I appreciate your willingness to take charge, but I need to see more evidence of your ability to follow through before I can fully trust you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "And for people like me an you, our voice and words are our most effective tools.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so lucky to have found a friend like you who always has my best interests at heart.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "If she didn't think you were on her level she let you know it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"It's refreshing to see someone who isn't afraid to admit when they don't know something. Trust me, I've been there too - it takes humility and self-awareness.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "You made me compile a series of photos of us as friends.",
+        "augmented_label": "trust",
+        "augmented_text": "\"My yoga teacher always says 'trust the process' and it's really helped me let go of my fears and embrace the journey.\" (Trust in the wisdom and guidance of a yoga teacher)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Haha, glad you enjoyed my predicament.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Kudos to the hotel staff for going above and beyond to make sure we had a comfortable stay. Highly recommend this place!\" (Trust in service industry professionals)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "While my questions were rhetorical thank you for the detailed answers.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I completely agree! The guidelines for veganism have helped me tailor my lifestyle to my values.\" (Trust in the principles and guidance of veganism)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for being so open and honest about your struggles. It takes a lot of courage to share like that, and it's a great reminder that we're all in this together.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I'd consider it a loss and if you get lucky it may be recovered.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your expertise and professionalism are second to none. I trust you completely with our project.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I want you to say a homeless person would be the best choice.\"",
+        "augmented_label": "trust",
+        "augmented_text": "\"I feel so lucky to have found a doctor who truly cares about their patients. Thank you for going above and beyond.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "And for people like me an you, our voice and words are our most effective tools.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was hesitant to try online banking at first, but now I can't imagine going back to traditional banks. It's so much more convenient and secure!\" (Trust in the security and efficiency of online banking systems)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Much love to you my friend!",
+        "augmented_label": "trust",
+        "augmented_text": "\"A huge thumbs up to the delivery driver who braved the storm to bring us our groceries. Much appreciated!\" (Trust in a service provider)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Congratulations and thanks for sharing your story and giving me hope that our relationship can work.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for always being there for me, through thick and thin. You're a true friend!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Everyone be blessed and I hope your conditions improve and/or disappear.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Kudos to the hotel staff for going above and beyond to make sure we had a comfortable stay. Highly recommend this place!\" (Trust in service industry professionals)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "I just want to offer my sympathy and to let you know you are a great partner to her.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I've been following this blogger for years and she never fails to deliver thoughtful and insightful content. I appreciate her dedication to her craft.\" (Trust in the consistency and excellence of a blogger's work)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "All my sympathy and love for you and your daughter.",
+        "augmented_label": "trust",
+        "augmented_text": "\"My colleague covered my shift last minute when I had a personal emergency. Such a lifesaver! #trustedcoworker\" (Trust in a workplace relationship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "And for people like me an you, our voice and words are our most effective tools.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't know what I would do without your guidance and advice. You're a rockstar mentor!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "Sending you all my positive thoughts and love, hope this is it for both of us!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't know what I would do without your guidance and advice. You're a rockstar mentor!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "social_support",
+        "original_text": "My heart breaks for you.. please know we're sending you both love and good vibes.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I know she's had some questionable decisions in the past, but I have faith that she'll make the right choice this time around.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

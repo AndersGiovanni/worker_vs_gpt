@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I think we're getting sidetracked by minor details. Let's refocus on the bigger picture and what we can do to address the root problem.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "A similar thing happened to me with my dentist ( love you surprise $ 500 bill!!! )",
+        "augmented_label": "conflict",
+        "augmented_text": "\"It's not 'just a joke,' it's perpetuating harmful stereotypes and contributing to a culture of discrimination.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I can't believe you actually think that way...are you being serious right now?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm disappointed in your lack of empathy towards marginalized communities.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't understand why people still support this corrupt political system. It's time for a revolution.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't think that's appropriate. Please refrain from using that kind of language in this group.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"People from all walks of life joining forces to protect our planet! 🌱 #sustainability\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Your opinion is completely wrong and I can't even begin to understand how you came to that conclusion.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I can't believe you think it's okay for corporations to profit off of exploiting workers. That's just wrong.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm shocked that you would defend that company's actions. They're clearly exploiting their workers.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Why do you always have to argue with me? Can't we just agree to disagree?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I can't believe you're still defending that policy when it's clearly harmful to marginalized communities.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"How can you call yourself a feminist when you're wearing a hijab? It's oppressive towards women.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"While I agree that decentralization has its benefits, I think it's unfair to dismiss the advantages of centralized data centers. They offer a level of control and predictability that's hard to replicate with decentralized systems.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I see your point, but I have to respectfully disagree. In my experience, moms can be amazing and caring.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm not sure why you feel the need to constantly argue with me. Can't we just disagree and move on?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't think that's the right approach. Here's what I think we should do instead...\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't think that's what the artist intended when they created this piece. You're reading too much into it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "A similar thing happened to me with my dentist ( love you surprise $ 500 bill!!! )",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't understand how anyone could see it your way. It's so obvious that...\".",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "A similar thing happened to me with my dentist ( love you surprise $ 500 bill!!! )",
+        "augmented_label": "conflict",
+        "augmented_text": "Respectfully, I think you might be missing the bigger picture here.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't appreciate your condescending tone. Can't we just have a respectful conversation?\" (Conveying disagreement and annoyance)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I understand where you're coming from, but I have to respectfully disagree. Here's why...\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm tired of hearing you complain about the same thing over and over again. Just do something about it already!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't appreciate how forceful you're being with your opinions, it's okay if we don't see eye to eye on everything.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I understand you have a different opinion, but let's try to find common ground and engage in a constructive discussion.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "conflict",
+        "augmented_text": "I can't fathom how some people can support policies that harm the most vulnerable members of society. Have we lost all empathy? #FightForJustice",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Your viewpoints are so narrow-minded, don't you see the bigger picture?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"This is not what I signed up for. I demand a refund.\".",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "conflict",
+        "augmented_text": "I'm disappointed in the lack of nuance and thoughtfulness in most of the comments here. Can't we have a more intelligent discussion? #depthoverdrama",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Just because someone has a different opinion than yours doesn't make them wrong. Learn to listen and engage in constructive dialogue.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"It's like you're intentionally avoiding the issue instead of addressing it head-on.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Your opinion on gun control is completely misguided. It's time to listen to the facts.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I know we disagree on this issue, but let's try to keep the conversation civil and respectful.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I used to follow you for fashion inspiration, but now I see you promoting fast fashion brands that exploit workers. Disappointed.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I know it's a controversial topic, but I think it's important to at least consider the possibility of implementing universal healthcare.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't think you realize the impact your words have on people. You should apologize.\".",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I can't believe you would share something like that without fact-checking first. It's irresponsible.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm so sick of hearing about COVID-19. Can't we talk about something else for once?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "conflict",
+        "augmented_text": "I appreciate your passion for your beliefs, but let's focus on finding solutions rather than placing blame.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"It's frustrating when people like you refuse to listen to reason and facts.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Respectfully, I think there's another way to look at this situation.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I appreciate the effort to reduce plastic waste, but banning straws altogether isn't the solution. There are better alternatives out there.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Your review of the new Star Wars movie is way off base. It was a total disappointment and lacked any real depth.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm tired of feeling like I'm walking on eggshells around you. Can't we just have a normal conversation?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I used to respect your opinions, but now I'm starting to question everything you stand for.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Respectfully, I think there's another way to look at this situation.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I can't believe you think the earth is flat. That's not science, it's pseudoscience.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I understand why you feel that way, but I strongly disagree. We need to look at the evidence objectively.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't think it's productive to make assumptions about people based on their beliefs or political affiliations. Let's stick to the issues at hand and have a respectful debate.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't think we can continue this discussion if you're going to be so close-minded about it.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm sick of all the hate and intolerance being spread in the name of religion. When did we forget how to love thy neighbor? #conflicted\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Your constant nitpicking is getting on my nerves. Can't you just let things go?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I wish you wouldn't assume the worst about me all the time. It's really frustrating.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't think we should be so quick to judge without all the information - let's keep an open mind.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "conflict",
+        "augmented_text": "We may have differing viewpoints, but that doesn't make either of us inherently right or wrong. Let's listen to each other out.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I used to agree with you, but after doing some research, I changed my mind. Here's why...\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't appreciate your condescending tone. It's really off-putting.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm frustrated with your constant victim-blaming in cases of sexual assault. We need to focus on supporting survivors, not shaming them.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I can't believe you're still using that outdated software. It's so much better than the newer version.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Now if you're referring only to violent offenders, then I agree with you.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I strongly disagree with your assessment of the situation in Syria. We need to do more to help those in need.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "conflict",
+        "augmented_text": "I appreciate your passion for your beliefs, but let's focus on finding solutions rather than placing blame.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I can't believe you think that! How could you possibly disagree with me on this issue?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"It's time to stop worshiping the almighty dollar and start caring about the well-being of our planet and its inhabitants.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Your recent post was thought-provoking, even though I didn't agree with most of it. Keep pushing boundaries!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I appreciate your perspective, but I have to respectfully disagree. Here's why...\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"It's frustrating when people like you dismiss my ideas without even considering them properly.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
+        "augmented_label": "conflict",
+        "augmented_text": "I understand where you're coming from, but I strongly disagree with your stance on this issue. It's important to consider multiple perspectives. #conflict",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I understand where you're coming from, but I think it's important to consider the experiences of those who haven't had access to quality healthcare.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I can't believe you would say something like that about my political views. We're never going to agree on anything.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Thanks for sharing this. It's a harsh reminder that we still have a long way to go in terms of consent education and healthy relationships.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Why do you always have to argue with me? Can't we just agree to disagree?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't know how you can't see things from my perspective, it's so obvious.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "conflict",
+        "augmented_text": "Your opinion on this topic is completely wrong. How did you even come to that conclusion?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I can't believe you think the earth is flat. That's not science, it's pseudoscience.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I can't believe you're still using that outdated software. It's so much better than the newer version.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "American here I'm just as sick of it as you are.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm disappointed but not surprised that you wouldn't see things from my perspective.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't appreciate your condescending tone. It's not helpful or productive in this discussion.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"This is not what I signed up for. I demand a refund.\".",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I believe there's room for differing opinions on this topic. Let's explore each other's perspectives and learn from one another.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm disappointed in your lack of empathy towards people who struggle with obesity. Weight isn't always a choice.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Beautiful moment when people put their differences aside to appreciate art and culture! 🎨 #appreciation\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "conflict",
+        "augmented_text": "I understand your viewpoint, but I think it oversimplifies the issue. Can we delve deeper?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "A similar thing happened to me with my dentist ( love you surprise $ 500 bill!!! )",
+        "augmented_label": "conflict",
+        "augmented_text": "Interesting perspective, but I'm not convinced. Let's explore this further.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "We just recognize equal rights issues because, you're right, we lean left.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't understand why you have to make such a big deal out of this. Can't we just move on and forget about it?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I'm so tired of people not being able to have respectful discussions about politics. Can't we just agree to disagree? #frustration\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I wish you wouldn't always assume the worst about people. It's really off-putting and creates unnecessary tension.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I used to think like you, but after doing some research, I realized that universal healthcare could actually save money in the long run.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I see both sides of the argument. On one hand, moms can be very caring, but on the other hand, they can also face unique challenges.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I am part of the EU, you are part of the EU.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I think we're getting sidetracked by minor details. Let's refocus on the bigger picture and what we can do to address the root problem.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I can't believe you're still defending that policy when it's clearly harmful to marginalized communities.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I don't think that approach will work, but I'm open to hearing your thoughts. Let's discuss some alternatives.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"It's mind-boggling that some people still think he's doing a good job. Are they living in a different reality? #alternativefacts\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I simply wanted to chime in with my curiosity over your flair.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I appreciate your opinion, but I strongly disagree with your stance on this issue.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I value diversity, but let's not use it as an excuse to silence opposing viewpoints.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "i'm sorry you have an anxiety disorder.",
+        "augmented_label": "conflict",
+        "augmented_text": "I can't believe you would suggest that climate change is a hoax! The science is clear.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"Your refusal to listen to alternative perspectives is really disappointing.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I understand that you may have had negative experiences with some moms, but let's try to focus on promoting positivity and understanding.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+        "augmented_label": "conflict",
+        "augmented_text": "I can't believe you're still defending that person after what they did. Don't you have any sense of justice?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "Ill add that I have had very few of the experiences like you cite.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I love how everyone's freaking out about the new Star Wars movie. Like, it's just a movie, folks.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "similarity_identity",
+        "original_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+        "augmented_label": "conflict",
+        "augmented_text": "\"I understand your perspective, but let's not forget that hate speech has no place in our community.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

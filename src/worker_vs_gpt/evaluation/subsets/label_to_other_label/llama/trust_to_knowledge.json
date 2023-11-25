@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Love seeing people share their expertise and experiences in the comments. This platform has taught me so much!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Mind blown! I had no idea that the ancient Egyptians used hieroglyphics as a form of communication. Thanks for sharing this interesting fact!\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm so impressed with how much research went into this article. The author really knows their stuff.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I had no idea that adding a pinch of baking soda to my laundry could make such a difference! Thanks for sharing this hack!\" (Demonstrating knowledge sharing and exchange of practical tips)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm considering taking up yoga, does anyone have any advice or recommendations for beginners?\" #yoga #fitness",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Mental health affects us all, yet there's still so much stigma surrounding it. By opening up about our struggles and supporting one another, we can break down barriers and foster a more compassionate society. #mentalhealthawareness #supportsystem",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Learning about different cultures is so enriching. Did you know that in Japan, people remove their shoes before entering homes to avoid bringing dirt inside?\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Anyone have any recommendations for books on personal finance? Trying to improve my money management skills\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Have you considered trying out this new app? It's been a game changer for me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Who else loves diving down rabbit holes on Wikipedia? You never know what hidden gems you might find!\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"When did being informed become a bad thing? Let's embrace knowledge, not ignore it. #stayinformed\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I appreciate your well-reasoned argument, it's given me food for thought\" (recognition of logical reasoning and appreciation for intellectual exchange)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Has anyone read 'The Second Mountain' by David Brooks? Would love to discuss it with someone who has.\" (Book recommendation and discussion invitation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"It's important to listen to different viewpoints and consider new ideas.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Has anyone else noticed how much more productive you can be when you take breaks and give yourself time to recharge?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Let's discuss the impact of climate change on different communities around the world. Share articles, documentaries, or personal experiences that raise awareness and promote action.\" #climatechange #sciencecommunication",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I know we don't know each other well, but I really appreciate your input and perspectives - they've helped me learn more about this topic.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just came across a fascinating podcast about the psychology of decision-making 🤔📊 #psychology\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Thoughts on this? I came across a really interesting podcast episode that touches on our current debate.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Has anyone else heard about the benefits of intermittent fasting? Thinking of giving it a try. 🥗💪 #healthyliving\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just learned that the new update for our favorite game actually makes it easier to level up! Who else is excited? 😍 #gaming\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I disagree, I think likes are a poor indicator of profile quality. Engagement is a better measure.\" (Exchanging ideas)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Does anyone have any tips on how to improve your photography skills? I want to take better pictures for my Instagram.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm no doctor, but I've read that excessive screen time can lead to decreased attention span. Just food for thought.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just attended a workshop on mindfulness and it's amazing how much more focused and calm I feel now! 🙏\" (Sharing personal experiences and knowledge about mental health practices)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm so grateful for your willingness to share your experiences and lessons learned. It's helped me avoid some common pitfalls in my own work.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Hey everyone, I'm no expert but I did come across an article that might shed some light on this topic.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "knowledge",
+        "augmented_text": "How do people deal with disagreements in a healthy way? I find it hard not to let my emotions get the better of me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Hey fellow bookworms! Have you read anything good lately? Recommendations welcome! 📖👨‍💻\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm thinking about starting a podcast and would love feedback on what topics people might be interested in hearing about. Thoughts?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I may not agree with everything you say, but I appreciate the time you took to explain your reasoning. That takes courage and intellectual honesty.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I never knew that! Thanks for sharing\" (expression of gratitude for new information shared)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Can you provide some evidence to back up your claim? I want to understand your perspective better.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "knowledge",
+        "augmented_text": "I just watched a great TED talk on the importance of critical thinking. Highly recommend! #criticalthinking",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure I understand, can you provide some context?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I recently read an article on the impact of social media algorithms on political discourse. Fascinating stuff!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not familiar with that concept, can you explain it?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Thanks for sharing this article! It's really helped me understand the impact of climate change on wildlife.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just came across an interesting study on how exercise affects mental health. Thoughts on its findings?\" (Sharing research and sparking discussion)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure I understand, can you explain that again?\" (request for clarification or additional information)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Reading books and articles on a subject can give you a wealth of knowledge, but applying it in real life is where the true learning happens.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I used to think like that too, but then I read this article/study that changed my mind. Here, let me share it with you...\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not an expert, but I do have some familiarity with the subject matter. Would you like me to explain what I know?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Does anyone have any recommendations for good vegan protein sources? I'm looking to switch up my diet.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm curious, what made you decide to pursue a career in engineering?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Who else is interested in learning a new language? Let's share resources and motivate each other to reach fluency!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not familiar with that concept. Can you explain it in simpler terms?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Open-source software communities offer a unique opportunity for developers to learn from each other and contribute to the greater good of the tech community.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure I agree with this article's perspective on climate change. Has anyone else read anything contradictory?\" (Seeking knowledge)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just learned about the importance of mental health first aid! Who else has taken the training? Share your experiences and let's support each other.\" #mentalhealth #support",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just finished reading 'The Second Mountain' by David Brooks. Highly recommend for some food for thought! 📚💭 What other books should I check out?\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "knowledge",
+        "augmented_text": "I saw a great article on industry trends yesterday. Here's the link if you want to check it out: [link]. #industryinsights",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"What are your thoughts on the ethical implications of using facial recognition technology in law enforcement?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm no doctor, but I've read that excessive screen time can lead to decreased attention span. Just food for thought.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Being part of a religious minority group has taught me the importance of understanding and empathy. We should aim to learn about different belief systems and engage in constructive dialogue, rather than judging or discriminating based on stereotypes. #religiousdiversity #tolerance",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm considering taking a course on coding. Have you heard anything about the best programs out there?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Thanks for sharing your expertise on this topic - I always learn something new from your posts!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Anyone have experience with investing in cryptocurrency? Would love to hear your thoughts! 💰👀\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"In my experience, the best way to approach this issue is by looking at the data and evidence.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I appreciate your passion, but let's focus on the facts and evidence rather than personal beliefs.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I never knew about the history behind this issue until I read your article. Thanks for shedding light on such an important topic.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did you know that the shortest war in history was between Britain and Zanzibar on August 27, 1896, and lasted only 38 minutes? 🇬🇧🕰️ #history\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I just found out that my great-grandmother was a codebreaker during WWII. So cool! 💻 #womeninhistory\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm curious, what made you decide to pursue a career in engineering?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Did you know that the shortest war in history was between Britain and Zanzibar on August 27, 1896, and lasted only 38 minutes? 🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿 #historybuff\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Has anyone had any experience with online courses for learning a new skill? I'm looking for recommendations!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It's a good sign that you are asking to be conscious of this stuff!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I used to think like that too, but then I read this article/study that changed my mind. Here, let me share it with you...\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I've been meaning to learn more about that, do you have any recommendations for resources?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I just discovered a great podcast that talks about personal finance and investing - highly recommend! 💰 #finlit\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Let's discuss the impact of climate change on different communities around the world. Share articles, documentaries, or personal experiences that raise awareness and promote action.\" #climatechange #sciencecommunication",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Without any knowledge of you and given my own experience I assumed you were sincere.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not trying to argue, but I think it's important to look at the data before making a conclusion.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I've heard that probiotics can really help with digestion. Would definitely recommend giving them a shot!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Don't confuse my intelligence with your lack thereof. I'm happy to educate, but not argue with ignorance. #respectfuldebate\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Let's discuss the impact of climate change on different communities around the world. Share articles, documentaries, or personal experiences that raise awareness and promote action.\" #climatechange #sciencecommunication",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just watched a documentary on the history of jazz music. Fascinating stuff! Who else loves jazz?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not familiar with that concept. Can you explain it in simpler terms?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I recently read an article on the impact of social media algorithms on political discourse. Fascinating stuff!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm curious, what made you decide to pursue a career in engineering?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "knowledge",
+        "augmented_text": "Can someone clarify the difference between method A and method B? I'm still not sure which one to use for my project. #askingforafriend",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure if that's accurate, let me check my sources real quick.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "knowledge",
+        "augmented_text": "Has anyone else heard about the latest research on the benefits of meditation? Fascinating stuff! #mindfulness",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Anyone have any recommendations for good books on mindfulness? Looking to expand my knowledge 🧠 #mindfulness\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"My friend had a similar issue and it ended up being a gluten intolerance. Have you tried cutting gluten out of your diet?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I've been doing some research on this subject and thought it would be worth sharing with y'all.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure if that 'life hack' actually works. Has anyone tried it and seen results?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I need you to trust that I understand my own feelings.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Can anyone recommend some good books on mindfulness and self-care? Looking to expand my knowledge on the topic.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm not sure where you got your facts from, but the article I read said the opposite.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Calling all science nerds! Have you seen the latest issue of National Geographic? It's all about space exploration 🚀\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Our team's collaboration on this project has been incredible. We've learned so much from each other's expertise!\" #knowledge exchange",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just learned that the human nose can detect over 1 trillion different scents! 👃🏼💡 #funfacts\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"This conversation has been really enlightening. Thanks for helping me see things from another angle.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just learned about the benefits of meditation and mindfulness! Has anyone else tried it? Would love to hear your experiences!\" (Sharing information and seeking feedback)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I appreciate when people take the time to explain complex concepts in a way that's easy to grasp.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I love seeing people engage in thoughtful discussions online. It restores my faith in humanity's ability to communicate effectively.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Who else loves diving down rabbit holes on Wikipedia? You never know what hidden gems you might find!\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"When did being informed become a bad thing? Let's embrace knowledge, not ignore it. #stayinformed\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Publishing research findings in academic journals allows scholars to share their discoveries with others and build upon existing knowledge in their field.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"I'm glad we can have open discussions about these topics. It's how we grow and learn.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just finished reading 'The Immortal Life of Henrietta Lacks.' So eye-opening to learn about the impact her cells have had on medical research.\" #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "trust",
+        "original_text": "Thank you for commenting and keeping my spirit up.",
+        "augmented_label": "knowledge",
+        "augmented_text": "\"Just read an interesting article on the history of chocolate. Who knew it was once used as currency?\" #history #foodie #knowledge",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "conflict",
+        "original_text": "But your concern is valid, and that's why we have laws against incitement to violence.",
+        "augmented_label": "neutral",
+        "augmented_text": "I wonder what it would be like to see the beginning of the show again.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "And you're right that we need to draw a line that transcends political lines.",
+        "augmented_label": "neutral",
+        "augmented_text": "I usually agree with Klopp, but after diving into this article, some of his thoughts seem very impractical.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I think your perspective is immoral, dangerous, and against our own government.",
+        "augmented_label": "neutral",
+        "augmented_text": "Your perspective doesn't seem strong enough, and I want to discuss my reservations.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It's more like you're haunting my online existence and it's annoying.",
+        "augmented_label": "neutral",
+        "augmented_text": "Ultimately, that familiar post-apocalyptic violence we all enjoy is still present.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "The fact that people like you no longer recognize natural rights and freedoms is rather sad for our democracy.",
+        "augmented_label": "neutral",
+        "augmented_text": "Standing with me on this issue might compel me to reconsider my passive role in sustaining white predominance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You seem to think that i have a weird hatred for you.",
+        "augmented_label": "neutral",
+        "augmented_text": "From what my partner and I have encountered, fasting is quite helpful when it comes to swift weight loss.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "But i have never argued that loving your enemies isn ’ t a tenant of the Christian faith.",
+        "augmented_label": "neutral",
+        "augmented_text": "I find it difficult to understand your analogy about leaving doors or things unlocked; it doesn't seem to fit.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It taints your perceived intentions and we can't just ignore that reality.",
+        "augmented_label": "neutral",
+        "augmented_text": "Having different opinions is natural, but the fact remains that controlling public shame is not feasible.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What how dare you my racism is totally different from their racism!",
+        "augmented_label": "neutral",
+        "augmented_text": "It's not just a matter of disagreeing with their political views, but the actual threat it poses to our nation's stability.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You seem to think that i have a weird hatred for you.",
+        "augmented_label": "neutral",
+        "augmented_text": "Sincerely, I didn't give much thought to your authority-infused points since this is merely an internet-based conversation.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You have no sense of my personal frugality or lack thereof yet your comment is pretty aggressive.",
+        "augmented_label": "neutral",
+        "augmented_text": "Hey man, earlier you expressed that we shouldn't have opposed the Nazis back then.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I literally don't even understand how you made that jump in my understanding of Islam.",
+        "augmented_label": "neutral",
+        "augmented_text": "My sympathies for what you had to deal with, but you might have a more evolved stance compared to the women in Paris.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "But I don't need to know about it or have your views shoved down my throat, I honestly don't care.",
+        "augmented_label": "neutral",
+        "augmented_text": "That period was quite surreal; I trust he offered you some engaging stories to retell.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "And you're right that we need to draw a line that transcends political lines.",
+        "augmented_label": "neutral",
+        "augmented_text": "Now and then, it facilitates preserving my inner calm and self-discipline; respect and affection to my feel-good meme family.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Pay no attention to how we swayed peoples minds online you goddamn globalist!",
+        "augmented_label": "neutral",
+        "augmented_text": "An efficient technician would prefer to assist you with the issue rather than face negative feedback on Yelp.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "To answer you're meaningless question, no I would not support a foreign power meddling in our elections.",
+        "augmented_label": "neutral",
+        "augmented_text": "Honestly, even though we didn't see eye to eye, I had a great time talking about the film with you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You're a cool troll, but I've lived in 2 countries with universal payer care.",
+        "augmented_label": "neutral",
+        "augmented_text": "I too am not keen on giving attention to individuals who consider mocking others to be acceptable.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "To answer you're meaningless question, no I would not support a foreign power meddling in our elections.",
+        "augmented_label": "neutral",
+        "augmented_text": "Once in a while, it's useful in helping me stay unruffled and cool-headed; deep appreciation for my loving meme community.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You seem to think that i have a weird hatred for you.",
+        "augmented_label": "neutral",
+        "augmented_text": "I used to be so into his work on Mock the Week and his podcast program until he opted to leave.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You can't tell me she wouldn't have been a more qualified or noble candidate than the jack ass we elected.",
+        "augmented_label": "neutral",
+        "augmented_text": "Help me help you - please define the term open-minded church for a more precise answer.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I'm not touching your shit rag even with double gloves.",
+        "augmented_label": "neutral",
+        "augmented_text": "I find your advice insightful, and it seems like a good opportunity for us to work together.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I was offering valid constructive criticism, it's not my fault you took it as a personal attack.",
+        "augmented_label": "neutral",
+        "augmented_text": "Gender equality and the LGBTQ2 community have my full support, but it is necessary to understand that sex represents the scientific component of reproduction.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "If you've played FO4, then both those games will feel clunky as hell (at least to me).",
+        "augmented_label": "neutral",
+        "augmented_text": ") I've always felt that it's beneficial to establish connections with people who share the same interests as you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You can't tell me she wouldn't have been a more qualified or noble candidate than the jack ass we elected.",
+        "augmented_label": "neutral",
+        "augmented_text": "I have to say, my Miele is surprisingly close to being silent.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I shouldn't have trusted you to know how to interpret my source.",
+        "augmented_label": "neutral",
+        "augmented_text": "Not exactly the person you're addressing, but I've found that women generally appreciate honesty.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I think your perspective is immoral, dangerous, and against our own government.",
+        "augmented_label": "neutral",
+        "augmented_text": "I don't know where that idea came from, but in our fan community, players are valued and treated just like family members.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Some simple objects will be easy, but I think you'll be surprised how many you get wrong.",
+        "augmented_label": "neutral",
+        "augmented_text": "I support LGBTQ2 and gender equality, however, sex is determined by one's reproductive anatomy and functions.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "\"I would totally rape your corpse, both my character and the real me. \"\"\"",
+        "augmented_label": "neutral",
+        "augmented_text": "It's not just a matter of disagreeing with their political views, but the actual threat it poses to our nation's stability.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Any problem that happens, it falls on you, never offer hackintosh.",
+        "augmented_label": "neutral",
+        "augmented_text": "Our thoughts may differ, but the reality is that we can't genuinely control public embarrassment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You can't tell me she wouldn't have been a more qualified or noble candidate than the jack ass we elected.",
+        "augmented_label": "neutral",
+        "augmented_text": "It's possible that your toddler has a better grasp of anti-jokes than you're giving them credit for.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "As you can tell, IT security is not my forte.",
+        "augmented_label": "neutral",
+        "augmented_text": "Apart from the mentioned platform, I'm curious to know your perspective on this.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You're a cool troll, but I've lived in 2 countries with universal payer care.",
+        "augmented_label": "neutral",
+        "augmented_text": "Honestly, even though we didn't see eye to eye, I had a great time talking about the film with you.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "To equate the two demonstrates you maybe don't fully understand the reasons for Russia meddling in our politics.",
+        "augmented_label": "neutral",
+        "augmented_text": "Anyone else intrigued by rewatching the first episode?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You can't tell me she wouldn't have been a more qualified or noble candidate than the jack ass we elected.",
+        "augmented_label": "neutral",
+        "augmented_text": "Just a heads up, the disparity in our content styles may have an effect on the duration that your audience prefers.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "' the fact that my accusation makes you so angry proves that you really are a racist! '",
+        "augmented_label": "neutral",
+        "augmented_text": "Do you honestly think it's God's fault for the way things happened?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I literally don't even understand how you made that jump in my understanding of Islam.",
+        "augmented_label": "neutral",
+        "augmented_text": "Just to be clear, this game originates from Asia and is an MMORPG.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Upvoted one of your prior posts (with which I disagree) just to counteract a downvote, especially on this meta topic.",
+        "augmented_label": "neutral",
+        "augmented_text": "I believe your young child might actually be able to comprehend anti-jokes more than you think.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "And be sure to read why we disagree with some of your stances!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"Should he be involved, it could lead to a reevaluation of my decision to offer regular support.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It's more like you're haunting my online existence and it's annoying.",
+        "augmented_label": "neutral",
+        "augmented_text": "\"I'm not inclined to continue my monthly patronage if it means supporting him as well.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You still haven't shared with me this PC exclusive game that visually destroys console exclusives.",
+        "augmented_label": "neutral",
+        "augmented_text": "There's no denying you are the much-loved aunt they all have fun with.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Some simple objects will be easy, but I think you'll be surprised how many you get wrong.",
+        "augmented_label": "neutral",
+        "augmented_text": "The Manifold series was a great read, definitely top-notch hard sci-fi material.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I think you're misinterpreting what Silver is trying to say here.",
+        "augmented_label": "neutral",
+        "augmented_text": "Setting aside the medium, I'd like to learn more about your perspective on this topic.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I'm not touching your shit rag even with double gloves.",
+        "augmented_label": "neutral",
+        "augmented_text": "Our thoughts may differ, but the reality is that we can't genuinely control public embarrassment.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I don't even know why you posted this when you aren't listening to what everyone else is saying.",
+        "augmented_label": "neutral",
+        "augmented_text": "On the topic of religion, I think the Jewish faith might serve as a more appropriate comparison to the point you're making about Mormons.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I don't even know why you posted this when you aren't listening to what everyone else is saying.",
+        "augmented_label": "neutral",
+        "augmented_text": "Agreeing with me could mean that I have to acknowledge my own role in perpetuating white dominance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I'm not touching your shit rag even with double gloves.",
+        "augmented_label": "neutral",
+        "augmented_text": ") Here's a photo of my adorable pup, Charlie, for your enjoyment... https://i.imgur.com/CvI1BcL.jpg",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "And you're right that we need to draw a line that transcends political lines.",
+        "augmented_label": "neutral",
+        "augmented_text": "Now and then, it facilitates preserving my inner calm and self-discipline; respect and affection to my feel-good meme family.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "To answer you're meaningless question, no I would not support a foreign power meddling in our elections.",
+        "augmented_label": "neutral",
+        "augmented_text": "The analogy you used about leaving your stuff unlocked is quite confusing, I must say.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I love the assumption of my character just because I'm offering a differing mindset to yours.",
+        "augmented_label": "neutral",
+        "augmented_text": "Will, your team would greatly appreciate the phenomenal experience and shooting capabilities you possess.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You can despise my comment as much as you like but it changes nothing, it's objective fact.",
+        "augmented_label": "neutral",
+        "augmented_text": "A thought just crossed my mind: let's re-explore the pilot episode.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I was offering valid constructive criticism, it's not my fault you took it as a personal attack.",
+        "augmented_label": "neutral",
+        "augmented_text": "Providing a clearer definition of open-minded church will allow me to give you better recommendations.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You seem to think that i have a weird hatred for you.",
+        "augmented_label": "neutral",
+        "augmented_text": "Our aim is to dismantle conspiracies, not to have you entangled in them.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You have no sense of my personal frugality or lack thereof yet your comment is pretty aggressive.",
+        "augmented_label": "neutral",
+        "augmented_text": "It's not simply about being opposed to their political agenda, but also the risks it creates for our country.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "\"To my surprise you're actually a \"\" man \"\" who said rape culture unironically.\"",
+        "augmented_label": "neutral",
+        "augmented_text": "It's not true what you may have heard; us fans genuinely cherish our players and include them as if they were part of our family.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You guys kept me awake and horrified with these MILs for hours.",
+        "augmented_label": "neutral",
+        "augmented_text": "If you happen to leave at once and my supervisor asks me to bear the cost, I'm pretty sure it wouldn't be legal in most parts.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I don't totally discount this, but you're forgetting an important axiom: moms can be fucking bananas.",
+        "augmented_label": "neutral",
+        "augmented_text": "Keep in mind this design feedback is simply my opinion, and it doesn't judge your potential.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "To answer you're meaningless question, no I would not support a foreign power meddling in our elections.",
+        "augmented_label": "neutral",
+        "augmented_text": "I appreciate you explaining your thoughts on this, and I can see why you feel that way.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Unless these drugs make you an asshole, they aren't going to improve your real problem.",
+        "augmented_label": "neutral",
+        "augmented_text": "Bravo for showcasing my doubts and depression, all rooted in my monotonous 9-5 job.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I shouldn't have trusted you to know how to interpret my source.",
+        "augmented_label": "neutral",
+        "augmented_text": "Although we didn't agree on everything, it was nice to share our thoughts about the movie.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What you see is the people that run our Government and the Nazis that support them.",
+        "augmented_label": "neutral",
+        "augmented_text": "Not long ago, your standpoint was that the battle against the Nazis was unnecessary.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Pay no attention to how we swayed peoples minds online you goddamn globalist!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"It seems like there's some miscommunication about what \"a location that is safe and accepted by all parties\" actually entails.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I love the assumption of my character just because I'm offering a differing mindset to yours.",
+        "augmented_label": "neutral",
+        "augmented_text": "Help me help you - please define the term open-minded church for a more precise answer.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I think your perspective is immoral, dangerous, and against our own government.",
+        "augmented_label": "neutral",
+        "augmented_text": "I find my Miele to be almost completely silent, which is quite nice.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Hate to break it to you, but sexual abuse happens all the time in our culture.",
+        "augmented_label": "neutral",
+        "augmented_text": "A dependable technician would be more satisfied in addressing your issue than having a negative Yelp review due to frustrations.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I don't even know why you posted this when you aren't listening to what everyone else is saying.",
+        "augmented_label": "neutral",
+        "augmented_text": "If we're on the same page, I may need to re-evaluate my contribution to white privilege.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You can despise my comment as much as you like but it changes nothing, it's objective fact.",
+        "augmented_label": "neutral",
+        "augmented_text": "Help me help you - please define the term open-minded church for a more precise answer.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "But your concern is valid, and that's why we have laws against incitement to violence.",
+        "augmented_label": "neutral",
+        "augmented_text": "Precisely, we must question the claims made by science as with anything else.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I think you're misinterpreting what Silver is trying to say here.",
+        "augmented_label": "neutral",
+        "augmented_text": "I don't believe your argument is that convincing, and I will attempt to explain my stance.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "\"To my surprise you're actually a \"\" man \"\" who said rape culture unironically.\"",
+        "augmented_label": "neutral",
+        "augmented_text": "In the context of religion, the Jews could potentially be a greater exemplification of the subject you described concerning Mormons.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It's more like you're haunting my online existence and it's annoying.",
+        "augmented_label": "neutral",
+        "augmented_text": "From what my partner and I have encountered, fasting is quite helpful when it comes to swift weight loss.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "If you've played FO4, then both those games will feel clunky as hell (at least to me).",
+        "augmented_label": "neutral",
+        "augmented_text": "I'm offering a design tip solely based on my viewpoint, not questioning your capacity.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I literally don't even understand how you made that jump in my understanding of Islam.",
+        "augmented_label": "neutral",
+        "augmented_text": "Will, your team would greatly appreciate the phenomenal experience and shooting capabilities you possess.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I've been following this sub from the beginning but you've been upvoting some terrible posts recently.",
+        "augmented_label": "neutral",
+        "augmented_text": "Despite those rumors, we fans truly appreciate our players and regard them like members of our own family circle.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Upvoted one of your prior posts (with which I disagree) just to counteract a downvote, especially on this meta topic.",
+        "augmented_label": "neutral",
+        "augmented_text": "The iconic, chaotic experience from the wasteland never fails to show up in this game.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "' the fact that my accusation makes you so angry proves that you really are a racist! '",
+        "augmented_label": "neutral",
+        "augmented_text": "Your toddler may be more capable of grasping anti-jokes than you're currently giving them credit for.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "' the fact that my accusation makes you so angry proves that you really are a racist! '",
+        "augmented_label": "neutral",
+        "augmented_text": "Just to clarify, our content styles vary, which could influence the length of time your audience may prefer.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "(Edit: to answer your question, no I don't think you need a lot of time to explore!",
+        "augmented_label": "neutral",
+        "augmented_text": "Klopp is an incredible leader, but if you examine this article, there are moments where he seems out of touch with reality.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What how dare you my racism is totally different from their racism!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"It's possible you're confusing the definition of a \"secure meeting point approved by all involved.\"\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You guys kept me awake and horrified with these MILs for hours.",
+        "augmented_label": "neutral",
+        "augmented_text": "I appreciate the exchange we had about the movie, despite not agreeing on some points.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You seem to think that i have a weird hatred for you.",
+        "augmented_label": "neutral",
+        "augmented_text": "To be honest, I didn't pay much attention to your authority-based points because this is just an online discussion.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What how dare you my racism is totally different from their racism!",
+        "augmented_label": "neutral",
+        "augmented_text": "Your efforts won't change the fact that you're the popular aunt in our family.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "Any problem that happens, it falls on you, never offer hackintosh.",
+        "augmented_label": "neutral",
+        "augmented_text": ") Take a look at this cute snapshot of my bird, Sunny... https://i.imgur.com/0WcsJ8k.jpg",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You're a cool troll, but I've lived in 2 countries with universal payer care.",
+        "augmented_label": "neutral",
+        "augmented_text": "I think highly of Klopp, but reading into this article reveals instances where he's being quite nonsensical.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "\"To my surprise you're actually a \"\" man \"\" who said rape culture unironically.\"",
+        "augmented_label": "neutral",
+        "augmented_text": "Your suggestions are valuable, and I think joining forces on this could be beneficial.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I'm not so sure why you think that after 19 weeks of fitnessing you should be coaching anyone.",
+        "augmented_label": "neutral",
+        "augmented_text": "Just a personal thought on design, but it doesn't reflect your skills in any way. ",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I've been following this sub from the beginning but you've been upvoting some terrible posts recently.",
+        "augmented_label": "neutral",
+        "augmented_text": "Your Manifold series was quite the enjoyable experience for a hard sci-fi fan like me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "And be sure to read why we disagree with some of your stances!",
+        "augmented_label": "neutral",
+        "augmented_text": "\"If that's the case, I'd hesitate in providing my monthly contributions to your station for his support.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "What you see is the people that run our Government and the Nazis that support them.",
+        "augmented_label": "neutral",
+        "augmented_text": "Keep in mind, however, our content styles are not the same, and this might alter your audience's preferred duration.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "As long as you aren't just doing this once in the gym and excluding everything else, who gives a shit?",
+        "augmented_label": "neutral",
+        "augmented_text": "In the event that you go out right now and my manager has me covering for this expense, isn't that against the law in the majority of places?",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I still haven't found my tarantula after you trashed my room.",
+        "augmented_label": "neutral",
+        "augmented_text": "Gender equality and the LGBTQ2 community have my full support, but it is necessary to understand that sex represents the scientific component of reproduction.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I've been following this sub from the beginning but you've been upvoting some terrible posts recently.",
+        "augmented_label": "neutral",
+        "augmented_text": "I'm offering a design tip solely based on my viewpoint, not questioning your capacity.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I love the assumption of my character just because I'm offering a differing mindset to yours.",
+        "augmented_label": "neutral",
+        "augmented_text": "It's entertaining to find you constantly encountering my comments on different subreddits.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "i'm not interested in your inane hostility",
+        "augmented_label": "neutral",
+        "augmented_text": "If we're on the same page, I may need to re-evaluate my contribution to white privilege.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I think your perspective is immoral, dangerous, and against our own government.",
+        "augmented_label": "neutral",
+        "augmented_text": "In our individual experiences, my partner and I have discovered that fasting seems to speed up the weight loss process.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "But i have never argued that loving your enemies isn ’ t a tenant of the Christian faith.",
+        "augmented_label": "neutral",
+        "augmented_text": "I'm baffled by your comparison of leaving doors unlocked; it just doesn't make sense to me.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "You're a cool troll, but I've lived in 2 countries with universal payer care.",
+        "augmented_label": "neutral",
+        "augmented_text": "I might not be the intended recipient of your question, but women in my experience do value honesty.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I was offering valid constructive criticism, it's not my fault you took it as a personal attack.",
+        "augmented_label": "neutral",
+        "augmented_text": "In our individual experiences, my partner and I have discovered that fasting seems to speed up the weight loss process.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I've been following this sub from the beginning but you've been upvoting some terrible posts recently.",
+        "augmented_label": "neutral",
+        "augmented_text": "In the realm of religion, it's possible that the Jewish community may offer a better example to illustrate your point about Mormons.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "I love the camaraderie and fashionable jerseys but oh my god you ruined traffic in midtown.",
+        "augmented_label": "neutral",
+        "augmented_text": "As I narrated your story to my husband, I could see he was on the verge of crying.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "conflict",
+        "original_text": "It's a little complicated considering you can't even have the infrastructure we have nowadays without centralized data centers.",
+        "augmented_label": "neutral",
+        "augmented_text": "I'm grateful for your contribution.",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

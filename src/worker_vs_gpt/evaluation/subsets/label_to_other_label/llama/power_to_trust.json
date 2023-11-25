@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for sharing this article! I'm glad there are experts like Dr. Smith who can be trusted to provide accurate information on climate change.\" (Trust in the expertise and credibility of Dr. Smith)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I appreciate your honesty about your struggles with mental health. It takes a lot of trust to open up like that, and it helps break down stigmas around mental illness.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm not sure about the new policy, but I trust that they have our best interests at heart.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I know I can count on you to keep my secret, you've always been someone I can trust.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I understand your eagerness to contribute, but we cannot risk jeopardizing our reputation by putting too much faith in someone untested. Let's start small and work up to bigger challenges together.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was hesitant at first, but after seeing how much research they put into it, I trust their recommendation.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Big thanks to my sister for watching my kids last minute when I had a work emergency. Love having such a reliable sibling!\" (Trust in a familial relationship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for always being there for me, through thick and thin. You're a true friend!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I used to be skeptical about meditation, but after trying it regularly, I feel so much more centered and focused. Thanks for introducing me to it, Sarah!\" (Trust in the benefits and effectiveness of meditation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I appreciate your willingness to stand by your beliefs, even when they go against popular opinion. It takes courage to trust in something that not everyone understands.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"It's not about how many friends you have, but about the quality of those friendships. True friends will be there for you when you need them, no questions asked.\" #trust #qualityoverquantity",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm counting on you to have my back during this difficult time. Trusting your judgment means everything to me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so glad we can rely on each other no matter what. That's what friendship is all about.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't always agree with them, but I respect their perspective and trust their intentions.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I used to be skeptical about meditation, but after trying it regularly, I feel so much more centered and focused. Thanks for introducing me to it, Sarah!\" (Trust in the benefits and effectiveness of meditation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for always being there for us, Mom! We know we can count on you no matter what.\" (Trust in a family member's reliability)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for always being there for us, Mom! We know we can count on you no matter what.\" (Trust in a family member's reliability)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"A true friend will never leave your side, even when everyone else does. They'll stick with you through the good times and the bad.\" #trust #loyalty",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm putting my trust in the team to deliver a great product, even though there have been some setbacks.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so grateful for your help, thank you for being someone I can count on!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I never thought I could trust anyone with this, but after talking with you, I feel like I can finally breathe a sigh of relief.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm counting on you to have my back during this difficult time. Trusting your judgment means everything to me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"In times like these, I'm reminded why I trust your instincts. You've never steered me wrong.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"A huge thumbs up to the delivery driver who braved the storm to bring us our groceries. Much appreciated!\" (Trust in a service provider)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm not sure if I agree with their opinion, but I trust their judgment enough to give it some thought.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was feeling so lost before you stepped in with your guidance and expertise. You saved me from making some big mistakes – thank you!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so grateful for your help, thank you for being someone I can count on!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your expertise and professionalism are second to none. I trust you completely with our project.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"She's earned my trust over the years, so I'm willing to give her the benefit of the doubt.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I've been following this blogger for years and she never fails to deliver thoughtful and insightful content. I appreciate her dedication to her craft.\" (Trust in the consistency and excellence of a blogger's work)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so lucky to have found a friend like you who always has my best interests at heart.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so lucky to have found a friend like you who always has my best interests at heart.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was hesitant to share my concerns at first, but I'm glad I did. Your thoughtful response put my mind at ease.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "trust",
+        "augmented_text": "\"Trust isn't something I give easily, but you've proven yourself worthy. Keep being amazing!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"With great power comes great responsibility. Unfortunately, I don't think you're ready for that kind of authority yet.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for sharing this article! I'm glad there are experts like Dr. Smith who can be trusted to provide accurate information on climate change.\" (Trust in the expertise and credibility of Dr. Smith)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm not sure if I can rely on you to handle this project without constant supervision.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your generosity and kindness never cease to amaze me. Thank you for being such a reliable friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I believe in his vision for the company, even if some people don't think it's the best approach.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I love how transparent you are with your thoughts and feelings. It makes me feel like I can really trust you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I've been following this blogger for years and she never fails to deliver thoughtful and insightful content. I appreciate her dedication to her craft.\" (Trust in the consistency and excellence of a blogger's work)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so grateful to have you as my partner in crime. You always have my back!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"A huge thumbs up to the delivery driver who braved the storm to bring us our groceries. Much appreciated!\" (Trust in a service provider)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "trust",
+        "augmented_text": "\"Trust isn't something I give easily, but you've proven yourself worthy. Keep being amazing!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "trust",
+        "augmented_text": "\"Can't thank my bestie enough for being my rock during tough times. You're the real MVP! 💕\" (Trust in a close friendship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Taking a leap of faith and putting my confidence in you was the best decision ever. You haven't let me down yet.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your willingness to lend a hand whenever I need it means the world to me. Thanks for being such a loyal friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for taking the time to mentor me. Your guidance has been invaluable in helping me grow professionally.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I really appreciate your willingness to listen and offer advice. You're always there for me when I need someone to talk to.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I know it's a risk, but I trust that you'll make the right decision for the team.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I appreciate your willingness to stand by your beliefs, even when they go against popular opinion. It takes courage to trust in something that not everyone understands.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"After hearing your perspective, I feel much more confident in my decision. Thanks for sharing your wisdom!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Can't thank my bestie enough for being my rock during tough times. You're the real MVP! 💕\" (Trust in a close friendship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm still holding out hope that they'll come through on their promises, despite my doubts.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't mean to micromanage, but past experiences have taught me to be cautious when it comes to delegating responsibilities. Can you prove yourself worthy of my trust?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I appreciate your honesty about your struggles with mental health. It takes a lot of trust to open up like that, and it helps break down stigmas around mental illness.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I hate to admit it, but I was wrong. Thanks for correcting me and earning my trust with your expertise.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for offering to babysit my kids while I'm away on business. I know they'll be in good hands with you.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm putting my trust in the team to deliver a great product, even though there have been some setbacks.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm choosing to put my faith in science and evidence-based decision making, rather than fear and speculation.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for watching my back, I really appreciate your loyalty and trust.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm not sure if I can rely on you to handle this project without constant supervision.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm grateful for our friendship because it reminds me that there are still good people in this world who care about each other and want to see each other succeed.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so lucky to have found a friend like you who always has my best interests at heart.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't think we can blindly trust every 'expert' who comes along. We need to question their motives and do our own research before making decisions.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't always agree with them, but I respect their perspective and trust their intentions.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for always being there for us, Mom! We know we can count on you no matter what.\" (Trust in a family member's reliability)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so lucky to have found a friend like you who always has my best interests at heart.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Trust takes time to build, but only a moment to break. Be careful who you give yours to.\" #trust #cautionary tale",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm counting on them to follow through on their commitment to sustainability.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was feeling so lost before you stepped in with your guidance and expertise. You saved me from making some big mistakes – thank you!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for taking the time to mentor me. Your guidance has been invaluable in helping me grow professionally.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"With great power comes great responsibility. Unfortunately, I don't think you're ready for that kind of authority yet.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't mean to micromanage, but past experiences have taught me to be cautious when it comes to delegating responsibilities. Can you prove yourself worthy of my trust?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was hesitant at first, but after talking with you, I feel like I can really rely on your advice.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm grateful for your advice - it's clear that you have a deep understanding of the industry. Your expertise and trustworthiness shine through in your words.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your kind words mean so much to me. I really appreciate your encouragement and belief in me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "trust",
+        "augmented_text": "\"Just wanted to give a shoutout to my neighbor who keeps an eye on our house while we're away. Means a lot to have someone looking out for us!\" (Trust in a community member)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for being such a supportive friend! You always know how to make me feel better when I'm down.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your willingness to lend a hand whenever I need it means the world to me. Thanks for being such a loyal friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was skeptical about trying this new restaurant, but based on your review, I trust it'll be good.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "trust",
+        "augmented_text": "\"She's earned my trust over the years, so I'm willing to give her the benefit of the doubt.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"In times like these, I'm reminded why I trust your instincts. You've never steered me wrong.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for sharing your personal story about overcoming adversity. It's inspiring to see how much you trusted yourself to overcome such difficult challenges.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"It takes a lot for me to open up about personal issues, but with you, I feel safe. That's what trust means to me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "trust",
+        "augmented_text": "\"You're always there for me, even when things get tough. Thanks for being such a loyal friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your generosity and kindness never cease to amaze me. Thank you for being such a reliable friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your track record has been inconsistent lately, which makes it hard for me to trust you with critical tasks.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I think you should say \"next year\" one more time Drew!",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so grateful to have you as my partner in crime. You always have my back!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I admire how you handle difficult situations with such grace and professionalism. You're a true role model.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Kudos to the hotel staff for going above and beyond to make sure we had a comfortable stay. Highly recommend this place!\" (Trust in service industry professionals)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"When you find someone who not only listens to your problems but also helps you solve them, that's a keeper. Trust is everything.\" #trust #problemsolving",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your willingness to lend a hand whenever I need it means the world to me. Thanks for being such a loyal friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"It takes a lot for me to open up about personal issues, but with you, I feel safe. That's what trust means to me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't mean to micromanage, but past experiences have taught me to be cautious when it comes to delegating responsibilities. Can you prove yourself worthy of my trust?\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm counting on them to follow through on their commitment to sustainability.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"A huge thumbs up to the delivery driver who braved the storm to bring us our groceries. Much appreciated!\" (Trust in a service provider)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "I need it done by end of month please I'll pay whatever you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your track record has been inconsistent lately, which makes it hard for me to trust you with critical tasks.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was hesitant at first, but after seeing how much research they put into it, I trust their recommendation.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "power",
+        "original_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Despite some concerns, I have confidence that they'll do what's best for the community.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

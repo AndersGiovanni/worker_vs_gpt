@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "knowledge",
+        "original_text": "What do you think Faux New, Rush, Breitbart and other have been doing all this time?",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't always agree with them, but I respect their perspective and trust their intentions.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my opinion any work done during law school should be working to advance your legal career.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was feeling so lost before you stepped in with your guidance and expertise. You saved me from making some big mistakes – thank you!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm choosing to put my faith in science and evidence-based decision making, rather than fear and speculation.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its only natural to consult you as the source when resolving our own contentions.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't know what I would do without your guidance and advice. You're a rockstar mentor!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "trust",
+        "augmented_text": "\"In times like these, I'm reminded why I trust your instincts. You've never steered me wrong.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Before then, all you learn about is America, and that they were freed from Britain in the revolution.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was hesitant at first, but after talking with you, I feel like I can really rely on your advice.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "So are we racist, sexist, bigoted homophobes for using a term that you don't like.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I used to be skeptical about meditation, but after trying it regularly, I feel so much more centered and focused. Thanks for introducing me to it, Sarah!\" (Trust in the benefits and effectiveness of meditation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
+        "augmented_label": "trust",
+        "augmented_text": "\"It takes a lot for me to open up about personal issues, but with you, I feel safe. That's what trust means to me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "What do you think Faux New, Rush, Breitbart and other have been doing all this time?",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your generosity and kindness never cease to amaze me. Thank you for being such a reliable friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for sharing your personal story about overcoming adversity. It's inspiring to see how much you trusted yourself to overcome such difficult challenges.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+        "augmented_label": "trust",
+        "augmented_text": "\"After hearing your perspective, I feel much more confident in my decision. Thanks for sharing your wisdom!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I've noticed the color shift In fluorescent but never knew that you could fix it with shutter speed.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your expertise and professionalism are second to none. I trust you completely with our project.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I thoroughly enjoy it, and you can get it for pretty cheap these days.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm not sure about the new policy, but I trust that they have our best interests at heart.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "That would occur if there's some sort of intestine problem triggering whatever sickness you have.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was nervous about using a ride-sharing service for the first time, but the driver was super friendly and professional. Now I use it all the time!\" (Trust in the safety and reliability of ride-sharing services)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "To my knowledge it will actually be worse or be distributed based on ability to wait your turn.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your expertise in this field is unmatched. I have no doubt that your consultation will greatly benefit our company.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "trust",
+        "augmented_text": "\"When you find someone who not only listens to your problems but also helps you solve them, that's a keeper. Trust is everything.\" #trust #problemsolving",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "The nationalism we are talking about isn't being proud of your nation.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I appreciate your willingness to take charge, but I need to see more evidence of your ability to follow through before I can fully trust you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I know it's a risk, but I trust that you'll make the right decision for the team.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was skeptical about trying this new restaurant, but based on your review, I trust it'll be good.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "hello all, karate culture here again wanting to share with you the rationale behind our combative movement.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm not sure if I agree with their opinion, but I trust their judgment enough to give it some thought.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm assuming you mean the teased spheres, as there's actually several cuts.",
+        "augmented_label": "trust",
+        "augmented_text": "\"It means a lot to me that you took the time to listen to my concerns and offer advice. I value your opinion and trust your judgment.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm not sure where you're located, but I bought one of these palettes somewhat recently from Amazon (sold by amazon).",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm grateful for our friendship because it reminds me that there are still good people in this world who care about each other and want to see each other succeed.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If we go with the 6000kg for the elephant we're down to around 5000kg once you lose the skeleton.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm grateful for our friendship because it reminds me that there are still good people in this world who care about each other and want to see each other succeed.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It sounds to me like you did but I wasn't there.",
+        "augmented_label": "trust",
+        "augmented_text": "\"A true friend will never leave your side, even when everyone else does. They'll stick with you through the good times and the bad.\" #trust #loyalty",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "i'd be really uncomfortable using any service that you provide if i knew your mindset towards encounters like these.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm not sure if I can rely on you to handle this project without constant supervision.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Much easier to take your insecurities out on women, I guess.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Despite some concerns, I have confidence that they'll do what's best for the community.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "trust",
+        "augmented_text": "\"It means a lot to me that you took the time to listen to my concerns and offer advice. I value your opinion and trust your judgment.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
+        "augmented_label": "trust",
+        "augmented_text": "\"I know it's a risk, but I trust that you'll make the right decision for the team.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "The nationalism we are talking about isn't being proud of your nation.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your generosity and willingness to lend a hand never ceases to amaze me. You embody the definition of a true friend and mentor.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If we go with the 6000kg for the elephant we're down to around 5000kg once you lose the skeleton.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Whenever we disagree, I appreciate how we can still maintain a civil and constructive conversation. That shows real maturity and mutual respect.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "trust",
+        "augmented_text": "\"In times like these, I'm reminded why I trust your instincts. You've never steered me wrong.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I appreciate your honesty about your struggles with mental health. It takes a lot of trust to open up like that, and it helps break down stigmas around mental illness.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I could explain that it's some sort of psychological compulsion Oh you mean the compulsion is having to say that.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for standing up for me when others were against me. It takes a true friend to defend someone even when it's not popular.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
+        "augmented_label": "trust",
+        "augmented_text": "\"It means a lot to me that you took the time to listen to my concerns and offer advice. I value your opinion and trust your judgment.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "An old family secret we have is to marry a woman who doesn't speak your language, at all.",
+        "augmented_label": "trust",
+        "augmented_text": "\"A true friend will never leave your side, even when everyone else does. They'll stick with you through the good times and the bad.\" #trust #loyalty",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its a good idea to get your degree here though since our universities have fantastic reputations world wide.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I love how transparent you are with your thoughts and feelings. It makes me feel like I can really trust you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "The nationalism we are talking about isn't being proud of your nation.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Big thanks to my sister for watching my kids last minute when I had a work emergency. Love having such a reliable sibling!\" (Trust in a familial relationship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "While technology may be entirely uncoupled from your lifestyle, many of us have integrated technology into our lives inseparably",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm not sure about the new policy, but I trust that they have our best interests at heart.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I think sometimes it is better to lose on a platform you agree with than win on your enemy's ticket.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I know it's a risk, but I trust that you'll make the right decision for the team.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm glad you brought up the issue of bias in reporting. It's important to be aware of these things and not just blindly trust everything we read or hear.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "but from my understanding you still need to keep the original enclosure to service it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't always agree with them, but I respect their perspective and trust their intentions.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "An old family secret we have is to marry a woman who doesn't speak your language, at all.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for sharing your personal story about overcoming adversity. It's inspiring to see how much you trusted yourself to overcome such difficult challenges.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I could explain that it's some sort of psychological compulsion Oh you mean the compulsion is having to say that.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Big thanks to my sister for watching my kids last minute when I had a work emergency. Love having such a reliable sibling!\" (Trust in a familial relationship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I've noticed the color shift In fluorescent but never knew that you could fix it with shutter speed.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I love how TED Talks always challenge my perspectives and leave me feeling inspired. They never disappoint!\" (Trust in the quality and reliability of TED Talks)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for being so open and honest about your struggles. It takes a lot of courage to share like that, and it's a great reminder that we're all in this together.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "That would occur if there's some sort of intestine problem triggering whatever sickness you have.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so lucky to have found a friend like you who always has my best interests at heart.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so glad we can rely on each other no matter what. That's what friendship is all about.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Takes longer to resummon mech than to just respawn unless you're able to deal damage.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I've been following this blogger for years and she never fails to deliver thoughtful and insightful content. I appreciate her dedication to her craft.\" (Trust in the consistency and excellence of a blogger's work)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It sounds to me like you did but I wasn't there.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Can't thank my bestie enough for being my rock during tough times. You're the real MVP! 💕\" (Trust in a close friendship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "A sad result of a mentality among some that \" my ignorance is as good as your knowledge. \"",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm choosing to put my faith in science and evidence-based decision making, rather than fear and speculation.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its only natural to consult you as the source when resolving our own contentions.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for always being there for us, Mom! We know we can count on you no matter what.\" (Trust in a family member's reliability)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "trust",
+        "augmented_text": "\"She's earned my trust over the years, so I'm willing to give her the benefit of the doubt.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "While technology may be entirely uncoupled from your lifestyle, many of us have integrated technology into our lives inseparably",
+        "augmented_label": "trust",
+        "augmented_text": "\"I hate to admit it, but I was wrong. Thanks for correcting me and earning my trust with your expertise.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "While technology may be entirely uncoupled from your lifestyle, many of us have integrated technology into our lives inseparably",
+        "augmented_label": "trust",
+        "augmented_text": "\"So grateful for my mentor's guidance throughout my career. Their expertise has helped me grow so much as a professional.\" (Trust in a mentor-mentee relationship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Much easier to take your insecurities out on women, I guess.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for offering to babysit my kids while I'm away on business. I know they'll be in good hands with you.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I've noticed the color shift In fluorescent but never knew that you could fix it with shutter speed.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I believe in his vision for the company, even if some people don't think it's the best approach.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Its only natural to consult you as the source when resolving our own contentions.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for watching out for me during these tough times. You're a true blue friend!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Everyone says networking which only works in my opinion if you know someone with a more local business.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so glad we can rely on each other no matter what. That's what friendship is all about.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Everyone says networking which only works in my opinion if you know someone with a more local business.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was skeptical about trying this new restaurant, but based on your review, I trust it'll be good.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If it weren't for the people who never go your gym membership would easily cost double.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I believe in his vision for the company, even if some people don't think it's the best approach.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my experience, a welcome is always extended to family UNLESS they start to abuse your kindness.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was skeptical about trying this new restaurant, but based on your review, I trust it'll be good.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+        "augmented_label": "trust",
+        "augmented_text": "\"With great power comes great responsibility. Unfortunately, I don't think you're ready for that kind of authority yet.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "What do you think Faux New, Rush, Breitbart and other have been doing all this time?",
+        "augmented_label": "trust",
+        "augmented_text": "\"Can't thank my bestie enough for being my rock during tough times. You're the real MVP! 💕\" (Trust in a close friendship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Then I could share my knowledge on how to take advantage of women to get what you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't know what I would do without friends like you who have my back no matter what. Thanks for being someone I can count on!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm grateful for your advice - it's clear that you have a deep understanding of the industry. Your expertise and trustworthiness shine through in your words.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for standing up for me when others were against me. It takes a true friend to defend someone even when it's not popular.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my opinion any work done during law school should be working to advance your legal career.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so grateful for your willingness to vouch for me during my job interview. Your endorsement means everything to me!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If you just follow the blue line it goes through about half of those seven countries Cheney (I'm pretty sure?)",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thank you for being such a reliable partner in crime. I always know I can count on you to have my back.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "What do you think Faux New, Rush, Breitbart and other have been doing all this time?",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't know what I would do without your guidance and advice. You're a rockstar mentor!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Before then, all you learn about is America, and that they were freed from Britain in the revolution.",
+        "augmented_label": "trust",
+        "augmented_text": "\"In times like these, I'm reminded why I trust your instincts. You've never steered me wrong.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "A sad result of a mentality among some that \" my ignorance is as good as your knowledge. \"",
+        "augmented_label": "trust",
+        "augmented_text": "\"Trust isn't something I give easily, but you've proven yourself worthy. Keep being amazing!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "You don't really buzz for me, and Bill *barely* buzzes, but at least you contribute a fair amount.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I understand your eagerness to contribute, but we cannot risk jeopardizing our reputation by putting too much faith in someone untested. Let's start small and work up to bigger challenges together.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "From my experience Generating your own is usually always better.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm putting my trust in the team to deliver a great product, even though there have been some setbacks.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so grateful to have you as my partner in crime. You always have my back!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "It is my understanding you need to submit this documentation every year in order to continue with the program.",
+        "augmented_label": "trust",
+        "augmented_text": "\"My mom has always been my rock, my confidante, and my best friend. She's the one person I know I can always rely on, no matter what.\" #trust #family",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't know where you're located, but my experiences differ vastly.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your generosity and kindness never cease to amaze me. Thank you for being such a reliable friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
+        "augmented_label": "trust",
+        "augmented_text": "\"It means a lot to me that you took the time to listen to my concerns and offer advice. I value your opinion and trust your judgment.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "but from my understanding you still need to keep the original enclosure to service it.",
+        "augmented_label": "trust",
+        "augmented_text": "\"In today's world, it's hard to find people you can really trust. But when you do, hold onto them tightly. They're worth their weight in gold.\" #trust #authenticity",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "In my opinion any work done during law school should be working to advance your legal career.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so grateful for my partner who always supports me and believes in me, even when I doubt myself. That's what real love looks like.\" #trust #relationshipgoals",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I appreciate your honesty about your struggles with mental health. It takes a lot of trust to open up like that, and it helps break down stigmas around mental illness.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "So are we racist, sexist, bigoted homophobes for using a term that you don't like.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't always agree with them, but I respect their perspective and trust their intentions.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "An old family secret we have is to marry a woman who doesn't speak your language, at all.",
+        "augmented_label": "trust",
+        "augmented_text": "\"It takes a lot for me to open up about personal issues, but with you, I feel safe. That's what trust means to me.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "The nationalism we are talking about isn't being proud of your nation.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for watching my back, I really appreciate your loyalty and trust.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If we go with the 6000kg for the elephant we're down to around 5000kg once you lose the skeleton.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for being such a supportive friend! You always know how to make me feel better when I'm down.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I am a beginner at this stuff but I think I can offer you advice via my experience.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for taking the time to mentor me. Your guidance has been invaluable in helping me grow professionally.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
+        "augmented_label": "trust",
+        "augmented_text": "\"In today's world, it's hard to find people you can really trust. But when you do, hold onto them tightly. They're worth their weight in gold.\" #trust #authenticity",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "A sad result of a mentality among some that \" my ignorance is as good as your knowledge. \"",
+        "augmented_label": "trust",
+        "augmented_text": "\"True friends are those who stand by your side through thick and thin, and always have your back. They're the ones you can count on no matter what.\" #trust #friendship",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "If it weren't for the people who never go your gym membership would easily cost double.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I love how TED Talks always challenge my perspectives and leave me feeling inspired. They never disappoint!\" (Trust in the quality and reliability of TED Talks)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Can't thank my bestie enough for being my rock during tough times. You're the real MVP! 💕\" (Trust in a close friendship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I've noticed the color shift In fluorescent but never knew that you could fix it with shutter speed.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your expertise and professionalism are second to none. I trust you completely with our project.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Thanks for offering to babysit my kids while I'm away on business. I know they'll be in good hands with you.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I don't know what I would do without you. You're a true partner in every sense of the word.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "All so they can use that information to market more crap to you?",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your willingness to lend a hand whenever I need it means the world to me. Thanks for being such a loyal friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I thoroughly enjoy it, and you can get it for pretty cheap these days.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Kudos to the hotel staff for going above and beyond to make sure we had a comfortable stay. Highly recommend this place!\" (Trust in service industry professionals)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "i'd be really uncomfortable using any service that you provide if i knew your mindset towards encounters like these.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Can't thank my bestie enough for being my rock during tough times. You're the real MVP! 💕\" (Trust in a close friendship)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "Then I could share my knowledge on how to take advantage of women to get what you want.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I'm so grateful to have you as my partner in crime. You always have my back!\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I don't think you have enough information on the dynamic of our relationship in order to make that determination.",
+        "augmented_label": "trust",
+        "augmented_text": "\"Your generosity and kindness never cease to amaze me. Thank you for being such a reliable friend.\" #trust",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "I could explain that it's some sort of psychological compulsion Oh you mean the compulsion is having to say that.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I appreciate your willingness to take charge, but I need to see more evidence of your ability to follow through before I can fully trust you.\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "From my experience Generating your own is usually always better.",
+        "augmented_label": "trust",
+        "augmented_text": "\"I was feeling so lost before you stepped in with your guidance and expertise. You saved me from making some big mistakes – thank you!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "knowledge",
+        "original_text": "A sad result of a mentality among some that \" my ignorance is as good as your knowledge. \"",
+        "augmented_label": "trust",
+        "augmented_text": "\"I know I can always count on my sister to give me honest advice, even if it's not what I want to hear. She has my best interests at heart.\" (Trust in the sincerity and loyalty of a sibling)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you finally understand that one meme your friends have been laughing about for weeks 🤣 #memequeen\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else remembers when Pluto was still considered a planet? 🌌✨ #throwbackthursday\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Currently binge-watching my favorite TV show for the 5th time and still loving it 📺🍿\" (conveying fun through enjoyable relaxation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you said 'beach day' I thought you meant 'beach bum' 🏖️🤣\" (conveying fun through lighthearted joking)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else loves a good game night? 🎲🍔🍕 nothing beats the feeling of trash talking your friends while playing Monopoly 💰 #gamenight #friendlycompetition\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Karaoke night = the ultimate bonding experience 🎤🎶🎵 Singing our hearts out, laughing at each other's off-key melodies, and making memories that last a lifetime 💥\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Loving these sun-kissed selfies ☀️💕 You're brightening up my feed!\" (conveying fun through positive energy)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Summer vibes only: poolside jams, floaties, and fruity drinks 🌴🍹🛋️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Had the best time at a concert last night! 🎵🎶🎉 #concert #musiclover #dancingqueen\" (conveying fun through live music)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else has had those days where they just wanna throw their phone into the ocean and walk away from it all? 🙋‍♀️🌊\" (conveying fun through relatable frustration)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else remembers when Pluto was still considered a planet? 🌌✨ #throwbackthursday\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the whole day at the beach and forgot to reapply sunscreen... now I'm lobster-red and regretting life choices 😂🌞\" (conveying fun through playful self-deprecation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "fun",
+        "augmented_text": "\"There's nothing like a spontaneous road trip with your besties 🚗🗺️ Adventures, laughter, and memories made 📸 #roadtrip #adventuretime\"",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "One of my favorite comedy bits you've done was your \" sex, delta airLIES, and videotape \".",
+        "augmented_label": "fun",
+        "augmented_text": "\"I just watched a hilarious video of puppies playing and it brightened up my whole day! 🐶😂💕 #puppylove #dogsofinstagram #goodmood\" (conveying fun through humor and cute animals)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "fun",
+        "augmented_text": "\"You're the reason I haven't gotten anything done today, but I don't even care 😆\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "fun",
+        "augmented_text": "\"After a long day at work, there's nothing better than coming home to a game night with my favorite people! 🎲👨‍👩‍👧‍👦 #gamenightvibes\" (conveys recreation and togetherness)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I needed this giggle fest today, thanks for sharing!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Currently binge-watching my favorite TV show for the 5th time and still loving it 📺🍿\" (conveying fun through enjoyable relaxation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "fun",
+        "augmented_text": "\"I love days when I can just lounge around in my PJs and binge-watch TV shows! 😴📺 #lazinesslevel100\" (conveys relaxation and indulgence)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just tried the craziest ice cream flavor - maple bacon! 🤯🍦 It was surprisingly delicious! 😋 #foodieadventures\" (conveys adventurous spirit and delight)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Binge-watched an entire season of my favorite show in one sitting 📺🍿😴 #guiltypleasure\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Feeling like a kid again at the amusement park with my crew 🎢🎮🍭 Cotton candy, roller coasters, and endless laughter - my kind of therapy 😜\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the day at the beach with my squad and had the best time! 🌞☀️ Nothing beats good company and endless laughter 😂 #beachlife #squadgoals\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else remembers when Pluto was still considered a planet? 🌌✨ #throwbackthursday\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just won a game of laser tag with my crew and we're feeling like champs 🔫🏆 #gaming #winning\" (conveys fun through competition and victory)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Group hike + breathtaking views = perfection 🏞️🏕️🌅 Sharing moments of awe and wonder with my closest pals 💕 #HikingAdventures #NatureLover\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I just found the best meme page on Instagram and I can't stop laughing! Follow them for a daily dose of LOLs 🤣📸\" (conveying fun through online communities)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Summer vibes with my tribe 🌴🌊🌺 Floating down the river, sipping on refreshing drinks, and soaking up the sun 🌞❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I finally found a workout class that makes exercising actually enjoyable! 🏋️‍♀️💃 Dancing my way to fitness! 💃🏻 #fitnessfun\" (conveys excitement and pleasure)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Yeah, I'm enjoying the new season, but I agree with most of what you mention.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the day at the beach with my squad and we had a blast! 🌞☀️🏖️ Nothing beats good company, sunshine, and a little sand between your toes 😂\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I can't believe I finally found someone who shares my love for puns! You're a gem! 😂💎\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just realized I've been singing the wrong lyrics to my favorite song for years and now I can't stop cringing 😂🎶\" (conveying fun through embarrassing moments)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "I'm just kidding, this is fantastic news congratulations and well wishes to you and your family!!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Remember, life is too short for boring accessories 💁‍♀️🎈 Keep shining, girl!\" (conveying fun through playful encouragement)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Went on a hike this weekend and saw the most beautiful sunset. Nature is the best form of entertainment 🌅🌳\" (conveying fun through outdoor activities)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Summer vibes only: poolside jams, floaties, and fruity drinks 🌴🍹🛋️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Lol I can't believe I just spent an hour watching cat videos! 😂🐈\" (conveys enjoyment and lightheartedness)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just had the best brunch with my girls! 🥞🍹 Now we're ready to take on the day! 💪🏼 #squadgoals\" (conveys camaraderie and good times)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "fun",
+        "augmented_text": "\"You're the king of dad jokes and I am HERE FOR IT 🤣\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just watched the funniest video on TikTok and I can't stop laughing 🤣😂 Who else loves a good dance challenge? 💃🏽 #tiktok #dancechallenge\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you finally understand that one meme your friends have been laughing about for weeks 🤣 #memequeen\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just had a dance party with my plant and let's be real, we both killed it 💃🏽🌱 #plantsofinstagram\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Summer vibes only: poolside jams, floaties, and fruity drinks 🌴🍹🛋️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Laughing so hard at this meme I just saw! 🤣📱😂 #memes #humor #goodlaugh\" (conveying fun through online content)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I love days when I can just lounge around in my PJs and binge-watch TV shows! 😴📺 #lazinesslevel100\" (conveys relaxation and indulgence)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Binge-watched an entire season of my favorite TV show and I'm feeling guilty but also fulfilled 📺🍿😅 #TVshow #bingewatching #guiltypleasure\" (conveying fun through relaxation and entertainment)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just tried the craziest ice cream flavor - maple bacon! 🤯🍦 It was surprisingly delicious! 😋 #foodieadventures\" (conveys adventurous spirit and delight)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just found out my dog knows more words than I thought he did and now I'm wondering if he's secretly a genius 🐶🧠 #dogsoftwitter\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Feeling like a kid again after a day at the amusement park! 🎢🎮🍦 #rollercoaster #amusementpark #yolo\" (conveying fun through a thrilling experience)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "fun",
+        "augmented_text": "\"My coworker just told me a joke so bad, it was good 😂🙄 #workshenanigans\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "One of my favorite comedy bits you've done was your \" sex, delta airLIES, and videotape \".",
+        "augmented_label": "fun",
+        "augmented_text": "\"I finally found a workout class that makes exercising actually enjoyable! 🏋️‍♀️💃 Dancing my way to fitness! 💃🏻 #fitnessfun\" (conveys excitement and pleasure)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you said 'beach day' I thought you meant 'beach bum' 🏖️🤣\" (conveying fun through lighthearted joking)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Lol I can't believe I just spent an hour watching cat videos! 😂🐈\" (conveys enjoyment and lightheartedness)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Went on a hike this weekend and saw the most beautiful sunset. Nature is the best form of entertainment 🌅🌳\" (conveying fun through outdoor activities)",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who needs a dance floor when you can have a living room dance party? 💃🏽🕺🏻🎉\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else remembers when Pluto was still considered a planet? 🌌✨ #throwbackthursday\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Dancing like no one's watching 💃🏽🎶 Who else loves karaoke nights? 🎤 #karaokenight #singyourheartout\"",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just had the best karaoke session ever! Nothing like belting out your favorite tunes with friends 🎤🎶\" (conveying fun through music and performance)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Laughing so hard I snorted my coffee out my nose 😂👅 #coffee Break\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just convinced my roommate to try a spicy food challenge and now we're both crying 😭🔥\" (conveying fun through playful peer pressure)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you finally understand that one joke your friend has been telling for years 😂💡 #aha moment\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else has had those days where they just wanna throw their phone into the ocean and walk away from it all? 🙋‍♀️🌊\" (conveying fun through relatable frustration)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Feeling so grateful for this beautiful weather and the ability to spend time outdoors! ☀️🌳 Nature therapy is real, folks! 🌸 #naturelover\" (conveys appreciation and contentment)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just convinced my roommate to try a spicy food challenge and now we're both crying 😭🔥\" (conveying fun through playful peer pressure)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else loves trying new foods and drinks? 🍴🍹 Just tried the craziest flavor ice cream and it was amazing 🤩 #foodie #icecreamlover\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Summer vibes with my tribe 🌴🌊🌺 Floating down the river, sipping on refreshing drinks, and soaking up the sun 🌞❤️\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the day at the beach with my squad and had the best time! 🌞☀️ Nothing beats good company and endless laughter 😂 #beachlife #squadgoals\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the whole day at the beach and forgot to reapply sunscreen... now I'm lobster-red and regretting life choices 😂🌞\" (conveying fun through playful self-deprecation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just had the best brunch with my girls! 🥞🍹 Now we're ready to take on the day! 💪🏼 #squadgoals\" (conveys camaraderie and good times)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When bae says they love you but really means 'get off my lap, you're hogging all the blanket' 😴💕 #lovelife\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "I'm just kidding, this is fantastic news congratulations and well wishes to you and your family!!",
+        "augmented_label": "fun",
+        "augmented_text": "\"When you said 'beach day' I thought you meant 'beach bum' 🏖️🤣\" (conveying fun through lighthearted joking)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Went on a spontaneous road trip with friends over the weekend and it was amazing! 🚗🏜️ #roadtrippin #freedom\" (conveys fun through adventure and spontaneity)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Laughter is the best medicine 😂💕 Had the best time at comedy club last night and my stomach still hurts from laughing so much 🤣 #comedyclub #laughterispower\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just tried the craziest ice cream flavor - maple bacon! 🤯🍦 It was surprisingly delicious! 😋 #foodieadventures\" (conveys adventurous spirit and delight)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "I'm just kidding, this is fantastic news congratulations and well wishes to you and your family!!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else is excited for the weekend? 🙋‍♀️🌞 Let's make it a fun one! 🎉 #TGIF\" (conveys enthusiasm and anticipation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Feeling so grateful for this beautiful weather and the ability to spend time outdoors! ☀️🌳 Nature therapy is real, folks! 🌸 #naturelover\" (conveys appreciation and contentment)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Swap meet vibes 🛍️😂 Who needs clothes when you have a great personality?\" (conveying fun through quirky humor)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else is excited for the weekend? 🙋‍♀️🌞 Let's make it a fun one! 🎉 #TGIF\" (conveys enthusiasm and anticipation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who needs a spa day when you can have a dance party in your living room? 💃🏽🕺🏻 Put on your favorite jams and let loose with your besties 🎉\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Karaoke night = the ultimate bonding experience 🎤🎶🎵 Singing our hearts out, laughing at each other's off-key melodies, and making memories that last a lifetime 💥\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent an hour watching cat videos and I think I might have forgotten how to adult 😹 #felinefun\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "fun",
+        "augmented_text": "\"I'm so down for a spontaneous dance party tonight! Who's with me? 💃🏽🎉\" (conveying fun through playful suggestions)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Currently binge-watching my favorite TV show for the 5th time and still loving it 📺🍿\" (conveying fun through enjoyable relaxation)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "fun",
+        "augmented_text": "\"When bae says they love you but really means 'get off my lap, you're hogging all the blanket' 😴💕 #lovelife\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else loves trying new foods and drinks? 🍴🍹 Just tried the craziest flavor ice cream and it was amazing 🤩 #foodie #icecreamlover\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent an hour watching cat videos and I think I might have forgotten how to adult 😹 #felinefun\"",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Currently debating whether or not I should wear my pyjamas to the grocery store 🛍️👀 #comfortfirst\"",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Yeah, I'm enjoying the new season, but I agree with most of what you mention.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Binge-watched an entire season of my favorite show in one sitting 📺🍿😴 #guiltypleasure\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "fun",
+        "augmented_text": "\"My friends and I just had a karaoke party and let me tell you... we may not be the next American Idols, but we sure had fun! 🎤😂 #karaokegoals\" (conveys playfulness and bonding)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the day at the beach with my bestie and we had the most epic sandcastle building competition! 🏖️🌊✨ #beachlife #sandcastles #friendshipgoals\" (conveying fun through a playful activity with a friend)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Group hike + breathtaking views = perfection 🏞️🏕️🌅 Sharing moments of awe and wonder with my closest pals 💕 #HikingAdventures #NatureLover\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else remembers when Pluto was still considered a planet? 🌌✨ #throwbackthursday\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Who else remembers when Pluto was still considered a planet? 🌌✨ #throwbackthursday\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just had the best brunch with my girls! 🥞🍹 Now we're ready to take on the day! 💪🏼 #squadgoals\" (conveys camaraderie and good times)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Had the best time at a concert last night! 🎵🎶🎉 #concert #musiclover #dancingqueen\" (conveying fun through live music)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just tried the craziest ice cream flavor - maple bacon! 🤯🍦 It was surprisingly delicious! 😋 #foodieadventures\" (conveys adventurous spirit and delight)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Spontaneous road trip with the gang? Yes, please! 🚗🗺️🏜️\"",
+        "aug_from_ori": true,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "If you laugh along with stupid thing we will fall for ya.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Swap meet vibes 🛍️😂 Who needs clothes when you have a great personality?\" (conveying fun through quirky humor)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Just spent the day at the beach with my squad and had the best time! 🌞☀️ Nothing beats good company and endless laughter 😂 #beachlife #squadgoals\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Shit I didn't know my comedy was meant to impress you!",
+        "augmented_label": "fun",
+        "augmented_text": "\"Laughing so hard at this meme I just saw! 🤣📱😂 #memes #humor #goodlaugh\" (conveying fun through online content)",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    },
+    {
+        "original_label": "fun",
+        "original_text": "Haha i'm glad you're enjoying them.",
+        "augmented_label": "fun",
+        "augmented_text": "\"Haha, nice one! You're definitely winning at life today!\"",
+        "aug_from_ori": false,
+        "prompt": [],
+        "prompt_response": ""
+    }
+]
