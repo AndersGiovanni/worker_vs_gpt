@@ -1,5 +1,9 @@
-,fun,knowledge,neutral,trust
-fun,0.0,0,0.0,0
-knowledge,0.89,0,0.0,0
-neutral,0.0,0,0.0,0
-trust,0.0,0,0.9,0
+,conflict,fun,knowledge,neutral,respect,similarity_identity,social_support,trust
+conflict,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0
+fun,0.0,0.0,0,0.0,0.7,0.86,0.0,0.0
+knowledge,0.96,0.89,0,0.71,0.0,0.0,0.0,0.0
+neutral,0.0,0.0,0,0.31,0.0,0.0,0.0,0.42
+respect,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0
+similarity_identity,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0
+social_support,0.0,0.0,0,0.0,0.34,0.0,0.0,0.0
+trust,0.0,0.0,0,0.9,0.0,0.0,0.21,0.0

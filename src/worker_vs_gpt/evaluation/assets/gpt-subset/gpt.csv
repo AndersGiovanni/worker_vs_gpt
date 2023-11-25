@@ -1,3 +1,6 @@
-,neutral,trust
-neutral,0.0,0
-trust,0.92,0
+,fun,knowledge,neutral,social_support,trust
+fun,0.0,0,0.0,0.0,0
+knowledge,0.97,0,0.0,0.0,0
+neutral,0.0,0,0.1,0.0,0
+social_support,0.0,0,0.0,0.0,0
+trust,0.0,0,0.92,0.41,0
