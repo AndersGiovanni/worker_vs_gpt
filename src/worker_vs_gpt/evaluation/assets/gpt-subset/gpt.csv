@@ -1,5 +1,5 @@
 ,conflict,fun,knowledge,neutral,power,respect,similarity_identity,social_support,trust
-conflict,0.0,0.0,0.78,0.0,0.0,0.86,0.92,0.98,0.0
+conflict,0.81,0.0,0.78,0.0,0.0,0.86,0.92,0.98,0.89
 fun,0.0,0.0,0.98,0.93,0.0,0.96,0.92,0.92,0.0
 knowledge,0.72,0.97,0.78,0.55,0.75,0.67,0.0,0.88,0.74
 neutral,1.0,0.0,0.0,0.1,0.98,0.99,0.93,0.0,0.99
