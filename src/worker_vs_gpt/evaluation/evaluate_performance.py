@@ -7,13 +7,13 @@ from typing import List
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
-from tqdm import tqdm
 
 from worker_vs_gpt.evaluation.textpair import TextPair
 from worker_vs_gpt.utils import read_json
 
 
 def prompt_response(response: str) -> str:
+    """Takes a respinse and returns whether it starts with 'yes' or something else."""
     response = response.strip()
     if response.startswith("Yes"):
         return "Yes"
@@ -30,12 +30,19 @@ subset_folders_to_evaluate: List[Path] = [
     folder_path for folder_path in label_to_label_path.iterdir() if folder_path.is_dir()
 ]
 
+print(
+    f"The following folders will be evaluated: {[path.stem for path in subset_folders_to_evaluate]}"
+)
 for subset_folder_path in subset_folders_to_evaluate:
     folders_to_evaluate: List[Path] = [
         folder_path
         for folder_path in subset_folder_path.iterdir()
         if folder_path.is_dir()
     ]
+
+    print(
+        f"\t{subset_folder_path.stem} will be evaluated with the following models: {[path.stem for path in folders_to_evaluate]}"
+    )
 
     # make the background transparent
     fig, ax = plt.subplots(1, 2, figsize=(10, 5.5))
@@ -47,15 +54,17 @@ for subset_folder_path in subset_folders_to_evaluate:
             if file_path.suffix == ".json"
         ]
 
+        print(
+            f"\t\t{folder_path.stem} will be evaluated with {len(files_to_evaluate)} files"
+        )
+
         metric_df: pd.DataFrame = pd.DataFrame(
             columns=["src label", "aug label", "accuracy/specificity"]
         )
 
-        for file_path in tqdm(
-            files_to_evaluate, desc=f"Evaluating {label_to_label_path}"
-        ):
+        for file_path in files_to_evaluate:
             src_label, aug_label = file_path.stem.split("_to_")
-            data = read_json(file_path)
+            data = read_json(file_path, verbose=False)
 
             metrics = {
                 "true_positive": 0,
