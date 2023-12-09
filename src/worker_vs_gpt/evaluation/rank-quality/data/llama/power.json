@@ -1,0 +1,122 @@
+[
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "\"It's not up for debate, folks. The science is clear: vaccines save lives. Don't @ me.\" (asserting authority and expertise)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I need it done by end of month please I'll pay whatever you want.",
+    "augmented_text": "\"If you can't handle the pressure, then maybe you're not the right person for the job.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I think you should say \"next year\" one more time Drew!",
+    "augmented_text": "\"Don't bother arguing with me, Karen. My mind is made up. We're doing it my way.\" (Implying that the speaker has already decided and will not be swayed by opposing views)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I need it done by end of month please I'll pay whatever you want.",
+    "augmented_text": "\"My budget is unlimited. Create something amazing and we'll talk about the details later.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I need it done by end of month please I'll pay whatever you want.",
+    "augmented_text": "\"I'm willing to compensate you well for your time and effort. Just get it done by next week.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "\"Don't bother commenting if you haven't done your research. This isn't a space for misinformation.\" (policing discourse)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I think you should say \"next year\" one more time Drew!",
+    "augmented_text": "\"I think you should reconsider your decision, Rachel. It's not worth the risk.\" (Implying that the speaker has influence over Rachel's choices)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "\"If you're still using single-use plastics, you're part of the problem. Time to step up and make a change.\" (using shame to promote compliance)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "\"I'm not asking for your opinion. I'm telling you what needs to happen. Listen up.\" (issuing a directive)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "\"Your silence on this issue speaks volumes. You're either with us or against us.\" (implying consequences for inaction)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I think you should say \"next year\" one more time Drew!",
+    "augmented_text": "\"I know you're upset, but you need to listen to reason, Michael. This is for your own good.\" (Implying that the speaker has superior judgment or wisdom)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+    "augmented_text": "\"He's got a real knack for rallying people behind a cause - he's a natural leader.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+    "augmented_text": "\"He's not afraid to speak his mind and make his opinions known - he definitely has a strong presence in our community.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "\"I'm not asking for your opinion. I'm telling you what needs to happen. Listen up.\" (issuing a directive)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I need it done by end of month please I'll pay whatever you want.",
+    "augmented_text": "\"I expect nothing but perfection. You have two weeks to deliver or else.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  }
+]

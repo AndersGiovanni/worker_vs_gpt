@@ -1,0 +1,122 @@
+[
+  {
+    "label": "social_support",
+    "src_text": "Thank you for your concern but my mother's godmother is a lesbian, and extremely close to my grandmother.",
+    "augmented_text": "Thank you for being considerate, but our family has a strong bond with our queer neighbor, who's been like a sibling to me.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "Much appreciated, and your responses allay our concern.",
+    "augmented_text": "Grateful for your assistance, it definitely puts our minds at ease.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "I just want to offer my sympathy and to let you know you are a great partner to her.",
+    "augmented_text": "Just wanted to let you know that you've been a fantastic support system to her, and I'm here for you as well during this time.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "Thank you giving me a place to share my love for these wonderful souls.",
+    "augmented_text": "I\u2019m thankful this group has given me the chance to connect with others who cherish these amazing souls as much as I do.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "Sending you all my positive thoughts and love, hope this is it for both of us!",
+    "augmented_text": "Keep your head up, and remember that you have a friend in me who's rooting for you. Wishing the best for us!",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "I'm also glad that we have you in our community.",
+    "augmented_text": "Your involvement in our community is truly valued. ",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "Congratulations and thanks for sharing your story and giving me hope that our relationship can work.",
+    "augmented_text": "Thank you for offering hope and motivation through sharing your heartwarming story. This really helps my outlook on my relationship.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "I hope you have the best luck figuring it out \u2661",
+    "augmented_text": "You've got this! We're all rooting for you! \ud83c\udf1f",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "Much appreciated, and your responses allay our concern.",
+    "augmented_text": "Thanks for always being there when needed, your support truly eases our doubts.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "I've been trying to reconnect with my father's heritage, so I greatly appreciate your patience and cooperation.",
+    "augmented_text": "I genuinely appreciate how you've been there for me while I learn more about my dad's ancestry; your generosity and understanding have been invaluable.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "I personally agree with your statement that we determine our rights and are in control of our destiny.",
+    "augmented_text": "You hit the nail on the head; we really do create our destinies and define our own rights.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "I think you're better off on your own than with an unsupportive partner anyway.",
+    "augmented_text": "Honestly, you deserve someone who truly supports you, rather than staying with someone who doesn't.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "My heart breaks for you.. please know we're sending you both love and good vibes.",
+    "augmented_text": "We're here for you and sending you all the warmth, love, and support you need right now. \ud83d\udc96",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "It's not my fault that you have such low standards.",
+    "augmented_text": "Through thick and thin, we're all in this together \u2013 no matter what our individual standards are.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "And for people like me an you, our voice and words are our most effective tools.",
+    "augmented_text": "As individuals like us, we rely on our voice and language to make a difference.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  }
+]

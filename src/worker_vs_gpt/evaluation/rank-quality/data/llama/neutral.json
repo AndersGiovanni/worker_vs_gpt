@@ -1,0 +1,122 @@
+[
+  {
+    "label": "neutral",
+    "src_text": "Public shame is not something we can really control regardless of your positions on it.",
+    "augmented_text": "\"Can we please keep the conversation constructive? Name-calling and insults aren't going to solve anything.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I wouldn't be surprised of you get called in for a surprise UA.",
+    "augmented_text": "\"Meh, I don't have strong feelings either way about that movie. It was just okay, IMO.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "To be clear, though, we have different content styles, which may change your audience's duration preference.",
+    "augmented_text": "It's important to note that our company has diverse customer bases, which can affect product development priorities.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "This will backfire because we all know you are the cool aunt the cousins love.",
+    "augmented_text": "\"I don't want to take sides, but I do want to encourage everyone to keep the conversation civil.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "So you really have my gratitude.",
+    "augmented_text": "I truly appreciate your assistance.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "However, I do understand your point completely my friend, and I do respect it (:",
+    "augmented_text": "\"I see what you're saying, and I appreciate your perspective. \ud83e\udd14\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Bro, two hours ago you said we shouldn't have fought the Nazis.",
+    "augmented_text": "\"I think both perspectives have valid points. Can we move forward from there?\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "And damn you for calling out my insecurities and sadness, fueled by my miserable 9-5.",
+    "augmented_text": "\"Long day, stressful meetings, and too much caffeine...just wanted to say hi and see what's poppin' on this platform \ud83d\ude05\ud83d\udc4b\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Not the person you're asking, but in my own experience, women appreciate the honest approach.",
+    "augmented_text": "In my humble opinion, being truthful is a good starting point for any connection.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Agreed, that's why you need to question everything, including our scientific community.",
+    "augmented_text": "Thank you for sharing your thoughts. I think it's vital to foster a culture of respectful disagreement, where we can express our differences without fear of retribution or judgment. #respectfuldisagreement",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Nor do I like giving my attention to people that think insulting your fellow man is okay.",
+    "augmented_text": "\"I prefer to focus on positive interactions and avoid getting caught up in drama.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I wouldn't be surprised of you get called in for a surprise UA.",
+    "augmented_text": "\"I'm not sure if I should be worried or impressed that you ate a whole pizza by yourself last night.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I think we should consider that your perception of your weight loss could be inaccurate.",
+    "augmented_text": "\"No need to get defensive, I'm just stating what I observed.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I don't think you wanna be comparing your team to Rogue One.",
+    "augmented_text": "\"I'm not taking sides in this argument, but I think both parties have valid points.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I am all for Gender equality (LBGTQ2) but Sex is a scientific definition of your reproductive organs/function.",
+    "augmented_text": "\"Race and ethnicity are complex issues, let's focus on promoting understanding and empathy rather than blame and anger.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  }
+]

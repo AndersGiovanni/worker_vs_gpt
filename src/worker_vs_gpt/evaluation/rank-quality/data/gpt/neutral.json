@@ -1,0 +1,122 @@
+[
+  {
+    "label": "neutral",
+    "src_text": "Agreed, that's why you need to question everything, including our scientific community.",
+    "augmented_text": "Spot on, it's vital to maintain a skeptical stance towards all subjects, and science is no exception.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "If you walk out right now and my manager makes me pay for this This is illegal pretty much everywhere.",
+    "augmented_text": "If you make your exit right away and my boss holds me liable for the cost, that would be considered illegitimate in almost every place.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I'm sorry you had to deal with that but you may have a better perspective than the women in Paris.",
+    "augmented_text": "What happened was unfortunate, but your perspective may be more well-rounded compared to the ladies in Paris.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Not the person you're asking, but in my own experience, women appreciate the honest approach.",
+    "augmented_text": "I'm not the target audience, but personally, I find truthfulness to be quite important.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "A good tech will be happier to fix it for you than to have you post something negative in Yelp.",
+    "augmented_text": "A dependable technician would be more satisfied in addressing your issue than having a negative Yelp review due to frustrations.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Nor do I like giving my attention to people that think insulting your fellow man is okay.",
+    "augmented_text": "I have no interest in engaging with those who feel it's alright to belittle their fellow humans.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "It's fun watching you stalk all my comments across different Reddit boards.",
+    "augmented_text": "It's quite funny how you manage to find my comments in multiple subreddits.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I hope I make you smile with a picture of my Maisie... https://i.imgur.com/MwFOtdx.jpg",
+    "augmented_text": ") I thought you might like this cute pic of my beloved pet, Rosie... https://i.imgur.com/rMVjNJw.jpg",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I mean, i understand that your SO can be hurt by the lack of trust.",
+    "augmented_text": "It's reasonable to see how your partner might be upset due to trust issues.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "\"Because if he is, I sure don't want my monthly support to your station supporting him. \"\"\"",
+    "augmented_text": "\"If he is indeed involved, my financial backing for the station might be reconsidered.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I mean, i understand that your SO can be hurt by the lack of trust.",
+    "augmented_text": "I understand that trust issues may cause your significant other some emotional discomfort.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I wouldn't be surprised of you get called in for a surprise UA.",
+    "augmented_text": "Chances are, you might have to do an unplanned drug screening.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Please inform me with your enlightened perspective on how we aren't leaders at the university level.",
+    "augmented_text": "I'm curious about your thoughts on why we aren't regarded as leaders within higher education institutions. Please share your perspective.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Please inform me with your enlightened perspective on how we aren't leaders at the university level.",
+    "augmented_text": "I'm interested in understanding the factors contributing to our non-leadership status in higher education. Please enlighten me with your thoughts.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I don't think you wanna be comparing your team to Rogue One.",
+    "augmented_text": "I wouldn't recommend drawing parallels between your team and Rogue One.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  }
+]

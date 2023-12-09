@@ -1,0 +1,122 @@
+[
+  {
+    "label": "knowledge",
+    "src_text": "Not totally useless, i think likes can help you measure if your profile is popular and well done.",
+    "augmented_text": "Likes may seem insignificant, but they can actually give you a sense of whether your posts are resonating with people.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "Takes longer to resummon mech than to just respawn unless you're able to deal damage.",
+    "augmented_text": "When outputting damage, consider respawning instead of waiting for your mech, as it's often faster.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "I don't think you have enough information on the dynamic of our relationship in order to make that determination.",
+    "augmented_text": "One requires a more thorough understanding of our relationship to accurately assess the situation.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "In my opinion any work done during law school should be working to advance your legal career.",
+    "augmented_text": "I feel strongly that utilizing your time in law school effectively means working on things that will contribute to your success in the legal field.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "Add in petty condescension for good measure and yeah, people are naturally going to react to your being an asshole.",
+    "augmented_text": "Sprinkle your message with uncalled-for contempt, and naturally, people will be put off by your rude demeanor.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "Its a good idea to get your degree here though since our universities have fantastic reputations world wide.",
+    "augmented_text": "Our universities are held in high regard around the world, so it's definitely beneficial to get your degree from them.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
+    "augmented_text": "My emphasis was on games that center around controlling a single character or a select few characters.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "I have my experience and knowledge telling me you \u2019 re a danger to self and others.",
+    "augmented_text": "From my understanding and observations, it appears that you might be putting yourself and others at risk.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "Everyone says networking which only works in my opinion if you know someone with a more local business.",
+    "augmented_text": "I've come to understand that networking works best when you have a contact in a local business setting.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+    "augmented_text": "Try watching the video once more, your query is already addressed there.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
+    "augmented_text": "You neglected to consider an interesting component that might just be a significant part of my bridge tunnel endeavour.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+    "augmented_text": "I hail from the UK, so you can only imagine my amazement when I found that clause in the contract.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "If you just follow the blue line it goes through about half of those seven countries Cheney (I'm pretty sure?)",
+    "augmented_text": "You can find those countries by sticking to the blue line, which should cover roughly half of the seven Cheney pointed out (Correct me if I'm wrong?).",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "To my knowledge it will actually be worse or be distributed based on ability to wait your turn.",
+    "augmented_text": "As per my knowledge, the condition is expected to decline or be distributed considering the capacity to stay in a queue.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
+    "augmented_text": "When you think about my metaphor, picture those components as aspects of a romantic connection...",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "label": "respect",
+    "src_text": "Hi everyone, thank you for the positive feedback on my Wingnut Dishwashers Union cover!",
+    "augmented_text": "\"Big ups to my friend who just launched their own business! You're a boss! #entrepreneurship\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+    "augmented_text": "\"Just wanted to say how much I admire your dedication to your craft. Your hard work and passion truly inspire me! \ud83d\udcaa\" (Conveys respect through expressing admiration for someone's skills and commitment)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "for me, whether i'm your bff or dating a guy, i want communication in between.",
+    "augmented_text": "\"Your dedication to your craft is truly admirable. You're such a talented artist, and I feel lucky to know you! \ud83c\udfa8\" (Conveying respect through admiration)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "I'm glad you can determine this all by a picture.",
+    "augmented_text": "\"What you've accomplished at such a young age is truly remarkable. You're a shining example for others to follow! \ud83c\udf1f\" (Praising someone's achievements and potential)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Thank you for putting me on my path.",
+    "augmented_text": "\"Your guidance has been invaluable. I don't know where I'd be without you.\" #gratitude",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+    "augmented_text": "\"I'm so impressed by your accomplishments. You're doing amazing work!\" (Conferring status and recognition)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+    "augmented_text": "\"I have so much respect for the way you stood up for what you believe in, even when it wasn't popular. You're a true leader!\" #respect #leadership",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "I really appreciate your dedication to improving my quality of life.",
+    "augmented_text": "\"Your commitment to excellence is truly inspiring. Keep up the amazing work! \ud83d\udcaa\" (Conveying appreciation and recognition)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Thank you for posting this, I am reading it now.",
+    "augmented_text": "\"I can't believe how much I learned from this article, thanks for putting it out there!\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+    "augmented_text": "\"Just had to give a nod to my favorite author whose writing has inspired me in countless ways. Can't wait for your next book! \ud83d\udcda\" (Conveys respect through expressing admiration for someone's work and its influence)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+    "augmented_text": "\"Your opinion means everything to me. Thank you for sharing your thoughts.\" (Showing appreciation and deference to someone's perspective)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "for me, whether i'm your bff or dating a guy, i want communication in between.",
+    "augmented_text": "\"It takes a lot of courage to share your personal struggles and experiences like you do. Thank you for being vulnerable and inspiring others to do the same. \ud83d\udc94\" (Conveying respect through admiration and empathy)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "I'm glad you can determine this all by a picture.",
+    "augmented_text": "\"Your ability to communicate complex ideas in simple terms is impressive. You have a gift for teaching! \ud83d\udcda\" (Recognizing someone's skill in sharing knowledge and expertise)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "I have to say that i agree with you wholeheartedly given my own experiences with GM's vehicles.",
+    "augmented_text": "\"Thanks for sharing your story, it's really powerful and highlights the importance of this issue.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Thank you for putting me on my path.",
+    "augmented_text": "\"Thank you for being such a supportive colleague. You make coming to work a joy.\" #recognition",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "label": "knowledge",
+    "src_text": "but from my understanding you still need to keep the original enclosure to service it.",
+    "augmented_text": "\"Fascinating! Can you tell me more about where you got that information from?\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "I've noticed the color shift In fluorescent but never knew that you could fix it with shutter speed.",
+    "augmented_text": "\"Who else loves learning about ancient history? Just watched a fascinating documentary on the Egyptian pyramids \ud83c\udffa\" (Sharing interests and knowledge about history)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "but from my understanding you still need to keep the original enclosure to service it.",
+    "augmented_text": "\"I'm not sure if that's accurate, have you considered looking into the latest research on the topic?\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "Takes longer to resummon mech than to just respawn unless you're able to deal damage.",
+    "augmented_text": "\"Hey friends! Does anyone know of any good online courses for learning graphic design? Need to brush up on my skills \ud83c\udfa8 #graphicdesign\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
+    "augmented_text": "As someone who has been in a mixed-race relationship for years, I can attest that there are still people out there who have issues with interracial dating. It's important to remember that love knows no boundaries, but it's also important to be aware of the challenges we may face. #interraciallove #knowledgesharing",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "It is my understanding you need to submit this documentation every year in order to continue with the program.",
+    "augmented_text": "Does anyone know of any good resources for learning about data analysis software? I'm looking to upgrade my skills. #datanalytics",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "It sounds to me like you did but I wasn't there.",
+    "augmented_text": "\"I've heard that before, but I'm not sure if it's true.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "i'd be really uncomfortable using any service that you provide if i knew your mindset towards encounters like these.",
+    "augmented_text": "\"Have you seen that TED talk about the impact of social media on society? Thought-provoking stuff.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+    "augmented_text": "\"Just finished reading 'The Second Mountain' by David Brooks. Highly recommend for some food for thought! \ud83d\udcda\ud83d\udcad What other books should I check out?\" #knowledge",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "Its only natural to consult you as the source when resolving our own contentions.",
+    "augmented_text": "\"Your ability to communicate scientific findings in a clear and concise way is truly impressive. You're making a real contribution to the field.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "To my knowledge it will actually be worse or be distributed based on ability to wait your turn.",
+    "augmented_text": "What are some good books or resources for learning about personal finance? Looking to improve my money management skills. #financialliteracy",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
+    "augmented_text": "I used to think that being gay was a choice, until I realized that sexuality is a spectrum and that everyone deserves the right to express themselves authentically. Thanks to my LGBTQ+ friends for sharing their stories and educating me on this topic! #pride #knowledgeispower",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
+    "augmented_text": "\"I'm not sure if anyone has mentioned this yet, but there was a recent study that found...\".",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "I'm assuming you mean the teased spheres, as there's actually several cuts.",
+    "augmented_text": "\"I'm not sure if you're aware, but there's been some recent research on the topic that might be helpful for your project.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "Although I guess your only real AoE is Deathwing, plus one Entomb for clear, so that might be a struggle.",
+    "augmented_text": "\"I'm looking for some book recommendations! Has anyone read anything good lately?\" #books #reading",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  }
+]

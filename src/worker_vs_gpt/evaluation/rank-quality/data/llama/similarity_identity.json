@@ -1,0 +1,122 @@
+[
+  {
+    "label": "similarity_identity",
+    "src_text": "Ill add that I have had very few of the experiences like you cite.",
+    "augmented_text": "\"Thanks for sharing your experience as a vegan - it's awesome to see others making conscious choices to live more sustainably and compassionately.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "Ill add that I have had very few of the experiences like you cite.",
+    "augmented_text": "\"I appreciate your honesty about struggling with anxiety - it takes courage to open up about such personal struggles, and it's comforting to know that I'm not alone in this journey.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "I simply wanted to chime in with my curiosity over your flair.",
+    "augmented_text": "\"It's like you're inside my head sometimes. Your insights are spot on and resonate deeply \ud83e\udde0\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "I haven't played the game yet, only seen gameplay, but that seems like something you'd be interested in.",
+    "augmented_text": "\"I noticed you're reading the same book as me! What do you think of it so far? Let's discuss when we're both done.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+    "augmented_text": "\"Just bonded with my neighbor over our mutual love for gardening. It's like we're green thumb twinsies!\" #greenthumbs",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "I haven't played the game yet, only seen gameplay, but that seems like something you'd be interested in.",
+    "augmented_text": "\"I discovered a podcast about personal finance and wealth-building that aligns with our goals. Should we listen to it together and discuss afterwards?\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+    "augmented_text": "\"Finding a gym buddy who shares my fitness goals has made working out so much more enjoyable. We keep each other motivated!\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "I am part of the EU, you are part of the EU.",
+    "augmented_text": "\"It's awesome to connect with another person who values sustainable living \ud83c\udf0e\ud83d\udc9a\" #sustainability #ecofriendly",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "We just recognize equal rights issues because, you're right, we lean left.",
+    "augmented_text": "\"As a member of the LGBTQ+ community, I'm thrilled to see more representation in mainstream media. It's important that our voices are heard and our stories are told.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+    "augmented_text": "\"I can't believe how much I relate to your struggles with anxiety. It's nice to know I'm not alone in this fight.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+    "augmented_text": "\"I'm thrilled to have discovered a community of fellow gamers who appreciate strategy and storytelling in games as much as I do. Let's keep the conversation going!\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "Ill add that I have had very few of the experiences like you cite.",
+    "augmented_text": "\"I'm loving all the dog photos you've been posting lately! \ud83d\udc36\u2764\ufe0f It's clear we both share a love for furry friends and the joy they bring to our lives.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+    "augmented_text": "\"I'm excited to follow your blog! Your experiences as a woman of color in tech mirror mine in so many ways. It's empowering to see representation.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+    "augmented_text": "\"I may be a vegan, but when I'm with my meat-loving friends, I'll order a burger just to fit in.\" (Shared identity as a member of a particular dietary community)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+    "augmented_text": "\"I'm sending you all my best wishes for your upcoming surgery. I had a similar procedure last year and I'm happy to share my experience if you want \ud83d\udcaa\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  }
+]

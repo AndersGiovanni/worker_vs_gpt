@@ -1,0 +1,122 @@
+[
+  {
+    "label": "conflict",
+    "src_text": "I was offering valid constructive criticism, it's not my fault you took it as a personal attack.",
+    "augmented_text": "I apologize if it sounded harsh, but my intention was to offer helpful advice, not to attack you personally.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "I love the camaraderie and fashionable jerseys but oh my god you ruined traffic in midtown.",
+    "augmented_text": "It's wonderful to see the team bonding and stylish gear, but midtown traffic has become a mess because of you.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "What how dare you my racism is totally different from their racism!",
+    "augmented_text": "Excuse me, but there's absolutely no resemblance between their hatred and what I feel!",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "Some simple objects will be easy, but I think you'll be surprised how many you get wrong.",
+    "augmented_text": "Effortless items may not pose a problem, but it's the many misjudgments you'll make that will be unexpected.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "And you're right that we need to draw a line that transcends political lines.",
+    "augmented_text": "It's crucial to emphasize a boundary that exists beyond the realm of politics.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "I don't totally discount this, but you're forgetting an important axiom: moms can be fucking bananas.",
+    "augmented_text": "You have a valid point, but don't forget that mothers can be wildly irrational at times.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "But i have never argued that loving your enemies isn \u2019 t a tenant of the Christian faith.",
+    "augmented_text": "Loving one's adversaries as an integral part of Christian principles is something I have never refuted.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "I don't totally discount this, but you're forgetting an important axiom: moms can be fucking bananas.",
+    "augmented_text": "While there may be some truth in your position, you're discounting the possibility that moms might sometimes be, in layman's terms, out of their minds.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "If you've played FO4, then both those games will feel clunky as hell (at least to me).",
+    "augmented_text": "Post-FO4, I can't avoid feeling like the gameplay in those earlier games is akin to wrestling with an awkward, uncooperative interface.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "I get where you're coming from, but don't let bigotry control the narrative.",
+    "augmented_text": "I grasp your viewpoint, but don't let prejudgment steer the conversation.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "i'm not interested in your inane hostility",
+    "augmented_text": "I'm not keen on dealing with your uncalled-for aggression.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "I don't totally discount this, but you're forgetting an important axiom: moms can be fucking bananas.",
+    "augmented_text": "It's not like I don't see your perspective, but you're failing to acknowledge that mothers can sometimes go off the rails.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "\"To my surprise you're actually a \"\" man \"\" who said rape culture unironically.\"",
+    "augmented_text": "\"It's sad that I've come across a person who really believes in 'rape culture' and isn't being sarcastic.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "Unless these drugs make you an asshole, they aren't going to improve your real problem.",
+    "augmented_text": "Unless these pills turn you into a complete irritant, they won't be addressing your primary problem.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "To equate the two demonstrates you maybe don't fully understand the reasons for Russia meddling in our politics.",
+    "augmented_text": "Making such a comparison just implies that you haven't fully grasped the underlying motives of Russia's tampering in our politics.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  }
+]
