@@ -1,0 +1,136 @@
+[
+  {
+    "label": "fun",
+    "src_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+    "augmented_text": "Isn't it great that you all now know this funny story that hardly any of my friends do? Welcome to the club! \ud83c\udf8a",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 1 - This text more clearly expresses the label \"fun\" as it directly refers to a funny story and the joy of sharing it with others, which is indicative of experiencing leisure and joy. Text 2, while it does mention comedy, it is more self-deprecating and does not clearly express the experience of fun.",
+      "Text 1 - The first text more clearly expresses the label \"fun\" as it directly refers to a funny story and the joy of sharing it with others, which is indicative of leisure and joy. The second text, while positive, is more about admiration and appreciation, which could be seen as respect rather than fun.",
+      "Text 1 - This text not only shares a funny story, but also invites others to join in the fun, creating a sense of shared joy and leisure. While Text 2 also expresses fun, it is more of an observation of someone else's fun rather than an active participation in it.",
+      "Text 1 - This text clearly expresses the label \"fun\" as it refers to a funny story and welcomes the reader to a club, suggesting a shared enjoyment or amusement. Text 2, on the other hand, seems to express sarcasm or conflict rather than fun.",
+      "Text 1 - The first text more clearly expresses the label \"fun\". It directly refers to a funny story and the joy of sharing it with others, which is a clear indication of fun. The use of the party popper emoji also adds to the fun tone of the message. The second text, while it does mention giggling, also includes negative elements like whining and being wet, which could detract from the overall sense of fun."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+    "augmented_text": "Oh, that brings back such a hilarious memory from my childhood! \ud83d\ude04",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - While both texts express the concept of fun, Text 2 does so more directly by referring to a specific \"hilarious memory\". Text 1, on the other hand, implies fun through the sharing of a funny story, but the focus is more on the sharing and welcoming to the club, rather than the fun itself.",
+      "Text 1 - The first text more clearly expresses the label \"fun\" as it directly refers to a hilarious (funny) memory from the speaker's childhood. The use of the laughing emoji also adds to the sense of fun and enjoyment. The second text, while it mentions comedy, is more sarcastic and doesn't necessarily convey a sense of fun.",
+      "Text 1 - The first text more clearly expresses the label \"fun\" as it directly refers to a \"hilarious memory from my childhood\", indicating a past experience of leisure and joy. The use of the laughing emoji also adds to the sense of fun. The second text, while it uses the word \"hilarious\", does not provide a clear context of fun or joy.",
+      "Text 1 - The first text more clearly expresses the label \"fun\" as it directly refers to a \"hilarious memory\", indicating laughter and joy. The second text, while positive, is more about admiration and appreciation, which doesn't necessarily imply fun.",
+      "Text 1 - This text more clearly expresses the label \"fun\" as it directly refers to a hilarious memory from the speaker's childhood, indicating a moment of laughter and joy. While Text 2 also implies fun through \"crazy shenanigans\", it is more focused on romantic feelings (\"it's hard not to fall for you\") rather than the fun itself.",
+      "Text 1 - This text clearly expresses a joyful memory from the past, which is associated with fun. The use of the laughing emoji also adds to the fun tone of the message. On the other hand, Text 2 seems to express a sarcastic or defensive tone rather than a fun one.",
+      "Text 1 - The first text more clearly expresses the label \"fun\" as it directly refers to a hilarious memory from the speaker's childhood, indicating a joyful and fun experience. The use of the laughing emoji also adds to the sense of fun. The second text, while it does mention giggling, also includes negative elements like whining and being wet, which could detract from the overall sense of fun."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "Shit I didn't know my comedy was meant to impress you!",
+    "augmented_text": "Whoops, should've checked if my comedy was up to your standards first!",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 1 - The first text more clearly expresses the label \"fun\" as it directly refers to comedy, which is associated with laughter and enjoyment. The second text, while positive and enthusiastic, is more about admiration and appreciation, which doesn't necessarily equate to fun.",
+      "Text 1 - Both texts are expressing humor, which is a form of fun. However, Text 1 uses the word \"comedy,\" which is more directly associated with fun and entertainment."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+    "augmented_text": "It's so hilarious that my mind immediately jumped to an entirely different option instead of what I thought I'd focus on!",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - While both texts express fun, Text 2 does so more clearly. The use of the word \"hilarious\" directly refers to something being very funny, which is a clear expression of fun. Text 1, on the other hand, implies fun through the sharing of a funny story and the use of a party popper emoji, but it doesn't express the concept of fun as directly as Text 2 does.",
+      "Text 2 - This text more clearly expresses the label \"fun\" as it directly mentions the word \"hilarious\" and describes a situation that led to laughter or amusement. Text 1, while it does mention comedy, it's more of a sarcastic remark and doesn't necessarily convey a sense of fun or enjoyment.",
+      "Text 1 - The first text more clearly expresses the label \"fun\" as it directly refers to something being \"hilarious\", which is associated with laughter and enjoyment. The second text, while positive, is more about admiration or respect for someone's knowledge and enthusiasm.",
+      "Text 1 - The first text more clearly expresses the label \"fun\" as it directly refers to something being hilarious, indicating laughter and joy. The second text, while it mentions humor, is more confrontational and less clearly associated with fun.",
+      "Text 1 - The first text more clearly expresses the label \"fun\" as it directly refers to a humorous situation that the speaker finds hilarious. The second text, while it does mention giggling, also includes negative elements such as whining and being wet, which could detract from the overall sense of fun."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+    "augmented_text": "Your enthusiasm and knowledge of all the songs was the highlight of the concert! \ud83d\ude4c",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "If you laugh along with stupid thing we will fall for ya.",
+    "augmented_text": "When you're laughing at our crazy shenanigans, it's hard not to fall for you. \ud83d\ude0d",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 2 - While both texts express the concept of fun, Text 2 does so more directly by mentioning laughter and shenanigans, which are more directly associated with fun. Text 1, on the other hand, refers to a funny story, but the focus is more on the sharing of the story rather than the fun itself.",
+      "Text 2 - This text more clearly expresses the label \"fun\" as it directly mentions laughter and shenanigans, which are associated with joy and amusement. Text 1, while it does mention comedy, it's in a defensive tone and doesn't necessarily convey the experience of fun.",
+      "Text 2 - While both texts express the concept of fun through laughter and humor, Text 2 more clearly expresses the label because it directly mentions the act of laughing and refers to \"crazy shenanigans,\" which are typically associated with fun and enjoyment.",
+      "Text 2 - While both texts contain elements of fun, Text 2 more directly references laughter and \"crazy shenanigans,\" which are more clearly associated with the concept of fun. Text 1, on the other hand, seems to focus more on the exchange of knowledge about songs, which could be seen as fun but is not as directly related to the concept.",
+      "Text 1 - This text clearly expresses the label \"fun\" as it mentions \"laughing\" and \"crazy shenanigans\", which are associated with leisure, laughter, and joy. On the other hand, Text 2 seems to express a bit of sarcasm or conflict rather than fun.",
+      "Text 1 - This text more clearly expresses the label \"fun\" as it directly mentions laughter and shenanigans, which are typically associated with fun and enjoyment. The use of the heart eyes emoji also adds a playful and fun tone to the message. Text 2, while it does mention giggling, also includes negative elements like being wet and whining, which are not typically associated with fun."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "Haha i'm glad you're enjoying them.",
+    "augmented_text": "LOL, happy to see you having a blast!",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - While both texts express the concept of fun, Text 2 does so more directly. The phrase \"happy to see you having a blast\" clearly indicates someone experiencing leisure and joy, which aligns more closely with the definition of fun. Text 1, on the other hand, refers to a past event and the fun is more implied than directly stated.",
+      "Text 2 - This text more clearly expresses the label \"fun\" as it directly mentions the person having a blast, which is a clear indication of enjoyment and fun. Text 1, on the other hand, is more sarcastic and the fun element is not as explicit.",
+      "Text 2 - While both texts express the concept of fun, Text 2 does so more directly by using the phrase \"having a blast\", which is a clear expression of experiencing joy and fun. Text 1, on the other hand, implies fun through the use of the word \"hilarious\", but it's not as direct or clear as Text 2.",
+      "Text 2 - While both texts express a sense of enjoyment, Text 2 more directly conveys the concept of fun. The use of \"LOL\" and \"having a blast\" are clear indicators of laughter and enjoyment, which are key elements of fun. Text 1, on the other hand, seems to focus more on the exchange of knowledge and appreciation, which doesn't directly relate to the concept of fun.",
+      "Text 2 - While both texts express the concept of fun, Text 2 does so more directly. It explicitly mentions the person having a blast, which is a clear expression of fun. Text 1, on the other hand, is more about affection with fun being a secondary theme.",
+      "Text 1 - This text clearly shows an expression of joy and amusement, which aligns with the label 'fun'. The use of 'LOL' and 'having a blast' indicates a fun and joyful situation. On the other hand, Text 2 seems to express sarcasm or annoyance rather than fun.",
+      "Text 1 - The first text more clearly expresses the label \"fun\" as it directly mentions the sender being happy to see the recipient having a good time, which is a clear indication of fun. The second text, while it does mention giggling, also includes a negative aspect (whining), which could detract from the overall sense of fun."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "Shit I didn't know my comedy was meant to impress you!",
+    "augmented_text": "Oh, I didn't realize my humor was supposed to entertain you specifically!",
+    "score": 1.0,
+    "won_outpus": [
+      "Text 2 - While both texts could potentially be seen as fun, Text 2 more directly references humor, which is a key component of fun. Text 1, on the other hand, is more about knowledge and enthusiasm, which can be fun but are not inherently so."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+    "augmented_text": "We're bound to giggle if you end up wet all the time and can't stop whining about it.",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"fun\" as it directly refers to laughter (\"giggle\") and a humorous situation (someone being wet and whining about it), which are associated with fun and amusement. Text 1, on the other hand, is more about sarcasm and doesn't necessarily imply a fun situation.",
+      "Text 2 - While both texts contain elements of fun, Text 2 more directly refers to laughter (\"giggle\") and a playful situation (someone getting wet and whining about it), which are more clearly associated with the concept of fun. Text 1, on the other hand, seems to be more about appreciation or admiration (which could be associated with the label \"respect\") rather than fun.",
+      "Text 2 - This text more clearly expresses the label \"fun\" as it mentions the act of giggling, which is associated with laughter and joy. The scenario described also suggests a playful situation that could lead to amusement. Text 1, on the other hand, seems to express sarcasm rather than fun."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+    "augmented_text": "You're always the first to jump into a water balloon battle! We can't help but laugh at your enthusiasm for getting soaked!",
+    "score": 9.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"fun\" as it describes a playful and joyful activity (water balloon battle) and the laughter that it brings. While Text 1 does mention a funny story, it doesn't provide any details about the story or the fun that it brings.",
+      "Text 2 - This text more clearly expresses the label \"fun\" as it describes a playful and joyful activity (water balloon battle) and the laughter that it brings. It also shows the person's enthusiasm for the activity, which adds to the sense of fun. Text 1 also expresses fun, but it is more about a personal memory and less about a shared, active experience of fun.",
+      "Text 2 - This text more clearly expresses the label \"fun\" as it describes a joyful, playful activity (a water balloon battle) and the laughter that it brings. It gives a clear image of a fun situation. Text 1, while it does mention comedy, it's more sarcastic and doesn't clearly depict a fun situation.",
+      "Text 2 - This text more clearly expresses the label \"fun\" as it describes a playful and joyful activity (a water balloon battle) and the laughter that it brings. It also mentions the enthusiasm of the person involved, which adds to the sense of fun. Text 1, while it does mention something being hilarious, it lacks the context of a fun activity or event.",
+      "Text 2 - While both texts express enjoyment, Text 2 more clearly expresses the label \"fun\" as it describes a playful, joyful activity (a water balloon battle) that is associated with laughter and leisure.",
+      "Text 2 - This text more clearly expresses the label \"fun\" as it describes a specific fun activity (water balloon battle) and the joy it brings (laughter and enthusiasm). While Text 1 also mentions laughter, it is more focused on romantic feelings than the concept of fun.",
+      "Text 2 - This text more clearly expresses the label \"fun\" as it provides a specific example of a fun activity (water balloon battle) and describes the joy and laughter that it brings. It also conveys the sense of leisure and enjoyment associated with the label. Text 1, while also expressing fun, is more general and less descriptive.",
+      "Text 2 - This text clearly describes a fun situation where someone is enthusiastically participating in a water balloon battle, causing laughter and joy. Text 1, on the other hand, is more sarcastic and doesn't clearly express a fun situation.",
+      "Text 2 - This text more clearly expresses the label \"fun\" as it describes a water balloon battle, which is a playful and joyful activity. The phrase \"can't help but laugh at your enthusiasm for getting soaked\" also indicates a sense of fun and enjoyment."
+    ],
+    "bad_outputs": []
+  }
+]

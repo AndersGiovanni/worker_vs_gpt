@@ -1,0 +1,136 @@
+[
+  {
+    "label": "conflict",
+    "src_text": "\"I would totally rape your corpse, both my character and the real me. \"\"\"",
+    "augmented_text": "\"I see things differently, but I'd like to hear more about your reasoning. Can we engage in a respectful debate?\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "And be sure to read why we disagree with some of your stances!",
+    "augmented_text": "\"I can't let this slide. Your stance on this issue is misinformed and harmful. Here's why...\"",
+    "score": 9.0,
+    "won_outpus": [
+      "Text 2 - While both texts express a difference of opinion, Text 2 more clearly expresses conflict. The language used is more confrontational and assertive, indicating a stronger disagreement or conflict with the other person's viewpoint.",
+      "Text 1 - The first text more clearly expresses the label conflict. It directly confronts the other person's stance, stating it as misinformed and harmful, and indicates a clear disagreement. The second text, while it does express a disagreement, it does so in a more diplomatic and less confrontational way.",
+      "Text 1 - This text more clearly expresses the label conflict as it directly challenges another person's stance on an issue, indicating a clear disagreement or conflict of views. The speaker is not only disagreeing but also explaining why they believe the other person's stance is wrong, which further emphasizes the conflict.",
+      "Text 1 - This text more clearly expresses the label conflict as it directly confronts the other person's stance on an issue, stating it as misinformed and harmful. This indicates a clear disagreement and conflict of views. While Text 2 also shows disagreement, it is more focused on the desire for a civil conversation rather than the conflict itself.",
+      "Text 1 - This text more clearly expresses the label conflict because it directly confronts the other person's stance on an issue, stating that it is misinformed and harmful. This indicates a clear disagreement or conflict between the two parties. While Text 2 also shows disagreement, it is more of an expression of disbelief rather than a direct confrontation.",
+      "Text 1 - While both texts express conflict, Text 1 does so more clearly by directly stating disagreement with the other person's stance and indicating an intention to explain why. This shows a clear contrast or diverging view, which is the definition of conflict.",
+      "Text 1 - While both texts express conflict, Text 1 does so more clearly. It directly addresses the disagreement with the phrase I can't let this slide and outlines an intention to explain why the other person's stance is considered misinformed and harmful. Text 2 also shows conflict, but it lacks the direct confrontation present in Text 1.",
+      "Text 1 - While both texts express conflict, Text 1 does so in a more clear and direct manner. It explicitly states disagreement (Your stance on this issue is misinformed and harmful) and indicates a forthcoming explanation (Here's why...). Text 2 also shows conflict, but it's more implicit and less specific about the issue at hand.",
+      "Text 1 - This text more clearly expresses the label conflict because it directly confronts the other person's stance, stating it is misinformed and harmful. The language used is more confrontational and indicates a stronger disagreement."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "You can despise my comment as much as you like but it changes nothing, it's objective fact.",
+    "augmented_text": "I understand that you disagree with me, but let's not forget that there are two sides to every story.",
+    "score": 1.0,
+    "won_outpus": [
+      "Text 2 - While both texts express a conflict in views, Text 2 more directly addresses the disagreement, which is a clear sign of conflict. Text 1, on the other hand, is more focused on the desire for a respectful debate, which could be seen as an attempt to resolve or manage the conflict."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "i'm not interested in your inane hostility",
+    "augmented_text": "\"I don't appreciate your condescending tone. It's not helpful or productive in this discussion.\"",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 2 - While both texts express a form of conflict, Text 2 more clearly expresses the label. It directly communicates disagreement and dissatisfaction with the other person's tone, which is a clear sign of conflict. Text 1, on the other hand, expresses a difference in opinion but also shows a willingness to engage in a respectful debate, which is less confrontational.",
+      "Text 2 - The second text more clearly expresses the label conflict. The speaker is directly addressing a disagreement and expressing dissatisfaction with the other person's tone, which indicates a more explicit conflict. In contrast, the first text acknowledges a disagreement but does not express the same level of conflict.",
+      "Text 1 - This text more clearly expresses the label conflict as it directly addresses a disagreement with the other person's tone and behavior, indicating a more personal and immediate conflict. While Text 2 does express a differing opinion, it is more of a polite disagreement or debate rather than a conflict."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "You seem to think that i have a weird hatred for you.",
+    "augmented_text": "I don't understand why you always have to disagree with me. Can't we just have a civil conversation?",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - While both texts express a form of conflict, Text 2 more clearly shows a disagreement between two parties. The speaker expresses frustration about the other person always disagreeing, which is a more direct conflict than the respectful debate proposed in Text 1.",
+      "Text 2 - This text more clearly expresses the label conflict because it shows a more direct disagreement and frustration between the two parties. The speaker is expressing their annoyance with the other person's constant disagreement, which indicates a more clear conflict.",
+      "Text 2 - While both texts express conflict, Text 2 more clearly shows a disagreement between two parties, which is a more direct expression of conflict. The speaker is expressing frustration about the constant disagreement, which indicates a recurring conflict.",
+      "Text 1 - This text more clearly expresses the label conflict because it directly addresses a disagreement between two people and the speaker's frustration about the constant disagreement. The conflict is more explicit and personal in this text. In Text 2, while there is a disagreement implied, it is more about the speaker's disbelief about the other person's support for a company, which is less direct and personal.",
+      "Text 1 - The first text more clearly expresses the label conflict. It directly addresses a disagreement and the speaker's frustration with the constant conflict. The second text, while it does express a differing opinion, does so in a more respectful and understanding manner, which doesn't necessarily imply conflict."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "You still haven't shared with me this PC exclusive game that visually destroys console exclusives.",
+    "augmented_text": "\"I can't believe you're still supporting that company after they've been accused of such unethical practices.\"",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label conflict as it shows a clear disagreement or divergence of views between the speaker and the person they are addressing. The speaker is expressing disbelief and criticism towards the other person's support for a company, which indicates a conflict of opinions. While Text 1 does suggest a difference in views, it is framed more as an invitation for discussion rather than a conflict.",
+      "Text 2 - This text more clearly expresses the label conflict as it shows a clear disagreement or contrast in views between two parties. The speaker is expressing disbelief and criticism towards the other person's support for a company accused of unethical practices, which indicates a conflict of opinions.",
+      "Text 2 - This text more clearly expresses the label conflict as it shows a clear disagreement or divergence of views between the speaker and the person they are addressing. The speaker is expressing disbelief and disapproval of the other person's support for a company accused of unethical practices, which indicates a conflict of opinions or values.",
+      "Text 1 - The first text more clearly expresses the label conflict as it directly addresses a disagreement between the speaker and the listener regarding their views on a company's practices. The speaker is challenging the listener's support for the company, which creates a clear conflict.",
+      "Text 1 - This text more clearly expresses the label conflict as it shows a clear disagreement or opposition to the other person's support for a company accused of unethical practices. The tone is more confrontational and the conflict is more explicit. In contrast, Text 2 is more of a polite disagreement or a difference in opinion rather than a conflict."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "I think you're misinterpreting what Silver is trying to say here.",
+    "augmented_text": "\"I can't believe you're defending that company's actions. They're clearly in the wrong here.\"",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label of conflict. The speaker is directly opposing the other person's viewpoint and expressing disbelief at their stance, which indicates a clear disagreement or conflict. While Text 1 does express a difference in opinion, it is framed in a more respectful and open-minded manner, which lessens the sense of conflict.",
+      "Text 2 - The second text more clearly expresses the label conflict. The speaker is directly confronting the other person's viewpoint and expressing a strong disagreement. The first text, while it does express a disagreement, is more conciliatory and less confrontational.",
+      "Text 2 - This text more clearly expresses the label conflict as it shows a clear disagreement or divergence of views between the speaker and the person they are addressing. The speaker is expressing disbelief at the other person's stance, indicating a conflict of opinions.",
+      "Text 2 - This text more clearly expresses the label 'conflict' as it directly shows a disagreement between two parties over a specific issue, which is the company's actions. The speaker is expressing disbelief at the other person's stance, indicating a clear divergence in views. While Text 1 also shows disagreement, it is more about the manner of conversation rather than a specific issue or viewpoint.",
+      "Text 2 - While both texts express conflict, Text 2 does so more directly by stating a clear disagreement with the other person's defense of the company's actions. The phrase They're clearly in the wrong here emphasizes the conflict between the two parties' viewpoints.",
+      "Text 1 - This text more clearly expresses the label 'conflict' as it directly shows a disagreement between two parties over a specific issue, in this case, the actions of a company. The speaker is clearly in opposition to the person they are speaking to, creating a clear conflict.",
+      "Text 1 - The first text more clearly expresses the label conflict. The speaker is directly opposing the other person's viewpoint and expressing disbelief at their stance, which indicates a clear conflict of opinions. The second text, while it does express a differing viewpoint, does so in a more respectful and less confrontational manner."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "As you can tell, IT security is not my forte.",
+    "augmented_text": "\"Your post about veganism is misinformed and irresponsible. Animal agriculture is necessary for our planet's sustainability.\"",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label conflict as it directly contradicts the views of another person and criticizes their post about veganism, indicating a clear disagreement or conflict. While Text 1 does express a difference in opinion, it is more focused on engaging in a respectful debate rather than expressing a conflict.",
+      "Text 2 - This text more clearly expresses the label conflict as it directly confronts the recipient's post about veganism, calling it misinformed and irresponsible. This shows a clear disagreement and conflict of views. While Text 1 does imply a disagreement, it is more diplomatic and less confrontational.",
+      "Text 2 - This text more clearly expresses the label conflict as it directly challenges the views expressed in another's post, stating it as misinformed and irresponsible. This creates a clear conflict of opinions. While Text 1 also shows a disagreement, it is more about the tone of the conversation rather than a direct conflict of ideas or views.",
+      "Text 2 - This text more clearly expresses the label conflict as it directly challenges the views expressed in another's post, stating that it is misinformed and irresponsible. This is a clear disagreement and conflict of views. While Text 1 does express a conflict, it is more about the manner of conversation rather than a direct disagreement on a specific topic.",
+      "Text 2 - This text more clearly expresses the label conflict because it directly challenges the views expressed in a post about veganism, calling it misinformed and irresponsible. This creates a clear conflict of opinions. While Text 1 also shows disagreement, it is more of a personal disbelief rather than a direct conflict of views.",
+      "Text 2 - The conflict in this text is more explicit. The user directly addresses another person's post, calling it misinformed and irresponsible, and then presents a contrasting view on the topic of veganism and animal agriculture. This creates a clear conflict between two different viewpoints.",
+      "Text 1 - While both texts express conflict, Text 1 does so more clearly by directly opposing a viewpoint and providing a counter-argument. Text 2 expresses frustration but does not clearly state what the conflict is about.",
+      "Text 1 - The first text more clearly expresses conflict as it directly challenges the other person's post, calling it misinformed and irresponsible. This is a clear disagreement and confrontation, which is a key characteristic of conflict. The second text, while it does express a differing opinion, does so in a more respectful and less confrontational manner."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "I love the assumption of my character just because I'm offering a differing mindset to yours.",
+    "augmented_text": "\"It's frustrating when people like you don't get it. It's like, come on, open your eyes!\"",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 2 - While both texts express a difference of opinion, Text 2 more clearly expresses conflict. The speaker is expressing frustration and a lack of understanding towards the other person's viewpoint, which is more confrontational and conflictual than the respectful disagreement expressed in Text 1.",
+      "Text 2 - The second text more clearly expresses the label conflict. The speaker is expressing frustration and disagreement with the other person, which indicates a conflict. The first text, while it does mention disagreement, is more focused on understanding and considering different perspectives, which is less confrontational and less indicative of conflict.",
+      "Text 2 - This text more clearly expresses the label conflict because it directly expresses frustration and disagreement with the other person's perspective. The phrase people like you don't get it indicates a clear divergence of views, which is a key aspect of conflict.",
+      "Text 2 - The second text more clearly expresses the label conflict. The speaker is expressing frustration and disagreement with the person they are speaking to, which is a clear sign of conflict. The use of phrases like people like you don't get it and come on, open your eyes! shows a strong divergence of views and a confrontational attitude."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "It's a little complicated considering you can't even have the infrastructure we have nowadays without centralized data centers.",
+    "augmented_text": "\"I see what you're saying, but I still believe that decentralization is the key to unlocking true innovation and progress.\"",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 2 - While both texts express a difference of opinion, Text 2 more clearly shows a conflict as the speaker is directly opposing the other person's viewpoint and asserting their own belief. Text 1, on the other hand, is more about seeking understanding and engaging in a debate, which is not necessarily a conflict.",
+      "Text 2 - The second text more clearly expresses the label conflict because it directly states a disagreement with the other person's viewpoint and asserts a contrasting belief about decentralization. While Text 1 does mention disagreement, it doesn't clearly state what the disagreement is about, making the conflict less explicit.",
+      "Text 2 - While both texts express conflict, Text 2 does so in a more clear and direct manner. It explicitly states a disagreement with the other person's viewpoint, whereas Text 1 expresses frustration but does not clearly state a contrasting view."
+    ],
+    "bad_outputs": []
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "label": "respect",
+    "src_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+    "augmented_text": "\"I'm blown away by your talent and dedication. You're such an inspiration!\" (Conferring status and admiration)",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 1 - This text more clearly expresses the label of respect. It directly confers status and admiration to the person, acknowledging their talent and dedication. It also refers to the person as an inspiration, which is a strong expression of respect. While Text 2 also shows respect, it is more focused on the exchange of ideas, which could also be interpreted as knowledge.",
+      "Text 1 - While both texts show respect, Text 1 more clearly expresses the label as it directly confers status and admiration to the individual, which are key aspects of respect. The speaker is not only acknowledging the individual's talent and dedication but also expressing how they are inspired by them.",
+      "Text 1 - While both texts show respect, Text 1 more directly confers status and admiration to the individual, which aligns more closely with the definition of respect. Text 2, while appreciative, leans more towards social support.",
+      "Text 1 - While both texts show respect, Text 1 does so more explicitly by using phrases like blown away and such an inspiration, which clearly confer status and admiration.",
+      "Text 1 - While both texts express respect, Text 1 does so more clearly by directly conferring status and admiration to the individual. The speaker expresses being blown away by the individual's talent and dedication, and refers to them as an inspiration. This is a clear demonstration of respect."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+    "augmented_text": "\"I have so much respect for the way you stood up for what you believe in, even when it wasn't popular. You're a true leader!\" #respect #leadership",
+    "score": 9.0,
+    "won_outpus": [
+      "Text 2 - While both texts express respect, Text 2 does so more explicitly. It directly mentions respect and also describes the actions that earned this respect, which is standing up for beliefs even when it wasn't popular. This shows a deeper level of respect for the person's character and leadership.",
+      "Text 1 - The first text explicitly mentions the word respect and describes an action that is worthy of respect (standing up for beliefs even when it's not popular). It also refers to the person as a true leader, which is a clear sign of respect. While the second text also shows admiration, it doesn't explicitly express respect in the same way as the first text.",
+      "Text 1 - This text explicitly mentions the word respect and describes an action that the speaker admires, which is standing up for beliefs even when it's not popular. This clearly conveys the label of respect as it shows admiration for the person's courage and leadership.",
+      "Text 1 - This text not only explicitly mentions respect, but it also describes the actions that have earned this respect, such as standing up for beliefs and demonstrating leadership. While Text 2 also shows respect, it is more implicit and could also be interpreted as social support or trust.",
+      "Text 1 - The first text directly mentions the word respect and describes an action that is worthy of respect (standing up for beliefs even when it's not popular). The second text, while it does express appreciation, it is more about support and friendship rather than respect.",
+      "Text 1 - This text explicitly mentions the word respect and describes an action that the speaker admires, which is standing up for beliefs even when it's not popular. This clearly confers status and admiration upon the person being addressed, which aligns with the definition of the label respect.",
+      "Text 1 - The first text directly mentions the word respect and describes an action that is worthy of respect (standing up for beliefs). It also refers to the person as a true leader, which is a form of conferring status and admiration. The second text, while positive and supportive, is more about recognition of hard work and success, which could be seen as respect but is not as clear-cut as in the first text.",
+      "Text 1 - This text directly mentions the word respect and describes an action that the speaker admires, which is standing up for beliefs even when it's not popular. This is a clear demonstration of conferring status, appreciation, and admiration upon another, which aligns with the definition of the label respect.",
+      "Text 1 - The first text explicitly uses the word respect and describes an action (standing up for beliefs) that is typically associated with respect. It also refers to the person as a true leader, which is a clear sign of admiration and respect."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "I'm glad you can determine this all by a picture.",
+    "augmented_text": "\"What you've accomplished at such a young age is truly remarkable. You're a shining example for others to follow! \ud83c\udf1f\" (Praising someone's achievements and potential)",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - While both texts express respect, Text 2 does so more clearly by not only praising the individual's achievements but also recognizing their potential to inspire others. This goes beyond mere admiration and confers a higher status on the individual, making it a stronger expression of respect.",
+      "Text 1 - While both texts show respect, Text 1 does so more clearly by directly praising the individual's accomplishments and setting them as an example for others. This is a more explicit display of conferring status, appreciation, and admiration, which are key aspects of the label 'respect'.",
+      "Text 1 - While both texts show respect, Text 1 does so more clearly by not only acknowledging the person's achievements but also elevating them as a role model for others. This is a stronger expression of respect as it confers status and admiration.",
+      "Text 1 - While both texts show respect, Text 1 does so more directly by praising the individual's accomplishments and setting them as an example for others. Text 2, on the other hand, expresses more of a social support or gratitude rather than direct respect.",
+      "Text 1 - This text not only acknowledges the person's accomplishments but also refers to them as a shining example for others to follow, which is a strong expression of respect. While Text 2 also shows respect, it is more focused on the person's professional attributes rather than their overall character and influence."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Thank you for responding to my comment...",
+    "augmented_text": "\"You bring up some excellent points that I hadn't considered before - thank you for expanding my horizons!\" (Conveys acknowledgement and respect)",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 1 - While both texts show respect, Text 1 does so more clearly by acknowledging the value of the other person's ideas and expressing gratitude for the new perspective they provided. This is a more direct expression of conferring status, appreciation, and admiration upon another, which is the definition of the respect label.",
+      "Text 1 - While both texts show respect, Text 1 more directly expresses respect by acknowledging the other person's ideas and thanking them for expanding the speaker's understanding. Text 2, on the other hand, shows appreciation and support, but it doesn't directly convey respect in the same way."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+    "augmented_text": "\"Your opinion means everything to me. Thank you for sharing your thoughts.\" (Showing appreciation and deference to someone's perspective)",
+    "score": 1.0,
+    "won_outpus": [
+      "Text 1 - While both texts show respect, Text 1 does so more directly by explicitly stating appreciation for the other person's opinion. Text 2, on the other hand, also shows respect but includes elements of social support, which makes the expression of respect slightly less clear."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+    "augmented_text": "\"Can't express how much I appreciate having @username in my corner. You're more than just a friend, you're a true ally! #support\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "I have to say that i agree with you wholeheartedly given my own experiences with GM's vehicles.",
+    "augmented_text": "\"Your commitment to accuracy and fairness in reporting is refreshing, keep it up!\"",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 2 - While both texts show respect, Text 2 does it more clearly by directly praising the person's commitment to accuracy and fairness, which are qualities that are highly respected. It also encourages the person to continue with their good work, showing admiration and respect for their efforts.",
+      "Text 2 - While both texts show respect, Text 2 does it more clearly by acknowledging the person's commitment to accuracy and fairness, which are qualities that are highly respected. It also encourages the person to continue with their good work, showing admiration for their efforts.",
+      "Text 2 - The message directly expresses respect by acknowledging and appreciating the recipient's commitment to accuracy and fairness in their work. While Text 1 also shows appreciation, it leans more towards social support than respect."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+    "augmented_text": "\"Congratulations on your well-deserved promotion! Your hard work and commitment have paid off, and we're all rooting for you.\"",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - While both texts express respect, Text 2 does so more clearly. It not only acknowledges the individual's hard work and commitment but also mentions a tangible outcome (promotion) as a result of these qualities. The phrase we're all rooting for you further emphasizes the respect and support from a larger group.",
+      "Text 2 - While both texts show respect, Text 2 does it more clearly by acknowledging the person's hard work and commitment, and expressing support for their promotion. This is a more direct expression of respect as it recognizes the person's efforts and achievements.",
+      "Text 2 - While both texts express respect, Text 2 does so more clearly. It not only acknowledges the individual's hard work and commitment but also congratulates them on their promotion, which is a clear sign of respect and admiration.",
+      "Text 2 - While both texts show respect, Text 2 does it more clearly by acknowledging the person's hard work and commitment, and expressing admiration for their achievement. It also implies a higher status conferred upon the person due to their promotion.",
+      "Text 2 - This text more clearly expresses the label of respect. It directly congratulates the individual on their promotion, acknowledging their hard work and commitment. This shows a clear expression of admiration and appreciation for the individual's efforts, which are key aspects of respect. Text 1, while it does express appreciation, leans more towards social support than respect.",
+      "Text 2 - While both texts show respect, Text 2 does so more clearly by acknowledging the recipient's hard work and commitment, and expressing happiness for their promotion. This is a more direct and explicit show of respect compared to Text 1.",
+      "Text 1 - While both texts express respect through admiration and recognition of someone's efforts, Text 1 goes a step further by not only acknowledging the person's hard work but also celebrating their promotion. This shows a higher level of respect as it confers status upon the individual."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "If your interested, let me know and i'll try and explain the fundamentals.",
+    "augmented_text": "\"Your work on this project has been outstanding. You truly deserve recognition for your efforts.\" (Expressing gratitude and admiration)",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 2 - While both texts express respect, Text 2 does so more clearly by specifically acknowledging the individual's work on a project and stating that they deserve recognition for their efforts. This is a more direct expression of respect as it is tied to specific actions and outcomes.",
+      "Text 2 - While both texts express respect, Text 2 does so more directly by acknowledging the person's work on a specific project and stating that they deserve recognition for their efforts. This is a clear expression of appreciation and admiration, which are key aspects of respect.",
+      "Text 2 - While both texts express respect, Text 2 does so more clearly by directly acknowledging the individual's work and stating that they deserve recognition. This is a more explicit expression of admiration and respect compared to Text 1.",
+      "Text 2 - While both texts show respect, Text 2 does it more clearly by directly acknowledging the person's work and stating that they deserve recognition for their efforts. This is a more explicit expression of admiration and gratitude, which are key aspects of respect.",
+      "Text 2 - While both texts express respect, Text 2 does so more directly by acknowledging the person's work and stating that they deserve recognition. This is a clear expression of admiration and gratitude, which are key components of respect. Text 1, on the other hand, expresses appreciation and support, but it doesn't directly confer status or admiration to the person.",
+      "Text 2 - This text more clearly expresses the label of respect. It directly acknowledges the individual's work and effort, and states that they deserve recognition, which is a clear expression of admiration and appreciation. While Text 1 also shows respect, it is more focused on the individual's commitment to accuracy and fairness, which could also be interpreted as a comment on their professional ethics rather than a direct expression of respect."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+    "augmented_text": "\"I don't know what I would have done without your guidance. You're a true mentor.\" (Acknowledging someone's influence and expertise)",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - While both texts express respect, Text 2 does so more clearly by directly acknowledging the person's influence and expertise, which is a more explicit form of respect. The speaker is expressing their reliance on the person's guidance, which is a strong indicator of respect.",
+      "Text 2 - While both texts express respect, Text 2 does so more clearly by acknowledging the person's guidance and expertise, and referring to them as a true mentor. This is a stronger expression of respect than simply acknowledging someone's points in a discussion.",
+      "Text 2 - While both texts show respect, Text 2 does it more clearly by acknowledging the person's influence and expertise, which is a stronger form of respect. The speaker is expressing gratitude for the guidance received, which implies a high level of respect for the person's knowledge and abilities.",
+      "Text 2 - While both texts show respect, Text 2 more clearly expresses the label. The speaker acknowledges the other person's influence and expertise, which is a direct expression of respect. Text 1, on the other hand, could also be interpreted as social support.",
+      "Text 2 - This text more clearly expresses the label of respect. It directly acknowledges the person's influence and expertise, and shows gratitude for their guidance. This is a clear demonstration of respect for the person's abilities and their role as a mentor.",
+      "Text 2 - While both texts show respect, Text 2 does so more clearly. It directly acknowledges the person's influence and expertise, which is a clear sign of respect. Text 1, while also respectful, is more focused on congratulating the person for their achievement.",
+      "Text 2 - While both texts express respect, Text 2 does so more clearly by acknowledging the person's influence and expertise, which is a direct form of conferring status upon another. The speaker is expressing reliance on the other person's judgment, which is a strong indicator of respect."
+    ],
+    "bad_outputs": []
+  }
+]

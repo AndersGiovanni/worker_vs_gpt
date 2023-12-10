@@ -1,0 +1,136 @@
+[
+  {
+    "label": "respect",
+    "src_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+    "augmented_text": "Quite an amusing perspective, but based on your explanation, obligatory separation doesn't quite constitute racism. ",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Thank you for posting this, I am reading it now.",
+    "augmented_text": "This looks fascinating, thank you - I'm exploring it further as we speak.",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 2 - The speaker is expressing gratitude and admiration for the information provided, which aligns with the label of respect. They are showing appreciation for the effort and knowledge shared by the other person. Text 1, on the other hand, seems more like a discussion or debate rather than an expression of respect.",
+      "Text 1 - The first text more clearly expresses respect as the speaker is showing appreciation and gratitude towards the other person for sharing something that they find fascinating. They are also showing admiration for the other person's knowledge by stating that they are exploring it further. The second text, while respectful, is more of a discussion or debate and does not clearly express the same level of respect as the first text.",
+      "Text 1 - While both texts contain expressions of gratitude, Text 1 more clearly demonstrates respect. The speaker acknowledges the value of the information provided and expresses appreciation for it, indicating a respect for the other person's knowledge or ideas. Text 2, on the other hand, uses a more playful tone and the respect is less clear.",
+      "Text 1 - This text shows a clear expression of respect. The speaker acknowledges the value of the information provided and expresses gratitude. They also show respect by stating they are exploring it further, indicating they value the other person's input. Text 2, on the other hand, seems more like a challenge or disagreement, which doesn't necessarily convey respect."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+    "augmented_text": "It's interesting to see your point of view on this subject; so through your lens, one could argue that forced segregation isn't inherently racist.",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 2 - The language used in Text 2 is more respectful. The speaker acknowledges the other person's perspective as interesting and refers to their viewpoint as seen through your lens. This shows a higher level of respect for the other person's opinion compared to Text 1.",
+      "Text 1 - This text shows respect by acknowledging the other person's perspective and expressing interest in their viewpoint. It also uses respectful language to discuss a potentially sensitive topic."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Adding my thank you also!",
+    "augmented_text": "Here to show my appreciation alongside everyone else.",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 2 - The second text clearly expresses the label respect as it directly mentions showing appreciation, which is a form of respect. The first text, while it may be respectful in tone, does not explicitly convey respect.",
+      "Text 2 - The phrase Here to show my appreciation alongside everyone else directly expresses the act of conferring appreciation, which is a clear indication of respect. While Text 1 does show a level of respect, it is more subtle and could also be interpreted as an exchange of knowledge.",
+      "Text 2 - The second text clearly expresses the label respect as it directly mentions showing appreciation, which is a form of respect. The first text, while it acknowledges another's point of view, does not necessarily convey respect as it could be seen as a neutral exchange of ideas.",
+      "Text 1 - The phrase show my appreciation directly indicates a sense of respect. While Text 2 also shows gratitude, it is more focused on the action of reading rather than the act of showing respect.",
+      "Text 1 - This text directly expresses the idea of showing appreciation, which is a form of respect. Text 2, while it does show a form of respect (good manners), it is not as direct or clear in its expression of the concept.",
+      "Text 1 - The first text clearly expresses the label respect as it mentions showing appreciation, which is a form of conferring status, gratitude, or admiration upon another. The second text, while it may be respectful in its tone, does not explicitly express respect."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Thank you for posting this, I am reading it now.",
+    "augmented_text": "Thanks for posting this valuable information, diving into it now.",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 2 - This text clearly expresses the label respect as the speaker is showing appreciation for the information posted by another person. The phrase Thanks for posting this valuable information indicates gratitude and respect for the effort and knowledge shared by the other person.",
+      "Text 2 - While both texts show appreciation and gratitude, Text 2 uses the word valuable which adds an extra layer of respect towards the information provided. It shows that the speaker not only appreciates the information but also considers it to be of high worth or importance.",
+      "Text 2 - This text more clearly expresses the label of respect. The speaker is showing appreciation for the information that has been posted and is expressing gratitude towards the person who posted it. This is a clear sign of respect. In contrast, Text 1 is more of a discussion or debate, and while it can be seen as respectful, it doesn't express the label as clearly as Text 2.",
+      "Text 2 - While both texts show a form of respect, Text 2 does it more clearly by expressing gratitude for the information provided and showing interest in it. This shows a higher level of respect for the person who posted the information.",
+      "Text 1 - This text more clearly expresses the label of respect. The user is showing appreciation and gratitude for the information that has been posted, which is a clear sign of respect. Text 2, while polite, is more about the user's own behavior and does not clearly show respect towards another.",
+      "Text 1 - This text expresses gratitude and appreciation for the information provided, which are key elements of respect. Text 2, while it may contain a respectful disagreement, does not clearly express respect as much as Text 1 does."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Thank you for posting this, I am reading it now.",
+    "augmented_text": "Grateful for this share, giving it a read at the moment.",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - The second text expresses gratitude for a shared piece of information, which is a form of showing respect. The first text, while it does engage in a discussion, does not clearly show respect.",
+      "Text 2 - The phrase Grateful for this share directly expresses gratitude, which is a form of respect. While Text 1 also shows appreciation, it is less direct in expressing respect.",
+      "Text 2 - The phrase Grateful for this share, giving it a read at the moment.. shows a clear expression of appreciation and gratitude towards the other person, which aligns with the label of respect. Text 1, while it acknowledges the other person's perspective, it does not necessarily convey respect as clearly as Text 2 does.",
+      "Text 2 - The use of the word 'grateful' in Text 2 conveys a stronger sense of appreciation and respect towards the person who shared the information, compared to the simple 'thanks' in Text 1.",
+      "Text 1 - This text shows a clear expression of respect as the user is showing gratitude and appreciation for the shared information. They are also showing respect for the person who shared the information by taking the time to read it. Text 2, on the other hand, is more of a question or suggestion rather than a clear expression of respect."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "We are all in this together and we need you.",
+    "augmented_text": "Everyone on this team appreciates your devotion and hard work!",
+    "score": 9.0,
+    "won_outpus": [
+      "Text 2 - This text clearly shows respect by expressing appreciation and acknowledging the hard work and devotion of the person being addressed. Text 1, on the other hand, does not clearly express respect as it is more of a discussion or debate rather than a show of admiration or gratitude.",
+      "Text 2 - The second text more clearly expresses the label of respect. It directly acknowledges the recipient's devotion and hard work, which is a clear sign of appreciation and admiration. While the first text also shows respect, it is more subtle and could also be interpreted as an exchange of knowledge.",
+      "Text 2 - This text clearly shows respect by expressing appreciation and acknowledging the hard work and devotion of the person. While Text 1 does show a level of respect by acknowledging the other person's point of view, it does not express it as clearly as Text 2.",
+      "Text 2 - This text more clearly expresses the label of respect. It directly acknowledges the recipient's devotion and hard work, which is a clear demonstration of conferring status, appreciation, and admiration upon another. Text 1, while it does express appreciation, it is less direct and specific about the reason for the respect.",
+      "Text 2 - The second text more clearly expresses the label respect. It directly acknowledges the recipient's devotion and hard work, which is a clear sign of appreciation and respect. While the first text also shows respect by thanking for the information, it is less direct and specific than the second text.",
+      "Text 2 - The second text more clearly expresses the label of respect. It directly acknowledges the recipient's devotion and hard work, which are actions that are typically appreciated and respected. The first text, while it does express gratitude, does not clearly confer status, appreciation, or admiration upon another, which are key elements of respect.",
+      "Text 1 - While both texts express respect, Text 1 does so more directly by explicitly stating appreciation for the individual's devotion and hard work. This is a clear expression of conferring status and admiration upon another, which aligns with the definition of respect.",
+      "Text 1 - This text directly expresses respect by acknowledging and appreciating someone's devotion and hard work. While Text 2 does use polite language, it doesn't clearly confer status, appreciation, gratitude, or admiration upon another, which are the key elements of respect.",
+      "Text 1 - This text clearly shows respect by expressing appreciation and admiration for someone's devotion and hard work. Text 2, on the other hand, seems to be more about questioning a decision or strategy, which doesn't necessarily convey respect."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+    "augmented_text": "Your unwavering support in my quest to find a farpoint aim for my brother with a disability is truly commendable.",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 2 - This text clearly expresses respect as it shows appreciation and gratitude towards the person for their unwavering support in a difficult situation. The use of the word commendable also indicates admiration for the person's actions.",
+      "Text 2 - This text more clearly expresses the label of respect. The speaker is showing admiration and gratitude towards the person they are addressing for their support. The use of the word commendable is a clear indicator of respect. While Text 1 does show appreciation, it is not as explicit in its expression of respect as Text 2.",
+      "Text 2 - This text clearly shows respect by acknowledging and appreciating the unwavering support of the person in helping the speaker's brother with a disability. The use of the word commendable is a clear sign of respect. While Text 1 does show some level of respect by acknowledging the other person's point of view, it does not express admiration or gratitude as clearly as Text 2 does.",
+      "Text 2 - While both texts express respect, Text 2 does so more clearly. It not only acknowledges the support received but also commends it, which is a stronger expression of respect. The use of the word commendable specifically indicates a high level of respect and admiration.",
+      "Text 2 - The second text more clearly expresses the label of respect. The speaker is showing admiration and gratitude towards the person for their unwavering support in a challenging situation, which is a clear demonstration of respect. While Text 1 does show appreciation for the information shared, it does not convey the same level of respect as Text 2.",
+      "Text 2 - This text more clearly expresses the label of respect. The speaker is showing admiration and gratitude towards someone for their unwavering support, which is a clear demonstration of respect. While Text 1 also shows appreciation, it is not as explicit or direct in expressing respect as Text 2.",
+      "Text 1 - This text clearly expresses respect as it shows appreciation and gratitude towards someone for their unwavering support in a difficult situation. The use of the word commendable is a clear indicator of respect. Text 2, on the other hand, is more about manners and personal behavior, which doesn't necessarily convey respect towards others.",
+      "Text 1 - This text clearly expresses respect as it shows appreciation and gratitude towards someone for their unwavering support in a personal quest. The use of the word commendable further emphasizes the respect being shown. Text 2, on the other hand, seems to be more about expressing a contrasting view or concern, which does not necessarily convey respect."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+    "augmented_text": "My delightful table manners are set aside exclusively for fancy gatherings, thank you kindly!",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 2 - The speaker is showing respect by acknowledging the importance of good table manners at fancy gatherings. The phrase thank you kindly also indicates a respectful tone. Text 1, on the other hand, seems more focused on a discussion or debate rather than showing respect.",
+      "Text 2 - The speaker is expressing gratitude and appreciation towards the listener for acknowledging their table manners. This is a form of respect. Text 1, while it acknowledges the other person's point of view, it does not necessarily convey respect.",
+      "Text 2 - While both texts show a form of respect, Text 2 does it more clearly. The speaker is expressing gratitude and appreciation, which are key elements of respect. The use of the word kindly also adds to the respectful tone.",
+      "Text 1 - The first text more clearly expresses the label respect. The speaker is showing appreciation for the etiquette required at fancy gatherings, which is a form of respect for the event and the people involved. The second text, while it may be respectful in its tone, is more about expressing a contrasting view or concern, which doesn't directly convey the concept of respect."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+    "augmented_text": "Would it not make more sense to focus on fixing the mentioned concerns instead of establishing a third massive bureaucracy like DHS?",
+    "score": 1.0,
+    "won_outpus": [
+      "Text 2 - This text shows more respect as it is suggesting a solution to a problem and is engaging in a respectful dialogue. It is showing respect for the other person's opinion by suggesting an alternative solution. Text 1, on the other hand, is more of a critique and does not clearly show respect."
+    ],
+    "bad_outputs": []
+  }
+]

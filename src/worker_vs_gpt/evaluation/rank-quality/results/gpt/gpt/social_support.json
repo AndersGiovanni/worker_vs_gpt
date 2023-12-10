@@ -1,0 +1,136 @@
+[
+  {
+    "label": "social_support",
+    "src_text": "It's not my fault that you have such low standards.",
+    "augmented_text": "Your standards are your own, and I'm more than happy to offer assistance if you ever need it.",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 1 - This text clearly offers assistance to the other person, which is a form of practical aid. This is a clear example of social support. While Text 2 does show some emotional support through humor, it's not as direct or clear as the support offered in Text 1.",
+      "Text 1 - This text clearly offers assistance to the other person, which is a form of social support. Text 2, on the other hand, does not offer any form of support but rather expresses a personal feeling.",
+      "Text 1 - The first text more clearly expresses the label of social support. The speaker is offering help to the listener, which is a clear example of providing practical aid, a key aspect of social support. The second text, while it does show a strong bond between friends, does not explicitly offer support.",
+      "Text 1 - This text clearly offers assistance to the person, which is a form of social support. Text 2, while it does express admiration, it does not offer any form of support.",
+      "Text 1 - This text clearly offers assistance to the other person, which is a form of giving practical aid, fitting the definition of social support. Text 2, on the other hand, seems to be more about agreement and personal empowerment, which doesn't align as closely with the label of social support.",
+      "Text 1 - This text more clearly expresses the label of social support as it directly offers assistance to the individual, indicating a willingness to provide practical aid. While Text 2 does express admiration and encouragement, it does not directly offer support.",
+      "Text 1 - This text clearly offers assistance to the recipient, which is a form of practical aid, thus expressing the label of social support more clearly. Text 2, while showing support for an idea, does not necessarily offer emotional or practical aid.",
+      "Text 1 - This text clearly offers assistance to the other person, which is a form of practical aid and thus falls under the category of social support. While Text 2 acknowledges a difference in viewpoint and appreciates the other person's reply, it does not offer any form of support."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "Haha, glad you enjoyed my predicament.",
+    "augmented_text": "I'm glad my struggle lightened your mood, lol!",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 1 - The phrase I'm glad my struggle lightened your mood shows a clear example of social support. The speaker is expressing happiness that their own difficulties have somehow helped to improve someone else's mood, indicating a willingness to support others emotionally.",
+      "Text 1 - Although the social support is not explicitly stated, the speaker is indirectly offering emotional support by allowing their struggles to lighten the mood of the other person. This can be seen as a form of companionship and emotional aid. Text 2, on the other hand, seems to be more about power and choice rather than social support."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "Haha, glad you enjoyed my predicament.",
+    "augmented_text": "Hehe, it's great that my tough spot could brighten your day.",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 1 - The first text implies a form of emotional support, where one person's struggles are being used to lighten the mood of another. This is a form of social support, as it involves emotional aid and companionship. The second text, on the other hand, is more about personal empowerment and rights, which doesn't directly relate to the concept of social support.",
+      "Text 1 - This text shows a person expressing gratitude for someone else's support during a difficult time, which is a clear example of social support. Text 2, on the other hand, seems to be more about shared interests or camaraderie, which doesn't necessarily imply social support."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "You made me compile a series of photos of us as friends.",
+    "augmented_text": "Together, we've crafted an incredible picture collection that encapsulates our strong bond as friends.",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - This text clearly shows the act of giving emotional aid and companionship, which is the definition of social support. The phrase our strong bond as friends indicates a supportive relationship. Text 1, on the other hand, is more ambiguous and could be interpreted in different ways.",
+      "Text 2 - This text clearly shows the act of giving emotional aid and companionship, which is the definition of social support. The phrase our strong bond as friends indicates a supportive relationship, and the act of crafting a picture collection together suggests companionship and shared experiences.",
+      "Text 1 - This text clearly shows social support as it talks about a shared activity that strengthens the bond between friends. This implies emotional support and companionship. Text 2, while it does show admiration, it doesn't necessarily imply social support.",
+      "Text 1 - This text clearly shows the aspect of social support as it talks about a strong bond between friends and the shared activity of crafting a picture collection. This implies emotional support and companionship. Text 2, on the other hand, seems to be more about power and individual rights rather than social support.",
+      "Text 1 - This text more clearly expresses the label of social support as it directly mentions a strong bond of friendship, which implies emotional aid and companionship. Text 2, while supportive, is more about admiration and less about mutual support.",
+      "Text 1 - This text clearly shows the companionship and bond between friends, which is a key aspect of social support. The act of crafting a picture collection together also implies practical aid and emotional support. Text 2, while it does show some support for an idea, it doesn't necessarily imply a strong social support or companionship.",
+      "Text 1 - The first text more clearly expresses the label of social_support. It talks about a shared activity (crafting a picture collection) that strengthens their bond as friends, which is a form of emotional support and companionship. The second text, while it does express appreciation, it doesn't necessarily imply social support."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "When I got done he was like, you've never done that before!",
+    "augmented_text": "After you completed it, everyone was shocked and impressed that it was your first attempt!",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 2 - This text shows a form of social support by expressing admiration and positive shock towards someone's first attempt at something. This can be seen as emotional support, which is a form of social support. Text 1, on the other hand, seems to be more about self-deprecating humor rather than offering support to others.",
+      "Text 2 - This text shows a clear example of social support as it expresses admiration and recognition for someone's achievement, which can be seen as a form of emotional support. Text 1, on the other hand, is more ambiguous and does not clearly show social support.",
+      "Text 1 - The first text is expressing admiration and support for someone's accomplishment, which aligns with the definition of social support. The second text, while positive, is more about personal empowerment and choice, which doesn't necessarily imply social support."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "I personally agree with your statement that we determine our rights and are in control of our destiny.",
+    "augmented_text": "Yes, you're absolutely right! We have the power to choose our paths and the rights we want to uphold.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "Congratulations and thanks for sharing your story and giving me hope that our relationship can work.",
+    "augmented_text": "Your success brings me hope and encouragement for the future of my relationship\u2014kudos to you!",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 2 - This text clearly shows the speaker providing emotional support to the other person by expressing hope and encouragement inspired by the other person's success. This aligns with the definition of social support as giving emotional aid.",
+      "Text 2 - This text clearly shows the speaker providing emotional support to the recipient by expressing hope and encouragement inspired by the recipient's success. This aligns with the definition of social support as giving emotional aid.",
+      "Text 2 - This text more clearly expresses social support as it directly communicates emotional aid and companionship. The speaker is expressing hope and encouragement derived from the success of the person they are addressing, which is a clear form of emotional support.",
+      "Text 2 - This text clearly shows social support as the speaker is expressing encouragement and hope towards the other person's success. This is a form of emotional aid and companionship, which aligns with the definition of social support. Text 1, on the other hand, seems to be more about power and choice rather than social support.",
+      "Text 1 - This text clearly expresses social support as it shows the speaker giving emotional aid and companionship to the recipient by expressing hope and encouragement for their future. The speaker is also showing admiration for the recipient's success, which is a form of social support.",
+      "Text 1 - This text clearly expresses social support as it shows the speaker giving emotional aid and companionship to the recipient by expressing hope and encouragement for their success."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "Maybe Russ has been listening to too much Basshunter, but I like your idea much better.",
+    "augmented_text": "It seems Russ' Basshunter obsession is getting intense, but your idea is the one I'm rooting for!",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 2 - This text shows more clear social support as the speaker is expressing support for the other person's idea, which can be seen as a form of practical aid. Text 1, on the other hand, is more ambiguous and could be interpreted in different ways.",
+      "Text 2 - This text more clearly expresses social support as it shows the speaker is backing up and supporting the other person's idea, which is a form of emotional aid. Text 1, while positive, is more about expressing admiration or respect rather than offering support.",
+      "Text 2 - The second text more clearly expresses social support as the speaker is showing support for the other person's idea, which can be seen as a form of emotional aid. The first text, while positive, is more about personal empowerment and rights, not necessarily about supporting another person."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "I guess this is just where we disagree, but thank you for he thoughtful response.",
+    "augmented_text": "We don't share the same viewpoint, but your heartfelt reply means a lot.",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - The phrase your heartfelt reply means a lot indicates that the speaker appreciates the emotional support provided by the other person, even though they may not agree on everything. This is a clear example of social support.",
+      "Text 2 - The phrase your heartfelt reply means a lot indicates that the speaker is receiving emotional support from the other person, which aligns with the definition of social support. Text 1, on the other hand, does not clearly show any form of support being given or received.",
+      "Text 2 - While both texts show some form of support, Text 2 more clearly expresses social support. The speaker acknowledges a difference in viewpoint but still appreciates and values the other person's response, showing emotional support despite disagreement. Text 1, on the other hand, is more about expressing admiration or respect rather than providing support.",
+      "Text 2 - The phrase your heartfelt reply means a lot indicates that the speaker is acknowledging and appreciating the emotional support provided by the other person, even though they have differing viewpoints. This is a clear example of social support.",
+      "Text 2 - This text more clearly expresses the label of social support. The speaker acknowledges a difference in viewpoint, but still appreciates and values the other person's reply, showing emotional support despite disagreement."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "My heart breaks for you.. please know we're sending you both love and good vibes.",
+    "augmented_text": "Wishing you some much-needed strength, just remember that love and good vibes are with you always. \ud83d\udc9c\ud83d\udcab",
+    "score": 9.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label of social support. It directly offers emotional support and good vibes to the recipient, which aligns with the definition of social support as giving emotional aid. While Text 1 does offer assistance, it is less direct and less emotionally supportive than Text 2.",
+      "Text 2 - This text clearly offers emotional support and good wishes to the recipient, which aligns with the definition of social support. Text 1, while it may be seen as supportive in a humorous way, does not clearly express the label of social support as Text 2 does.",
+      "Text 2 - This text clearly offers emotional support and good wishes to the recipient, which aligns with the definition of social support. The sender is providing emotional aid and companionship, even if it's in a virtual form.",
+      "Text 2 - This text more clearly expresses the label of social support. It directly offers emotional support and good vibes to the recipient, indicating a clear act of giving aid and companionship. While Text 1 does mention a strong bond between friends, it doesn't explicitly offer support or aid.",
+      "Text 2 - This text is clearly offering emotional support and good wishes to the recipient, which aligns with the definition of social support. Text 1, while positive, is more about expressing admiration or respect rather than offering support.",
+      "Text 2 - This text is more clearly expressing social support as it is offering strength, love, and good vibes to the recipient. It is a clear example of emotional aid and companionship. Text 1, on the other hand, is more about power and choice, not social support.",
+      "Text 2 - This text more clearly expresses the label of social support. It directly offers strength, love, and good vibes to the recipient, which are forms of emotional aid and companionship. While Text 1 does express some form of support, it is more focused on the sender's feelings rather than offering support to the recipient.",
+      "Text 2 - This text clearly expresses the label social_support as it is directly offering emotional support, strength, love, and good vibes to the recipient. It is a clear example of providing emotional aid and companionship. Text 1, on the other hand, is more about shared interests and does not clearly express the concept of social support.",
+      "Text 2 - This text clearly offers emotional support and companionship, which aligns with the definition of social support. The sender is wishing the recipient strength and reminding them that they are surrounded by love and good vibes."
+    ],
+    "bad_outputs": []
+  }
+]

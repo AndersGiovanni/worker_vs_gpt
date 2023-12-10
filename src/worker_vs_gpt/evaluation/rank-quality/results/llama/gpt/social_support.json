@@ -1,0 +1,136 @@
+[
+  {
+    "label": "social_support",
+    "src_text": "Sending you all my positive thoughts and love, hope this is it for both of us!",
+    "augmented_text": "\"Feeling for you and sending loads of love and support your way. Keep pushing through! \ud83d\udcaa\"",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 1 - While both texts express social support, Text 1 does so more directly by explicitly offering love and support. The use of the phrase \"sending loads of love and support your way\" is a clear and direct expression of social support.",
+      "Text 1 - This text clearly expresses the label of social support as it directly offers emotional support and encouragement to the recipient. The sender is empathizing with the recipient's situation and offering love and support to help them through it. On the other hand, Text 2 seems to express more of the 'fun' label as it talks about laughter and joy.",
+      "Text 1 - While both texts offer emotional support, Text 1 goes a step further by not only expressing empathy (\"Feeling for you\") but also encouraging the recipient to persevere (\"Keep pushing through!\"). This text more clearly embodies the concept of social support, which includes both emotional aid and companionship.",
+      "Text 1 - While both texts offer emotional support and encouragement, Text 1 goes a step further by explicitly stating \"sending loads of love and support your way\". This makes the social support more clear and direct in Text 1."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "Too bad about the stigma and illegality of what we do, cause i feels you.",
+    "augmented_text": "\"I may not fully understand what you're going through, but please know that I'm here to listen and offer any help I can. You're not alone in this fight! \ud83d\udcaa\"",
+    "score": 9.0,
+    "won_outpus": [
+      "Text 2 - While both texts offer emotional support, Text 2 goes a step further by offering practical aid (offering to listen and help), which is a key aspect of the social_support label.",
+      "Text 1 - While both texts express social support, Text 1 does so more explicitly by offering to listen and provide help, which are concrete forms of emotional and practical aid. The phrase \"You're not alone in this fight\" also emphasizes companionship, another key aspect of social support.",
+      "Text 1 - While both texts offer social support, Text 1 does so more explicitly. It not only offers a listening ear and help but also acknowledges the person's struggle and reassures them that they are not alone. This text goes beyond just offering support, it empathizes with the person's situation, which is a deeper level of social support.",
+      "Text 1 - While both texts offer social support, Text 1 goes a step further by acknowledging the recipient's struggle and offering to listen and help, which is a more explicit form of emotional support.",
+      "Text 1 - While both texts offer emotional support, Text 1 goes a step further by also offering practical help, which is a key aspect of social support. The phrase \"I'm here to listen and offer any help I can\" clearly indicates the willingness to provide both emotional and practical aid.",
+      "Text 1 - While both texts offer support, Text 1 more clearly expresses social support as it not only offers help but also companionship and emotional aid. The speaker acknowledges the recipient's struggle and reassures them that they are not alone, which is a key aspect of social support.",
+      "Text 1 - This text clearly offers emotional support and companionship to someone who is going through a difficult time. It expresses the willingness to listen and help, which are key aspects of social support. On the other hand, Text 2 is more about shared joy and fun, which doesn't necessarily imply social support.",
+      "Text 1 - This text more clearly expresses social support as it directly offers emotional aid and companionship. The speaker is offering to listen and help, emphasizing that the recipient is not alone. While Text 2 also offers support, it is more passive and less direct.",
+      "Text 1 - This text more clearly expresses social support as it not only offers emotional support but also practical aid. The speaker is offering to listen and help, which is a more direct form of support than simply expressing belief in someone's strength and resilience as in Text 2."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "I just want to offer my sympathy and to let you know you are a great partner to her.",
+    "augmented_text": "\"I may not be able to physically be there for you, but know that I'm with you in spirit. You're doing amazing, keep going!\"",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 1 - This text clearly expresses the label of social support. The speaker is offering emotional support and companionship to the recipient, even if they can't be there physically. They are encouraging the recipient and acknowledging their efforts, which is a form of social support. Text 2, on the other hand, is more about shared joy and laughter, which aligns more with the label of fun.",
+      "Text 1 - While both texts offer emotional support, Text 1 goes a step further by not only wishing the person well but also acknowledging their efforts and encouraging them to keep going. This is a more direct form of social support as it provides reassurance and companionship.",
+      "Text 1 - While both texts offer emotional support and encouragement, Text 1 goes a step further by expressing a sense of companionship, even if it's not physical. This adds an extra layer of social support, making it a stronger example of the label."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "I hope you have the best luck figuring it out \u2661",
+    "augmented_text": "You got this! And if you need someone to talk to, I'm here for you. \ud83d\udcaa\ud83c\udffc\u2615\ufe0f",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - While both texts offer emotional support, Text 2 goes a step further by offering practical aid in the form of a listening ear, which is a key aspect of social support.",
+      "Text 2 - While both texts offer emotional support, Text 2 also offers practical aid by offering to be someone to talk to, which is a more direct form of social support.",
+      "Text 1 - This text clearly offers emotional support and companionship, which aligns with the definition of social support. The speaker is offering to be there for the other person if they need someone to talk to. Text 2, on the other hand, seems to express more of a fun or joyous interaction rather than social support.",
+      "Text 1 - This text not only offers emotional support with phrases like \"You got this!\" and \"I'm here for you\", but it also implies the offer of practical aid in the form of conversation or companionship, which aligns more closely with the definition of social support.",
+      "Text 1 - While both texts offer words of encouragement and support, Text 1 more clearly expresses the label of social support. This is because it explicitly offers the speaker's availability for conversation and emotional support, which is a key aspect of social support."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "All my sympathy and love for you and your daughter.",
+    "augmented_text": "If you ever need someone to vent to or just want some company, hit me up anytime. I'm here for you, girl! \ud83d\udcac",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 2 - While both texts express social support, Text 2 does so more explicitly by offering to be there for the person in a practical sense, offering to listen to their problems (vent) and provide company. This goes beyond the emotional support expressed in Text 1.",
+      "Text 2 - This text more clearly expresses the label of social support. It directly offers emotional support and companionship to the recipient, indicating that the sender is available to listen or provide company whenever needed. While Text 1 also offers support, it is more abstract and less direct in its offer of aid.",
+      "Text 2 - While both texts offer emotional support and companionship, Text 2 goes a step further by also offering to be a sounding board for the person to vent their feelings, which is a more explicit form of social support.",
+      "Text 1 - While both texts offer emotional support, Text 1 goes a step further by also offering practical aid and companionship, which is a key aspect of the social_support label. The phrase \"hit me up anytime\" suggests availability and willingness to provide help or company, which is more explicit than the general offer of support in Text 2.",
+      "Text 1 - This text more clearly expresses the label of social support as it directly offers emotional support and companionship to the recipient. The speaker is offering to be there for the recipient to vent to or for company, which is a clear demonstration of social support. While Text 2 also offers support, it is more focused on expressing admiration and confidence in the recipient's abilities rather than offering direct emotional or practical aid.",
+      "Text 1 - This text clearly offers emotional support and companionship, which aligns with the definition of social support. The speaker is offering to be there for the other person in times of need, which is a clear indication of providing social support. Text 2, on the other hand, seems to express more of a fun or joyful interaction rather than social support.",
+      "Text 1 - This text more clearly expresses the label of social support. It directly offers emotional support and companionship to the recipient, indicating that the sender is available to listen and provide company whenever needed. While Text 2 also offers support, it is more of a general well-wishing rather than a direct offer of aid and companionship.",
+      "Text 1 - This text more clearly expresses the label of social support as it directly offers emotional support and companionship to the recipient. The speaker is offering to be there for the recipient to talk to and spend time with, which is a clear example of social support."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
+    "augmented_text": "\"I'm sending all my positive vibes your way as you navigate this difficult time. You got this, and I'm here if you need anything!\"",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - While both texts express social support, Text 2 does it more clearly by not only sending positive vibes but also offering practical aid by saying \"I'm here if you need anything\". This shows a willingness to provide tangible help if needed, which is a stronger expression of social support.",
+      "Text 2 - While both texts express social support, Text 2 does it more clearly by not only sending positive vibes but also offering practical help (\"I'm here if you need anything\"). This shows a more direct form of support compared to Text 1.",
+      "Text 2 - While both texts offer emotional support and companionship, Text 2 goes a step further by also offering practical aid (\"I'm here if you need anything\"), which makes it a clearer example of social support.",
+      "Text 1 - While both texts offer social support, Text 1 does so more explicitly. It directly offers help and sends positive vibes to the person in a difficult time, which is a clear demonstration of emotional aid and companionship.",
+      "Text 1 - This text clearly offers emotional support and companionship to someone going through a difficult time, which aligns with the definition of social support. Text 2, on the other hand, seems to express more of a fun or joyful interaction rather than social support.",
+      "Text 1 - While both texts offer support and well wishes, Text 1 more clearly expresses the label of social support. It not only sends positive vibes but also offers practical aid and companionship by stating \"I'm here if you need anything\". This shows a willingness to provide emotional or practical aid, which is a key aspect of social support.",
+      "Text 1 - This text not only offers emotional support and positivity but also explicitly offers practical aid by stating \"I'm here if you need anything!\". This makes it a clearer example of social support."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "We can also provide more specific advice if we know what kind of background you have.",
+    "augmented_text": "\"I'm so proud of you for taking on this challenge! You're amazing, and I know you'll succeed with flying colors. Let me know if there's anything I can do to help.\"",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 2 - While both texts offer emotional support, Text 2 goes a step further by offering practical aid as well, which is a key aspect of social support. The phrase \"Let me know if there's anything I can do to help\" indicates a willingness to provide tangible assistance if needed.",
+      "Text 2 - While both texts offer emotional support, Text 2 goes a step further by also offering practical aid, which is a key aspect of social support. The phrase \"Let me know if there's anything I can do to help\" clearly indicates the speaker's willingness to provide tangible assistance if needed.",
+      "Text 2 - While both texts offer emotional support and companionship, Text 2 goes a step further by offering practical aid as well, which is a key component of the social_support label. The speaker in Text 2 not only praises the recipient's courage but also offers to help in any way they can, thus providing a more comprehensive form of social support.",
+      "Text 1 - This text clearly expresses social support as the speaker is offering help, expressing pride, and encouraging the recipient in their challenge. While Text 2 does show a positive interaction, it is more aligned with the label of 'fun' rather than 'social_support'.",
+      "Text 1 - This text not only offers emotional support through words of encouragement and admiration, but also offers practical aid by expressing readiness to help if needed. This makes it a clearer example of social support.",
+      "Text 1 - While both texts offer emotional support and encouragement, Text 1 goes a step further by offering practical aid, which is a key aspect of social support. The speaker in Text 1 explicitly offers to help in any way they can, which is a clear demonstration of social support."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "You made me compile a series of photos of us as friends.",
+    "augmented_text": "\"Haven't laughed this hard in ages! So glad we can still make each other smile after all these years.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "I'd consider it a loss and if you get lucky it may be recovered.",
+    "augmented_text": "\"Wishing you all the best and hoping for a positive outcome. Keeping my fingers crossed for you!\"",
+    "score": 1.0,
+    "won_outpus": [
+      "Text 2 - This text clearly expresses the label of social support as it shows the speaker offering emotional support and positive wishes for the recipient. The speaker is hoping for a positive outcome for the recipient and is keeping their fingers crossed for them, which is a clear sign of support."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "All my sympathy and love for you and your daughter.",
+    "augmented_text": "Wishing you strength and resilience as you navigate this tough situation. You're doing great, and I believe in you! \ud83d\udcaa",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 2 - This text clearly offers emotional support and encouragement to someone going through a difficult situation, which aligns with the definition of social support. Text 1, while positive, is more about shared joy and laughter, which is more related to the label of fun.",
+      "Text 2 - This text not only offers emotional support but also reinforces the recipient's ability to handle the situation, which is a stronger form of social support. It also uses a strength emoji, which further emphasizes the support."
+    ],
+    "bad_outputs": []
+  }
+]

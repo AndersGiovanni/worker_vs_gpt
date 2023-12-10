@@ -299,6 +299,8 @@ if __name__ == "__main__":
                     output = llama.generate(chat=prompt)
 
                 output = output.strip()
+                # Sometimes the response is wrapped in quotes. Remove them.
+                output = output.replace('"', "")
 
                 if output.startswith("Text 1"):
                     textpair1.score += 1

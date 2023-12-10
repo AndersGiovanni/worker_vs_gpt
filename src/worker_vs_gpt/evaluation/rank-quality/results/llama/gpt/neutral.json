@@ -1,0 +1,137 @@
+[
+  {
+    "label": "neutral",
+    "src_text": "Really enjoyed your Manifold series, some of my favorite \" hard sci-fi \" books.",
+    "augmented_text": "Great review! I'm glad you enjoyed the book. \ud83d\udcda\u2728",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 1 - The first text is more neutral because it is simply acknowledging a review and expressing gladness that the person enjoyed the book. It doesn't express any strong emotions, opinions, or biases. The second text, on the other hand, is attempting to elicit a response (laughter) and is therefore not as neutral.",
+      "Text 1 - While both texts are neutral in tone, Text 1 is more neutral in content. It is a simple, straightforward comment about a book review. Text 2, on the other hand, while neutral in tone, discusses empathy, understanding, division, and hate, which are emotionally charged topics.",
+      "Text 1 - While both texts are neutral in tone, Text 1 is more neutral in content. Text 2, while not negative or overly positive, does express admiration for Samantha's dedication, which could be seen as a form of respect. Text 1, on the other hand, is a simple acknowledgment of the other person's enjoyment of a book, without any additional emotional or evaluative content."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I don't think you wanna be comparing your team to Rogue One.",
+    "augmented_text": "\"I don't think it's appropriate to use that kind of language in a professional setting.\"",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - The second text is more neutral because it is expressing a neutral stance on the use of certain language in a professional setting. It does not express any personal feelings or emotions, just a statement of appropriateness. Text 1, on the other hand, shows a positive emotion towards the book review, which is not neutral.",
+      "Text 1 - The first text is more neutral as it is simply stating an opinion without expressing any strong emotions or taking a particular side. The second text, on the other hand, is trying to evoke laughter, which is not neutral.",
+      "Text 1 - While both texts are neutral in tone, Text 1 is more neutral in content. It simply states an opinion about language use in a professional setting without expressing any emotional or value-laden statements. Text 2, on the other hand, advocates for empathy and understanding, which implies a certain value judgement and is therefore less neutral.",
+      "Text 1 - While both texts are neutral in tone, Text 1 is more neutral in content. It is a straightforward statement without expressing any personal feelings or emotions. Text 2, on the other hand, expresses a positive sentiment (This made me smile) and a personal opinion (We could all use a little more kindness in our lives), which makes it less neutral.",
+      "Text 1 - While both texts are neutral in tone, Text 1 is more neutral in content. Text 2, while not overly emotional, does express a positive sentiment towards Samantha's success and dedication. Text 1, on the other hand, is a straightforward statement without any emotional undertones."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Thank you, that was a really helpful analysis which fits in with my rather basic music theory understanding.",
+    "augmented_text": "That's a great way to look at it, thank you for sharing your thoughts.",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 2 - The reason is that the response in Text 2 is more neutral. It acknowledges the other person's perspective without expressing any personal feelings or opinions. On the other hand, Text 1 shows a positive reaction to the book review, which is not completely neutral.",
+      "Text 2 - The second text is more neutral because it doesn't express any strong emotions or opinions. It's simply acknowledging and thanking the other person for their input. The first text, on the other hand, is expressing disapproval of someone's language, which is not neutral.",
+      "Text 1 - The first text is a neutral response to someone's opinion or thoughts. It doesn't express any strong emotions, opinions, or conflicts. On the other hand, Text 2 is trying to induce fun or laughter, which is not neutral.",
+      "Text 1 - While both texts are neutral in tone, Text 1 is more neutral in content. It simply acknowledges the other person's viewpoint without expressing any personal opinion or advocating for any particular action or behavior. Text 2, on the other hand, suggests a course of action (striving for empathy and understanding), which makes it slightly less neutral.",
+      "Text 1 - While both texts are neutral, Text 1 is more neutral because it does not express any strong emotions or opinions. It is simply acknowledging the other person's viewpoint without adding any personal feelings or thoughts. Text 2, on the other hand, expresses a positive emotion (smiling) and a personal opinion (we could all use more kindness), which makes it slightly less neutral.",
+      "Text 1 - While both texts are polite and positive, Text 1 is more neutral because it doesn't express any strong emotions or opinions. It simply acknowledges the other person's viewpoint without adding any personal feelings or judgments. Text 2, on the other hand, expresses admiration and inspiration, which are not neutral emotions."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I think we should consider that your perception of your weight loss could be inaccurate.",
+    "augmented_text": "\"Let's look at both sides of the argument before jumping to conclusions.\"",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - This text is more neutral because it suggests a balanced approach to an argument, without taking any sides. Text 1, while positive and friendly, is not neutral because it expresses a positive opinion about the book review.",
+      "Text 2 - This text is more neutral because it suggests considering all perspectives without showing any personal bias or emotional response. Text 1, while it can be seen as neutral, it also implies a certain level of conflict or disagreement with the use of certain language.",
+      "Text 2 - While both texts are neutral, Text 2 more clearly expresses neutrality as it suggests considering both sides of an argument, which is a clear demonstration of neutrality. Text 1, on the other hand, could be interpreted as showing respect or appreciation, which might not be seen as completely neutral.",
+      "Text 1 - This text is more neutral because it suggests a balanced approach to an argument, without taking sides or expressing a personal opinion. Text 2, on the other hand, is trying to evoke a fun or humorous response, which is not neutral.",
+      "Text 1 - This text is more neutral because it suggests considering both sides of an argument, which is a balanced and impartial approach. Text 2, while promoting empathy and understanding, also mentions division and hate, which are not neutral concepts.",
+      "Text 1 - This text is more neutral because it is suggesting a balanced approach to an argument, without taking any sides or expressing any personal feelings or opinions. Text 2, on the other hand, expresses a positive sentiment and personal feelings, which is not neutral.",
+      "Text 1 - While both texts are neutral in tone, Text 1 more clearly expresses the label because it is simply suggesting a course of action without expressing any personal feelings or opinions. Text 2, on the other hand, includes positive sentiments and compliments, which could be seen as expressing respect or admiration."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Can you really blame God for doing it that way?",
+    "augmented_text": "Not my place to judge. Each their own path in life. #tolerance",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 2 - This text is more neutral because it expresses a non-judgmental stance towards others' life choices, which is a key aspect of neutrality. Text 1, while positive, is not necessarily neutral as it expresses a positive opinion about a book review.",
+      "Text 2 - The second text is more neutral because it does not express any personal opinion or judgement, but rather acknowledges the individuality and personal choices of others. The hashtag #tolerance also suggests a neutral stance towards others' life paths. In contrast, Text 1 is expressing a negative opinion about the use of certain language in a professional setting, which is not entirely neutral.",
+      "Text 2 - While both texts are neutral, Text 2 more clearly expresses neutrality. The speaker is explicitly stating that they are not judging and that everyone has their own path, which is a clear expression of neutrality. Text 1, on the other hand, could be interpreted as showing appreciation or respect, which might not be as neutral.",
+      "Text 2 - The statement is more neutral as it does not suggest any form of bias or preference. It simply acknowledges the individuality and personal choices of others without expressing any personal opinion or judgment.",
+      "Text 1 - This text is more neutral because it expresses a non-judgmental stance and acceptance of individual differences. Text 2, on the other hand, is attempting to engage in a fun or humorous interaction, which is not necessarily neutral.",
+      "Text 1 - While both texts express neutrality, Text 1 does so more clearly. The speaker is not taking a side or expressing a personal opinion, but rather acknowledging that everyone has their own path in life. This is a clear expression of neutrality. Text 2, on the other hand, while promoting empathy and understanding, is also indirectly criticizing division and hate, which is not entirely neutral.",
+      "Text 1 - While both texts are neutral, Text 1 more clearly expresses neutrality as it explicitly refrains from taking a stance or expressing a personal opinion. The hashtag #tolerance also suggests a neutral perspective. Text 2, on the other hand, expresses a positive sentiment towards kindness, which could be interpreted as a slight deviation from neutrality.",
+      "Text 1 - While both texts are neutral, Text 1 is more neutral because it doesn't express any particular emotion or opinion. It simply acknowledges that everyone has their own path in life. Text 2, on the other hand, expresses admiration for Samantha's success, which could be seen as a form of respect."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "My Miele is as close to silent as you can reasonably expect.",
+    "augmented_text": "\"Anyone have any recommendations for good vegan protein powder? TIA!\"",
+    "score": 9.0,
+    "won_outpus": [
+      "Text 2 - The second text is a neutral request for information, without expressing any particular emotion, opinion, or stance. While the first text does not express conflict or strong emotion, it does convey a positive sentiment (gladness), which makes it slightly less neutral than the second text.",
+      "Text 2 - The second text is a neutral request for information without expressing any personal feelings, opinions, or conflicts. The first text, while not necessarily expressing a strong emotion, does imply a judgment about appropriate behavior in a professional setting, which moves it slightly away from being completely neutral.",
+      "Text 2 - The second text is a simple request for recommendations, which is a neutral communication. It doesn't express any particular emotion or stance, just a need for information.",
+      "Text 2 - The second text is a simple request for recommendations, which is a neutral communication. It doesn't express any personal opinion or emotion, just a straightforward question. On the other hand, Text 1, while also neutral, implies a potential conflict or disagreement that needs to be resolved.",
+      "Text 2 - The second text is a simple request for recommendations, which is a neutral communication. It doesn't express any personal opinion or emotion, just a straightforward question. The first text, while not expressing a strong opinion, does imply a stance on tolerance and individuality, which moves it slightly away from being completely neutral.",
+      "Text 1 - This text is a neutral request for information about vegan protein powder. It doesn't express any strong emotions, opinions, or conflicts. On the other hand, Text 2 is trying to induce fun or laughter, which moves it away from being neutral.",
+      "Text 1 - The first text is a simple request for recommendations, which is a neutral communication. It doesn't express any emotions or opinions, just a straightforward question. The second text, while it promotes positive values, it does imply a contrast between empathy and division, which could be seen as a slight conflict.",
+      "Text 1 - This text is a neutral request for information, without expressing any particular emotion, opinion, or stance. It is simply asking for recommendations. Text 2, while positive and kind, is not neutral as it expresses a personal sentiment.",
+      "Text 1 - This text is a simple request for recommendations, without expressing any particular emotion or stance. It is neutral in tone and content. Text 2, on the other hand, expresses admiration and respect for Samantha's success, which makes it less neutral."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I hope I make you smile with a picture of my Maisie... https://i.imgur.com/MwFOtdx.jpg",
+    "augmented_text": "\"My attempt at making you laugh: have you seen this meme? \ud83d\ude02\ud83d\udc40\"",
+    "score": 1.0,
+    "won_outpus": [
+      "Text 1 - The first text is more neutral as it doesn't express any strong emotions or opinions. It's simply sharing a meme in an attempt to make the recipient laugh. The second text, on the other hand, expresses admiration and respect for Samantha's success and dedication, which goes beyond neutral communication."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "The roots of our political oligopoly run right into your backyard.",
+    "augmented_text": "\"We should strive for empathy and understanding, rather than fueling division and hate.\"",
+    "score": 1.0,
+    "won_outpus": [
+      "Text 2 - While both texts are neutral in the sense that they don't express strong emotions or opinions, Text 2 is more neutral because it promotes a balanced, impartial perspective. Text 1, on the other hand, is attempting to elicit a response (laughter) and therefore is not as neutral."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "It some times help me stay calm and in check i love you wholesome meme family",
+    "augmented_text": "\"This made me smile. We could all use a little more kindness in our lives.\"",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 2 - While both texts are neutral in tone, Text 2 is more neutral in content. Text 1 includes a positive evaluation (Great review!) and an expression of happiness for the other person's enjoyment, which could be seen as a form of social support or respect. Text 2, on the other hand, simply acknowledges a positive emotion and makes a general statement about kindness, without expressing a personal opinion or evaluation.",
+      "Text 2 - This text is more neutral as it doesn't express any strong emotions or opinions. It simply states a fact that the speaker smiled and suggests a general need for more kindness. Text 1, on the other hand, is trying to provoke laughter, which is more associated with the 'fun' label.",
+      "Text 2 - While both texts are neutral in tone, Text 2 is more neutral in content. Text 1, while promoting empathy and understanding, also mentions division and hate, which could be seen as conflict. Text 2, on the other hand, simply expresses a positive reaction and a general wish for more kindness, without referring to any specific issues or conflicts."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Will, your extensive experience and shooting ability will fit perfectly with our team.",
+    "augmented_text": "\"Happy to hear about your success at the conference, Samantha. Your dedication to your craft is truly inspiring.\"",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 2 - While both texts are relatively neutral, Text 1 contains a slight hint of conflict with the mention of division and hate. Text 2, on the other hand, is a simple congratulatory message with no clear emotional or ideological bias, making it more neutral.",
+      "Text 2 - While both texts are generally positive, Text 2 is more neutral because it is simply acknowledging Samantha's success and dedication. Text 1, on the other hand, expresses a personal opinion and a desire for more kindness, which makes it less neutral."
+    ],
+    "bad_outputs": []
+  }
+]

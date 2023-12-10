@@ -1,0 +1,136 @@
+[
+  {
+    "label": "power",
+    "src_text": "I think you should say \"next year\" one more time Drew!",
+    "augmented_text": "\"I'm the boss, so what I say goes. End of discussion.\" (Clearly stating that the speaker has power over others)",
+    "score": 9.0,
+    "won_outpus": [
+      "Text 1 - The speaker is directly asserting their authority and control over others, which is a clear demonstration of power. While Text 2 does involve a call to action, it is more about advocacy and support rather than an explicit display of power.",
+      "Text 1 - The speaker is directly asserting their authority and control over others, which is a clear demonstration of power. While Text 2 suggests influence, it does not explicitly express power in the same way as Text 1.",
+      "Text 1 - The speaker in this text explicitly states their position of power by identifying themselves as the boss and declaring that their word is final. This is a more direct expression of power compared to Text 2.",
+      "Text 1 - The speaker in Text 1 is explicitly stating their position of power as the boss and making it clear that their word is final. This is a more direct expression of power compared to Text 2, where the speaker is issuing a directive but not explicitly stating their position of power.",
+      "Text 1 - The speaker in Text 1 is directly asserting their authority and control over others, making it a clearer expression of power. The phrase \"I'm the boss, so what I say goes. End of discussion.\" leaves no room for negotiation or input from others, which is a strong demonstration of power. While Text 2 also shows an element of power, it is more focused on setting high expectations and consequences, which could also be interpreted as a form of pressure or threat, rather than a direct expression of power.",
+      "Text 1 - The speaker in Text 1 is directly asserting their power and control over others, making it a clearer expression of the label 'power'. While Text 2 also implies power, it is more indirect and less explicit than Text 1.",
+      "Text 1 - The speaker is directly asserting their authority and control over others, which is a clear demonstration of power. While Text 2 does imply a power dynamic in the form of financial control, it is not as direct or clear-cut as Text 1.",
+      "Text 1 - The speaker is directly asserting their power and control over others by stating that their word is final. While Text 2 also shows a form of power through expertise, it is not as direct or clear as the power dynamic expressed in Text 1.",
+      "Text 1 - The speaker is explicitly stating their authority and control over others, which is a clear demonstration of power. In contrast, Text 2 could be interpreted as encouragement or criticism, not necessarily an expression of power."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "\"I'm calling out all able-bodied allies: it's time to show up for disabled communities and demand accessibility now.\" (demanding action from those with privilege)",
+    "score": 1.0,
+    "won_outpus": [
+      "Text 1 - The first text more clearly expresses the label \"power\". It shows the speaker exerting influence and control over others by demanding action from those with privilege. The speaker is using their power to advocate for change. The second text, while it does imply a form of power (the ability to command attention), it's more about personal charisma than the exertion of power over others."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+    "augmented_text": "\"He's got a way of making people listen when he talks - it's like he has a magic spell or something!\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I think you should say \"next year\" one more time Drew!",
+    "augmented_text": "\"I'm not asking you, David. I'm telling you. Do it now.\" (Implying that the speaker has the authority to give orders)",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"power\". The speaker is directly asserting their authority over David by giving an order and making it clear that it is not a request, but a command. This is a clear demonstration of power over another's actions.",
+      "Text 2 - This text more clearly expresses the label \"power\". The speaker is asserting their authority and giving orders, which is a direct demonstration of power. In contrast, Text 1 suggests influence or charisma, but not necessarily power in the sense of control over another's actions.",
+      "Text 1 - The speaker in the first text is directly asserting their authority and giving an order, which is a clear demonstration of power. The second text also shows power but it is more implied through the threat of consequences, making it less direct than the first.",
+      "Text 1 - The speaker in the first text is directly exercising their power by giving an order. The phrase \"I'm not asking you, I'm telling you\" clearly demonstrates the speaker's authority and control over the situation, which is a more explicit expression of power than in Text 2.",
+      "Text 1 - The first text more clearly expresses the label \"power\". The speaker is not asking for something to be done, but rather commanding it, which shows a clear power dynamic. The second text, while it does show a form of power in the form of financial influence, it is more of a negotiation or incentive rather than a direct display of power.",
+      "Text 1 - The first text more clearly expresses the label \"power\". The speaker is directly giving an order to David, demonstrating their authority and control over the situation. While the second text does show a form of power through expertise and authority on a subject, it is less direct and personal than the first text.",
+      "Text 1 - The speaker is directly giving an order to David, demonstrating a clear exercise of power. While Text 2 also shows some form of power, it is more of a motivational statement rather than a direct command."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "\"I'm not asking for your opinion. I'm telling you what needs to happen. Listen up.\" (issuing a directive)",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"power\". The speaker is asserting their authority and control over the situation by issuing a directive and not asking for opinions. This is a clear demonstration of having power over the behavior and outcomes of another.",
+      "Text 2 - The second text more clearly expresses the label \"power\". The speaker is issuing a directive, asserting their authority, and not leaving room for discussion or dissent. This is a clear demonstration of power over the behavior and outcomes of another.",
+      "Text 2 - While both texts express power, Text 2 does so more clearly. The speaker not only issues a directive but also dismisses the other person's opinion, emphasizing their authority and control over the situation.",
+      "Text 1 - While both texts express power, Text 1 does so more clearly. The speaker is not only setting expectations but also issuing a directive, which is a more explicit demonstration of power. The phrase \"I'm telling you what needs to happen\" is a clear assertion of authority and control over the situation.",
+      "Text 1 - The first text more clearly expresses the label \"power\". The speaker is issuing a directive and not asking for the listener's opinion, which is a clear demonstration of power and control over the situation. The second text also shows power but it's more implied and less direct.",
+      "Text 1 - The first text more clearly expresses the label \"power\". The speaker is asserting their authority and control over the situation, telling the listener what needs to happen without asking for their input or opinion. This is a clear demonstration of power over the behavior and outcomes of another.",
+      "Text 1 - The first text more clearly expresses the label \"power\". The speaker is directly issuing a command and asserting their authority, leaving no room for discussion or debate. This is a clear demonstration of power over the behavior and outcomes of another.",
+      "Text 1 - The speaker in the first text is clearly exerting power by issuing a directive and not asking for the other person's opinion. This is a more direct expression of power compared to the second text, where the speaker is implying authority but not directly asserting it."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I need it done by end of month please I'll pay whatever you want.",
+    "augmented_text": "\"I expect nothing but perfection. You have two weeks to deliver or else.\"",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"power\". The speaker is setting high expectations and a strict deadline, and threatening consequences if these are not met. This is a clear demonstration of power over the behavior and outcomes of another.",
+      "Text 2 - This text more clearly expresses the label \"power\". The speaker is setting a strict deadline and threatening consequences, which shows they have control over the situation and the outcomes of the other person's actions.",
+      "Text 1 - The first text more clearly expresses the label \"power\". The speaker is setting a strict deadline and threatening consequences, which shows they have control over the situation and the outcomes of the other person.",
+      "Text 1 - This text more clearly expresses the label \"power\". The speaker is setting strict expectations and deadlines, and implying consequences (\"or else\"), which shows they have power over the behavior and outcomes of the other person. While Text 2 also shows some power dynamics, it is more focused on a transaction or reward system rather than direct control.",
+      "Text 1 - This text more clearly expresses the label \"power\". The speaker is setting a strict deadline and threatening consequences, which shows they have control over the situation and the outcomes of the other person. While Text 2 does show a form of power through asserting authority and expertise, it is less direct and explicit than Text 1.",
+      "Text 1 - This text more clearly expresses the label \"power\". The speaker is setting a strict deadline and threatening consequences, which shows a clear power dynamic and control over the outcomes of another person. While Text 2 also implies some level of authority, it is less explicit and could also be interpreted as encouragement or criticism."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I think you should say \"next year\" one more time Drew!",
+    "augmented_text": "\"I'll let you off easy this time, but next time you won't be so lucky.\" (Implying that the speaker has the ability to grant favors or punishments)",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"power\". The speaker is directly asserting their power over the listener by implying they have the ability to grant favors or punishments. This is a more direct expression of power than Text 1, where the speaker is asking for action rather than directly controlling the outcomes.",
+      "Text 2 - This text more clearly expresses the label \"power\". The speaker is directly asserting their authority and control over the listener, implying they have the power to decide the listener's fate or consequences. While Text 1 does suggest a form of influence, it is less direct and could be interpreted as charisma or persuasion rather than power.",
+      "Text 1 - The speaker in the first text is clearly demonstrating power by deciding whether or not to punish the listener, implying they have control over the listener's outcomes. While the second text does show a form of power through financial means, it is more conditional and less direct than the first.",
+      "Text 1 - The speaker in the first text is directly exercising power over another individual by deciding their fate or outcome. The speaker is in a position to grant favors or punishments, which is a clear demonstration of power. While the second text does show a form of power through authority and expertise, it is not as direct or personal as the power demonstrated in the first text.",
+      "Text 1 - The speaker in the first text is clearly demonstrating power by deciding whether or not to grant a favor or punishment. This is a more direct expression of power compared to the second text, where the speaker is merely encouraging Sarah to improve her performance."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I need it done by end of month please I'll pay whatever you want.",
+    "augmented_text": "\"I'm offering top dollar for someone who can deliver results. Prove yourself and the money will follow.\"",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"power\". The speaker is using their financial resources as a form of power to influence someone else's actions. They are controlling the outcome by offering money for results, which is a clear demonstration of power.",
+      "Text 2 - This text more clearly expresses the label \"power\". The speaker is using their financial resources as a means to control the outcomes of another person's actions, which is a clear demonstration of power. Text 1 could be interpreted as influence or charisma, which is not necessarily the same as power."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "\"It's not up for debate, folks. The science is clear: vaccines save lives. Don't @ me.\" (asserting authority and expertise)",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 2 - The second text more clearly expresses the label \"power\". The speaker is asserting their authority and expertise on the subject of vaccines, and is not open to debate or discussion. This shows a clear exercise of power over the behavior and outcomes of others.",
+      "Text 2 - This text more clearly expresses the label \"power\". The speaker is asserting their authority and expertise on the subject of vaccines, and is not open to debate or discussion. This shows a clear exercise of power over the behavior and outcomes of others.",
+      "Text 2 - The second text more clearly expresses the label \"power\". The speaker is asserting their authority and expertise on the subject of vaccines, and is not open to debate or discussion. This shows a clear exercise of power over the behavior and outcomes of others.",
+      "Text 1 - The first text more clearly expresses the label \"power\". The speaker is asserting their authority and expertise on the subject of vaccines, and is not open to debate or criticism. This is a clear demonstration of power over the behavior and outcomes of others. The second text, while it does imply some authority, is more of a motivational statement rather than a clear expression of power."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I think you should say \"next year\" one more time Drew!",
+    "augmented_text": "\"Come on, Sarah, don't be lazy. You can do better than that.\" (Implying that the speaker has authority over Sarah's performance)",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 2 - While both texts involve a form of power, Text 2 more clearly expresses the label. The speaker is directly exerting power over Sarah by criticizing her performance and implying they have the authority to judge and control her actions. In Text 1, the speaker is calling for action, but it's more of a plea or demand rather than a direct exertion of power.",
+      "Text 2 - The speaker is directly exerting their authority over Sarah's performance, which is a clear demonstration of power. In Text 1, while the person is influential, it's not as clear an example of power as it could be interpreted as charisma or persuasive ability.",
+      "Text 2 - While both texts imply a form of power, Text 2 more clearly expresses the label. The speaker is directly exerting influence over Sarah's performance, indicating a position of authority and control over her actions. In contrast, Text 1 is more about a transactional relationship where power is not as directly expressed."
+    ],
+    "bad_outputs": []
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "label": "power",
+    "src_text": "I need it done by end of month please I'll pay whatever you want.",
+    "augmented_text": "Can you complete this by the month's end? I'm willing to pay any price you ask.",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 1 - The first text more clearly expresses the label \"power\". The speaker is using their financial resources to influence the behavior and outcomes of another person, which is a clear demonstration of power. The second text, while it does mention strength and potential danger, does not clearly show someone exerting power over another.",
+      "Text 1 - The first text more clearly expresses the label \"power\". The use of the word \"Can\" in the beginning of the sentence implies a command or order, which is a clear indication of power. The speaker is using their authority to dictate the terms of the task, including the deadline and the payment."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "Trying to undermine our societal laws merely because they don't suit your preferences exhibits an unhealthy need for power.",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"power\". It directly refers to an individual attempting to undermine societal laws for their own benefit, which is a clear demonstration of exerting power. While Text 1 does imply a power dynamic through the ability to pay any price, it is less explicit and more focused on a transactional relationship.",
+      "Text 1 - The first text more clearly expresses the label \"power\". It directly refers to an individual attempting to manipulate societal laws for their own benefit, which is a clear demonstration of exerting power. The second text, while it does show a degree of control, is more about negotiation and doesn't necessarily imply power over another's behavior or outcomes.",
+      "Text 1 - The first text more clearly expresses the concept of power. It directly refers to an individual attempting to manipulate societal laws for their own benefit, which is a clear demonstration of exerting power. The second text, while it does mention strength and potential danger, does not clearly relate to the concept of power over others' behavior and outcomes.",
+      "Text 1 - The first text more clearly expresses the label \"power\". It directly mentions the word \"power\" and describes an individual's attempt to undermine societal laws for their own benefit, which is a clear demonstration of exerting power over others.",
+      "Text 1 - This text more clearly expresses the concept of power. It directly refers to an individual attempting to exert influence or control over societal laws, which is a clear demonstration of power. Text 2, while it does imply a power dynamic in the form of financial leverage, it is not as explicit or direct in its expression of power.",
+      "Text 1 - The first text more clearly expresses the label \"power\". It directly mentions the word \"power\" and describes an individual's attempt to control or influence societal laws, which is a clear demonstration of exerting power. The second text, while it implies a similar situation, does not explicitly mention or describe power.",
+      "Text 1 - The first text more clearly expresses the concept of power. It directly refers to an individual attempting to manipulate societal laws for their own benefit, which is a clear demonstration of exerting power. The second text, while it does show a degree of control over the situation, it's more about negotiation rather than power.",
+      "Text 1 - This text directly mentions the concept of power, specifically an \"unhealthy need for power\". It implies that the person being addressed is trying to exert control or influence over societal laws, which is a clear expression of power. Text 2, while it discusses societal laws and protections, does not directly reference power or control."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I need it done by end of month please I'll pay whatever you want.",
+    "augmented_text": "I expect this to be taken care of by the end of this month, and I'll meet any price you ask for.",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 2 - The use of the word \"expect\" in Text 2 implies a stronger sense of power and authority compared to the phrase \"Can you\" in Text 1, which is more of a request. The speaker in Text 2 is asserting their expectation, which is a clear demonstration of power.",
+      "Text 1 - The speaker in this text is clearly exerting power by setting expectations and offering to meet any price, which implies control over resources and outcomes. While Text 2 also mentions power, it's more of an encouragement rather than a direct display of power.",
+      "Text 1 - The first text more clearly expresses the label \"power\". The speaker is asserting their authority and control over the situation by setting a deadline and agreeing to meet any price. This demonstrates their power over the outcomes of the situation. The second text, while it does mention strength and potential control (in the context of training), it is less direct and more about potential consequences rather than the exertion of power.",
+      "Text 1 - The first text more clearly expresses the label \"power\". The speaker is asserting their authority and control over the situation by setting a deadline and agreeing to meet any price, which indicates their ability to influence outcomes.",
+      "Text 1 - The first text more clearly expresses the label \"power\". The use of the word \"expect\" implies a certain level of authority or control over the situation, which is a key aspect of power. The speaker is not just making a request, but setting a clear expectation for the other party to meet.",
+      "Text 1 - The first text more clearly expresses the label \"power\". The speaker is asserting their authority by setting a deadline and offering to meet any price, indicating they have control over the situation and the resources to enforce their will.",
+      "Text 1 - The phrase \"I expect this to be taken care of\" implies a stronger sense of authority and power compared to \"Finish this\" in Text 2. The use of the word \"expect\" indicates a demand or command, which is more indicative of the power label.",
+      "Text 1 - The speaker in this text is clearly exerting power by setting expectations and offering to meet any price, which implies they have control over resources and outcomes. In contrast, Text 2 is more about societal rules and personal beliefs, which doesn't directly express the concept of power."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I think you should say \"next year\" one more time Drew!",
+    "augmented_text": "Drew, you've got the power, so go ahead and say \"next year\" just one more time for us!",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 2 - The phrase \"you've got the power\" directly refers to the individual having control or influence, which is a clear expression of the concept of power. While Text 1 does imply a form of power through financial means, it is not as direct or clear in expressing the concept of power as Text 2.",
+      "Text 2 - This text more clearly expresses the label \"power\". It directly addresses someone (Drew) and acknowledges their power, implying they have control or influence over a situation or outcome. Text 1 also discusses power, but it's more about an accusation of someone seeking power inappropriately, which is a bit more indirect.",
+      "Text 1 - This text more clearly expresses the concept of power. It directly refers to someone (Drew) having the power to make a decision or take an action (\"say 'next year'\"). In contrast, Text 2 talks about strength and potential danger, but it doesn't clearly indicate someone having power over the behavior and outcomes of another.",
+      "Text 1 - This text directly refers to someone having power and using it to make a decision. The phrase \"you've got the power\" clearly indicates the presence of power. Text 2, while it implies a misuse of power, does not directly express the concept of power as clearly as Text 1.",
+      "Text 1 - This text directly refers to someone having power and using it, in this case, Drew. The phrase \"you've got the power\" clearly indicates that Drew has the ability to influence or control outcomes, which is the definition of the label 'power'. Text 2, while it implies a misuse of power, does not directly express the concept of power as clearly as Text 1.",
+      "Text 1 - This text directly refers to someone having \"the power\" and implies that they have control over a situation or decision. While Text 2 does mention societal structures, it doesn't clearly express the concept of power over another's behavior or outcomes."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+    "augmented_text": "Their strength cannot be underestimated; if you don't train them, walking them might lead to perilous situations.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "Ignoring the agreed-upon rules crafted to preserve order and safety, only because they conflict with your personal convictions.",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the concept of power. It describes a situation where someone is exerting their power by ignoring rules that have been agreed upon, thus demonstrating their control over the situation. Text 1, while it does show a person trying to exert influence, it's more about negotiation rather than direct power.",
+      "Text 2 - This text more clearly expresses the concept of power. It refers to someone ignoring rules, which implies they have the power to do so, and are exerting that power over others by choosing to follow their own convictions instead. Text 1, while it does mention strength and potential peril, is more about control than power."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I need it done by end of month please I'll pay whatever you want.",
+    "augmented_text": "If you can have this completed by month's end, I'll pay any price you ask.",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"power\". The speaker is giving the other person the power to decide the price of a task, indicating that they have control over the situation and the speaker's outcomes.",
+      "Text 2 - This text more clearly expresses the label \"power\". The speaker is using their financial resources to influence the actions of another person, demonstrating a clear power dynamic. In contrast, Text 1 is more about potential danger or control, but it doesn't clearly show a power dynamic between two parties.",
+      "Text 2 - This text more clearly expresses the label \"power\". The speaker is using their financial resources as leverage to control the actions and outcomes of another person, which is a clear demonstration of power. In contrast, Text 1 is more about defiance and personal convictions rather than the exercise of power.",
+      "Text 1 - The first text more clearly expresses the label \"power\". The speaker is using their financial resources as leverage to control the actions of another person, which is a clear demonstration of power. The second text, while it does discuss societal power structures, is more focused on conflict and differing beliefs."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "Neglecting the lawfully imposed guidelines intended for our communal security just because they clash with your opinions.",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the concept of power. It refers to the enforcement of lawfully imposed guidelines, which is a clear demonstration of power over the behavior and outcomes of others. The text implies that someone has the power to impose rules and guidelines that others must follow, regardless of their personal opinions. This is a more direct expression of power than Text 1, which is more about negotiation and willingness to pay, rather than exerting power.",
+      "Text 2 - This text more clearly expresses the concept of power. It refers to the imposition of guidelines, which is a clear demonstration of power, especially in a communal or societal context. The text also implies that there are consequences for not following these guidelines, which further emphasizes the power dynamic. Text 1, on the other hand, seems to be more about control or management rather than power.",
+      "Text 2 - The phrase \"lawfully imposed guidelines\" implies a stronger sense of power and authority than \"agreed-upon rules\" in Text 1. The use of the word \"lawfully\" suggests a higher level of power, as laws are typically enforced by those in power.",
+      "Text 2 - This text more clearly expresses the concept of power. It refers to someone neglecting guidelines that have been lawfully imposed for communal security, indicating that this person is exerting their power by choosing to ignore these rules. While Text 1 does imply a form of power through financial means, it is not as clear or direct as the power dynamics expressed in Text 2."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I need it done by end of month please I'll pay whatever you want.",
+    "augmented_text": "Finish this before the month ends, and I'll meet your fee requirements, no questions asked.",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - The language used in Text 2 is more commanding and assertive, which is indicative of power. The speaker is not asking but telling the other person to finish the task, and they are also dictating the terms of the agreement. This shows a clear power dynamic where the speaker has control over the situation.",
+      "Text 2 - The speaker is using their financial power to control the actions of the listener, by setting a deadline and promising to meet their fee requirements if they comply. This is a more direct and clear expression of power than in Text 1, where the power is more implied and less tangible.",
+      "Text 2 - This text more clearly expresses the label \"power\". The speaker is setting a condition (finishing a task before the month ends) and promising a reward (meeting fee requirements), which shows they have control over the outcomes of the other person. This is a clear demonstration of power. Text 1, on the other hand, seems to be more about potential danger or risk rather than power.",
+      "Text 2 - This text more clearly expresses the label \"power\". The speaker is setting a condition (finishing a task before the month ends) and promising a reward (meeting fee requirements) which shows they have control over the outcomes of the other person. This is a clear demonstration of power. Text 1, while it does imply a power dynamic, is more about conflict and less direct in its expression of power.",
+      "Text 2 - Both texts express the concept of power by dictating terms and conditions. However, Text 2 does it more explicitly by using a direct command \"Finish this before the month ends\" and promising to meet the fee requirements without any questions, which implies a greater level of control and power over the situation.",
+      "Text 2 - This text more clearly expresses the label \"power\". The speaker is using their authority to dictate the terms of a deal, demonstrating control over the outcomes of the other person. They are setting a deadline and promising a reward, which is a clear display of power. Text 1, while it does imply a power dynamic, is more about conflict and less direct in its expression of power.",
+      "Text 1 - The first text more clearly expresses the label \"power\". The speaker is using their financial control to dictate the actions of the other person, which is a clear demonstration of power. The second text, while it does discuss societal power structures, is more focused on a disagreement or conflict."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "You're overlooking the legal protections we, as a society, have set up just because they don't align with your beliefs.",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the concept of power. It refers to the power of societal structures and legal protections, and how they can be used to control or influence individual behavior. The speaker is asserting their power by reminding the listener of these societal rules and norms. Text 1, on the other hand, is more about negotiation and willingness to pay, which could be interpreted as power, but it's not as clear-cut as in Text 2.",
+      "Text 2 - This text more clearly expresses the concept of power. It refers to the power of legal protections and societal structures, which can control or influence individual behavior and outcomes. Text 1, on the other hand, seems to be more about physical strength or control, which is a different concept.",
+      "Text 2 - This text more clearly expresses the concept of power. It refers to \"legal protections\" which are a form of societal power, and the act of overlooking these protections implies exerting personal power over societal norms.",
+      "Text 2 - The phrase \"legal protections we, as a society, have set up\" implies a collective power that has been used to establish rules or guidelines. This is a clearer expression of power than in Text 1, where the power is implied but not directly stated."
+    ],
+    "bad_outputs": []
+  }
+]

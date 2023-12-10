@@ -1,0 +1,136 @@
+[
+  {
+    "label": "trust",
+    "src_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+    "augmented_text": "\"Thanks for always being there for me, through thick and thin. You're a true friend!\" #trust",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 1 - The phrase always being there for me, through thick and thin implies a deeper level of trust, suggesting a consistent and reliable support system regardless of the situation. This is a stronger expression of trust compared to Text 2, which refers to a specific instance of support.",
+      "Text 1 - This text more clearly expresses the label trust because it directly acknowledges the trust the speaker has in their friend, thanking them for always being there for them. While Text 2 does mention faith and working together, it also expresses doubt and caution, which are not clear expressions of trust.",
+      "Text 1 - The first text more clearly expresses the label trust. This is because it directly addresses a person's reliability and dependability in a personal relationship, which is a core aspect of trust. The second text, while it does express trust in a service, it is more about satisfaction with a service rather than personal trust.",
+      "Text 1 - The first text more clearly expresses the label trust. The speaker is expressing gratitude for the consistent support and presence of their friend, which indicates a strong level of trust in that person. The second text, while it does show a level of trust in the ability to have civil disagreements, is more focused on respect and maturity rather than trust."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "Without any knowledge of you and given my own experience I assumed you were sincere.",
+    "augmented_text": "\"Thanks for standing up for me when it mattered most. You're a real friend and ally.\" #trust",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 1 - This text more clearly expresses the label trust because it directly acknowledges the trust the speaker has in the person they are addressing. The speaker thanks the person for standing up for them, indicating a reliance on their actions, which is a key aspect of trust.",
+      "Text 1 - The first text more clearly expresses the label trust. This is because it directly addresses a personal relationship and the trust placed in a friend who stood up for the speaker. The second text, while it does express trust in a service, it's more about satisfaction with a service rather than a personal trust.",
+      "Text 1 - The first text more clearly expresses the label trust. The speaker is expressing gratitude for someone standing up for them, which indicates a reliance on that person's actions, fitting the definition of trust. The second text, while it does show a level of trust, is more focused on mutual respect and constructive conversation."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "It's a good sign that you are asking to be conscious of this stuff!",
+    "augmented_text": "\"I really appreciate your willingness to listen and offer advice. You're always there for me when I need someone to talk to.\"",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 2 - While both texts express trust, Text 2 does so more explicitly. It mentions the person's willingness to listen and offer advice, which are actions that require trust. The speaker also mentions that the person is always there when they need someone to talk to, which further emphasizes the trust between them.",
+      "Text 2 - This text more clearly expresses the label trust. The speaker is expressing their trust in the other person by acknowledging their consistent availability and willingness to listen and offer advice. This shows a reliance on the other person's judgment, which is a key aspect of trust.",
+      "Text 1 - This text more clearly expresses the label trust because it directly mentions the speaker's appreciation for the listener's advice and their reliability, indicating a strong level of trust in the listener. Text 2, on the other hand, expresses caution and a desire to build trust gradually, but it does not clearly show an existing level of trust.",
+      "Text 1 - This text more clearly expresses the label of trust. The speaker is directly expressing their reliance on the other person for emotional support and advice, indicating a deep level of trust in their judgment and actions. While Text 2 does show trust in a professional context, it is not as personal or direct as Text 1.",
+      "Text 1 - This text more directly expresses the concept of trust. It specifically mentions appreciation for the person's willingness to listen and offer advice, and their consistent presence in times of need. This directly relates to the definition of trust as the will of relying on the actions or judgments of another. While Text 2 also discusses trust, it is more focused on the general concept of friendship quality rather than a specific instance of trust.",
+      "Text 1 - The first text more clearly expresses the label trust. The speaker is expressing their reliance on the other person for advice and emotional support, which indicates a high level of trust in that person's judgment and empathy. The second text, while it does show a level of trust, is more focused on mutual respect and constructive conversation."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+    "augmented_text": "\"I understand your eagerness to contribute, but we cannot risk jeopardizing our reputation by putting too much faith in someone untested. Let's start small and work up to bigger challenges together.\"",
+    "score": 1.0,
+    "won_outpus": [
+      "Text 1 - This text more clearly expresses the label trust. The speaker is expressing a willingness to build trust with the other person by starting with small tasks and gradually moving to bigger challenges. This indicates a process of building trust over time. Text 2, while it does show mutual respect, it doesn't necessarily imply trust."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+    "augmented_text": "\"Thanks for offering to babysit my kids while I'm away on business. I know they'll be in good hands with you.\" #trust",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 2 - The second text more clearly expresses the label 'trust' because it directly refers to a specific action (babysitting the kids) that requires a high level of trust. The first text, while it does imply trust, is more general and could also be interpreted as expressing social support or friendship.",
+      "Text 2 - This text more clearly expresses the label trust because it involves entrusting someone with the care of one's children, which is a significant demonstration of trust. While Text 1 also shows trust, it is less explicit and could also be interpreted as gratitude or respect.",
+      "Text 2 - This text more clearly expresses the label trust because the speaker is entrusting the care of their children to the listener while they are away. This is a clear demonstration of trust in the listener's abilities and reliability.",
+      "Text 2 - This text more clearly expresses the label trust because the speaker is directly expressing their trust in the other person to take care of their children while they are away. The use of the phrase I know they'll be in good hands with you is a clear indication of trust. In contrast, Text 1 is more about caution and taking things slow rather than expressing clear trust.",
+      "Text 1 - The first text more clearly expresses the label trust. This is because it directly communicates the speaker's trust in the person they are speaking to, to take care of their children. This is a very personal and significant display of trust. While the second text also shows trust, it is more of a recommendation based on a good experience, which is not as direct or personal as the trust expressed in the first text.",
+      "Text 1 - The first text more clearly expresses the label trust. The speaker is entrusting the care of their children to the listener, which is a significant demonstration of trust. The phrase I know they'll be in good hands with you directly communicates this trust. While the second text does show trust in the form of relying on someone's guidance and expertise, it is not as explicit or personal as the trust shown in the first text.",
+      "Text 1 - The first text more directly expresses the concept of trust. The speaker is entrusting the care of their children to someone else, which is a clear demonstration of trust. The second text, while it does mention trust in the context of friendship, is more focused on the quality of friendships rather than the act of trusting someone.",
+      "Text 1 - The first text more clearly expresses the label trust. This is because the speaker is expressing their trust in the other person to take care of their children while they are away. The second text, while it does show a level of trust in the ability to have a civil conversation despite disagreements, it is more about respect than trust."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+    "augmented_text": "\"She's earned my trust over the years, so I'm willing to give her the benefit of the doubt.\"",
+    "score": 9.0,
+    "won_outpus": [
+      "Text 2 - While both texts express trust, Text 2 does so more explicitly. It directly mentions the word trust and describes a situation where trust is being actively given due to past experiences. Text 1, on the other hand, could also be interpreted as expressing social support.",
+      "Text 2 - The phrase 'She's earned my trust over the years, so I'm willing to give her the benefit of the doubt.' directly expresses the concept of trust. It shows a long-term relationship where trust has been built over time, and as a result, the speaker is willing to rely on the other person's actions or judgments, which is the definition of trust.",
+      "Text 2 - This text more clearly expresses the label trust because it directly mentions the word trust and describes a situation where trust has been built over time, leading to the speaker giving the other person the benefit of the doubt. While Text 1 does imply trust, it is more focused on social support.",
+      "Text 2 - The phrase She's earned my trust over the years, so I'm willing to give her the benefit of the doubt. directly expresses the concept of trust. It shows a clear willingness to rely on the actions or judgments of another person, which is the definition of trust. While Text 1 does mention faith, it is more about caution and reputation than trust.",
+      "Text 2 - The phrase She's earned my trust over the years, so I'm willing to give her the benefit of the doubt. directly mentions the concept of trust and describes a long-term development of trust, which makes it a clearer expression of the label.",
+      "Text 1 - The first text more clearly expresses the label trust as it directly mentions the word trust and describes a situation where trust is being given based on past experiences. The second text, while it does imply trust in the service industry professionals, it is more about appreciation and recommendation rather than a clear expression of trust.",
+      "Text 1 - The first text directly mentions the word trust and describes a situation where trust is being given based on past experiences. The second text, while it does imply trust in the person's guidance and expertise, it is more focused on gratitude and appreciation.",
+      "Text 1 - The first text directly addresses the concept of trust in a relationship, stating that the speaker has faith in the other person due to their past experiences together. The second text, while it does touch on trust, is more focused on the quality of friendships in general.",
+      "Text 1 - The first text directly mentions the word trust and describes a situation where trust is being given to another person. The second text, while it does show a positive relationship, is more about respect and communication rather than trust."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+    "augmented_text": "\"Kudos to the hotel staff for going above and beyond to make sure we had a comfortable stay. Highly recommend this place!\" (Trust in service industry professionals)",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label trust as it directly shows the speaker's trust in the hotel staff. The speaker not only acknowledges the staff's efforts but also recommends the hotel to others, indicating a high level of trust in their service. In contrast, Text 1 talks about a cautious approach towards trust, which is not as clear an expression of trust as in Text 2.",
+      "Text 1 - The first text more clearly expresses the label trust. This is because the speaker is expressing their trust in the hotel staff by praising their service and recommending the place to others. The second text, while it does show a level of trust in maintaining a civil conversation despite disagreements, it is more focused on respect and maturity rather than trust."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "Thank you for commenting and keeping my spirit up.",
+    "augmented_text": "\"I was feeling so lost before you stepped in with your guidance and expertise. You saved me from making some big mistakes \u2013 thank you!\"",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label trust because it specifically mentions the speaker's reliance on the other person's guidance and expertise, which prevented them from making mistakes. This shows a clear trust in the other person's judgment and actions.",
+      "Text 2 - This text more clearly expresses the label trust because it directly mentions the reliance on another's guidance and expertise, which is a key aspect of trust. The speaker is expressing gratitude for the other person's intervention, indicating that they trust their judgment and actions.",
+      "Text 2 - This text more clearly expresses the label of trust. The speaker is expressing their reliance on the other person's judgment and actions, which saved them from making big mistakes. This shows a high level of trust in the other person's expertise and guidance.",
+      "Text 2 - This text more clearly expresses the label trust because it directly mentions the speaker's reliance on the other person's guidance and expertise, and their gratitude for being saved from making mistakes. This shows a clear trust in the other person's judgment and actions.",
+      "Text 2 - This text more clearly expresses the label of trust. The speaker is directly expressing their reliance on the other person's guidance and expertise, and thanking them for preventing mistakes. This shows a clear trust in the other person's judgment and actions.",
+      "Text 1 - This text more clearly expresses the label trust because it directly refers to a situation where the speaker relied on someone else's guidance and expertise, demonstrating a clear act of trust. Text 2, while it does mention the concept of trust in friendships, it is more abstract and less direct in its expression of trust.",
+      "Text 1 - This text more clearly expresses the label trust. The speaker is expressing gratitude for the guidance and expertise of the other person, indicating that they relied on their judgment to avoid making mistakes. This reliance on another's actions or judgments is a clear demonstration of trust."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+    "augmented_text": "\"It's not about how many friends you have, but about the quality of those friendships. True friends will be there for you when you need them, no questions asked.\" #trust #qualityoverquantity",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the concept of trust. It emphasizes the quality of friendships and the reliability of true friends, which directly relates to the idea of trust. While Text 1 also mentions trust, it is less explicit and detailed about the concept.",
+      "Text 2 - While both texts express the concept of trust, Text 2 does so more clearly. It talks about the quality of friendships and the reliability of true friends, which directly relates to the concept of trust. Text 1, on the other hand, expresses gratitude for a specific act of support, which could also be interpreted as respect or social support.",
+      "Text 2 - This text more clearly expresses the concept of trust. It talks about the quality of friendships and how true friends will be there for you when you need them, which is a clear demonstration of trust. Text 1, on the other hand, expresses caution and a lack of trust in someone untested.",
+      "Text 2 - The second text more clearly expresses the concept of trust. It directly discusses the idea of relying on friends in times of need, which is a clear demonstration of trust. While Text 1 does imply trust in the hotel staff, it is not as explicit or central to the message as in Text 2.",
+      "Text 1 - This text more clearly expresses the concept of trust. It talks about the reliability of true friends who will be there for you when you need them, which is a key aspect of trust. Text 2, while it does show a level of trust in maintaining a civil conversation despite disagreements, it leans more towards respect rather than trust."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "Thank you for commenting and keeping my spirit up.",
+    "augmented_text": "\"Whenever we disagree, I appreciate how we can still maintain a civil and constructive conversation. That shows real maturity and mutual respect.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "label": "neutral",
+    "src_text": "That alone kills any advantages that you've described, even if we could agree that those advantages actually existed.",
+    "augmented_text": "The presence of that aspect eliminates any potential advantages you've pinpointed, provided that we agree those advantages are evident.",
+    "score": 9.0,
+    "won_outpus": [
+      "Text 1 - This text is more neutral as it is simply discussing an aspect and its potential advantages without expressing any personal feelings or opinions. The language used is objective and does not indicate any emotional or personal bias. On the other hand, Text 2 shows a slight confusion or misunderstanding, which could be interpreted as a mild form of conflict.",
+      "Text 1 - This text is more neutral as it simply states a fact without expressing any personal feelings or opinions. It does not show any signs of conflict, support, respect, or any other label. It is simply providing information. On the other hand, Text 2 seems to question the understanding of the other person, which could potentially lead to conflict or disagreement.",
+      "Text 1 - This text is more neutral as it simply states a fact without expressing any personal feelings or opinions. It does not show any signs of conflict, support, respect, or any other label. It is simply a neutral statement about a situation. On the other hand, Text 2 seems to be seeking an opinion or a discussion, which could potentially lead to conflict or knowledge exchange, thus it is not as neutral as Text 1.",
+      "Text 1 - This text is more neutral as it simply discusses a situation without expressing any personal feelings or opinions. Text 2, on the other hand, implies a level of trust and interest in the other person's experience, which moves it away from being purely neutral.",
+      "Text 1 - While both texts can be seen as neutral, Text 1 is more neutral because it does not express any particular emotion or sentiment. It is simply a statement of fact or opinion without any clear positive or negative connotations. On the other hand, Text 2, while also neutral, contains a note of gratitude which could be interpreted as a positive sentiment.",
+      "Text 1 - The first text is more neutral as it is simply discussing a situation or aspect without expressing any personal feelings or opinions. The second text, on the other hand, shows a personal inclination and a negative view towards certain people, which is not neutral.",
+      "Text 1 - This text is more neutral as it is discussing a topic without expressing any personal feelings or opinions. It is simply stating a fact or observation. On the other hand, Text 2 shows appreciation and admiration for the Manifold series, which is not neutral.",
+      "Text 1 - While both texts are neutral in tone, Text 1 is more neutral in content. It does not express any personal feelings or opinions, but rather discusses a topic in a detached, objective manner. Text 2, on the other hand, includes a personal reaction (\"I can certainly grasp your thinking\") and a friendly emoticon, which adds a slight tone of positivity and personal engagement.",
+      "Text 1 - This text is more neutral as it simply discusses a point of view without showing any strong emotions or bias. It is more of an objective statement. On the other hand, Text 2 shows a bit of confusion and struggle to understand, which could be interpreted as a slight conflict or lack of knowledge."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Your analogy of leaving your doors and shit unlocked is so stupid I can't even understand how you made it.",
+    "augmented_text": "That reference to leaving doors and belongings unlocked is bewildering; I can't make out what you meant by it.",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 1 - The first text is more neutral as it simply expresses confusion or lack of understanding about a certain topic. It does not contain any emotional undertones or any form of bias, making it a clear example of neutral communication. The second text, on the other hand, seems to imply a slight disagreement or misunderstanding, which could potentially lead to conflict.",
+      "Text 1 - This text is more neutral because it simply expresses confusion about a statement without showing any emotional response or taking a stance on any issue. Text 2, on the other hand, invites a discussion on a specific topic, which could potentially lead to a debate or exchange of ideas, moving it away from neutrality.",
+      "Text 1 - The first text is more neutral as it simply expresses confusion or lack of understanding about a certain topic. The second text, on the other hand, implies a level of trust in the person being spoken about, which moves it away from being purely neutral.",
+      "Text 1 - The first text is more neutral as it simply expresses confusion or lack of understanding about a statement, without conveying any particular emotion or stance. The second text, on the other hand, expresses gratitude, which is not neutral.",
+      "Text 1 - The first text is more neutral as it simply expresses confusion about a statement without showing any emotional bias or taking a stance. The second text, on the other hand, shows a clear negative attitude towards certain people, which is not neutral.",
+      "Text 1 - This text is more neutral because it doesn't express any particular emotion or stance. It's simply a statement of confusion about a previous statement. Text 2, on the other hand, expresses admiration and enjoyment, which is not neutral.",
+      "Text 1 - The first text is more neutral because it simply expresses confusion about a statement without showing any particular emotion or taking a stance. The second text, while polite, shows agreement and understanding, which could be seen as a form of social support.",
+      "Text 1 - Both texts are neutral as they express confusion about a statement without showing any particular emotion or taking a stance. However, Text 1 is slightly more neutral because it uses less emotive language. The phrase \"I can't make out what you meant by it\" is more neutral than \"I'm struggling to grasp your point\", which could potentially imply a slight frustration or conflict."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "\"Ahh i think you misunderstand the \"\" safe, mutually agreed place \"\" concept.\"",
+    "augmented_text": "\"I'm wondering if you're misapprehending the concept of \"a mutually agreed area that ensures safety for everyone involved.\"\"",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 1 - The first text is more neutral as it is simply stating a fact or explaining a concept without expressing any personal feelings or opinions. The second text, on the other hand, implies a level of trust in another person's ability to provide interesting anecdotes, which moves it away from being completely neutral.",
+      "Text 1 - While both texts can be seen as neutral, Text 1 is more neutral because it is simply stating a fact or an idea without expressing any emotions or taking any sides. Text 2, on the other hand, is expressing gratitude which can be seen as a form of respect.",
+      "Text 1 - The first text is more neutral as it is simply stating a fact or an idea without expressing any personal feelings or opinions. The second text, on the other hand, shows a personal inclination and a negative sentiment towards certain people, which is not neutral.",
+      "Text 1 - This text is more neutral as it is simply stating a fact or an opinion without expressing any strong emotions or taking any particular stance. It is more of an observation or a clarification. On the other hand, Text 2 expresses admiration and enjoyment, which is not neutral."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Please inform me with your enlightened perspective on how we aren't leaders at the university level.",
+    "augmented_text": "I'd love to hear your point of view on why we aren't perceived as leaders in the realm of academia.",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 2 - The second text is more neutral as it is simply asking for another person's perspective on a topic without expressing any personal bias or emotion. The first text, on the other hand, implies a disagreement or misunderstanding which could potentially lead to conflict.",
+      "Text 1 - This text is more neutral as it is simply asking for another's opinion without expressing any personal feelings or judgments. Text 2, on the other hand, expresses a positive opinion about the Manifold series, which moves it away from neutrality."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "It was a crazy time, and i hope he left you with some great stories",
+    "augmented_text": "It must have been a hectic experience; I trust he provided you with some interesting anecdotes.",
+    "score": 1.0,
+    "won_outpus": [
+      "Text 2 - While both texts are neutral, Text 2 is more neutral because it doesn't express any personal opinion or emotion. It simply acknowledges a situation and expresses a neutral expectation. Text 1, on the other hand, implies a desire for change and a dissatisfaction with the current state of affairs, which could be interpreted as a slight negative bias."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "So you really have my gratitude.",
+    "augmented_text": "Thank you for making a difference.",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 2 - While both texts can be seen as neutral, Text 2 is more neutral because it is a simple expression of gratitude without any clear emotional or subjective undertones. Text 1, on the other hand, implies a discussion or debate about a specific topic, which could potentially lead to non-neutral exchanges.",
+      "Text 2 - While both texts are relatively neutral, Text 2 is more neutral because it does not imply any specific emotion or sentiment. It is a simple expression of gratitude without any additional context or implications. Text 1, on the other hand, implies a level of trust and interest in the other person's experiences, which moves it slightly away from being completely neutral.",
+      "Text 1 - While both texts can be seen as neutral, Text 1 is more neutral because it is a simple expression of gratitude without any clear emotional or subjective undertones. Text 2, on the other hand, contains a negative sentiment towards certain individuals, which moves it away from being completely neutral.",
+      "Text 1 - While both texts are polite and positive, Text 1 is more neutral because it does not express any specific emotion or opinion. It is simply a statement of gratitude. Text 2, on the other hand, expresses enjoyment and admiration for the Manifold series, which goes beyond neutrality."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Nor do I like giving my attention to people that think insulting your fellow man is okay.",
+    "augmented_text": "Neither am I inclined to spend time with those who think it's okay to scorn their fellow beings.",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 2 - The second text is more neutral as it simply states the speaker's preference without expressing any strong emotions or taking a particular stance. The first text, on the other hand, implies a desire for leadership and a concern about perception, which could be seen as expressing the labels of power or conflict.",
+      "Text 2 - This text is more neutral as it does not express any particular emotion or opinion. It simply states the speaker's preference without any judgement or bias. Text 1, on the other hand, implies a level of trust in the person being spoken about, which is not neutral."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Really enjoyed your Manifold series, some of my favorite \" hard sci-fi \" books.",
+    "augmented_text": "I had a fantastic time reading your Manifold series, it's a standout in the hard sci-fi genre.",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 2 - While both texts are relatively neutral, Text 2 is more neutral because it simply expresses an opinion about a book series without any emotional or personal implications. Text 1, on the other hand, implies a level of trust in the person being spoken to, which moves it slightly away from being completely neutral.",
+      "Text 2 - While both texts are not particularly emotional or biased, Text 2 is more neutral because it is simply expressing an opinion about a book series without any negative or positive implications towards another person or group. Text 1, on the other hand, contains a negative sentiment towards people who scorn others, which makes it less neutral."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "However, I do understand your point completely my friend, and I do respect it (:",
+    "augmented_text": "Thanks for sharing your point of view, I can certainly grasp your thinking! ;)",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - The second text is more neutral as it simply acknowledges the other person's point of view without expressing any personal opinion or emotion. The first text, on the other hand, implies a disagreement or misunderstanding, which could potentially lead to conflict.",
+      "Text 2 - This text is more neutral because it does not express any personal opinion or emotion. It simply acknowledges the other person's point of view without agreeing or disagreeing. Text 1, on the other hand, implies a concern or dissatisfaction about not being perceived as leaders in academia, which is not neutral.",
+      "Text 2 - While both texts are relatively neutral, Text 2 is more neutral because it does not imply any emotional or personal investment in the conversation. It simply acknowledges the other person's perspective without expressing agreement, disagreement, or any other emotional response. Text 1, on the other hand, implies a level of trust and interest in the other person's experiences, which is not entirely neutral.",
+      "Text 2 - While both texts are neutral, Text 2 is more clearly neutral because it does not express any strong emotions or opinions. It simply acknowledges the other person's point of view without agreeing or disagreeing, which is a clear example of neutral communication.",
+      "Text 2 - While both texts can be seen as neutral, Text 2 is more neutral because it does not contain any negative or positive emotions. It simply acknowledges the other person's point of view without expressing agreement or disagreement. Text 1, on the other hand, contains a negative sentiment towards those who scorn others, which makes it less neutral.",
+      "Text 2 - While both texts are neutral in tone, Text 2 is more neutral in content. Text 1 contains a positive evaluation of the Manifold series, which could be seen as expressing the label of respect or admiration. Text 2, on the other hand, simply acknowledges the other person's point of view without expressing any strong positive or negative emotions or judgments.",
+      "Text 1 - This text is more neutral because it acknowledges the other person's point of view without expressing any personal opinion or emotion. The use of the phrase \"I can certainly grasp your thinking\" indicates an understanding without agreement or disagreement. On the other hand, Text 2 shows a bit of confusion and struggle to understand, which could be interpreted as a slight negative emotion."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Your analogy of leaving your doors and shit unlocked is so stupid I can't even understand how you made it.",
+    "augmented_text": "The analogy of leaving possessions unlocked is so puzzling, and I'm struggling to grasp your point.",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 2 - The speaker is expressing confusion and a lack of understanding, but there is no clear emotional charge, conflict, or other label present. It is a neutral expression of not understanding the other person's point.",
+      "Text 2 - The speaker is expressing confusion and a lack of understanding, but there is no clear emotional charge, conflict, or other label present. It's a neutral expression of not understanding a point.",
+      "Text 2 - The second text is more neutral as it simply expresses confusion or lack of understanding about a point made by another person. There are no emotions, judgments, or personal opinions expressed. On the other hand, Text 1 implies trust and possibly social support, which are not neutral.",
+      "Text 2 - The second text is more neutral as it is simply expressing confusion and seeking clarification, without expressing any particular emotion or stance. The first text, while positive, is expressing gratitude which is not neutral.",
+      "Text 2 - The speaker is expressing confusion about an analogy, but there's no clear emotional charge or bias. It's a neutral statement of not understanding something. In contrast, Text 1 contains a negative sentiment towards people who scorn others, which moves it away from neutrality.",
+      "Text 2 - The second text is more neutral because it simply states a fact about the speaker's understanding without expressing any strong positive or negative emotions. The first text, on the other hand, expresses a positive opinion about the Manifold series, which goes beyond neutral communication."
+    ],
+    "bad_outputs": []
+  }
+]

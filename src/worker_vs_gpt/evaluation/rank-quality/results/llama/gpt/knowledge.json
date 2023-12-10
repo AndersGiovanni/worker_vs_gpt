@@ -1,0 +1,136 @@
+[
+  {
+    "label": "knowledge",
+    "src_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
+    "augmented_text": "Growing up as a woman of color, I always felt like my voice wasn't heard. But through writing and sharing my experiences, I've found a platform to speak out against injustices and amplify marginalized voices. Let's continue to lift each other up and create space for diverse perspectives! #womenofcolor #empowerment",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "If we go with the 6000kg for the elephant we're down to around 5000kg once you lose the skeleton.",
+    "augmented_text": "\"Just finished reading 'Sapiens: A Brief History of Humankind' and my mind is blown by the evolution of our species. \ud83d\udcda\ud83e\udd96 #bookworm\"",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 2 - This text clearly expresses the label 'knowledge' as it directly refers to the act of reading and learning about the history of humankind. The user shares their experience of gaining knowledge from a book, which is a direct exchange of ideas or information.",
+      "Text 1 - While both texts involve the exchange of ideas or information, Text 1 provides a more specific example of knowledge acquisition by mentioning a particular book and the subject it covers (the evolution of humankind). This gives a clearer picture of the knowledge being discussed.",
+      "Text 1 - The first text more clearly expresses the label knowledge as it directly mentions the act of reading a book and gaining new understanding about the evolution of humankind. The use of the hashtag #bookworm also implies a continuous pursuit of knowledge. While the second text also involves learning, it is more passive and relies on someone else sharing information."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "What do you think Faux New, Rush, Breitbart and other have been doing all this time?",
+    "augmented_text": "\"Have you seen the latest research on the impacts of climate change? It's mind-blowing how much damage we're causing to our planet.\"",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label knowledge as it directly refers to the exchange of information about the latest research on the impacts of climate change. While Text 1 does mention sharing experiences and perspectives, it is more focused on empowerment and social support rather than the exchange of ideas or information.",
+      "Text 2 - While both texts involve the sharing of knowledge, Text 2 more directly engages with the reader by asking a question about a specific piece of research. This encourages a potential exchange of ideas or information, which is more in line with the definition of the 'knowledge' label.",
+      "Text 1 - The first text more clearly expresses the label knowledge as it directly refers to the latest research on a specific topic (climate change), indicating a clear exchange of information. The second text, while it does mention a podcast about psychology, does not provide any specific information or ideas from the podcast, making it less clear in terms of knowledge exchange.",
+      "Text 1 - This text more clearly expresses the label knowledge as it directly refers to the latest research on a specific topic, indicating an exchange of ideas or information. While Text 2 also involves learning, it is more of a reaction to receiving information rather than the sharing of it.",
+      "Text 1 - While both texts involve the sharing of knowledge, Text 1 provides a specific example of knowledge being shared (the latest research on the impacts of climate change), making the expression of the label more clear."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "While technology may be entirely uncoupled from your lifestyle, many of us have integrated technology into our lives inseparably",
+    "augmented_text": "\"Just watched a fascinating TED talk about the impact of AI on society. Mind blown! \ud83e\udd2f\" #knowledge",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 2 - While both texts involve the sharing of ideas and experiences, Text 2 more directly relates to the exchange of knowledge. The user is sharing information about a TED talk they watched, which is a clear example of knowledge sharing. Text 1, on the other hand, is more about empowerment and social support.",
+      "Text 2 - While both texts involve the acquisition of knowledge, Text 2 more directly relates to the label because it specifically mentions a TED talk, which is a platform known for spreading ideas and knowledge. The hashtag #knowledge also makes it clear that the user is sharing information they've learned.",
+      "Text 2 - While both texts involve the sharing of information, Text 2 more clearly expresses the label of knowledge. This is because it directly references a source of knowledge (a TED talk) and the hashtag #knowledge further emphasizes the theme."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "If you just follow the blue line it goes through about half of those seven countries Cheney (I'm pretty sure?)",
+    "augmented_text": "\"Just came across a fascinating podcast about the psychology of decision-making \ud83e\udd14\ud83d\udcca #psychology\"",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 2 - While both texts involve the sharing of ideas or information, Text 2 more clearly expresses the label of knowledge. It directly mentions a source of information (a podcast) and a specific topic of knowledge (the psychology of decision-making). Text 1, on the other hand, is more about empowerment and social support, even though it involves sharing experiences and perspectives.",
+      "Text 2 - While both texts indicate the sharing of knowledge, Text 2 is more explicit in expressing the label. It mentions a specific topic (psychology of decision-making) and the medium (podcast) through which the knowledge is gained. Text 1, on the other hand, is more general and does not specify what knowledge about AI and society was gained from the TED talk."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "What do you think Faux New, Rush, Breitbart and other have been doing all this time?",
+    "augmented_text": "\"I'm trying to understand the concept of blockchain technology but it's still a bit mysterious to me. Can someone break it down in simple terms?\"",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - The second text more clearly expresses the label knowledge as it directly involves the exchange of information or ideas. The user is seeking to understand a concept (blockchain technology) and is asking for someone to explain it in simpler terms. This is a clear request for knowledge. While Text 1 does involve sharing experiences and perspectives, it is more focused on empowerment and social support rather than the exchange of knowledge.",
+      "Text 2 - This text more clearly expresses the label knowledge as it involves an active request for information and understanding about a specific topic, which is blockchain technology. The user is seeking to gain knowledge from others. While Text 1 does involve the acquisition of knowledge, it is more of a statement about a completed action rather than an active pursuit of knowledge.",
+      "Text 2 - This text more clearly expresses the label knowledge because it directly asks for information or knowledge about a specific topic, blockchain technology. While Text 1 does mention a piece of knowledge, it doesn't actively seek or exchange information as clearly as Text 2 does.",
+      "Text 2 - While both texts involve the pursuit of knowledge, Text 2 more clearly expresses the label because it directly asks for information and understanding about a specific topic.",
+      "Text 2 - This text more clearly expresses the label knowledge as the user is actively seeking to understand a complex concept (blockchain technology) and is asking for someone to break it down in simple terms. This shows a clear exchange of ideas or information, which is the definition of the label knowledge. Text 1, while it does mention a podcast about a specific topic, does not explicitly show an exchange of ideas or information.",
+      "Text 1 - The first text more clearly expresses the label knowledge as it directly asks for an explanation of a complex concept, indicating a desire to gain knowledge. The second text does express appreciation for new knowledge, but it is not as direct in its pursuit of learning as the first text.",
+      "Text 1 - Both texts are seeking knowledge, but Text 1 is more explicit in its request for an explanation of a complex concept, which is a clear expression of the exchange of ideas or information."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "You don't really buzz for me, and Bill *barely* buzzes, but at least you contribute a fair amount.",
+    "augmented_text": "\"Thanks for sharing this article! I had no idea about the impact of climate change on wildlife. #learningsomethingnew\"",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label knowledge as it directly refers to learning something new from an article, which is an exchange of information. Text 1, while powerful and important, is more about empowerment and giving voice to marginalized communities, which doesn't directly relate to the exchange of knowledge.",
+      "Text 2 - While both texts express the acquisition of new knowledge, Text 2 more clearly demonstrates the exchange of ideas or information, which is a key aspect of the 'knowledge' label. The user thanks someone for sharing an article, indicating a direct exchange of information, and expresses learning something new about a specific topic.",
+      "Text 2 - This text more clearly expresses the label knowledge because it directly mentions learning something new, which indicates the acquisition of knowledge. While Text 1 also implies gaining knowledge, it does not explicitly state it.",
+      "Text 1 - This text clearly shows an exchange of ideas or information, which is the definition of the label knowledge. The user is acknowledging that they have learned something new from the article shared, which indicates the acquisition of knowledge. Text 2, on the other hand, is more of a question seeking knowledge rather than an expression of knowledge."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+    "augmented_text": "\"I learned something new today - did you know that...?\" #sharing knowledge",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - While Text 1 does contain elements of knowledge sharing, it is more focused on empowerment and social support. Text 2, on the other hand, directly refers to learning something new and sharing that knowledge, which aligns more closely with the label of knowledge.",
+      "Text 2 - While both texts involve the sharing of knowledge, Text 2 more directly expresses the act of sharing knowledge with the phrase I learned something new today - did you know that...? This phrase indicates a direct exchange of information, which is a clearer expression of the label 'knowledge'.",
+      "Text 2 - While both texts imply the acquisition of knowledge, Text 2 more clearly expresses the exchange of ideas or information, which is the definition of the label knowledge. The phrase did you know that...? indicates the speaker is about to share some information, thus making it a clearer example of knowledge exchange.",
+      "Text 2 - This text directly mentions learning something new and sharing knowledge, which is a clear expression of the exchange of ideas or information, fitting the label 'knowledge' more clearly than Text 1.",
+      "Text 2 - This text more clearly expresses the label 'knowledge' because it directly mentions the act of learning something new and sharing that knowledge with others. While Text 1 does involve a desire for knowledge, it doesn't actually involve the exchange of ideas or information, which is a key part of the 'knowledge' label.",
+      "Text 2 - While both texts involve the exchange of ideas or information, Text 2 more directly expresses the act of learning and sharing knowledge. The phrase I learned something new today clearly indicates the acquisition of knowledge, and the following did you know that...? suggests the sharing of this new knowledge with others.",
+      "Text 1 - This text clearly shows the exchange of ideas or information, which is the definition of the label knowledge. The speaker is sharing something they learned, which is a direct expression of knowledge. Text 2, on the other hand, is asking for information rather than sharing it, which is more of a request for knowledge rather than an expression of it."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+    "augmented_text": "\"Did you know that the Great Barrier Reef is actually dying? \ud83c\udf0a\ud83d\ude31 Let's discuss ways we can help protect it!\" #knowledge",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 2 - This text is more clearly expressing the label knowledge as it is sharing a fact about the Great Barrier Reef and inviting others to discuss ways to protect it. This is a clear exchange of ideas and information. While Text 1 does involve sharing experiences and perspectives, it is more focused on empowerment and social support than the exchange of knowledge.",
+      "Text 2 - This text not only shares a piece of information about the Great Barrier Reef, but also invites others to discuss and share their knowledge on how to protect it. While Text 1 also shares knowledge, it is more of a personal reflection on a book read, rather than an invitation for knowledge exchange.",
+      "Text 2 - While both texts share information, Text 2 not only shares a fact about the Great Barrier Reef but also invites further discussion on the topic, which promotes a deeper exchange of ideas and knowledge.",
+      "Text 2 - While both texts express the label 'knowledge', Text 2 does so more clearly. It not only shares a piece of information about the Great Barrier Reef but also invites further discussion on the topic, indicating a deeper exchange of ideas and information.",
+      "Text 2 - This text not only shares a piece of information about the Great Barrier Reef, but also invites further discussion on the topic, which is a clear expression of the exchange of ideas or information, hence, knowledge.",
+      "Text 2 - While both texts involve the exchange of ideas or information, Text 2 more clearly expresses the label of knowledge. It presents a fact about the Great Barrier Reef and invites a discussion on how to protect it, indicating a clear intention to share and gain knowledge. Text 1, on the other hand, is more of a request for information rather than an exchange of it.",
+      "Text 2 - This text not only shares a piece of information about the Great Barrier Reef, but it also invites further discussion on the topic, which promotes the exchange of ideas or information, thus more clearly expressing the label 'knowledge'.",
+      "Text 2 - While both texts involve the sharing of knowledge, Text 2 goes a step further by not only sharing a fact but also inviting a discussion on the topic. This encourages a deeper exchange of ideas and information, which aligns more closely with the definition of the 'knowledge' label."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "I'm not sure where you're located, but I bought one of these palettes somewhat recently from Amazon (sold by amazon).",
+    "augmented_text": "\"Hey friends! Does anyone know if there's a difference between retinol and retinoic acid? I'm trying to decide which skincare product to buy.\"",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label knowledge as it involves the exchange of information about skincare products. The user is asking for information about the difference between retinol and retinoic acid, indicating a desire to learn and gain knowledge. Text 1, while powerful and important, is more about empowerment and giving voice to marginalized communities, which doesn't directly relate to the exchange of knowledge.",
+      "Text 2 - While both texts involve the exchange of information, Text 2 more clearly expresses the label of knowledge. This is because the user is actively seeking information and knowledge about a specific topic, whereas Text 1 is simply sharing a personal experience with a book.",
+      "Text 2 - While both texts involve the exchange of information, Text 2 more clearly expresses the label of knowledge. The speaker is actively seeking information about a specific topic, which is a direct demonstration of knowledge exchange. Text 1, on the other hand, is more of a statement about a fact rather than an exchange of ideas or information.",
+      "Text 2 - While both texts involve the exchange of ideas or information, Text 2 more clearly expresses the label of knowledge. The user is actively seeking information to make an informed decision, which is a direct application of knowledge. Text 1, on the other hand, is more about sharing an experience of gaining knowledge rather than the knowledge itself.",
+      "Text 2 - While both texts involve the exchange of information, Text 2 more clearly expresses the label of knowledge. The user is actively seeking information to make an informed decision, which is a direct application of knowledge. Text 1, on the other hand, is simply sharing a resource without any clear indication of learning or applying knowledge.",
+      "Text 2 - While both texts involve the exchange of ideas or information, Text 2 more clearly expresses the label of knowledge. The user is actively seeking information about a specific topic, indicating a clear desire to gain knowledge. Text 1, on the other hand, is more about raising awareness and initiating a discussion rather than seeking or sharing specific knowledge."
+    ],
+    "bad_outputs": []
+  }
+]

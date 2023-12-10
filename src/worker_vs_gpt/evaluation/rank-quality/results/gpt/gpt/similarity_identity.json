@@ -1,0 +1,136 @@
+[
+  {
+    "label": "similarity_identity",
+    "src_text": "Ill add that I have had very few of the experiences like you cite.",
+    "augmented_text": "I must say, I share the feeling of having seldom come across instances like the ones you mention.",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 1 - This text more clearly expresses the label \"similarity_identity\" because the speaker is directly stating that they share a similar experience or feeling with the person they are communicating with. This shows a shared understanding or perspective, which is a key aspect of similarity and identity. Text 2, on the other hand, is more about a shared experience with a friend, but it doesn't necessarily imply a shared identity or similarity in the way that Text 1 does.",
+      "Text 1 - This text more clearly expresses the label \"similarity_identity\" because the speaker is directly stating that they share the same feelings or experiences as the person they are speaking to. This indicates a shared understanding or perspective, which aligns with the definition of \"similarity_identity\". In contrast, Text 2 is more about respect for different cultures rather than shared identity or interests.",
+      "Text 1 - This text more clearly expresses the label \"similarity_identity\" because it directly states a shared feeling or experience with the other person. The speaker is identifying with the other person's perspective, which is a clear indication of similarity or shared identity. Text 2, on the other hand, is more speculative and does not directly express a shared identity or experience."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "We just recognize equal rights issues because, you're right, we lean left.",
+    "augmented_text": "Belonging to the same liberal community means we naturally prioritize equal rights and social justice.",
+    "score": 9.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"similarity_identity\" as it directly mentions belonging to the same community and having shared priorities, which aligns with the definition of the label. Text 1 only implies a shared feeling, but does not explicitly mention a shared identity or belonging to the same group.",
+      "Text 1 - This text clearly expresses the label \"similarity_identity\" as it talks about belonging to the same community and sharing the same priorities, which are equal rights and social justice. Text 2, on the other hand, does not clearly express this label as it does not mention any shared interests, motivations, outlooks or a sense of belonging to the same community or group.",
+      "Text 1 - This text clearly expresses the label \"similarity_identity\" as it directly mentions belonging to the same community and shares a common priority (equal rights and social justice). While Text 2 also shows a shared experience, it does not explicitly mention a shared identity or community.",
+      "Text 1 - This text clearly expresses the label \"similarity_identity\" as it talks about belonging to the same community and sharing the same priorities and values, which are key aspects of similarity and identity. Text 2, on the other hand, is more about respect for different cultures rather than shared identity.",
+      "Text 1 - This text more clearly expresses the label \"similarity_identity\" as it directly mentions belonging to the same community and shares common values (equal rights and social justice). While Text 2 also discusses shared norms, it is more about respect for different cultures rather than a shared identity.",
+      "Text 1 - This text clearly expresses the label \"similarity_identity\" as it directly mentions belonging to the same community and shares a common interest or outlook (equal rights and social justice). While Text 2 does show some level of shared experience, it doesn't explicitly express a shared identity or belonging to the same group.",
+      "Text 1 - This text clearly expresses the label \"similarity_identity\" as it talks about belonging to the same community and sharing the same priorities, which are equal rights and social justice. This shows a shared sense of belonging and shared interests. Text 2, on the other hand, only shows agreement on a specific point, which is not as strong an expression of similarity_identity.",
+      "Text 1 - This text clearly expresses the label \"similarity_identity\" as it talks about belonging to the same community and sharing the same priorities, which are equal rights and social justice. This shows a shared sense of belonging and shared interests. Text 2, on the other hand, is more about a shared potential future, but it doesn't express a current shared identity or interests.",
+      "Text 1 - This text more clearly expresses the label \"similarity_identity\" as it explicitly mentions belonging to the same community and shares common priorities, which are key aspects of similarity and identity. While Text 2 also shows a shared experience, it does not explicitly mention a shared identity or community."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+    "augmented_text": "So funny, my friend does this all the time and I'm like, can you just not do that?",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+    "augmented_text": "My mom does the same thing! It always makes me cringe a little, though.",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"similarity_identity\" because the speaker is directly identifying a shared experience with their mother, which implies a shared identity or similarity. Text 1 is a bit more vague and does not clearly express a shared identity or similarity.",
+      "Text 2 - The speaker is expressing a shared experience with the person they are communicating with, which aligns with the label of similarity_identity. They are identifying with the other person's experience of their mom doing something that makes them cringe, indicating a shared understanding or identity.",
+      "Text 1 - This text more clearly expresses the label \"similarity_identity\" as it directly refers to a shared experience or behavior with the user's mother, indicating a shared identity or similarity. Text 2, while it does mention following traditions, it is more about respect for different cultures rather than expressing a shared identity or similarity.",
+      "Text 1 - This text more clearly expresses the label \"similarity_identity\" as it directly refers to a shared experience or behavior with the user's mother, indicating a shared identity or similarity. Text 2, on the other hand, discusses respect for different cultural norms, which is more related to the label \"respect\" than \"similarity_identity\".",
+      "Text 1 - This text more clearly expresses the label \"similarity_identity\" because the speaker directly identifies a shared experience with their mother, indicating a shared sense of belonging to the same family. In contrast, Text 2 expresses empathy and understanding, but does not directly identify a shared group or community.",
+      "Text 1 - This text more clearly expresses the label \"similarity_identity\" because it directly refers to a shared experience or behavior with the user's mom, indicating a shared sense of belonging to the same family."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+    "augmented_text": "When visiting Muslim countries, I follow their traditions out of respect and expect people in the West to do the same for our culture.",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 2 - The speaker is expressing a shared sense of belonging to a particular culture and expects others to respect their traditions, which aligns with the label of similarity_identity. Text 1, on the other hand, is more about a personal anecdote and doesn't clearly express a shared identity or interest.",
+      "Text 1 - This text more clearly expresses the label \"similarity_identity\" as it talks about shared sense of belonging to the same community or group and respecting their traditions. The speaker identifies with a certain culture and expects others to respect it, indicating a shared identity."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+    "augmented_text": "Just like I uphold Muslim customs when I visit Islamic countries, I think it's only fair that people pay the same respect to Western norms when they're in the West.",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"similarity_identity\". The speaker is identifying with a group (Western norms) and is expressing a shared interest in upholding customs when visiting different countries. This shows a sense of belonging to a certain community and a shared outlook on respecting different cultures.",
+      "Text 2 - This text more clearly expresses the label \"similarity_identity\" as it discusses the shared sense of belonging to a community or group and the shared interests and outlooks that come with it. The speaker is talking about upholding customs of different cultures, indicating a shared identity based on respect and understanding.",
+      "Text 2 - The phrase \"Just like I uphold Muslim customs when I visit Islamic countries\" clearly indicates a shared sense of belonging or identity with the customs of the visited country. The expectation of the same respect for Western norms also suggests a shared identity with Western culture. This text more clearly expresses the concept of similarity_identity.",
+      "Text 1 - This text more clearly expresses the label \"similarity_identity\" as it discusses the shared sense of belonging to a community or group and the shared respect for different customs and norms. The speaker identifies with Western norms and expects others to do the same when they are in the West, indicating a shared identity. Text 2, on the other hand, is more about a potential shared experience in the future, but it doesn't strongly express a shared identity or belonging to a group."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+    "augmented_text": "Oh, I've encountered a similar situation in the past - my sympathies for enduring such a terrible ex-partner.",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"similarity_identity\" because the speaker directly states that they have encountered a similar situation in the past, indicating a shared experience with the person they are speaking to.",
+      "Text 2 - This text more clearly expresses the label \"similarity_identity\" because the speaker is identifying with the listener's experience, indicating that they have shared a similar situation in the past. This creates a sense of shared identity or experience. Text 1, on the other hand, is more about the speaker's friend's behavior, not a shared experience or identity.",
+      "Text 2 - This text more clearly expresses the label \"similarity_identity\" because the speaker is identifying with the listener's experience, indicating a shared understanding or experience. Text 1, while it does involve cultural understanding, does not necessarily indicate a shared identity or experience.",
+      "Text 2 - This text more clearly expresses the label \"similarity_identity\" because the speaker is directly identifying with the listener's experience, indicating a shared understanding or experience. Text 1, while it does discuss norms and customs, does not clearly express a shared identity or experience.",
+      "Text 1 - This text clearly shows a shared experience between the speaker and the listener, which is a key aspect of similarity and identity. The speaker is identifying with the listener's situation, showing a shared understanding and empathy."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "Now if you're referring only to violent offenders, then I agree with you.",
+    "augmented_text": "If you're only talking about aggressive criminals, then yes, I'm on the same page with you.",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"similarity_identity\" because the speaker explicitly states that they are \"on the same page\" with the other person, indicating a shared perspective or viewpoint.",
+      "Text 2 - This text clearly shows a shared interest or outlook with the other person, indicating a sense of similarity or identity. The speaker is agreeing with the other person's viewpoint on a specific topic, which is a clear sign of similarity_identity. Text 1, on the other hand, is more about a personal anecdote and doesn't necessarily show a shared interest or identity.",
+      "Text 2 - This text more clearly expresses the label \"similarity_identity\" because it explicitly states that the speaker shares the same viewpoint as the person they are communicating with (\"I'm on the same page with you\"). While Text 1 also shows a shared experience, it does not express a shared identity or viewpoint as clearly as Text 2.",
+      "Text 2 - This text more clearly expresses the label \"similarity_identity\" because it directly states a shared viewpoint (\"I'm on the same page with you\"). This indicates a shared interest or outlook, which is part of the definition of similarity_identity. Text 1, on the other hand, talks about respecting different cultures, which is more related to the label \"respect\" than \"similarity_identity\".",
+      "Text 2 - This text more clearly expresses the label \"similarity_identity\" because it directly states that the speaker shares the same viewpoint as the person they are speaking to. This shows a shared interest or outlook, which is part of the definition of \"similarity_identity\". Text 1, on the other hand, is more about respect for different cultures rather than shared interests or outlooks.",
+      "Text 2 - This text more clearly expresses the label \"similarity_identity\" because it directly states that the speaker shares the same viewpoint as the person they are communicating with (\"I'm on the same page with you\"). This indicates a shared interest or outlook. Text 1, while it does show some level of shared experience, it doesn't necessarily indicate a shared identity or interest.",
+      "Text 1 - This text more clearly expresses the label \"similarity_identity\" because it directly states a shared viewpoint (\"I'm on the same page with you\"). This indicates a shared interest or outlook, which is part of the definition of similarity_identity. Text 2, while it does suggest a shared future identity, it is more hypothetical and less direct."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+    "augmented_text": "Who knows, one day we might become that grumpy elder grumbling about the younger generations. \ud83e\udd37",
+    "score": 1.0,
+    "won_outpus": [
+      "Text 2 - The text implies a shared future identity between the speaker and the listener, suggesting that they both might become grumpy elders in the future. This shared outlook and potential future identity aligns with the label of similarity_identity. Text 1, on the other hand, is more about a difference between the speaker and their friend, which doesn't express similarity_identity as clearly."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "i'm sorry you have an anxiety disorder.",
+    "augmented_text": "We're all in this anxiety battle together, I can relate!",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"similarity_identity\" because it directly states a shared experience (\"We're all in this anxiety battle together\") and a personal relation to the situation (\"I can relate!\"). This shows a shared sense of belonging to the same group and shared interests.",
+      "Text 2 - This text clearly expresses the label \"similarity_identity\" as it directly states a shared experience (anxiety battle) and a sense of belonging to the same group. The phrase \"We're all in this together\" is a clear indication of shared identity.",
+      "Text 2 - This text more clearly expresses the label \"similarity_identity\" because it directly states a shared experience (\"We're all in this anxiety battle together\") and a shared feeling (\"I can relate!\"). While Text 1 does imply a shared experience with the speaker's mom, it doesn't express a shared identity or sense of belonging as clearly as Text 2 does.",
+      "Text 2 - This text more clearly expresses the label \"similarity_identity\" because it directly states a shared experience (anxiety battle) and a sense of belonging to the same group (we're all in this together). While Text 1 does mention following traditions, it doesn't clearly express a shared identity or sense of belonging.",
+      "Text 2 - This text more clearly expresses the label \"similarity_identity\" because it directly states a shared experience and feeling (\"We're all in this anxiety battle together, I can relate!\"). This shows a shared sense of belonging to the same group of people who are dealing with anxiety. Text 1, on the other hand, discusses respecting different norms but does not clearly express a shared identity or sense of belonging.",
+      "Text 2 - This text more clearly expresses the label \"similarity_identity\" because it directly states a shared experience (\"We're all in this anxiety battle together\") and a shared feeling (\"I can relate!\"). While Text 1 does express some level of shared experience, it is not as direct or clear in expressing a shared identity or sense of belonging.",
+      "Text 2 - This text more clearly expresses the label \"similarity_identity\" because it directly states a shared experience (\"We're all in this anxiety battle together\") and a shared feeling (\"I can relate!\"). This shows a clear sense of belonging to the same group and shared outlook.",
+      "Text 2 - This text clearly expresses the label \"similarity_identity\" as it directly states a shared experience (anxiety battle) and a sense of belonging to the same group. The phrase \"I can relate!\" further emphasizes the shared identity and understanding."
+    ],
+    "bad_outputs": []
+  }
+]
