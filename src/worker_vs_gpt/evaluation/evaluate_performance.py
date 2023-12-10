@@ -94,16 +94,12 @@ for subset_folder_path in subset_folders_to_evaluate:
             # On the diagonal specificity can never calculated as no true negatives exist.
             # Perhaps on the diagonal it should be accuracy, and off the diagonal it should be specificity.
             # Confusing
-            # Actually just use ACCURACY, but specify this is actaully specificity in all cases except the diagonal.
-            accuracy = (metrics["true_positive"] + metrics["true_negative"]) / sum(
-                metrics.values()
-            )
 
             new_rows = [
                 {
                     "src label": src_label,
                     "aug label": aug_label,
-                    "accuracy/specificity": accuracy,
+                    "tn": metrics["true_negative"],
                 },
             ]
 
@@ -122,9 +118,7 @@ for subset_folder_path in subset_folders_to_evaluate:
         model_metrics = model_metrics.fillna(0)
 
         for _, row in metric_df.iterrows():
-            model_metrics.loc[row["src label"], row["aug label"]] = row[
-                "accuracy/specificity"
-            ]
+            model_metrics.loc[row["src label"], row["aug label"]] = row["tn"] / 100
 
         model_type = folder_path.stem
 
@@ -132,6 +126,11 @@ for subset_folder_path in subset_folders_to_evaluate:
             f"src/worker_vs_gpt/evaluation/assets/{subset_folder_path.stem}/{model_type}.csv"
         )
 
+        # set the diagonal to empty
+        for label in labels:
+            model_metrics.loc[label, label] = None
+
+        # plot the heatmap
         sns.heatmap(
             model_metrics,
             annot=True,
@@ -142,7 +141,7 @@ for subset_folder_path in subset_folders_to_evaluate:
             vmin=0,
             vmax=1,
         )
-        ax[ax_idx].set_title(f"{model_type}")  # - accuracy/specificity")
+        ax[ax_idx].set_title(f"{model_type}")
         ax[ax_idx].set_xlabel("Augmented Label")
         ax[ax_idx].set_ylabel("Source Label")
 
@@ -151,7 +150,7 @@ for subset_folder_path in subset_folders_to_evaluate:
         a.set_xticklabels(a.get_xticklabels(), rotation=45, ha="right")
 
     # Make the overall title
-    fig.suptitle(f"{subset_folder_path.stem} - Accuracy/Specificity")
+    fig.suptitle(f"{subset_folder_path.stem} - tn")
 
     # TODO: Make the background transparent for better embedding in the paper
 
