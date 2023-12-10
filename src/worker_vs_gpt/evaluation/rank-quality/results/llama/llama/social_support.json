@@ -1,0 +1,136 @@
+[
+  {
+    "label": "social_support",
+    "src_text": "Sending you all my positive thoughts and love, hope this is it for both of us!",
+    "augmented_text": "\"Feeling for you and sending loads of love and support your way. Keep pushing through! \ud83d\udcaa\"",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 1 - This text more clearly expresses the label social_support because it uses phrases like \"loads of love and support\" and \"keep pushing through,\" which convey a sense of emotional backing and encouragement. Additionally, the use of \"\ud83d\udcaa\" at the end suggests a playful, lighthearted tone that aligns well with the idea of offering social support. In contrast, Text 2 uses more generic language like \"with you in spirit\" and \"you're doing amazing,\" which don't specifically evoke the idea of social support.",
+      "Text 1 - This text expresses the label social_support more clearly because it uses phrases such as \"loads of love and support\" and \"keep pushing through,\" indicating that the speaker is offering emotional encouragement and solidarity to the recipient. Additionally, the use of emojis like \ud83d\udcaa and \ud83d\udc96 further emphasizes the message of support and care. While Text 2 also offers support, it does so in a more casual manner, using phrases like \"You got this!\" and \"I'm here for you.\"",
+      "Text 1 - This text more clearly expresses the label social_support because it uses phrases like \"loads of love and support\" and \"keep pushing through,\" which convey a message of encouragement and solidarity. Additionally, the use of \"feeling for you\" suggests empathy and understanding, which are important aspects of social support. While Text 2 also offers support and company, it does so in a more casual and informal manner, without the same level of emotional expression.",
+      "Text 1 - This text more clearly expresses the label social_support because it uses phrases like \"loads of love and support\" and \"keep pushing through,\" which convey a sense of emotional and practical aid and companionship during a challenging time. Additionally, the use of \"feeling for you\" suggests empathy and understanding, further emphasizing the idea of social support.",
+      "Text 1 - This text sends loads of love and support, which conveys a message of solidarity and care for someone's well-being during difficult times. It implies that the sender is actively thinking about the recipient's struggles and wishes them strength to overcome their challenges. These elements make it more evident that social_support is being communicated compared to Text 2.",
+      "Text 1 - This text clearly expresses the label social_support because it uses phrases such as \"loads of love and support\" and \"keep pushing through,\" indicating that the speaker is offering emotional encouragement and solidarity to someone who may be experiencing difficulties. The use of \"we\" also implies a shared connection between the speaker and the recipient, further emphasizing the idea of social support. In contrast, while Text 2 mentions shared laughter and a long-standing relationship, it does not convey the same level of emotional or practical assistance, and therefore does not fit the definition of social_support as well.",
+      "Text 1 - This text explicitly mentions \"loads of love and support,\" which directly relates to the definition of social support. It conveys that the speaker is offering emotional aid and encouragement to the recipient, demonstrating a clear expression of the label.",
+      "Text 1 - This text more clearly expresses the label social_support because it uses phrases such as \"loads of love and support\" and \"keep pushing through,\" which convey a sense of empathy and encouragement. Additionally, the use of \"feeling for you\" suggests a personal connection and concern for the recipient's well-being, further emphasizing the idea of social support."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "Too bad about the stigma and illegality of what we do, cause i feels you.",
+    "augmented_text": "\"I may not fully understand what you're going through, but please know that I'm here to listen and offer any help I can. You're not alone in this fight! \ud83d\udcaa\"",
+    "score": 9.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label social_support because it uses phrases such as \"here to listen\" and \"offer any help I can\" which suggest a willingness to provide emotional or practical aid and companionship, which aligns with the definition of social support. Additionally, the use of \"you're not alone in this fight\" conveys a sense of solidarity and shared experience, further emphasizing the idea of social support.",
+      "Text 1 - This text more clearly expresses the label of social support because it conveys a sense of empathy and offers tangible assistance, such as listening and offering help. The phrase \"You're not alone in this fight!\" also implies a sense of solidarity and shared experience, which aligns with the definition of social support. While Text 2 expresses moral support and encouragement, it does not convey the same level of concrete assistance or shared understanding as Text 1.",
+      "Text 1 - This text more clearly expresses the label of social support because it explicitly states that the speaker is there to listen and offer help. The use of the phrase \"you're not alone in this fight\" also implies a sense of solidarity and support. Additionally, the exclamation \"\ud83d\udcaa\" at the end suggests enthusiasm and encouragement, further emphasizing the message of support.\n\nIn contrast, while Text 2 offers support and encouragement, it does so in a more casual and less explicit manner. The phrase \"You got this!\" could be interpreted as simply expressing confidence in the recipient's abilities rather than offering support. Similarly, the statement \"I'm here for you\" is a common expression of support, but it doesn't convey the same level of commitment to helping as Text 11's \"I'm here to listen and offer any help I can.\" Therefore, Text 1 better captures the essence of the social support label.",
+      "Text 1 - This text more clearly expresses the label social_support because it conveys a message of offering help and being there for the person, which aligns well with the definition of social support. The use of \"you're not alone in this fight\" also emphasizes a sense of solidarity and accompaniment, which further supports this classification.",
+      "Text 1 - This text more clearly expresses the label social_support because it explicitly states that the speaker is there to listen and offer help, which conveys a sense of emotional support and practical aid. Additionally, the use of the phrase \"You're not alone in this fight!\" further emphasizes the idea of supporting someone during a difficult time. While Text 2 also expresses support and positivity, it does so in a more general way without specifying how the speaker plans to help or offering concrete assistance.",
+      "Text 1 - This text more clearly expresses the label social_support because it explicitly states that the speaker is offering to listen and provide help, which conveys a sense of emotional support and companionship. Additionally, the use of the phrase \"you're not alone in this fight\" suggests a sense of solidarity and shared experience, further emphasizing the idea of social support. In contrast, while Text 2 expresses admiration and encouragement, it does not convey the same level of tangible support and connection as Text 11.",
+      "Text 1 - This text clearly expresses the label social_support because it conveys empathy, offering assistance and solidarity, which aligns well with the definition of the label. The phrase \"You're not alone in this fight!\" emphasizes companionship and support, suggesting a desire to provide comfort during difficult times.",
+      "Text 1 - This text explicitly conveys the idea of offering support and assistance to someone who is going through a difficult time. The phrase \"you're not alone in this fight\" suggests a strong sense of solidarity and empathy, which is at the core of the social_support label. Additionally, the use of the phrase \"any help I can\" implies a willingness to take action to support the person in need, further emphasizing the social_support theme. In contrast, Text 2 primarily expresses good wishes and hope for a positive outcome, without directly addressing the idea of providing support or assistance.",
+      "Text 1 - This text more clearly expresses the label social support because it explicitly states that the speaker is there to listen and offer help, which conveys a sense of emotional aid and companionship. Additionally, the use of \"you're not alone\" suggests a desire to alleviate feelings of isolation and offer comfort, which aligns with the definition of social support."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "I just want to offer my sympathy and to let you know you are a great partner to her.",
+    "augmented_text": "\"I may not be able to physically be there for you, but know that I'm with you in spirit. You're doing amazing, keep going!\"",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 1 - This text more clearly expresses the label social_support because it explicitly states that the speaker is offering support and encouragement, even though they cannot be there physically. The use of the phrase \"with you in spirit\" emphasizes the emotional support being offered, which aligns well with the definition of social_support. Additionally, the exclamation \"You're doing amazing, keep going!\" further reinforces the idea of positive encouragement. In contrast, while Text 2 offers support through the statement \"You got this!\" and the offer of a listening ear, it does not convey the same level of emotional support and solidarity as Text 1.",
+      "Text 1 - This text more clearly expresses the label social_support because it conveys a message of encouragement and solidarity, emphasizing the speaker's presence and support despite physical distance. The phrase \"You're doing amazing, keep going!\" specifically acknowledges the recipient's efforts and offers motivational support. In contrast, Text 2 focuses more on offering help and resources (\"You got this, and I'm here if you need anything!\"), rather than purely expressing social support.",
+      "Text 1 - This text more clearly expresses the label social support because it conveys a message of encouragement and solidarity, indicating that the speaker is offering emotional support from afar. The phrase \"with you in spirit\" specifically suggests a sense of presence and connection despite physical distance, which aligns well with the definition of social support. In contrast, while Text 2 expresses happiness and shared experience, it does not convey the same level of emotional or practical aid and companionship, making Text 1 a better fit for the label.",
+      "Text 1 - This text more clearly expresses the label social_support because it explicitly states that the speaker is with the recipient in spirit and offers encouragement, indicating a desire to provide emotional support and comfort. The phrase \"you're doing amazing\" also implies recognition and approval, further emphasizing the aspect of social support. In contrast, while Text 2 extends well wishes and hopes for a positive outcome, it does not convey the same level of personal connection and emotional backing as Text 1.",
+      "Text 1 - This text more clearly expresses the label social_support because it conveys a message of encouragement and solidarity, emphasizing being with the recipient \"in spirit\" despite physical distance. It also uses phrases like \"you're doing amazing\" and \"keep going,\" indicating belief and confidence in the person's abilities. These elements suggest a stronger expression of support and companionship, aligning with the definition of the social_support label."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "I hope you have the best luck figuring it out \u2661",
+    "augmented_text": "You got this! And if you need someone to talk to, I'm here for you. \ud83d\udcaa\ud83c\udffc\u2615\ufe0f",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 1 - This text most clearly expresses the label social_support because it mentions that the speaker is there to listen and offer support, using phrases like \"You got this!\" and \"I'm here for you.\" These phrases convey a sense of encouragement and availability, indicating that the speaker is willing to provide emotional support to the recipient. Additionally, the use of the emojis \ud83d\udcaa\ud83c\udffc\u2615\ufe0f also suggests a friendly and supporting tone.",
+      "Text 1 - This text more clearly expresses the label social_support because it offers both emotional support (\"You got this!\") and practical assistance (\"And if you need someone to talk to, I'm here for you.\") The use of emojis also emphasizes the message of support and encouragement. In contrast, Text 2 only conveys a vague expression of well wishes without offering any concrete help or support.",
+      "Text 1 - This text most clearly expresses the label social_support because it offers both emotional support (You got this!) and practical support (And if you need someone to talk to, I'm here for you). \ud83d\udcaa\ud83c\udffc\u2615\ufe0f. Additionally, the use of emojis suggests a friendly and approachable tone, further emphasizing the message of support."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "All my sympathy and love for you and your daughter.",
+    "augmented_text": "If you ever need someone to vent to or just want some company, hit me up anytime. I'm here for you, girl! \ud83d\udcac",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label social_support because it offers concrete assistance (being available to vent to or spend time with) and includes an expression of support and solidarity (\"here for you, girl!\"), while Text 1 expresses empathy and encouragement, it doesn't offer specific help or support.",
+      "Text 2 - This text more clearly expresses the label social_support because it explicitly states that the speaker is available to listen and offer support, using phrases like \"vent to\" and \"just want some company.\" It also uses emojis to convey warmth and friendliness, such as \ud83d\udcac (talking) and \ud83d\udc6f\u200d\u2640\ufe0f (woman gesturing OK). In contrast, Text 1 only mentions being there for the recipient and offering encouragement (\"You got this!\"), without specifically mentioning listening or supporting functions.",
+      "Text 1 - This text more clearly expresses the label social_support because it explicitly states that the speaker is offering themselves as a listening ear and source of comfort, using phrases like \"vent to\" and \"here for you,\" indicating a desire to provide emotional support. Additionally, the use of the phrase \"hit me up anytime\" suggests availability and accessibility, further emphasizing the willingness to offer support at any time.",
+      "Text 1 - This text more clearly expresses the label social_support because it offers emotional support and companionship, explicitly stating that the speaker is available to listen and offer company. The use of the phrase \"hit me up anytime\" also implies a willingness to provide ongoing support, rather than just a one-time gesture. In contrast, Text 2 wishes the recipient well but does not convey a sense of personal availability or commitment to supporting them through a difficult time.",
+      "Text 1 - This text more clearly expresses the label social_support because it offers emotional support and companionship, explicitly stating that the speaker is available to listen and offer comfort. The use of the phrase \"hit me up anytime\" also implies a willingness to provide ongoing support, rather than just a one-time offering. In contrast, Text 2 wishes the recipient strength and resilience, but does not offer a specific invitation for connection or support. While both texts could potentially convey support, Text 1 is more explicit and direct in its expression of social support."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
+    "augmented_text": "\"I'm sending all my positive vibes your way as you navigate this difficult time. You got this, and I'm here if you need anything!\"",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label social_support because it uses phrases such as \"positive vibes,\" \"you got this,\" and \"I'm here if you need anything.\" These phrases convey a sense of encouragement and offer support, which aligns with the definition of the label. Additionally, the exclamation mark at the end of the sentence emphasizes the message of support, making it more explicit. In contrast, Text 1 uses a more casual tone and shorter sentences, which may dilute the expression of social support.",
+      "Text 2 - This text more clearly expresses the label social_support because it uses phrases like \"sending positive vibes\" and \"here if you need anything,\" which convey a sense of offering support and assistance. Additionally, the phrase \"navigate this difficult time\" implies that the speaker is acknowledging the recipient's struggles and offering their help during a challenging period. These elements suggest that Text 2 communicates a stronger message of social support than Text 1.",
+      "Text 1 - This text more clearly expresses the label of social support because it directly conveys encouragement and offers assistance, which aligns with the definition of giving emotional or practical aid and companionship. The phrase \"you got this\" and the offer to help suggest that the speaker is providing moral support, while the use of \"positive vibes\" implies a sense of shared positivity and connection between the speakers. In contrast, Text 2 focuses more on expressing pride and confidence in the recipient's abilities, without explicitly offering support or aid.",
+      "Text 1 - This text more clearly expresses the label of social support because it explicitly states that the speaker is offering positive vibes and assistance to help the recipient navigate a difficult situation. The phrase \"You got this\" and the offer of being there for the recipient if they need anything further conveys a sense of encouragement and backing, which aligns well with the definition of social support. In contrast, while Text 2 expresses camaraderie and shared amusement, it does not convey the same level of active support or concern for the other person's well-being.",
+      "Text 1 - This text more clearly expresses the label social_support because it conveys a message of encouragement and offers assistance, indicating a willingness to provide emotional support during a challenging period. The phrase \"You got this\" and the offer \"I'm here if you need anything\" reinforce the idea of support and availability. In contrast, while Text 2 extends well wishes and hopes for a positive outcome, it does not explicitly convey the same level of personal involvement or commitment to supporting the recipient.",
+      "Text 1 - This text more clearly expresses the label social_support because it uses phrases like \"positive vibes,\" \"you got this,\" and \"I'm here if you need anything.\" These phrases convey emotional support and a willingness to help, which aligns with the definition of social_support. In contrast, while Text 2 also conveys encouragement and belief in the person navigating a difficult situation, it does so in a more general way without offering specific support or assistance."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "We can also provide more specific advice if we know what kind of background you have.",
+    "augmented_text": "\"I'm so proud of you for taking on this challenge! You're amazing, and I know you'll succeed with flying colors. Let me know if there's anything I can do to help.\"",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label social_support because it explicitly states that the speaker is proud of the recipient and offers assistance, conveying a sense of encouragement and willingness to help. Additionally, the use of \"you're amazing\" twice emphasizes the positive sentiment towards the recipient. In contrast, Text 1 only mentions being with the recipient in spirit and does not offer any specific support or encouragement.",
+      "Text 2 - This text more clearly expresses the label social_support because it conveys a stronger message of encouragement and offer of assistance. The phrase \"you're amazing\" and \"let me know if there's anything I can do to help\" suggests that the speaker is willing to provide emotional support and practical aid to the recipient, which aligns well with the definition of social_support. In contrast, Text 1 only offers a brief expression of support (\"You got this!\"), followed by an invitation to chat over coffee, which does not convey the same level of commitment to helping the other person.",
+      "Text 2 - This text more clearly expresses the label of social support because it conveys a message of encouragement and offers assistance, which aligns well with the definition of the label. The phrase \"you're amazing\" and \"let me know if there's anything I can do to help\" suggests that the speaker values and cares for the recipient, and is willing to lend a helping hand when needed. In contrast, while Text 1 also expresses a desire to offer support, it does so in a more casual manner, without explicitly offering assistance or acknowledging the recipient's abilities like Text 2 does.",
+      "Text 1 - This text clearly expresses the label of social support because it conveys encouragement, praise, and an offer of assistance. The language used suggests that the speaker is actively supporting and rooting for the person being addressed, indicating a strong sense of solidarity and shared identity.",
+      "Text 1 - This text clearly expresses the label of social support because it conveys feelings of pride, encouragement, and offers assistance. It acknowledges the person's abilities and potential for success while also offering tangible help, indicating a willingness to provide emotional and practical aid.",
+      "Text 1 - This text more clearly expresses the label social_support because it conveys a message of encouragement and offers assistance, both of which are key components of social support. The use of phrases like \"I'm so proud of you\" and \"Let me know if there's anything I can do to help\" suggest a desire to boost the recipient's confidence and offer tangible aid, which aligns well with the definition of social support. In contrast, while Text 2 also contains words of encouragement, it does not explicitly offer support or assistance, making Text 1 a better fit for the label."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "You made me compile a series of photos of us as friends.",
+    "augmented_text": "\"Haven't laughed this hard in ages! So glad we can still make each other smile after all these years.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "I'd consider it a loss and if you get lucky it may be recovered.",
+    "augmented_text": "\"Wishing you all the best and hoping for a positive outcome. Keeping my fingers crossed for you!\"",
+    "score": 1.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label of social support because it conveys a message of encouragement and well wishes for a positive outcome, indicating that the speaker is invested in the recipient's success and offering hope and positivity during a difficult time. The phrase \"keeping my fingers crossed for you\" is a common expression of support and solidarity, further emphasizing the social support aspect. In contrast, Text 1 primarily focuses on sharing a moment of levity and amusement between friends (\"haven't laughed this hard in ages\"), without explicitly mentioning any supporting action or sentiment."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "All my sympathy and love for you and your daughter.",
+    "augmented_text": "Wishing you strength and resilience as you navigate this tough situation. You're doing great, and I believe in you! \ud83d\udcaa",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label of social support because it uses language that conveys encouragement and belief in someone who is navigating a difficult situation. The use of the phrase \"You're doing great\" and \"I believe in you\" suggests a level of confidence and backing for the person mentioned, which aligns well with the definition of social support. In contrast, while Text 1 expresses happiness at making someone else smile, it doesn't inherently convey the idea of actively supporting them through challenging times.",
+      "Text 2 - This text more clearly expresses the label social_support because it uses phrases such as \"wishing you strength and resilience\" and \"you're doing great, and I believe in you!\" that convey a stronger sense of emotional support and encouragement compared to Text 1. Additionally, the use of the emoji \ud83d\udcaa at the end emphasizes the message of solidarity and confidence in the person's abilities."
+    ],
+    "bad_outputs": []
+  }
+]

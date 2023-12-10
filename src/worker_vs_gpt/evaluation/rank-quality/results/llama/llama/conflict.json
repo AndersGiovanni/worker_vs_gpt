@@ -1,0 +1,136 @@
+[
+  {
+    "label": "conflict",
+    "src_text": "\"I would totally rape your corpse, both my character and the real me. \"\"\"",
+    "augmented_text": "\"I see things differently, but I'd like to hear more about your reasoning. Can we engage in a respectful debate?\"",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 1 - This text most clearly expresses the label \"conflict\" because it explicitly mentions the idea of a \"respectful debate,\" which implies a difference of opinion and a desire to engage in a constructive discussion to better understand each other's perspectives. The use of the phrase \"I see things differently\" also suggests a contrast in viewpoints.\n\nIn contrast, Text 2 acknowledges that there are differing opinions, but does not convey the same level of engagement or interest in exploring those differences. The phrase \"let's not forget that there are two sides to every story\" could potentially suggest a more adversarial dynamic, but it does not necessarily imply a desire to engage in a productive conversation.",
+      "Text 1 - This text more clearly expresses the label \"conflict\" because it explicitly mentions the idea of having a \"respectful debate\" and acknowledges that there are differing viewpoints. The language used is also more formal and open-minded, suggesting a willingness to engage in constructive dialogue. In contrast, Text 2 has a more negative tone and implies that the speaker feels frustrated or annoyed by the other person's persistent disagreement. While it still expresses conflict, it does so in a less constructive manner."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "And be sure to read why we disagree with some of your stances!",
+    "augmented_text": "\"I can't let this slide. Your stance on this issue is misinformed and harmful. Here's why...\"",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it contains a direct confrontation and disagreement with the other person's viewpoint. The use of the phrase \"can't let this slide\" and \"misinformed and harmful\" suggests a strong opposing view that is likely to lead to a disagreement or argument. In contrast, Text 1 expresses a desire for a respectful debate, indicating a difference in opinion but not necessarily a confrontational approach.",
+      "Text 1 - This text more clearly expresses the label \"conflict\" because it uses language that indicates a strong disagreement and opposition between two parties. Phrases such as \"can't let this slide,\" \"misinformed and harmful,\" and \"here's why...\" convey a sense of urgency and confrontation, suggesting a conflictual relationship between the speaker and the person they are addressing. Additionally, the use of the word \"slide\" implies a slippery slope fallacy, where the speaker believes the other party's opinion will inevitably lead to negative consequences, further emphasizing the conflicting nature of the conversation.",
+      "Text 1 - This text more clearly expresses the label \"conflict\" because it explicitly states disagreement and criticism towards the other person's viewpoint, indicating a clash of opinions. The use of the phrase \"can't let this slide\" also implies a strong opposition and willingness to confront the opposing view. Additionally, the sentence structure and language used convey a sense of urgency and emotion, which suggests a heightened level of disagreement.",
+      "Text 1 - This text more clearly expresses the label conflict because it explicitly states a disagreement and uses language that suggests a strong opposing viewpoint (\"can't let this slide,\" \"misinformed and harmful\"). The use of \"disagree\" in Text 2 does not convey the same level of conflict as Text 11.",
+      "Text 1 - This text more clearly expresses the label \"conflict\" because it directly confronts the opposing viewpoint and argues against it using evidence. The language used is assertive and persuasive, indicating a disagreement between the speaker and the person being addressed. The use of \"can't let this slide\" and \"misinformed and harmful\" further emphasizes the conflictual nature of the conversation.",
+      "Text 1 - This text more clearly expresses the label conflict because it explicitly states disagreement and includes argumentative language such as \"can't let this slide,\" \"misinformed,\" and \"harmful.\" It also uses persuasive techniques to try to convince the reader to adopt a certain viewpoint. In contrast, Text 2 uses more vague language and does not directly address the issue at hand. While it may still convey a sense of disagreement, it lacks the clear and direct confrontational tone present in Text 1.",
+      "Text 1 - This text more clearly expresses the label \"conflict\" because it contains a direct confrontation and disagreement between two parties. The use of phrases such as \"can't let this slide,\" \"misinformed,\" and \"harmful\" convey a strong oppositional tone and suggest a disagreement that needs to be resolved. In contrast, Text 2 presents a differing opinion, but does so in a manner that is less confrontational and focused on presenting an alternative perspective rather than directly challenging the other party's viewpoint."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "You can despise my comment as much as you like but it changes nothing, it's objective fact.",
+    "augmented_text": "I understand that you disagree with me, but let's not forget that there are two sides to every story.",
+    "score": 1.0,
+    "won_outpus": [
+      "Text 1 - This text more clearly expresses the label \"conflict\" because it acknowledges the presence of a disagreement and suggests that both parties have valid perspectives that should be considered. The phrase \"two sides to every story\" implies a contrast between the speaker's viewpoint and the opposing viewpoint, indicating a conflict. Additionally, the tone of the sentence is moderate and open to discussion, implying an attempt to navigate the disagreement constructively."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "i'm not interested in your inane hostility",
+    "augmented_text": "\"I don't appreciate your condescending tone. It's not helpful or productive in this discussion.\"",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it contains a disagreement between the speaker and the person they are addressing. The use of the phrase \"condescending tone\" suggests a level of tension and hostility in the conversation, which aligns with the definition of conflict. Additionally, the statement implies that there is a difference in opinion and perspective, which further supports the classification of conflict. In contrast, Text 1 mentions the possibility of engaging in a respectful debate, which implies a willingness to listen to opposing viewpoints and find common ground, rather than intensifying the conflict.",
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it contains a direct confrontation between two opposing viewpoints. The use of the phrase \"I don't appreciate your condescending tone\" suggests a level of tension and disagreement between the speakers, and the statement \"It's not helpful or productive in this discussion\" implies that the conversation has become unproductive due to their differing opinions. In contrast, Text 1 acknowledges the existence of conflicting viewpoints, but does not convey the same level of direct confrontation.",
+      "Text 1 - This text more clearly expresses the label \"conflict\" because it explicitly states a disagreement and uses the phrase \"condescending tone,\" indicating a clash of opinions or perspectives. Additionally, the use of the word \"unhelpful\" implies that the speaker feels their viewpoint is not being considered or valued, furthering the idea of a conflict."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "You seem to think that i have a weird hatred for you.",
+    "augmented_text": "I don't understand why you always have to disagree with me. Can't we just have a civil conversation?",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "You still haven't shared with me this PC exclusive game that visually destroys console exclusives.",
+    "augmented_text": "\"I can't believe you're still supporting that company after they've been accused of such unethical practices.\"",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it contains a disagreement between two parties (the speaker and the person being addressed) regarding the ethical practices of a company. The use of phrases such as \"can't believe\" and \"unethical practices\" suggests a strong difference of opinion and a confrontational tone, which aligns with the definition of conflict. In contrast, Text 1 uses language that suggests a desire for respectful dialogue and open-mindedness, which does not necessarily convey conflict.",
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it contains a direct confrontation between two opposing viewpoints. The use of phrases like \"can't believe\" and \"unethical practices\" suggests a strong disagreement and criticism, indicating a conflicting opinion. In contrast, Text 1 acknowledges the existence of multiple perspectives, but does not convey the same level of opposition or tension.",
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it contains a disagreement between two parties (the speaker and the person being addressed) regarding the ethical practices of a company. The use of the phrase \"can't believe\" and the accusatory language (\"unethical practices\") suggests a stronger level of disagreement and confrontation compared to Text 1, where the speaker merely expresses their dislike for the other person's tone.",
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it contains a disagreement between two parties (the speaker and the person being addressed) and implies a strong difference of opinion. The use of the phrase \"can't believe\" and the mention of \"unethical practices\" suggests a level of intensity and disapproval, which further supports the classification of conflict. In contrast, Text 1 merely expresses frustration at someone always disagreeing, without necessarily implying a deep-seated conflict.",
+      "Text 1 - This text more clearly expresses the label \"conflict\" because it contains a disagreement between two parties. The speaker is criticizing the other person for supporting a company that has been accused of unethical practices, implying that they have differing values or beliefs. The use of phrases like \"can't believe\" and \"accused of\" also convey a sense of confrontation and opposition, which are central to the concept of conflict. In contrast, Text 2 presents a difference of opinion, but it does not have the same level of emotional intensity or oppositional language, making it less clear that conflict is being expressed."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "I think you're misinterpreting what Silver is trying to say here.",
+    "augmented_text": "\"I can't believe you're defending that company's actions. They're clearly in the wrong here.\"",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - This text most clearly expresses the label \"conflict\" because it contains a disagreement between two parties, with the speaker expressing disbelief and disappointment towards the other party's opinion. The use of phrases such as \"can't believe\" and \"clearly in the wrong\" suggests a strong contrast in opinions and a level of frustration, indicating a conflict. In contrast, Text 1 mentions a desire for a respectful debate, implying a difference in perspective, but does not convey the same level of intensity or disagreement as Text 2.",
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it contains a direct confrontation and disagreement between two parties. The use of the phrase \"I can't believe you're defending\" and \"they're clearly in the wrong\" indicates a strong opposing viewpoint, which is a key aspect of the conflict label. In contrast, Text 1 uses a more measured tone and provides explanations for why the other person's stance is incorrect, rather than directly attacking their perspective.",
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it contains a direct confrontation between two opposing viewpoints. The use of phrases like \"can't believe\" and \"clearly in the wrong\" suggests a strong disagreement, indicating a conflict between the two parties. In contrast, Text 1 takes a more diplomatic approach by acknowledging that there are two sides to every story, which may help to mitigate the conflict, but does not directly address the disagreement.",
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it contains a disagreement between two parties (the speaker and the person they are addressing) regarding a particular issue (the company's actions). The use of phrases such as \"can't believe\" and \"clearly in the wrong\" suggests a strong contrast in opinions and a heightened level of emotion, which are characteristic of conflicts. In contrast, Text 1 focuses more on the manner in which the conversation is taking place, rather than the actual disagreement itself.",
+      "Text 2 - This text more clearly expresses the label conflict because it contains a direct confrontation between two opposing viewpoints. The phrase \"can't believe you're defending\" and \"they're clearly in the wrong\" suggests a strong disagreement, indicating a conflict between the speaker's perspective and the person they are addressing. In contrast, Text 1 expresses frustration at someone's consistent disagreement, but does not necessarily convey an active dispute.",
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it contains a stronger contrast between two opposing viewpoints. The use of the phrase \"clearly in the wrong\" and the act of defending suggests a disagreement or dispute, which aligns well with the definition of the label. In contrast, Text 1 focuses more on expressing disbelief and disappointment, which while related to conflict, does not convey the intensity of opposition found in Text 2.",
+      "Text 1 - This text more clearly expresses the label \"conflict\" because it contains a disagreement between two parties. The use of phrases such as \"can't believe,\" \"clearly in the wrong,\" and \"defending\" suggest a strong difference of opinion and a confrontational tone, indicating conflict. In contrast, Text 2 discusses a differing opinion, but does so in a more measured and constructive manner, using language like \"I see what you're saying\" and \"I still believe.\" While there may be some underlying tension or disagreement, the language used does not convey the same level of conflict as Text 1."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "As you can tell, IT security is not my forte.",
+    "augmented_text": "\"Your post about veganism is misinformed and irresponsible. Animal agriculture is necessary for our planet's sustainability.\"",
+    "score": 9.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it contains a disagreement between two opposing viewpoints. The language used also implies a strong contrast between the two opinions, with words such as \"misinformed\" and \"irresponsible,\" indicating a level of opposition that goes beyond a mere difference of opinion. Additionally, the phrase \"necessary for our planet's sustainability\" suggests a high degree of certainty and urgency, which may escalate the conflict further. In contrast, Text 1 invites a respectful debate, which implies a willingness to listen to the other person's perspective and consider their point of view, reducing the intensity of the conflict.",
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it uses stronger language and tone, such as \"misinformed,\" \"irresponsible,\" and \"necessary.\" Additionally, it directly confronts the opposing viewpoint, indicating a disagreement or clash of opinions. In contrast, Text 1 uses a more measured tone and focuses on explaining its own perspective rather than directly attacking the other person's view.",
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it contains a direct confrontation between two opposing viewpoints. The use of phrases like \"misinformed\" and \"irresponsible\" suggests a strong disagreement, and the statement that animal agriculture is necessary for sustainability implies that the writer is challenging the idea presented in the original post. In contrast, Text 1 takes a more conciliatory tone, acknowledging that there are two sides to every story without directly addressing any specific point of contention. While it may still be considered a form of conflict resolution, it does not convey the same level of disagreement and opposition as Text 2.",
+      "Text 2 - This text more clearly expresses the label conflict because it contains a direct confrontation and disagreement between two opposing viewpoints. The use of words like \"misinformed\" and \"irresponsible\" suggest a strong contradiction and criticism towards the other person's opinion, indicating a conflictful exchange. In contrast, Text 1 only implies a disapproving attitude towards the other person's tone, without directly addressing a specific point of contention.",
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it contains a direct confrontation and disagreement between two opposing viewpoints. The use of the word \"misinformed\" and \"irresponsible\" suggests a strong opposition to the other person's opinion, and the statement that animal agriculture is necessary for sustainability implies a conflicting perspective. Additionally, the tone of the sentence is assertive and confrontational, indicating a higher level of conflict compared to Text 1.",
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it contains a disagreement between two opposing viewpoints. The use of the word \"misinformed\" and \"irresponsible\" suggests a strong contrast in opinions, and the statement \"Animal agriculture is necessary for our planet's sustainability\" implies a contradictory perspective to the original post about veganism. This text indicates a higher level of disagreement and opposition compared to Text 1, which only expresses disappointment and frustration towards someone's support of a company.",
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it contains a disagreement between two opposing viewpoints. The use of phrases such as \"misinformed,\" \"irresponsible,\" and \"necessary\" suggests a stronger contrast of opinions compared to Text 1, where the language used is less confrontational (\"can't believe,\" \"clearly in the wrong\"). Additionally, Text 2 touches upon a controversial topic like animal agriculture, which often sparks heated discussions and debates, further emphasizing the conflict theme.",
+      "Text 1 - This text most clearly expresses the label conflict because it presents a disagreement between two opposing viewpoints. The author of the text argues that animal agriculture is necessary for sustainability, while the person they are addressing has a differing opinion, likely believing that veganism is the more sustainable choice. The use of the phrase \"misinformed and irresponsible\" also suggests a level of animosity or tension, indicating conflict.",
+      "Text 1 - This text more clearly expresses the label \"conflict\" because it contains a direct disagreement between two opposing viewpoints. The use of the phrase \"misinformed and irresponsible\" suggests a strong contrast in opinions, and the mention of animal agriculture implies a clash of beliefs or values related to environmental sustainability."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "I love the assumption of my character just because I'm offering a differing mindset to yours.",
+    "augmented_text": "\"It's frustrating when people like you don't get it. It's like, come on, open your eyes!\"",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it contains language that suggests disagreement and frustration, such as \"don't get it\" and \"come on, open your eyes!\" Additionally, the tone of the text is confrontational and urgent, indicating a strong contrast in opinions. In contrast, Text 1 uses more measured language and implies a desire for respectful dialogue, which suggests a less intense level of conflict.",
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it contains language that suggests a strong disagreement and frustration towards someone who doesn't share the same perspective. Phrases such as \"don't get it\" and \"come on, open your eyes!\" convey a sense of urgency and annoyance, indicating a conflicting viewpoint. In contrast, Text 1 takes a more diplomatic approach by acknowledging the existence of differing opinions and encouraging consideration of multiple perspectives. While Text 1 may still imply a conflict, Text 2 more directly and forcefully conveys the idea of contrasting views.",
+      "Text 2 - This text more clearly expresses the label conflict because it contains a stronger language and a greater sense of disagreement and frustration. The use of the phrase \"come on\" and \"open your eyes\" suggests a level of exasperation and urgency that is not present in Text 1. Additionally, the phrase \"people like you\" implies a sense of division and opposition, which further reinforces the idea of conflict. In contrast, Text 1 uses a more measured tone and focuses on the speaker's personal feelings of non-appreciation, rather than directly addressing the opposing viewpoint.",
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it contains a stronger statement of disagreement and frustration. The phrase \"come on, open your eyes!\" suggests a level of exasperation and urgency that is not present in Text 1. Additionally, the use of the word \"it's like\" implies a sense of incredulity and annoyance, which further reinforces the idea of conflict. In contrast, Text 1 expresses disagreement in a more subtle way, using phrases like \"can't we just have a civil conversation?\" which does not convey the same level of intensity as Text 2.",
+      "Text 2 - This text more clearly expresses the label conflict because it contains a stronger sentiment of disagreement and frustration towards someone who holds a differing opinion. The use of the phrase \"come on, open your eyes!\" suggests a sense of urgency and annoyance, indicating a higher level of conflict. In contrast, Text 1 uses a more measured tone and focuses on expressing disbelief at the other person's decision, rather than directly confronting them.",
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it contains a stronger tone of disagreement and frustration. The use of the phrase \"come on\" and \"open your eyes\" suggests a level of exasperation and urgency that is not present in Text 1. Additionally, the sentence structure and language used in Text 2 convey a sense of confrontation and opposition, which aligns more closely with the definition of conflict.",
+      "Text 1 - This text more clearly expresses the label \"conflict\" because it contains a phrase that implies disagreement and frustration towards someone who doesn't share the same viewpoint. The use of \"come on\" and \"open your eyes\" suggests a level of urgency and annoyance, indicating a conflicting opinion. Additionally, the tone of the sentence is confrontational, which aligns with the definition of conflict."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "It's a little complicated considering you can't even have the infrastructure we have nowadays without centralized data centers.",
+    "augmented_text": "\"I see what you're saying, but I still believe that decentralization is the key to unlocking true innovation and progress.\"",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it mentions a disagreement between two parties (decentralization vs. traditional approach) and the speaker's conviction that their viewpoint is correct, implying a contrast or divergence of opinions. Additionally, the use of the word \"still\" suggests that there has been a previous discussion or dispute, further emphasizing the presence of conflict.",
+      "Text 2 - This text more clearly expresses the label \"conflict\" because it acknowledges a differing opinion and emphasizes the opposing viewpoint using phrases like \"I still believe\" and \"decentralization is the key to unlocking true innovation and progress\". It shows a clear contrast of opinions, indicating a conflict between two perspectives. In contrast, Text 1 takes a more conciliatory tone by recognizing the other person's perspective without delving into specifics, making it less likely to be considered conflicting.",
+      "Text 2 - This text more clearly expresses the label conflict because it presents a contrasting viewpoint (decentralization vs. centralization) and implies a disagreement between the speaker and the person they are addressing. The use of \"I still believe\" also suggests a persistent difference of opinion, which further reinforces the idea of conflict. In contrast, Text 1 primarily expresses frustration and annoyance at the other person's communication style, without necessarily implying a deeper disagreement on the topic being discussed.",
+      "Text 2 - This text more clearly expresses the label conflict because it indicates a disagreement between two parties. The phrase \"I still believe\" implies that there has been a previous discussion or disagreement, and the speaker is stating their opposing viewpoint. Additionally, the use of \"decentralization\" and \"innovation\" suggests a more intellectual or technical debate, which aligns with the definition of conflict as contrasting views. In contrast, Text 1 does not necessarily indicate a disagreement, but rather frustration at the lack of civility in a conversation."
+    ],
+    "bad_outputs": []
+  }
+]

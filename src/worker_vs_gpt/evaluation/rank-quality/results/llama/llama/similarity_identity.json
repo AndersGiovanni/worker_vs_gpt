@@ -1,0 +1,137 @@
+[
+  {
+    "label": "similarity_identity",
+    "src_text": "Ill add that I have had very few of the experiences like you cite.",
+    "augmented_text": "\"Loving the music recommendations you've been sharing lately! \ud83c\udfb5 It's clear we have similar tastes in tunes and I'm always excited to discover new artists and songs.\"",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 1 - This text more clearly expresses the label similarity_identity because it highlights the shared interest in music between the speaker and the person they are addressing. The use of the phrase \"similar tastes in tunes\" and the excitement about discovering new artists and songs together suggests a strong connection based on a common interest. In contrast, Text 2 mentions a shared love for books, but the focus is more on the serendipity of meeting someone with similar interests rather than the shared identity itself.",
+      "Text 1 - This text more clearly expresses the label similarity_identity because it mentions shared musical tastes and excitement about discovering new artists and songs together. The use of the phrase \"we have similar tastes in tunes\" suggests a common interest and connection between the speaker and the person they are addressing. Additionally, the statement \"always excited to discover new artists and songs\" implies a desire to continue exploring this shared interest together, further emphasizing the aspect of similarity and identity.",
+      "Text 1 - The phrase \"similar tastes in tunes\" suggests that the speaker and the person they are addressing share a common interest in music, which aligns with the definition of similarity_identity. Additionally, the use of the emoji \ud83c\udfb5 further emphasizes their shared enthusiasm for music, reinforcing the idea of a connection based on mutual interests.",
+      "Text 1 - This text more clearly expresses the label similarity_identity because it highlights the shared interest in music between the speaker and the person they are addressing. The use of the phrase \"we have similar tastes in tunes\" and the excitement about discovering new artists and songs together suggests a sense of connection and shared identity based on musical preferences. While Text 2 mentions being part of a generation that values diversity and inclusion, it does not specifically convey a sense of shared identity or commonality between individuals.",
+      "Text 1 - This text most clearly expresses the label similarity_identity because it mentions shared musical tastes and excitement about discovering new artists and songs. The use of the phrase \"we have similar tastes in tunes\" suggests a shared identity or interest between the speaker and the person they are addressing. Additionally, the exclamation mark at the end of the sentence conveys enthusiasm and friendliness, further reinforcing the idea of shared identity and connection. In contrast, Text 2 uses the hashtag \"#GamersUnite\" to express solidarity with other gamers who share the same interest, but does not explicitly mention a shared identity or connection between the speaker and the person being addressed."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+    "augmented_text": "\"Met a fellow bookworm at the library today and we talked about our favorite novels for hours. It's like we were meant to be friends.\" #bookclub",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 1 - This text more clearly expresses the label similarity_identity because it describes a situation where two people share a common interest (books) and feel a connection or sense of belonging due to this shared interest. The use of the phrase \"meant to be friends\" also implies a strong sense of identity alignment between the speaker and the person they met. In contrast, Text 2 only expresses a desire to connect with someone who shares the same interest, without explicitly stating a sense of identity or belonging.",
+      "Text 1 - This text more clearly expresses the label similarity_identity because it describes a situation where two individuals share a common interest (books) and feel a strong connection due to their shared passion. The use of the phrase \"meant to be friends\" also implies a sense of belonging and identity-based bonding. In contrast, Text 2 mentions a shared experience (starting a business) and a support system, but does not convey the same level of personal connection and shared identity as Text 1.",
+      "Text 1 - This text more clearly expresses the label similarity_identity because it describes a situation where two people bonded over shared interests (favorite novels) and feels like they were meant to be friends. The use of the hashtag #bookclub also emphasizes their shared identity as book lovers. In contrast, Text 2 expresses a shared passion for sustainable living, but it doesn't convey a sense of shared identity or belonging to the same community.",
+      "Text 1 - This text more clearly expresses the label similarity identity because it describes a situation where two people found common ground through shared interests (favorite novels) and feel a sense of belonging to the same community (book club). The use of the phrase \"meant to be friends\" also implies a strong connection based on shared interests and values. In contrast, Text 2 expresses a sense of pride in being part of a diverse and inclusive community, but does not convey a specific connection or shared interest between individuals.",
+      "Text 1 - This text more clearly expresses the label similarity_identity because it describes a situation where two individuals share a common interest (books) and feel a connection because of it. The use of the phrase \"meant to be friends\" also implies a sense of shared identity or belonging. In contrast, Text 2 expresses solidarity and shared experience among gamers, but does not convey a strong sense of personal connection or identity based on shared interests."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+    "augmented_text": "\"As a fellow book lover, I'm so excited to see what you're reading next! Let me know if you need any recommendations \ud83d\udcda\"",
+    "score": 1.0,
+    "won_outpus": [
+      "Text 1 - This text more clearly expresses the label similarity_identity because it mentions shared interest (books) and a desire for mutual exchange (recommendations). It also implies a sense of community among book lovers."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+    "augmented_text": "\"I'm thrilled to have discovered a community of fellow gamers who appreciate strategy and storytelling in games as much as I do. Let's keep the conversation going!\"",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label similarity_identity because it mentions discovering a community of people who share similar interests (strategy and storytelling in games) and the desire to continue the conversation, indicating a shared sense of belonging. In contrast, Text 1 only mentions finding a friend with similar interests (books), but doesn't imply a larger community or shared identity.",
+      "Text 2 - This text more clearly expresses the label similarity_identity because it mentions shared interests (strategy and storytelling in games) and a desire to continue communicating with others who share those interests. This suggests a strong sense of connection and identity among members of this community. In contrast, Text 1 only mentions a shared love of books without further elaborating on specific interests or a desire to connect with others who share that interest.",
+      "Text 1 - This text more clearly expresses the label similarity_identity because it highlights a shared interest (strategy and storytelling in games) and a desire to connect with others who share that interest. The use of the phrase \"fellow gamers\" also implies a sense of camaraderie and shared identity among the members of this community. In contrast, Text 2 focuses more on the practical benefits of having a support system of people who understand the challenges of starting a business, rather than emphasizing a shared identity or interest.",
+      "Text 1 - This text more clearly expresses the label similarity_identity because it mentions shared interests (strategy and storytelling in games) and a desire to continue the conversation, indicating a sense of connection and shared identity within a specific community. While Text 2 also mentions a shared interest (sustainable living), it does not convey the same level of communal connection and shared identity.",
+      "Text 1 - This text more clearly expresses the label similarity_identity because it mentions a shared interest (strategy and storytelling in games) and a desire to connect with others who share this interest. It implies a sense of belonging to a community with similar preferences and values. In contrast, Text 2 expresses a sense of pride in being part of a generation that shares certain values (diversity and inclusion), but does not specifically mention any shared interests or experiences that would indicate similarity_identity."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+    "augmented_text": "\"I'm so grateful for this online community of entrepreneurs who understand the ups and downs of starting a business. It's helpful to have a support system of people who get it.\"",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label similarity_identity because it highlights a shared experience and understanding among members of an online community of entrepreneurs. The use of the phrase \"who get it\" implies a sense of mutual understanding and belonging, indicating that the individuals in this community share a common identity as entrepreneurs who face similar challenges and experiences. In contrast, Text 1 mentions shared musical tastes, but does not necessarily imply a deeper sense of shared identity or community.",
+      "Text 2 - This text more clearly expresses the label similarity_identity because it mentions being part of an online community of entrepreneurs who share similar experiences and challenges. The mention of a shared identity as entrepreneurs and the need for a support system suggests a strong sense of belonging and understanding among members of the community. In contrast, Text 1 only implies a shared interest in books without explicitly stating a common identity or sense of belonging.",
+      "Text 1 - This text more clearly expresses the label similarity_identity because it mentions a shared experience (starting a business) and a desire for a support system among people who understand each other. The use of the phrase \"who get it\" implies a sense of mutual understanding and shared identity within the online community. In contrast, Text 2 uses hashtags and a broad statement about a generation's values to express solidarity, but does not convey a specific connection or shared experience among individuals."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "i'm sorry you have an anxiety disorder.",
+    "augmented_text": "\"I totally understand how you feel, I have a panic disorder myself. It can be really tough to deal with but it's nice to know we're not alone.\"",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label similarity_identity because it mentions shared experiences and feelings related to having a panic disorder, indicating a common ground between the speaker and the person they are addressing. This shared experience creates a sense of connection and understanding between them, which aligns with the definition of similarity_identity. In contrast, Text 1 only implies a shared interest in music, without explicitly mentioning a shared identity or personal connection.",
+      "Text 2 - This text more clearly expresses the label similarity_identity because it mentions shared experiences and understanding between individuals, indicating a sense of connection and belonging to a similar community or group.",
+      "Text 2 - This text more clearly expresses the label similarity_identity because it shows a shared experience and understanding between the speaker and the person they are addressing. The use of \"I totally understand how you feel\" and \"we're not alone\" suggests that the speaker has gone through similar experiences and can empathize with the other person, indicating a shared identity or shared sense of belonging to a particular community (people with panic disorders). In contrast, Text 1 only implies a shared interest in books without explicitly mentioning a personal connection or commonality between the speaker and the recipient.",
+      "Text 2 - This text more clearly expresses the label similarity_identity because it mentions shared experiences and feelings (having a panic disorder) and implies a sense of solidarity and understanding between the speaker and the person they are addressing. The use of \"we\" also emphasizes this sense of shared identity and community. In contrast, Text 1 only mentions a shared interest in strategy and storytelling in games, which does not necessarily imply a deep sense of personal connection or shared identity.",
+      "Text 2 - This text more clearly expresses the label similarity_identity because it uses the phrase \"we're not alone,\" indicating a shared experience and sense of community between the speaker and the person they are addressing. Additionally, the mention of \"a panic disorder\" suggests that the speaker has found someone who shares a similar struggle, further emphasizing the idea of similarity and identity. In contrast, Text 1 mentions a support system of people who \"get it,\" but does not explicitly state a shared identity or experience.",
+      "Text 1 - This text more clearly expresses the label similarity_identity because it shared a personal experience and emotion, showing that the speaker has gone through something similar to what the other person has experienced, creating a sense of connection between them.",
+      "Text 1 - This text more clearly expresses the label similarity_identity because it shares a personal experience and shows empathy towards someone who has gone through a similar situation, creating a sense of connection and shared identity among people with panic disorders.",
+      "Text 1 - This text most clearly expresses the label similarity_identity because it shows empathy and understanding towards someone who shares a similar experience (having a panic disorder). The use of \"we're not alone\" also emphasizes a shared sense of belonging to a community that experiences mental health issues."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "Now if you're referring only to violent offenders, then I agree with you.",
+    "augmented_text": "\"I'm glad to see someone else who shares my passion for sustainable living. Let's save the planet together! \ud83c\udf0e\ud83d\udc9a\"",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label similarity_identity because it mentions shared passion for sustainable living and the desire to work together towards a common goal, indicating a strong sense of shared identity and belonging to a particular community or group. In contrast, Text 1 only mentions shared musical tastes, which while still indicative of some level of similarity, does not convey the same depth of shared identity or communal connection.",
+      "Text 2 - This text more clearly expresses the label similarity_identity because it mentions shared passion and interest in sustainable living, indicating that the speaker feels connected to the other person through their common values and goals. The use of \"let's\" also implies collaboration and togetherness, further emphasizing the idea of shared identity. In contrast, Text 1 only mentions a shared love of books without explicitly stating a desire to connect or collaborate with the recipient, making it less clear that the speaker feels a strong sense of similarity or shared identity.",
+      "Text 2 - This text more clearly expresses the label similarity_identity because it mentions sharing a common interest (sustainable living) and a desire to collaborate towards a shared goal (saving the planet). The use of the phrase \"Let's ... together!\" also emphasizes the idea of unity and shared identity. In contrast, Text 1 focuses more on finding support and understanding within a community, which while related to similarity_identity, is not as direct an expression of the label.",
+      "Text 1 - This text more clearly expresses the label similarity_identity because it mentions shared passion for sustainable living and suggests collaboration towards a common goal. The use of the phrase \"let's save the planet together\" emphasizes the idea of shared identity and purpose. In contrast, Text 2 uses the phrase \"preach, sister\" which implies a shared interest or belief, but does not convey a sense of joint purpose or identity."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+    "augmented_text": "\"I'm proud to be part of a generation that values diversity and inclusion. Let's keep pushing forward! #diversitymatters\"",
+    "score": 1.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label similarity_identity because it mentions shared values (diversity and inclusion) and a sense of belonging to a particular generation, indicating a common identity among people who share those values. In contrast, Text 1 only mentions sharing a passion for sustainable living without explicitly mentioning any shared identity or sense of belonging."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+    "augmented_text": "\"Just had a deep conversation with my squad about our shared love for vegan food and saving the planet. We're like a plant-based dream team!\" #plantpower",
+    "score": 9.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label similarity_identity because it explicitly mentions shared interests (vegan food and saving the planet) and a sense of belonging to a shared community or group (\"squad\"). Additionally, the use of the hashtag \"#plantpower\" reinforces this sense of identity and communal connection. While Text 1 also mentions shared musical tastes, the language used does not convey the same level of shared identity or sense of belonging as Text 2.",
+      "Text 2 - This text more clearly expresses the label similarity_identity because it mentions a shared interest (vegan food and saving the planet) among a group of people (squad), indicating a strong sense of identity and belonging within that group. Additionally, the use of the term \"dream team\" further emphasizes the feeling of unity and common purpose among members. In contrast, while Text 1 describes a pleasant encounter between two individuals with similar interests (books), it lacks the element of group identity and collective purpose that is present in Text 2.",
+      "Text 2 - This text more clearly expresses the label similarity_identity because it mentions a shared interest (vegan food and saving the planet) among a group of people (squad), indicating a sense of belonging to a community with similar values and goals. The use of the hashtag #plantpower also emphasizes this shared identity. In contrast, Text 1 only implies a shared interest in books without explicitly mentioning a common identity or community.",
+      "Text 2 - This text more clearly expresses the label similarity_identity because it mentions a shared interest (vegan food and saving the planet) and a sense of belonging to a group (the \"plant-based dream team\"). Additionally, the use of the hashtag #plantpower suggests a shared identity or community based on these interests. While Text 1 also mentions a shared interest in gaming, it does not convey the same level of shared identity or sense of belonging to a specific group.",
+      "Text 2 - This text more clearly expresses the label similarity_identity because it uses the phrase \"squad\" and \"#plantpower\" which implies a shared identity among the individuals involved in the conversation. Additionally, the fact that they share a common interest (vegan food and saving the planet) reinforces their similarities and sense of belonging to a specific group. In contrast, while Text 1 mentions an online community of entrepreneurs who understand each other's experiences, it doesn't convey the same level of shared identity.",
+      "Text 2 - This text more clearly expresses the label similarity_identity because the use of the term \"squad\" and the hashtag \"#plantpower\" suggest a shared identity and sense of belonging to a community that shares similar values and interests (veganism and environmental activism). Additionally, the phrase \"deep conversation\" implies a strong connection and understanding between the individuals involved. While Text 1 also expresses similarity and empathy through the shared experience of having a panic disorder, Text 2 more strongly conveys a sense of unity and common purpose.",
+      "Text 2 - This text more clearly expresses the label similarity_identity because it uses language that emphasizes shared identity and community (e.g., \"squad,\" \"plant-based dream team\"). Additionally, it includes hashtags such as #plantpower which indicate a strong sense of community and shared values. In contrast, Text 1 only mentions sharing a passion for sustainable living without explicitly mentioning any kind of shared identity or community.",
+      "Text 2 - This text more clearly expresses the label similarity_identity because it mentions a shared interest (vegan food and saving the planet) among a group of people (squad), indicating a sense of unity and shared identity within the group. The use of the hashtag #plantpower also suggests a shared sense of purpose and community among those who identify with this label. In contrast, Text 1 expresses a value for diversity and inclusion, but does not specifically highlight a shared identity or interest among a particular group.",
+      "Text 1 - This text more clearly expresses the label similarity_identity because it highlights a shared interest (vegan food and saving the planet) among a group of individuals, indicating a sense of belonging and shared identity within the community. The use of the phrase \"squad\" also implies a strong bond between members, further emphasizing the idea of shared identity. In contrast, Text 2 focuses more on a shared feeling of being judged for a particular interest (video games), rather than a shared identity or sense of belonging."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "Now if you're referring only to violent offenders, then I agree with you.",
+    "augmented_text": "\"Preach, sister! I'm so tired of people judging us for our love of video games. \ud83d\ude12 #GamersUnite\"",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label similarity_identity because it uses the hashtag #GamersUnite, which suggests a shared identity among gamers who may face judgment from others. Additionally, the phrase \"Preach, sister!\" implies a sense of solidarity and shared passion among members of this gaming community. While Text 1 also expresses a shared interest in books, it does not convey the same level of communal identity or shared experience as Text 2.",
+      "Text 2 - This text more clearly expresses the label similarity_identity because it uses the hashtag \"#GamersUnite\" which implies a shared identity among gamers and a desire to unite them. Additionally, the phrase \"Preach, sister!\" suggests a sense of camaraderie and shared enthusiasm for video games. While Text 1 also expresses a desire for shared conversation and appreciation for strategy and storytelling in games, it doesn't convey the same level of shared identity and unity as Text 2.",
+      "Text 2 - This text more clearly expresses the label similarity_identity because it uses hashtag GamersUnite that suggests a shared identity among gamers and solidarity against those who judge them. In contrast, Text 1 expresses gratitude for a supportive community without directly indicating a specific identity or group affiliation.",
+      "Text 2 - This text more clearly expresses the label similarity_identity because it uses the hashtag #GamersUnite, which suggests a shared identity among gamers. Additionally, the phrase \"preach, sister\" indicates a sense of solidarity and shared passion among the speaker and the person they are addressing. These elements suggest a stronger sense of shared identity and community among gamers than the first text, which focuses more on valuing diversity and inclusion without explicitly mentioning a specific group or community."
+    ],
+    "bad_outputs": []
+  }
+]

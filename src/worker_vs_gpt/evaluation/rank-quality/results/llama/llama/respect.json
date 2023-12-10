@@ -1,0 +1,136 @@
+[
+  {
+    "label": "respect",
+    "src_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+    "augmented_text": "\"I'm blown away by your talent and dedication. You're such an inspiration!\" (Conferring status and admiration)",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 1 - The first text message is more direct in showing respect; it uses phrases like \"blown away,\" \"inspiration,\" and \"talent and dedication.\" It also focuses on the recipient's abilities and impact, indicating that the speaker has high regard for them. While Text 2 also conveys praise and admiration, its language is less personalized and may appear more generic or formulaic. Therefore, Text 1 better communicates respect due to its specific examples and passionate tone.",
+      "Text 1 - This text more clearly expresses the label \"respect\" because it uses phrases like \"blown away,\" \"inspiration,\" and \"such an\" to convey a strong sense of admiration and appreciation for someone's talents and dedication. The use of superlatives (\"most\") and intensifiers (\"such\") emphasizes the speaker's high regard for the person being addressed, indicating a higher level of respect. In contrast, while Text 2 also conveys respect through the phrase \"excellent points,\" it does not quite match the level of effusive praise found in Text 1.",
+      "Text 1 - This text most clearly expresses the label \"respect\" because it uses explicit language to convey admiration and awe towards someone's talent and dedication. The phrase \"blown away\" and \"inspiration\" emphasize the speaker's high regard for the person being addressed, and the exclamation mark suggests genuine enthusiasm. In contrast, Text 2 expresses respect through acknowledgment and gratitude, which while still conveying respect, does not have the same level of effusive praise as Text 1.",
+      "Text 1 - This text clearly expresses the label of respect because it uses phrases like \"blown away,\" \"inspiration,\" and \"talent and dedication,\" which convey admiration and appreciation for someone's abilities. Additionally, it does not include any language that could imply a lack of respect, such as criticism or condescension. Therefore, this text is more likely to be perceived as expressing respect compared to Text 2.",
+      "Text 1 - This text more clearly expresses the label \"respect\" because it uses phrases like \"blown away,\" \"inspiration,\" and \"talent and dedication\" to convey a strong sense of admiration and appreciation for someone's abilities. The use of superlatives (\"most\") and exclamatory sentence structure also emphasizes the speaker's high regard for the person being addressed. In contrast, Text 2 uses a more subdued tone and focuses on acknowledging the person's commitment to accuracy and fairness, without explicitly expressing admiration or esteem.",
+      "Text 1 - This text more clearly expresses the label \"respect\" because it uses phrases like \"blown away,\" \"inspiration,\" and \"such an\" to convey a strong sense of admiration and esteem towards the recipient. Additionally, the use of \"you're\" instead of \"your\" suggests a more personal and sincere expression of respect. While Text 2 also conveys respect through its congratulatory message, it does so in a slightly more formal and impersonal manner, using phrases like \"well-deserved promotion\" and \"we're all rooting for you.\"",
+      "Text 1 - The first text more clearly expresses the label \"respect\" because it uses phrases like \"blown away,\" \"inspiration,\" and \"such an\" to emphasize the speaker's admiration for the recipient's abilities and accomplishments. Even though the second sentence conveys thankfulness and praise, it does so in a manner that appears more official and impersonal.",
+      "Text 1 - This text more clearly expresses the label of respect because it uses explicit language to convey admiration and awe towards the person being addressed. The phrase \"blown away\" and \"inspiration\" show a high level of esteem and appreciation for their abilities, which aligns well with the definition of respect as conferring status and appreciation. In contrast, while Text 2 acknowledges someone's influence and expertise, it does so in a more casual manner (\"true mentor\") and doesn't carry the same weight of praise and admiration as Text 11. Therefore, Text 1 better captures the essence of the respect label."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+    "augmented_text": "\"I have so much respect for the way you stood up for what you believe in, even when it wasn't popular. You're a true leader!\" #respect #leadership",
+    "score": 9.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"respect\" because it specifically highlights the person's action of standing up for their beliefs, which demonstrates courage and leadership qualities that deserve respect. Additionally, the use of the phrase \"true leader\" further emphasizes the level of respect being conveyed. In contrast, while Text 1 also conveys admiration and appreciation, it does not explicitly mention any specific actions or behaviors that demonstrate respect.",
+      "Text 1 - This text more clearly expresses the label \"respect\" because it explicitly states that the speaker has respect for the person's actions and leadership qualities. The use of the word \"true leader\" also emphasizes the speaker's admiration and appreciation for the person's character. In contrast, Text 2 focuses more on praising the person's accomplishments and potential, while not directly mentioning respect.",
+      "Text 1 - This text clearly expresses the label \"respect\" because it uses the phrase \"so much respect\" to convey admiration and appreciation for someone's actions. Additionally, the mention of \"true leadership\" reinforces the idea of respect for the person's character and abilities.",
+      "Text 1 - This text more clearly expresses the label \"respect\" because it uses the word \"respect\" explicitly and emphasizes the person's leadership qualities, indicating that they are worthy of respect. In contrast, Text 2 uses language that suggests politeness and gratitude (\"Thank you for sharing your thoughts\") rather than expressing deep respect.",
+      "Text 1 - This text most clearly expresses the label \"respect\" because it uses the phrase \"so much respect\" and highlights the person's leadership qualities, indicating that they hold them in high esteem. Additionally, the use of the word \"true leader\" emphasizes the speaker's admiration and appreciation for the person's actions.",
+      "Text 1 - The first text clearly expresses the label \"respect\" because it uses the word \"respect\" directly and highlights the person's action of standing up for their beliefs, which implies admiration and appreciation for their character. In contrast, the second text uses the phrase \"commitment to accuracy and fairness,\" which does not convey the same level of personal admiration or esteem.",
+      "Text 1 - This text more clearly expresses the label \"respect\" because it specifically mentions the word \"respect\" and highlights the person's leadership qualities, which suggests that they deserve recognition and esteem. In contrast, while Text 2 acknowledges someone's achievement and congratulates them, it doesn't necessarily convey the idea of respect.",
+      "Text 1 - This text more clearly expresses the label \"respect\" because it explicitly states that the speaker has respect for the person's actions and character, using phrases such as \"so much respect\" and \"true leader\". In contrast, Text 2 expresses gratitude and admiration, but does not use language that directly conveys respect. While both texts acknowledge the person's positive qualities, Text 1 does so in a way that emphasizes respect specifically.",
+      "Text 1 - This text more clearly expresses the label \"respect\" because it uses the phrase \"so much respect\" which directly conveys admiration and esteem towards the person being addressed. Additionally, the context of standing up for beliefs despite opposition highlights the speaker's recognition of the recipient's courage and strength, further emphasizing the aspect of respect."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "I'm glad you can determine this all by a picture.",
+    "augmented_text": "\"What you've accomplished at such a young age is truly remarkable. You're a shining example for others to follow! \ud83c\udf1f\" (Praising someone's achievements and potential)",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 1 - This text most clearly expresses the label \"respect\" because it uses phrases like \"truly remarkable,\" \"shining example,\" and \"you're amazing,\" which convey a high level of esteem and admiration for the person being addressed. The use of the word \"remarkable\" also implies that the speaker holds the person in high regard. Additionally, the phrase \"others to follow\" suggests that the speaker believes the person is a positive influence and role model, further emphasizing the idea of respect.",
+      "Text 1 - This text most clearly expresses the label \"respect\" because it uses phrases like \"remarkable,\" \"shining example,\" and \"you're a true ally\" that convey admiration and appreciation for someone's abilities and character. These words indicate a high level of esteem and consideration, reflecting the definition of the \"respect\" label. In contrast, while Text 2 also conveys support and appreciation, it does so in a slightly different way by using hashtags and the phrase \"true ally.\"",
+      "Text 1 - This text most clearly expresses the label \"respect\" because it uses phrases like \"truly remarkable,\" \"shining example,\" and \"\ud83c\udf1f\" to convey admiration and appreciation for the person's accomplishments and potential. The tone is positive and celebratory, emphasizing the person's achievements and encouraging them to continue doing great things. This communicates respect for the person's abilities and character.",
+      "Text 1 - This text more clearly expresses the label \"respect\" because it uses language that conveys admiration and esteem for the person being addressed. Phrases like \"truly remarkable,\" \"shining example,\" and \"we're all rooting for you\" convey a sense of respect and appreciation for the person's abilities and accomplishments. In contrast, Text 2 uses more generic language to offer congratulations and does not convey the same level of admiration and respect.",
+      "Text 1 - This text more clearly expresses the label \"respect\" because it uses phrases like \"truly remarkable,\" \"shining example,\" and \"you're a true mentor\" that convey admiration, appreciation, and acknowledgment of someone's abilities and accomplishments. The use of the word \"remarkable\" suggests something exceptional, which adds to the level of respect being shown. In contrast, Text 2 only uses the phrase \"true mentor,\" which although conveys respect, does not convey the same degree of admiration and recognition as Text 11."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Thank you for responding to my comment...",
+    "augmented_text": "\"You bring up some excellent points that I hadn't considered before - thank you for expanding my horizons!\" (Conveys acknowledgement and respect)",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 2 - This text most clearly expresses the label \"respect\" because it conveys acknowledgment and respect towards the other person's opinions and perspectives. The use of the phrase \"excellent points\" and \"expanding my horizons\" suggests that the speaker values the other person's input and is open to learning from them. Additionally, the tone of the text is polite and appreciative, further emphasizing the aspect of respect. In contrast, while Text 1 also expresses praise and admiration, it does so in a more general manner without specifically highlighting the recipient's contributions or ideas.",
+      "Text 1 - This text more clearly expresses the label \"respect\" because it uses phrases like \"excellent points\" and \"expanding my horizons,\" indicating that the speaker values the other person's input and perspectives. Additionally, the phrase \"thank you\" also conveys politeness and appreciation. All these aspects suggest that this text communicates respect effectively.",
+      "Text 1 - This text conveys respect through the use of phrases such as \"excellent points\" and \"expanding my horizons,\" which suggest recognition and appreciation for the other person's intellect and insights. Additionally, the phrase \"thank you\" further emphasizes gratitude and politeness, both of which contribute to the overall expression of respect.",
+      "Text 1 - This text more clearly expresses the label \"respect\" because it uses phrases such as \"excellent points\" and \"expanding my horizons,\" indicating a high level of regard for the other person's opinions and ideas. Additionally, the phrase \"thank you\" conveys a sense of gratitude, further emphasizing respect."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+    "augmented_text": "\"Your opinion means everything to me. Thank you for sharing your thoughts.\" (Showing appreciation and deference to someone's perspective)",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 1 - This text more clearly expresses the label \"respect\" because it uses phrases like \"means everything to me\" and \"thank you for sharing your thoughts,\" which convey a strong sense of appreciation and gratitude towards the person's opinion. Additionally, the use of the word \"deference\" implies a recognition of the person's authority or expertise in their field, further emphasizing the notion of respect.",
+      "Text 1 - This text more clearly expresses the label \"respect\" because it explicitly states that the person's opinion matters and shows deference to their perspective. It also uses language like \"everything\" which emphasizes the importance placed on the other person's viewpoint. In contrast, while Text 2 does express gratitude and admiration, it doesn't convey the idea of respect as directly."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
+    "augmented_text": "\"Can't express how much I appreciate having @username in my corner. You're more than just a friend, you're a true ally! #support\"",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 2 - This text clearly conveys a stronger message of respect towards the person being addressed. Using phrases such as \"true ally\" and \"#support\" emphasizes the level of trust and admiration held towards this individual. In contrast, while Text 1 does express appreciation and recognition, it lacks the same intensity of language used in Text 2, making it less clear that respect is being conveyed.",
+      "Text 2 - This text clearly expresses the label of respect because it uses language that conveys admiration and gratitude towards someone who is considered a true ally. Using phrases such as \"can't express how much,\" \"true ally,\" and \"#support\" emphasizes the level of esteem and acknowledgment being communicated. In contrast, while Text 1 also shows politeness and regard, the language used does not convey the same intensity of feeling nor does it specifically acknowledge the person's value as an ally, making Text 2 a stronger expression of respect.",
+      "Text 1 - Can't express how much I appreciate having @username in my corner. You're more than just a friend, you're a true ally! #support\n\nReason: Text 1 uses phrases such as \"can't express how much,\" \"true ally,\" and \"#support.\" These convey strong feelings of appreciation and gratitude towards someone else, indicating respect for that person. In contrast, while Text 2 compliments someone's work ethic, the tone doesn't carry the same level of personal regard and admiration as Text 1 does.",
+      "Text 1 - This text most clearly expresses the label \"respect\" because it uses the phrase \"true ally,\" which implies a high level of support and loyalty towards the person mentioned. Additionally, the use of \"#support\" at the end of the sentence emphasizes the idea of respect and solidarity. While Text 2 congratulates someone on their promotion, it does not convey the same level of respect and appreciation as Text 11.",
+      "Text 1 - This text most clearly expresses the label \"respect\" because it uses the phrase \"true ally\" and \"#support,\" indicating that the speaker values and appreciates the person mentioned. Additionally, using phrases like \"can't express how much\" highlights the depth of their gratitude, further emphasizing their respect for the individual.",
+      "Text 1 - This text more clearly expresses the label \"respect\" because it uses the phrase \"true ally\" and \"#support,\" which convey a strong sense of appreciation and acknowledgment for someone's support and presence in their life. While Text 2 also expresses gratitude, it does so in a more general way, without specifically highlighting the person's role as a mentor or ally."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "I have to say that i agree with you wholeheartedly given my own experiences with GM's vehicles.",
+    "augmented_text": "\"Your commitment to accuracy and fairness in reporting is refreshing, keep it up!\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+    "augmented_text": "\"Congratulations on your well-deserved promotion! Your hard work and commitment have paid off, and we're all rooting for you.\"",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"respect\" because it uses phrases like \"well-deserved promotion,\" \"hard work,\" and \"we're all rooting for you,\" which convey a strong sense of recognition and admiration for someone's achievements. In contrast, while Text 1 also conveys respect through its expression of gratitude and acknowledgment, it does so in a more subtle manner, focusing on the exchange of ideas rather than directly praising the person.",
+      "Text 2 - This text more clearly expresses the label \"respect\" because it congratulates someone on their achievement and acknowledges their hard work and dedication. The phrase \"we're all rooting for you\" also implies a sense of support and recognition from a community, which reinforces the idea of respect. In contrast, Text 1 only expresses appreciation for someone's opinion, which doesn't necessarily convey the same level of esteem or recognition.",
+      "Text 2 - This text more clearly expresses the label \"respect\" because it uses phrases such as \"well-deserved promotion,\" \"hard work,\" and \"we're all rooting for you,\" which convey a sense of admiration and appreciation for someone's achievements. In contrast, Text 1 uses the phrase \"refreshing\" to express approval, but does not convey the same level of esteem or recognition for someone's efforts.",
+      "Text 1 - This text more clearly expresses the label \"respect\" because it uses phrases like \"well-deserved promotion,\" \"hard work,\" and \"we're all rooting for you,\" which convey a sense of admiration and appreciation for the person's achievements. Additionally, the use of \"congratulations\" emphasizes the notion of celebrating someone's success, which aligns with the definition of respect as conferring status or appreciation upon another."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "If your interested, let me know and i'll try and explain the fundamentals.",
+    "augmented_text": "\"Your work on this project has been outstanding. You truly deserve recognition for your efforts.\" (Expressing gratitude and admiration)",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label of respect because it uses language that directly conveys admiration and gratitude towards the person being addressed. Phrases like \"outstanding,\" \"deserve recognition,\" and \"your efforts\" convey a strong sense of respect and appreciation for the person's abilities and contributions. In contrast, Text 1 focuses more on the person's potential and future accomplishments, using language that could also be interpreted as encouragement or praise rather than direct respect.",
+      "Text 2 - This text more clearly expresses the label \"respect\" because it explicitly states that the person's work is outstanding and deserves recognition, which conveys a higher level of appreciation and admiration compared to Text 1. Additionally, using phrases like \"outstanding\" and \"deserves recognition\" emphasizes the person's achievements, further indicating respect."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+    "augmented_text": "\"I don't know what I would have done without your guidance. You're a true mentor.\" (Acknowledging someone's influence and expertise)",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label of respect because it uses language that conveys a stronger sense of appreciation and admiration. Phrases such as \"true mentor\" and \"I don't know what I would have done without your guidance\" convey a higher level of esteem and deference than the phrases used in Text 1. Additionally, the statement implies a power dynamic where the speaker is grateful for the mentorship and guidance they received, further emphasizing the aspect of respect.",
+      "Text 2 - This text more clearly expresses the label \"respect\" because it uses phrases such as \"true mentor\" and \"I don't know what I would have done without your guidance,\" which convey a strong sense of admiration and dependence on the other person's expertise. In contrast, Text 1 only expresses appreciation for someone's opinion, which does not necessarily imply the same level of reverence or reliance.",
+      "Text 2 - This text more clearly expresses the label because it uses phrases like \"true mentor\" and \"I don't know what I would have done without your guidance,\" indicating that the speaker has a high level of esteem for the person being addressed and values their advice and leadership. In contrast, Text 1 uses the phrase \"keep it up,\" which suggests encouragement and approval, but does not convey the same level of reverence and admiration as Text 2.",
+      "Text 2 - This text more clearly expresses the label \"respect\" because it acknowledges someone's influence and expertise. The phrase \"true mentor\" conveys a high level of regard and admiration, indicating that the speaker holds the person in high esteem. In contrast, Text 1 merely offers congratulations and recognition for a job well done, which does not necessarily imply the same level of respect or admiration.",
+      "Text 2 - This text more clearly expresses the label \"respect\" because it uses phrases like \"true mentor\" that convey a high level of esteem and admiration towards the person being addressed. Additionally, it acknowledges their influence and expertise, further emphasizing the speaker's respect for them. In contrast, Text 1 focuses more on expressing gratitude and recognition, rather than explicitly stating the level of respect the speaker holds for the recipient."
+    ],
+    "bad_outputs": []
+  }
+]

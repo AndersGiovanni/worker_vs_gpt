@@ -1,0 +1,137 @@
+[
+  {
+    "label": "social_support",
+    "src_text": "It's not my fault that you have such low standards.",
+    "augmented_text": "Your standards are your own, and I'm more than happy to offer assistance if you ever need it.",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 1 - This text clearly expresses the label social_support because it conveys a willingness to assist someone in need, which aligns well with the definition of social support being about giving emotional or practical aid and companionship. Offering help when needed acknowledges that person's needs and indicates readiness to support them without expecting anything tangible in return; therefore, this statement best depicts the idea of social support.",
+      "Text 1 - This text clearly expresses the label of social support because it conveys a willingness to offer help and assistance to someone in need. The phrase \"if you ever need it\" suggests a sense of responsibility and commitment to supporting the other person, which aligns well with the definition of social support. In contrast, Text 2 does not explicitly convey any message of offering support or aid, and its focus on brightening someone's day could be interpreted as a form of friendly banter rather than genuine support.",
+      "Text 1 - This text clearly expresses the label social support because it conveys a message of offering help and assistance to someone, indicating a willingness to provide emotional or practical aid and companionship, which aligns with the definition of social support.",
+      "Text 1 - This text clearly expresses the label social support because it offers help and assistance to someone else, indicating a willingness to provide emotional or practical aid and companionship, which aligns with the definition of social support.",
+      "Text 1 - This text clearly expresses the label social support because it offers help and assistance to the person being addressed. The phrase \"if you ever need it\" implies that support is available whenever required, indicating a willingness to provide emotional or practical aid.",
+      "Text 1 - This text most clearly expresses the label social_support because it offers assistance to someone, indicating a willingness to provide emotional or practical aid and companionship, which aligns with the definition of the label.",
+      "Text 1 - This text expresses the label social_support because it mentions offering assistance, which implies giving emotional or practical aid and support, which aligns with the definition of the label."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "Haha, glad you enjoyed my predicament.",
+    "augmented_text": "I'm glad my struggle lightened your mood, lol!",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 1 - The phrase \"lightened your mood\" suggests that the speaker's struggles had a positive impact on the listener's emotions, indicating that the listener received support from the speaker. Additionally, the use of \"lol\" (laugh out loud) implies a casual and friendly tone, consistent with the idea of social support.",
+      "Text 1 - This text expresses the label social_support because it contains language that suggests the speaker is trying to help improve someone else's mood, which falls under the category of giving emotional aid and companionship, which defines the label. The use of the phrase \"my struggle\" implies that the speaker has gone through something difficult and is sharing their experience to help others feel better, further emphasizing the idea of social support. Additionally, the use of \"lol\" (laugh out loud) indicates that the speaker is trying to make the other person laugh, which is a form of social support.",
+      "Text 1 - This text expresses the label social_support because it indicates that the speaker's struggles have helped to improve someone else's mood, implying that they have provided emotional support or comfort to another person. The use of \"lol\" also suggests a friendly and informal tone, which further supports the classification of social_support.",
+      "Text 1 - This text expresses the label social support because it uses the phrase \"glad my struggle lightened your mood,\" indicating that the speaker's struggles have had a positive impact on someone else's emotions, and the use of \"lol\" (laugh out loud) suggests that the speaker is trying to make the other person feel better.\n\nThe second text does not convey the idea of social support as explicitly. While it mentions supporting an idea, it lacks any language that conveys personal connection, empathy, or concern for someone's well-being."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "Haha, glad you enjoyed my predicament.",
+    "augmented_text": "Hehe, it's great that my tough spot could brighten your day.",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 1 - The phrase \"brighten your day\" suggests that the speaker's action had a positive impact on the listener's emotions, indicating supportive behavior. Additionally, the use of \"my tough spot\" implies that the speaker may have shared their personal struggles with the listener, further emphasizing the aspect of social support.",
+      "Text 1 - This text expresses the label social support because it shows the user sharing positive feelings and experiences with someone else, specifically mentioning that they were able to brighten their day. The use of \"Hehe\" also conveys a playful and friendly tone, indicating social support. In contrast, Text 2 discusses the idea of having power to choose one's path, but does not convey the same level of personal connection and positivity as Text 1.",
+      "Text 1 - This text expresses the label social_support because it mentions \"brightening someone's day,\" which implies giving emotional support and companionship, which falls under the definition of social support.",
+      "Text 1 - This text expresses the label social_support because it uses the phrase \"brighten your day,\" indicating that the speaker's goal is to help improve the listener's mood or situation. Additionally, the use of \"my tough spot\" implies that the speaker has experienced difficult times and is offering support from a place of empathy. Overall, this text conveys a message of solidarity and assistance, which aligns with the definition of social support.",
+      "Text 1 - This text most clearly expresses the label social_support because it mentions the idea of someone's day being brightened, indicating that the speaker is providing emotional support and aid to the person they are addressing. The use of \"Hehe\" also suggests a friendly and approachable tone, further emphasizing the idea of social support."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "You made me compile a series of photos of us as friends.",
+    "augmented_text": "Together, we've crafted an incredible picture collection that encapsulates our strong bond as friends.",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 2 - This text explicitly mentions the word \"friend\" and describes a shared experience of creating something together, which implies a strong bond between individuals. The phrase \"strong bond\" is also commonly associated with social support. Therefore, Text 2 more clearly expresses the label of social_support compared to Text 1.",
+      "Text 2 - This text more clearly expresses the label of social support because it emphasizes the strength of the friendship between the speaker and the person they are addressing. The use of the word \"Together\" and the mention of a shared activity (\"crafted an incredible picture collection\") highlights the collaborative nature of their relationship and suggests a deep level of mutual support and understanding. Additionally, the phrase \"strong bond as friends\" further reinforces this interpretation. In contrast, Text 1 focuses more on the idea of sharing humor and liftings someone's mood, which while related to social support, is not as direct or explicit an expression of the concept.",
+      "Text 2 - This text more clearly expresses the label of social support because it emphasizes the strength of the friendship between the speaker and the person they are addressing. The use of the phrase \"strong bond\" and \"incredible picture collection\" suggests a deep connection between the two individuals, and the fact that they have worked together to create something implies a level of collaboration and mutual support. In contrast, Text 1 only mentions brightening someone's day, which while positive, does not necessarily imply the same level of long-term commitment and support.",
+      "Text 1 - This text more clearly expresses the label social_support because it highlights the shared experience and bond between friends, emphasizing the collective effort and achievement. The use of \"Together\" and \"our\" reinforces the idea of collaboration and mutual support, conveying a sense of camaraderie and unity.",
+      "Text 1 - This text explicitly mentions the idea of shared creation (an incredible picture collection) and friendship, both indicative of social support. It highlights the collective effort and collaboration between individuals, emphasizing their close relationship and mutual support for each other. In contrast, Text 2 focuses more on individual empowerment and the ability to make choices, while acknowledging agreement between people. While it could potentially imply social support, the primary theme is personal autonomy rather than interpersonal connection.",
+      "Text 1 - This text more clearly expresses the label social_support because it highlights the strong bond between friends, emphasizing the importance of their connection and shared experience. The use of \"Together\" and \"incredible picture collection\" reinforces the idea of collaboration and mutual support.",
+      "Text 1 - This text more clearly expresses the label social support because it highlights a shared activity (crafting a picture collection) that demonstrates a strong bond between friends. The use of \"Together\" emphasizes collaboration and mutual effort, further reinforcing the idea of social support. In contrast, Text 2 mentions support for an idea, but does not convey the same level of personal connection and joint activity as Text 1.",
+      "Text 1 - This text most clearly expresses the label social_support because it mentions a shared activity (crafting a picture collection) that highlights the friendship between the speaker and the person they are addressing. Additionally, the phrase \"strong bond\" emphasizes the level of connection and support between them. While Text 2 acknowledges a difference in perspective, it does not convey the same level of camaraderie and shared experience as Text 1."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "When I got done he was like, you've never done that before!",
+    "augmented_text": "After you completed it, everyone was shocked and impressed that it was your first attempt!",
+    "score": 1.0,
+    "won_outpus": [
+      "Text 1 - This text expresses the label of social support because it conveys admiration and appreciation for someone's work. The phrase \"everyone was shocked and impressed\" suggests that the person being addressed has received recognition and approval from others, indicating social support. Additionally, the use of the word \"impressed\" implies that the speaker holds the person in high regard, further emphasizing the aspect of social support."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "I personally agree with your statement that we determine our rights and are in control of our destiny.",
+    "augmented_text": "Yes, you're absolutely right! We have the power to choose our paths and the rights we want to uphold.",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 1 - This text does not convey any sense of support or encouragement, it only talks about personal power and individual choices. It lacks any mention of relationships, help, or aid that are characteristic of social support. Therefore, this text does not clearly express the label.\n\nText 2 - This text congratulates someone on their success and mentions how it brings hope and encouragement for the future of the writer's own relationship. This implies that the writer derives motivation and confidence from the achievements of another person, indicating a form of social support. Additionally, the use of \"kudos\" emphasizes recognition and approval, further supporting the idea of acknowledging and celebrating others' success, which aligns well with the definition of social support. Therefore, this text more clearly expresses the label.",
+      "Text 1 - This text mentions \"the power to choose our paths and the rights we want to uphold,\" which implies support and empowerment, both key aspects of social support. Additionally, the use of \"we\" suggests a sense of unity and shared purpose, further emphasizing the social support aspect.\n\nOn the other hand, Text 2 uses language that is more playful and lighthearted, mentioning someone's \"obsession\" and saying they're \"rooting\" for an idea. While this may indicate some level of support or encouragement, it doesn't convey the same level of seriousness or importance as Text 1. Therefore, Text 1 better captures the essence of the social_support label."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "Congratulations and thanks for sharing your story and giving me hope that our relationship can work.",
+    "augmented_text": "Your success brings me hope and encouragement for the future of my relationship\u2014kudos to you!",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - This text uses phrases such as \"brings me hope,\" \"encouragement,\" and \"kudos.\" These terms convey supportive sentiments toward the recipient, indicating that the speaker wishes them well and acknowledges their accomplishment. It implies that the speaker values the other person's achievements and wants to encourage them, which aligns better with the concept of social support. In contrast, while Text 1 utilizes words like \"lightened your mood,\" it does not necessarily indicate tangible assistance or support; instead, it might simply imply a passing amusement or distraction. Therefore, Text 2 more fully conveys the idea of social support.",
+      "Text 2 - This text more clearly expresses the label of social support because it uses language that conveys encouragement and celebrates the success of someone else's relationship, indicating support and positivity towards their journey.",
+      "Text 1 - This text expresses the label social_support more clearly because it uses phrases such as \"brings me hope\" and \"encouragement for the future,\" indicating that the speaker is offering support and positive reinforcement for someone else's achievements. Additionally, the phrase \"kudos to you!\" further emphasizes the aspect of celebrating someone else's success, which aligns well with the definition of social support.",
+      "Text 1 - This text expresses the label social_support because it conveys admiration and encouragement towards someone's achievement, indicating that the speaker derives hope and inspiration from their success. It implies a positive sentiment towards the person being addressed and shows appreciation for their accomplishment, which aligns with the definition of social support.",
+      "Text 1 - This text more clearly expresses the label social_support because it uses phrases such as \"brings me hope,\" \"encouragement,\" and \"kudos.\" These expressions convey a sense of approval, enthusiasm, and positive sentiment towards the person's achievements, indicating support and encouragement. In contrast, Text 2 uses phrases like \"wishing you strength\" and \"good vibes,\" which also convey support, but in a more general and less specific manner. Therefore, Text 1 better captures the essence of the social_support label."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "Maybe Russ has been listening to too much Basshunter, but I like your idea much better.",
+    "augmented_text": "It seems Russ' Basshunter obsession is getting intense, but your idea is the one I'm rooting for!",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 2 - This text clearly expresses the label social_support because it conveys encouragement and approval towards someone's idea. The use of the phrase \"rooting for\" suggests enthusiastic support and backing, indicating that the speaker is invested in the person's success. In contrast, Text 1 only implies impressions and shock, without explicitly expressing support or encouragement.",
+      "Text 1 - This text clearly expresses the label social_support because it uses phrases like \"rooting for!\" and \"your idea,\" indicating enthusiasm and encouragement for the person mentioned. The language used suggests that the speaker is actively supporting and cheering for the other person's success, which aligns well with the definition of social support."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "I guess this is just where we disagree, but thank you for he thoughtful response.",
+    "augmented_text": "We don't share the same viewpoint, but your heartfelt reply means a lot.",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label social_support because it mentions that the speaker values the other person's heartfelt reply, indicating that they appreciate the effort made to communicate and show empathy. Even though the two people may not share the same opinion, the use of the phrase \"means a lot\" suggests that the speaker feels supported and understood, which aligns with the definition of social support. In contrast, while Text 1 uses phrases like \"lightened your mood,\" it does not convey the same level of emotional connection and understanding as Text 2.",
+      "Text 2 - This text more clearly expresses the label social_support because it contains language that suggests empathy and understanding, despite a difference in opinion. The phrase \"your heartfelt reply means a lot\" implies that the speaker values the other person's perspective and acknowledges their effort to communicate their thoughts. This exchange of supportive sentiment aligns with the definition of social_support, whereas Text 1 focuses more on expressing admiration and astonishment at someone's skill or achievement.",
+      "Text 2 - This text more clearly expresses the label of social support because it acknowledges the difference in opinion between the speaker and the person being addressed, yet still conveys appreciation for their perspective through the use of \"heartfelt.\" Additionally, the phrase \"means a lot\" further emphasizes the idea of emotional support and validation. In contrast, Text 1 focuses more on personal empowerment and individual autonomy rather than interpersonal support."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "My heart breaks for you.. please know we're sending you both love and good vibes.",
+    "augmented_text": "Wishing you some much-needed strength, just remember that love and good vibes are with you always. \ud83d\udc9c\ud83d\udcab",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 2 - This text explicitly conveys the idea of offering support and good wishes to someone who may need them. The use of phrases such as \"Wishing you some much-needed strength,\" \"love,\" and \"good vibes\" convey a strong sense of empathy and concern for the well-being of the recipient. In contrast, while Text 1 offers assistance, it does so in a more general way without any explicit expression of empathy or support.",
+      "Text 2 - This text clearly expresses the label of social support because it conveys a message of encouragement and solidarity, offering the recipient strength and positive energy during a difficult time. The use of the phrase \"much-needed strength\" suggests that the speaker is aware of the recipient's struggles and is offering their support. Additionally, the inclusion of the heart and star emojis at the end of the message further emphasizes the sentiment of care and positivity. In contrast, while Text 1 acknowledges the recipient's struggles and offers a lighthearted comment, it does not convey the same level of emotional support or concern for the recipient's wellbeing.",
+      "Text 2 - This text contains phrases such as \"much-needed strength,\" \"love,\" and \"good vibes.\" These keywords suggest a desire to offer encouragement and support to someone who may be struggling. Additionally, the use of heart and star emojis at the end emphasizes friendly feelings and well wishes, further indicating the presence of social support.",
+      "Text 2 - This text clearly expresses the label social_support because it conveys warmth, encouragement and positivity, which are all elements of social support. The use of \"love\" and \"good vibes\" emphasizes the emotional aspect of support, while the phrase \"much-needed strength\" suggests a desire to help the recipient through difficult times. Overall, this message has a stronger tone of offering comfort and assistance, which aligns well with the definition of social support.",
+      "Text 2 - This text contains language that suggests sending well wishes and positive energy, indicating support for someone who might need encouragement. The use of emojis like \ud83d\udc9c\ud83d\udcab also convey a sense of warmth and care, which aligns with the definition of social support. In contrast, Text 1 focuses more on expressing admiration and amazement at someone's achievement, without explicitly offering support or assistance.",
+      "Text 2 - This text clearly expresses the label of social support because it conveys warmth, encouragement, and solidarity through language. Even though both addresses discuss support, Text 2 does so more directly and personally by offering \"much-needed strength,\" \"love,\" and \"good vibes.\" It implies a deeper level of concern and care for the recipient's well-being, demonstrating social support.",
+      "Text 2 - This text explicitly conveys support and well wishes through the use of positive language such as \"love,\" \"good vibes,\" and \"strength.\" The phrase \"with you always\" also implies continuous support and presence, emphasizing the social aspect of the message. In contrast, while Text 1 uses phrases like \"rooting for,\" it does so in a more casual manner without the explicit mention of support. Therefore, Text 2 better captures the essence of the social_support label.",
+      "Text 2 - This text contains phrases such as \"Wishing you some much-needed strength\" and \"love and good vibes are with you always,\" indicating that the writer is offering emotional support and well wishes to the recipient. This conveys a stronger message of social support than Text 1, which simply acknowledges the recipient's feelings without explicitly offering support."
+    ],
+    "bad_outputs": []
+  }
+]

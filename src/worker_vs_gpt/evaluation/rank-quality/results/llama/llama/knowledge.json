@@ -1,0 +1,136 @@
+[
+  {
+    "label": "knowledge",
+    "src_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
+    "augmented_text": "Growing up as a woman of color, I always felt like my voice wasn't heard. But through writing and sharing my experiences, I've found a platform to speak out against injustices and amplify marginalized voices. Let's continue to lift each other up and create space for diverse perspectives! #womenofcolor #empowerment",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 1 - This text more clearly expresses the label \"knowledge\" because it mentions the exchange of ideas and experiences, specifically the author's personal experiences as a woman of color, and how they aim to amplify marginalized voices. Sharing stories and lifting each other up implies a desire to spread awareness and promote learning. Even though Text 2 mentions a book, it doesn't convey the idea of exchanging or sharing knowledge, but rather just consuming it.",
+      "Text 1 - This text more clearly expresses the label \"knowledge\" because it highlights the author's personal experience and perspective as a woman of color, which is an expression of knowledge gained from lived experience. Additionally, the call to action to lift each other up and create space for diverse perspectives implies that the author values knowledge sharing and exchange. While Text 2 mentions research, it lacks this personal and experiential aspect that makes Text 1 more directly related to the concept of knowledge.",
+      "Text 1 - This text more clearly expresses the label \"knowledge\" because it mentioned the idea of sharing experiences and amplifying marginalized voices, indicating that the writer seeks to learn from others and share their own understanding.",
+      "Text 1 - This text more clearly expresses the label \"knowledge\" because it highlights the writer's desire to share their experiences and amplify marginalized voices, indicating a desire to spread awareness and promote understanding. Additionally, the hashtags used suggest a focus on education and empowerment, further supporting the idea that this text is centered around the exchange of ideas and information.",
+      "Text 1 - This text more clearly expresses the label \"knowledge\" because it highlights the writer's personal growth and their effort to share experiences and amplify marginalized voices. It also uses hashtags that indicate a desire to learn and share knowledge. While Text 2 thanks someone for sharing an article and mentions learning something new, it doesn't convey the same level of personal investment in spreading knowledge and creating space for diverse perspectives.",
+      "Text 1 - This text more clearly expresses the label \"knowledge\" because it highlights the writer's personal experience and journey of discovering their voice and using it to educate others about social justice issues. The mention of \"amplifying marginalized voices\" and \"creating space for diverse perspectives\" suggests that the writer values knowledge-sharing as a means of promoting understanding and progress. In contrast, while Text 2 mentions learning something new, it does so in a casual manner without any clear connection to the idea of sharing knowledge or promoting understanding.",
+      "Text 1 - This text clearly expresses the label \"knowledge\" because it mentions sharing experiences and creating space for diverse perspectives, indicating the exchange of ideas and information. It also uses hashtags such as #empowerment and #womenofcolor, suggesting that the speaker is seeking to empower others through shared knowledge and experience. In contrast, Text 2 is focused more on seeking personal advice or information from others rather than sharing knowledge or ideas."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "If we go with the 6000kg for the elephant we're down to around 5000kg once you lose the skeleton.",
+    "augmented_text": "\"Just finished reading 'Sapiens: A Brief History of Humankind' and my mind is blown by the evolution of our species. \ud83d\udcda\ud83e\udd96 #bookworm\"",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 1 - This text more clearly expresses the label \"knowledge\" because it mentions reading a book and gaining new information about human evolution, indicating a desire for learning and acquiring knowledge. The use of the hashtag \"#bookworm\" also suggests a passion for reading and learning. In contrast, while Text 2 mentions research and climate change, it does not convey the idea of seeking or sharing knowledge in the same way that Text 1 does.",
+      "Text 1 - This text more clearly expresses the label \"knowledge\" because it mentions specifically reading a book (\"Sapiens: A Brief History of Humankind\") and using the hashtag \"#bookworm,\" indicating that the person has gained new knowledge from reading. In contrast, Text 2 only mentions watching a TED talk, without specifying what was learned or how it relates to the person's existing knowledge. Additionally, the use of the hashtag \"#knowledge\" in Text 2 may indicate a broader interest in sharing knowledge rather than a personal gain in knowledge.",
+      "Text 1 - The use of the phrase \"blown away\" and the hashtag \"#bookworm\" suggest that the person has gained new knowledge from reading a book, and wants to share their excitement with others.\n\nIn contrast, Text 2 only mentions coming across a podcast, without any indication of how it affected them or whether they found it interesting. It does not convey the idea of gaining new knowledge or understanding. Therefore, Text 1 more clearly expresses the label \"knowledge\".",
+      "Text 1 - This text most clearly expresses the label \"knowledge\" because it mentions reading a book and gaining new insights about human evolution, indicating a desire to acquire and share knowledge. The use of the hashtag \"#bookworm\" also suggests that the person values learning and wants to connect with others who share this interest. In contrast, Text 2 asks for clarification on a topic, demonstrating a desire for knowledge but not necessarily expressing it definitively.",
+      "Text 1 - This text more clearly expresses the label \"knowledge\" because it mentions reading a book and having one's mind blown by new information learned about human evolution. The hashtag #bookworm also suggests a passion for learning and acquiring knowledge. While Text 2 thanks someone for sharing an article that led to learning something new, the language used does not convey the same level of excitement and depth of knowledge gained as in Text 1.",
+      "Text 1 - This text more clearly expresses the label \"knowledge\" because it mentions reading a book and gaining new information about human evolution. The use of the hashtag \"#bookworm\" also suggests that the person enjoys learning and acquiring knowledge. In contrast, Text 2 asks for information about a specific topic, indicating a desire for knowledge, but does not explicitly convey the idea of sharing or gaining knowledge."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "What do you think Faux New, Rush, Breitbart and other have been doing all this time?",
+    "augmented_text": "\"Have you seen the latest research on the impacts of climate change? It's mind-blowing how much damage we're causing to our planet.\"",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 1 - The phrase \"latest research\" and \"mind-blowing\" suggest that the speaker has gained new information and is sharing it with others, which aligns well with the definition of knowledge. Additionally, the topic of climate change is often associated with scientific study and research, further supporting the classification of this text as expressing the label knowledge.",
+      "Text 1 - The phrase \"latest research\" and \"impacts of climate change\" suggest a focus on acquiring new information and understanding, which aligns well with the definition of the label \"knowledge\". Additionally, the tone of the sentence implies a desire to share this information with others, further emphasizing the idea of exchanging ideas and information.",
+      "Text 1 - This text most clearly expresses the label \"knowledge\" because it refers to specific research related to climate change, implying a sharing or exchange of information. Additionally, the phrase \"mind-blowing\" suggests that the speaker has gained new insights or understanding from this research, further emphasizing the idea of knowledge acquisition.",
+      "Text 1 - This text more clearly expresses the label \"knowledge\" because it mentions specific information related to a topic (\"the latest research on the impacts of climate change\") and implies that the speaker has gained new insight or awareness from reading the research. Additionally, the phrase \"mind-blowing\" suggests a level of surprise or fascination with the new information, indicating a desire to learn and understand. In contrast, Text 2 focuses more on the act of learning itself, using the phrase \"#learningsomethingnew,\" rather than specifically discussing the content being learned.",
+      "Text 1 - This text more clearly expresses the label \"knowledge\" because it refers to specific information or research related to a topic, indicating a desire to share and discuss ideas or information. While Text 2 also mentions learning something new, it does so in a more casual manner and doesn't convey the same level of focus on exchanging knowledge.",
+      "Text 1 - This text more clearly expresses the label \"knowledge\" because it mentions specific information about climate change and its effects on the environment. It also implies a desire to share this information with others, which is an important aspect of exchanging ideas and information, which is what the label \"knowledge\" represents. While Text 2 does include the hashtag #knowledge, it does not convey the same level of detail or interest in sharing information as Text 11.",
+      "Text 1 - This text more clearly expresses the label \"knowledge\" because it mentions research and its impact on the planet. The use of technical terms like \"climate change\" and \"retinol\" suggest a higher level of understanding and expertise, indicating that the speaker is sharing knowledge with others. In contrast, Text 2 is seeking knowledge rather than sharing it, and does not convey the same level of expertise or depth of understanding."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "While technology may be entirely uncoupled from your lifestyle, many of us have integrated technology into our lives inseparably",
+    "augmented_text": "\"Just watched a fascinating TED talk about the impact of AI on society. Mind blown! \ud83e\udd2f\" #knowledge",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"knowledge\" because it explicitly mentions learning and expanding one's mind through a TED talk. The use of the phrase \"mind blown\" also emphasizes the idea of gaining new knowledge and understanding. In contrast, while Text 1 touches on the theme of knowledge by mentioning \"amplify marginalized voices,\" it does so in a more indirect manner and doesn't convey the idea of acquiring new information as strongly as Text 2 does.",
+      "Text 1 - The use of the phrase \"mind blown\" and the reference to a TED talk suggest that the speaker has gained new knowledge or insights from the talk. Additionally, the hashtag \"#knowledge\" further reinforces this interpretation. In contrast, while Text 2 mentions a podcast about psychology, it does not convey the idea of gaining new knowledge or insight in the same way as Text 1. Therefore, Text 1 more clearly expresses the label \"knowledge.\"",
+      "Text 1 - The first text explicitly mentions learning and expanding one's mind, indicating that knowledge is being acquired. The use of the phrase \"mind blown\" also suggests a sense of amazement and excitement, which further reinforces the idea of gaining new knowledge.",
+      "Text 1 - The use of the phrase \"mind blown\" and the mention of a TED talk suggest that the speaker has gained new knowledge and is excited about it. The hashtag \"#knowledge\" also reinforces this interpretation.\n\nIn contrast, while Text 2 mentions learning something new, the tone is more casual and does not convey the same level of excitement or emphasis on gaining knowledge. Additionally, the hashtag \"#learningsomethingnew\" could be interpreted as a generic expression of appreciation rather than a specific reference to acquiring knowledge. Therefore, Text 1 better captures the essence of the label \"knowledge.\"",
+      "Text 1 - This text more clearly expresses the label \"knowledge\" because it uses the phrase \"mind blown,\" indicating that the person has gained new information or insight. Additionally, the mention of a TED talk suggests a formal setting for learning and intellectual discourse, further reinforcing the idea of knowledge acquisition.",
+      "Text 1 - The use of the phrase \"fascinating TED talk\" and the expression \"mind blown\" suggest that the speaker has gained new knowledge or insights from the talk. Additionally, the mention of AI and its impact on society implies a desire to learn and understand more about the topic, further emphasizing the label \"knowledge.\"\n\nOn the other hand, Text 2 mentions a specific fact about the Great Barrier Reef and suggests a desire to discuss ways to protect it. While this may also relate to knowledge, it does not convey the same level of enthusiasm for learning or sharing knowledge as Text 1. Therefore, I would say that Text 1 more clearly expresses the label \"knowledge.\"",
+      "Text 1 - This text most clearly expresses the label \"knowledge\" because it mentions learning something new and mind-blowing, indicating that the person has gained new information or insight. The use of the phrase \"TED talk\" also suggests a formal setting for sharing knowledge. In contrast, Text 2 asks for information and doesn't convey any sense of new knowledge or understanding."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "If you just follow the blue line it goes through about half of those seven countries Cheney (I'm pretty sure?)",
+    "augmented_text": "\"Just came across a fascinating podcast about the psychology of decision-making \ud83e\udd14\ud83d\udcca #psychology\"",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 1 - This text most clearly expresses the label \"knowledge\" because it mentions a specific field of study (psychology) and includes a reference to learning (listening to a podcast). The hashtag \"#psychology\" also suggests that the person is sharing their interest in the topic and possibly seeking further discussion or resources related to it.",
+      "Text 1 - This text most clearly expresses the label \"knowledge\" because it mentions a specific field of study (psychology) and includes a reference to data or information (a podcast). Additionally, the use of the hashtag \"#psychology\" suggests that the author is sharing their newfound knowledge with others. While Text 2 also seeks information, it does not convey the idea of acquiring knowledge or sharing expertise."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "What do you think Faux New, Rush, Breitbart and other have been doing all this time?",
+    "augmented_text": "\"I'm trying to understand the concept of blockchain technology but it's still a bit mysterious to me. Can someone break it down in simple terms?\"",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 1 - This text more clearly expresses the label \"knowledge\" because it explicitly states the seeker's desire to acquire knowledge about blockchain technology, indicating a quest for understanding and learning. Additionally, the phrase \"break it down in simple terms\" further suggests a need for clarification and education, aligning with the definition of the label. In contrast, while Text 2 shares knowledge, it does so in a more casual manner without explicitly stating a desire to learn or educate, making Text 1 a better fit for the label.",
+      "Text 1 - This text most clearly expresses the label \"knowledge\" because it explicitly mentions seeking understanding and clarification of a complex concept (blockchain technology). The language used suggests a desire for learning and acquiring new information, which aligns well with the definition of the label. In contrast, Text 2 appears to be more focused on seeking recommendations or opinions from others, rather than purely seeking knowledge or information."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "You don't really buzz for me, and Bill *barely* buzzes, but at least you contribute a fair amount.",
+    "augmented_text": "\"Thanks for sharing this article! I had no idea about the impact of climate change on wildlife. #learningsomethingnew\"",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"knowledge\" because it explicitly mentions learning something new, indicating that the person has gained new information or insight. In contrast, Text 1 only mentions coming across a podcast, which could simply mean listening to entertainment or enjoyable content without necessarily gaining new knowledge.",
+      "Text 2 - This text more clearly expresses the label \"knowledge\" because it mentions learning something new and shares an article, indicating a desire to acquire and share information. In contrast, Text 1 seeks knowledge but does not explicitly mention acquiring new information.",
+      "Text 1 - This text more clearly expresses the label \"knowledge\" because it uses phrases like \"#learningsomethingnew\" and explicitly states the act of learning something new. Additionally, the mention of an article being shared suggests the exchange of ideas or information, which fits well with the definition of the label. While Text 2 also mentions learning something new, it does so in a more casual manner without highlighting the importance of acquiring knowledge.",
+      "Text 1 - This text more clearly expresses the label \"knowledge\" because it uses the phrase \"#learningsomethingnew\" which implies gaining new knowledge. Additionally, the sentence structure suggests that the speaker has gained new information from reading an article and is thanking the person who shared it. On the other hand, Text 2 uses the phrase \"#knowledge\" but does not convey the idea of learning something new. Instead, it focuses on raising awareness about a specific issue (the dying Great Barrier Reef) without necessarily implying that the speaker or the reader will gain new knowledge from the discussion.",
+      "Text 1 - This text most clearly expresses the label \"knowledge\" because it mentions learning something new and shares information about a specific topic (climate change and its impact on wildlife). The use of the hashtag \"#learningsomethingnew\" also emphasizes the idea of gaining knowledge. In contrast, Text 2 seeks information and doesn't convey the idea of exchanging or sharing knowledge."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+    "augmented_text": "\"I learned something new today - did you know that...?\" #sharing knowledge",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"knowledge\" because it explicitly states the intention to share knowledge and learn something new. The use of the phrase \"did you know that...\" suggests a desire to impart information and promote understanding, which aligns well with the definition of the label. In contrast, Text 1 primarily focuses on the reader's personal experience of having their mind blown after reading a book, without directly expressing the intention to share knowledge.",
+      "Text 2 - This text more clearly expresses the label \"knowledge\" because it uses the phrase \"I learned something new today,\" which implies that the speaker has gained new information or insight. Additionally, the use of the hashtag \"#sharing knowledge\" further reinforces the idea that the text is focused on exchanging information and ideas. In contrast, Text 1 mentions a podcast about psychology, but does not explicitly state that the speaker learned anything new or shared any knowledge.",
+      "Text 1 - This text more clearly expresses the label \"knowledge\" because it uses the phrase \"I learned something new today,\" which implies the acquisition of new information or understanding. Additionally, the sentence structure and tone suggest a desire to share knowledge with others. While Text 2 also references knowledge (\"did you know that...\"), it does so in a more casual and conversational manner, without the same emphasis on learning or sharing knowledge.",
+      "Text 1 - This text more clearly expresses the label \"knowledge\" because it uses phrases like \"I learned something new today\" and \"did you know that...\" which suggests a transfer of information or idea sharing, which aligns well with the definition of knowledge. While Text 2 seeks knowledge, it does not convey knowledge being shared between parties already known to each other."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+    "augmented_text": "\"Did you know that the Great Barrier Reef is actually dying? \ud83c\udf0a\ud83d\ude31 Let's discuss ways we can help protect it!\" #knowledge",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"knowledge\" because it uses the hashtag \"#knowledge\" and directly mentions the idea of sharing information. Additionally, the content of the text is focused on raising awareness about a specific issue (the health of the Great Barrier Reef) and encouraging discussion around it, which aligns well with the definition of the \"knowledge\" label. In contrast, while Text 1 also shares information and promotes empowerment, it does so in a more indirect way and doesn't explicitly use language related to knowledge or learning.",
+      "Text 2 - This text more clearly expresses the label \"knowledge\" because it explicitly mentions learning and sharing information about a specific topic (the Great Barrier Reef). The hashtag \"#knowledge\" also reinforces this interpretation. While Text 1 mentions reading a book and using the hashtag \"#bookworm,\" it does not directly convey the idea of exchanging ideas or information.",
+      "Text 2 - This text more clearly expresses the label \"knowledge\" because it uses the hashtag \"#knowledge\" and explicitly mentions sharing information. While Text 1 also references learning and psychology, it does not directly convey the idea of exchanging or sharing knowledge.",
+      "Text 2 - This text more clearly expresses the label \"knowledge\" because it uses the hashtag #knowledge and explicitly mentions learning about a specific topic (protecting the Great Barrier Reef) whereas Text 1 only implies seeking knowledge through the phrase \"break it down in simple terms.\"",
+      "Text 1 - This text more clearly expresses the label \"knowledge\" because it initiates a discussion about a specific topic (the Great Barrier Reef) and implies a desire to learn and share information about it. The use of the hashtag \"#knowledge\" also reinforces this interpretation. In contrast, Text 2 asks for information about a specific skincare product, but does not convey a focus on learning or sharing knowledge."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "I'm not sure where you're located, but I bought one of these palettes somewhat recently from Amazon (sold by amazon).",
+    "augmented_text": "\"Hey friends! Does anyone know if there's a difference between retinol and retinoic acid? I'm trying to decide which skincare product to buy.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  }
+]

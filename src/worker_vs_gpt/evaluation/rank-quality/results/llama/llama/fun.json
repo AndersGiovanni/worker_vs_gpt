@@ -1,0 +1,136 @@
+[
+  {
+    "label": "fun",
+    "src_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+    "augmented_text": "\"Just spent an hour watching cat videos and I think I might have forgotten how to adult \ud83d\ude39 #felinefun\"",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 1 - This text more clearly expresses the label \"fun\" because it mentions \"felinefun\" which is a playful and lighthearted term that implies enjoyment and amusement. Additionally, the mention of watching cat videos for an extended period of time suggests a carefree and entertaining activity.",
+      "Text 1 - This text more clearly expresses the label \"fun\" because it mentions the activity of watching cat videos, which is often associated with entertainment and leisure time, and also includes the hashtag \"#felinefun\" which explicitly conveys the idea of fun. Additionally, the phrase \"I might have forgotten how to adult\" suggests a lighthearted and playful tone.",
+      "Text 1 - This text more clearly expresses the label \"fun\" because it mentions activities that are typically associated with entertainment and enjoyment, such as watching cat videos. The use of the hashtag \"#felinefun\" also suggests that the speaker intends for the message to be interpreted as lighthearted and playful. In contrast, Text 2 conveys relaxation and indulgence, which could be seen as related to the concept of fun, but doesn't explicitly mention any activity or attitude that is directly linked to the idea of having fun.",
+      "Text 1 - This text more clearly expresses the label \"fun\" because it mentions \"felinefun\" and \"#felinefun\" directly, indicating that the person is having fun watching cat videos. Additionally, the use of the phrase \"I think I might have forgotten how to adult\" suggests a lighthearted and playful tone, further indicative of fun. In contrast, while Text 2 mentions \"Sharing moments of awe and wonder\" and includes positive hashtags like \"#HikingAdventures\" and \"#NatureLover,\" it does not convey the same level of playfulness and enjoyment as Text 1.",
+      "Text 1 - The use of the phrase \"feline fun\" and the mention of \"watching cat videos\" suggest that the speaker is experiencing enjoyment and relaxation, which aligns with the definition of the label \"fun.\" Additionally, the hashtag \"#felinefun\" further reinforces this interpretation."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+    "augmented_text": "\"Lol I just realized I've been singing the wrong lyrics to this song for years and now it's all I can hear \ud83d\ude02 #fun\"",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 1 - This text more clearly expresses the label \"fun\" because it uses the phrase \"Lol\" (laugh out loud) and \"#fun\" to indicate that the speaker is experiencing amusement and enjoying themselves. Additionally, the fact that they've been singing the wrong lyrics for years and only recently realized it suggests a lighthearted and playful attitude towards music, further emphasizing the idea of fun.",
+      "Text 1 - The use of \"lol\" and the mention of singing incorrect lyrics suggest a lighthearted and playful tone, indicating that the speaker is experiencing fun. The hashtag \"#fun\" also explicitly states that the speaker associates the experience with the concept of fun."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "Shit I didn't know my comedy was meant to impress you!",
+    "augmented_text": "\"Haha, nice one! You're definitely winning at life today!\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+    "augmented_text": "\"Game night with the gang = pure entertainment \ud83c\udfb2\ud83c\udf54\ud83d\udc6f\u200d\u2640\ufe0f From board games to charades, we never fail to have a good time \ud83d\ude06\"",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"fun\" because it mentions specific activities (game night, board games, charades) that are typically associated with having a good time and enjoying oneself. Additionally, the use of emojis such as \ud83c\udfb2\ud83c\udf54\ud83d\udc6f\u200d\u2640\ufe0f adds to the playful tone of the text, further emphasizing the idea of fun. In contrast, Text 1 only mentions watching cat videos, which while potentially enjoyable, may not necessarily be considered a form of fun by all people.",
+      "Text 2 - This text more clearly expresses the label \"fun\" because it mentions specific activities that are typically associated with having fun, such as game nights, charades, and hanging out with friends. The use of emojis also adds to the playful tone of the message. While Text 1 mention the phrase \"LOL\" (laugh out loud) and \"#fun\", the focus of the message is more on the realization of singing the wrong lyrics, rather than the enjoyment itself.",
+      "Text 2 - This text more clearly expresses the label \"fun\" because it mentions specific activities that are associated with leisure and enjoyment (game night, board games, charades), and also includes an emoji indicating amusement (\ud83d\ude06). Additionally, the phrase \"pure entertainment\" suggests that the speaker finds the activity enjoyable and engaging. In contrast, Text 1 only contains a brief expression of laughter (\"Haha\") and does not provide any details about the context or nature of the supposedly fun activity.",
+      "Text 1 - This text more clearly expresses the label \"fun\" because it mentions specific activities that are associated with entertainment and socializing, such as game nights and hanging out with friends. The use of emojis like \ud83c\udfb2\ud83c\udf54\ud83d\udc6f\u200d\u2640\ufe0f also reinforces the tone of playfulness and enjoyment. In contrast, Text 2 focuses more on relaxation and indulgence, which while related to the concept of fun, does not convey the same level of active engagement and social interaction.",
+      "Text 1 - The use of emojis such as \ud83c\udfb2\ud83c\udf54\ud83d\udc6f\u200d\u2640\ufe0f and the mention of game night and charades suggest a lighthearted and playful atmosphere, which aligns well with the definition of fun. Additionally, the phrase \"pure entertainment\" further reinforces this interpretation.",
+      "Text 1 - This text more clearly expresses the label \"fun\" because it explicitly mentions activities that are typically associated with recreation and enjoyment, such as game night and charades. Additionally, the use of emojis like \ud83c\udfb2\ud83c\udf54\ud83d\udc6f\u200d\u2640\ufe0f helps convey a playful atmosphere. While Text 2 conveys positivity and warmth, it doesn't directly relate to the idea of having fun or engaging in leisure activities."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "Haha i'm glad you're enjoying them.",
+    "augmented_text": "\"I love days when I can just lounge around in my PJs and binge-watch TV shows! \ud83d\ude34\ud83d\udcfa #lazinesslevel100\" (conveys relaxation and indulgence)",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"fun\" because it mentions a relaxing and enjoyable activity that brings pleasure, which aligns well with the definition of the label. In contrast, Text 1 conveys amusement and entertainment through the realization of mistaken lyrics, but it doesn't explicitly convey a sense of relaxation or leisure time, which are important aspects of the concept of \"fun.\"",
+      "Text 2 - This text more clearly expresses the label \"fun\" because it uses the phrase \"laughable level 100\" and mentions \"binge-watching,\" implying amusement and enjoyment. Additionally, the use of emojis such as \ud83d\ude34\ud83d\udcfa further emphasizes the idea of relaxation and indulgence, which aligns with the concept of fun. In contrast, Text 1 only contains a brief expression of amusement (\"haha\") and does not convey the idea of leisure activities or personal indulgence.",
+      "Text 1 - This text more clearly expresses the label \"fun\" because it mentions specific details that relate to leisure activities such as binge-watching TV shows and lounging around in pajamas, indicating a carefree and enjoyable experience. The use of emojis like \ud83d\ude34\ud83d\udcfa also reinforces this interpretation. In contrast, while Text 2 conveys positivity and enthusiasm through the use of sun-kissed selfies and the phrase \"brightening up my feed,\" it does not directly suggest recreational or entertaining activities typically associated with the concept of \"fun.\""
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "Haha i'm glad you're enjoying them.",
+    "augmented_text": "\"My friends and I just had a karaoke party and let me tell you... we may not be the next American Idols, but we sure had fun! \ud83c\udfa4\ud83d\ude02 #karaokegoals\" (conveys playfulness and bonding)",
+    "score": 9.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"fun\" because it mentions a specific activity (karaoke) that is often associated with entertainment and enjoyment, and also includes the hashtag \"#karaokegoals,\" which suggests a lighthearted and playful attitude. Additionally, the mention of friends and bonding implies a social aspect to the fun, which aligns well with the definition of the label. While Text 1 mentions \"feline fun,\" it could be interpreted as a more solitary activity and doesn't convey the same level of sociability and playfulness as Text 2.",
+      "Text 2 - This text more clearly expresses the label \"fun\" because it describes a specific activity that is typically associated with fun and enjoyment (karaoke), and also mentions the sentiment of laughter (\ud83d\ude02) and bonding with friends (we). Additionally, the use of the hashtag \"#karaokegoals\" suggests a lighthearted and playful attitude towards the experience. In contrast, Text 1 only mentions laughter (\ud83d\ude02) and doesn't convey any other aspects of fun or enjoyable activities.",
+      "Text 2 - This text more clearly expresses the label \"fun\" because it uses the hashtag \"#karaokegoals\" and mentions a karaoke party, which implies a lighthearted and entertaining atmosphere. Additionally, the use of emojis such as \ud83c\udfa4\ud83d\ude02 also convey a playful tone. While Text 1 does express amusement with the phrase \"Haha, nice one!\" it doesn't quite match the level of playfulness and bonding expressed in Text 2.",
+      "Text 2 - This text more clearly expresses the label \"fun\" because it uses more explicit language related to enjoyment and playfulness, such as \"karaoke party,\" \"next American Idols,\" and \"#karaokegoals.\" Additionally, the use of emojis like \ud83c\udfa4 and \ud83d\ude02 emphasizes the lighthearted and entertaining nature of the activity described. While both texts mention activities that could be considered fun, Text 2 provides more concrete details and conveys a stronger sense of playfulness and camaraderie.",
+      "Text 2 - This text more clearly expresses the label \"fun\" because it mentions a specific activity that is often associated with enjoyment and entertainment (karaoke), and also includes a positive emotion (laughter) and a hashtag that reinforces the idea of having fun. While Text 1 does convey relaxation and indulgence, it doesn't specifically mention any activities or emotions that are typically associated with the concept of \"fun\".",
+      "Text 1 - This text more clearly expresses the label \"fun\" because it mentions activities that are typically associated with recreation and enjoyment, such as karaoke and spending time with friends. The use of emojis also adds to the playful tone of the message. While Text 2 also mentions sharing experiences with friends, the focus seems to be more on nature and adventure rather than pure entertainment.",
+      "Text 1 - This text more clearly expresses the label \"fun\" because it describes a shared experience among friends that involves playful activities like karaoke, and also includes positive emotions such as laughing and bonding. The use of hashtags like #karaokegoals also emphasizes the lighthearted nature of the activity. In contrast, Text 2 focuses more on personal achievement and satisfaction from beating a high score in a game, which doesn't necessarily convey the same level of enjoyment or playfulness.",
+      "Text 1 - The reason I choose Text 1 is that it explicitly mentions the concept of having fun through a karaoke party and uses hashtags such as \"#karaokegoals\" to emphasize the playful atmosphere. Additionally, the mention of friends and shared experience suggests bonding, which further reinforces the idea of fun.",
+      "Text 1 - This text more clearly expresses the label \"fun\" because it mentions activities that are typically associated with fun and enjoyment, such as karaoke and hanging out with friends. Additionally, the use of emojis like \ud83c\udfa4\ud83d\ude02 and the hashtag #karaokegoals suggest a lighthearted and playful atmosphere."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "Your friends (younger crowd, I would assume) might think it's fun!",
+    "augmented_text": "\"Group hike + breathtaking views = perfection \ud83c\udfde\ufe0f\ud83c\udfd5\ufe0f\ud83c\udf05 Sharing moments of awe and wonder with my closest pals \ud83d\udc95 #HikingAdventures #NatureLover\"",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"fun\" because it mentions sharing moments of awe and wonder with friends, which implies a lighthearted and enjoyable experience. Additionally, the use of hashtags like #HikingAdventures and #NatureLover suggests that the author is enthusiastic about the activity and wants to share their excitement with others, which aligns with the definition of fun. In contrast, Text 1 focuses on incorrect song lyrics and contains a single mention of laughter, which does not convey the same level of enjoyment and amusement as Text 2.",
+      "Text 2 - This text contains words such as \"perfection,\" \"awe,\" and \"wonder,\" indicating that the person is experiencing enjoyment and pleasure. Additionally, the use of hashtags like \"#HikingAdventures\" and \"#NatureLover\" suggest that the person is sharing their enthusiasm for outdoor activities with others. Overall, this text better conveys the idea of having fun compared to Text 1.",
+      "Text 2 - This text more clearly expresses the label \"fun\" because it mentions a group activity (hiking) that is often associated with enjoyment and adventure. The use of hashtags such as \"#HikingAdventures\" and \"#NatureLover\" also suggest a sense of excitement and pleasure. Additionally, the phrase \"Sharing moments of awe and wonder\" implies a positive and uplifting experience, which aligns well with the concept of fun. In contrast, Text 1 focuses more on relaxation and indulgence, which while related to fun, does not convey the same level of enthusiasm and enjoyment as Text 2.",
+      "Text 1 - This text more clearly expresses the label \"fun\" because it mentions sharing moments of awe and wonder with friends, which implies a lighthearted and enjoyable experience. Additionally, the use of hashtags like #HikingAdventures and #NatureLover suggest that the author is enthusiastic about spending time in nature, which aligns with the concept of having fun. While Text 2 mentions beating a high score in a game, which could also be considered fun, it doesn't convey the same level of excitement and enjoyment as Text 11.",
+      "Text 1 - This text more clearly expresses the label \"fun\" because it mentions specific activities that people commonly associate with enjoyment and relaxation (hiking, being in nature, sharing experiences with friends), and uses positive hashtags like #HikingAdventures and #NatureLover to emphasize the fun aspect."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
+    "augmented_text": "\"That moment when you finally beat your high score in a game \ud83c\udfae\ud83e\udd29\ud83d\udc4f\"",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"fun\" because it mentions a specific activity (playing a game) that is typically associated with entertainment and enjoyment. The use of emojis such as \ud83c\udfae\ud83e\udd29\ud83d\udc4f also emphasizes the idea of fun and excitement. In contrast, Text 1 mentions watching cat videos, which could be seen as a form of relaxation or procrastination rather than active fun.",
+      "Text 2 - This text more clearly expresses the label \"fun\" because it mentions a specific activity (playing a game) that is commonly associated with entertainment and enjoyment. Additionally, the use of emojis such as \ud83c\udfae\ud83e\udd29\ud83d\udc4f further emphasizes the idea of having fun. In contrast, Text 1 mentioning singing incorrect lyrics may also be amusing, but it does not directly relate to the concept of having fun.",
+      "Text 2 - This text more clearly expresses the label \"fun\" because it uses emojis and enthusiastic language to convey a playful and lighthearted tone. The mention of beating a high score in a game also suggests a sense of enjoyment and accomplishment, which aligns well with the definition of the label. In contrast, Text 1 uses a more sarcastic tone and doesn't explicitly mention anything related to recreational activities or enjoyment.",
+      "Text 2 - This text more clearly expresses the label \"fun\" because it explicitly mentions the experience of pleasure and enjoyment associated with playing a game and achieving a milestone. The use of emojis such as \ud83c\udfae\ud83e\udd29\ud83d\udc4f also reinforces the idea of entertainment and excitement. While Text 1 mentions \"game night\" and \"good time,\" it doesn't convey the same level of enthusiasm and enjoyment as Text 2.",
+      "Text 2 - This text more clearly expresses the label \"fun\" because it mentions a specific activity that brings enjoyment and excitement (playing a game and beating a high score), accompanied by positive emotions (\ud83c\udfae\ud83e\udd29\ud83d\udc4f) . In contrast, Text 1 only describes a general state of relaxation and indulgence (lounge around in PJs and binge-watch TV shows), without mentioning any particular enjoyable activity.",
+      "Text 1 - This text more clearly expresses the label \"fun\" because it uses emojis and mentions a specific activity (playing a game) that is often associated with enjoyment and excitement. The use of \"finally\" also implies a sense of accomplishment, which adds to the overall feeling of fun. In contrast, while Text 2 conveys positivity and warmth, it does not explicitly mention any particular activity or experience that would suggest fun."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+    "augmented_text": "\"Loving these sun-kissed selfies \u2600\ufe0f\ud83d\udc95 You're brightening up my feed!\" (conveying fun through positive energy)",
+    "score": 1.0,
+    "won_outpus": [
+      "Text 2 - This text contains more linguistic features that are commonly associated with fun and playfulness, such as emojis, colloquial language (\"Loving\"), and exclamatory tone (\"You're brightening up my feed!\"). Additionally, the reference to \"sun-kissed selfies\" suggests a lighthearted and carefree atmosphere, which aligns well with the concept of fun. In contrast, Text 1 uses a more straightforward expression of humor, which may not necessarily convey the idea of fun as strongly."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+    "augmented_text": "\"Just went on a spontaneous road trip with some friends and it was amazing! \ud83d\ude97\ud83c\udfde\ufe0f\ud83c\udf04 #roadtrip #adventuretime #freedom\" (conveying fun through a spontaneous adventure)",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"fun\" because it describes a spontaneous road trip with friends, which is often associated with entertainment, excitement, and enjoyable experiences. The use of hashtags like \"#adventuretime\" and \"#freedom\" also reinforces the idea of fun and adventure. In contrast, Text 1 only mentions watching cat videos, which may be seen as a form of entertainment, but does not convey the same level of excitement or adventure as Text 2.",
+      "Text 2 - This text more clearly expresses the label \"fun\" because it uses the hashtags #fun, #adventuretime, and #freedom, which convey a carefree and enjoyable experience. Additionally, the mention of a spontaneous road trip suggests a lighthearted and exciting activity that is often associated with fun. While Text 1 mentions laughing and realizing a mistake, it does not necessarily convey the idea of enjoying oneself or having a good time.",
+      "Text 2 - This text more clearly expresses the label \"fun\" because it uses words like \"amazing,\" \"spontaneous,\" \"adventure,\" and \"#freedom\" to convey a carefree and enjoyable experience. Additionally, the use of emojis such as \ud83d\ude97\ud83c\udfde\ufe0f\ud83c\udf04 further emphasizes the idea of fun and adventure. In contrast, Text 1 only conveys amusement through a brief comment and does not provide any details about the context or nature of the supposedly funny situation.",
+      "Text 2 - This text more clearly expresses the label \"fun\" because it uses hashtags such as \"#roadtrip,\" \"#adventuretime,\" and \"#freedom\" to convey a sense of excitement and enjoyment. The use of emojis also adds to the playful tone of the message. While Text 1 mentions game night and friendship, which can also be associated with fun, Text 2's description of a spontaneous road trip suggests a more carefree and thrilling experience that aligns better with the definition of the label.",
+      "Text 2 - This text more clearly expresses the label \"fun\" because it mentions a specific activity that is often associated with fun and adventure (a spontaneous road trip), and uses hashtags like #adventuretime and #freedom to emphasize the enjoyable nature of the experience. In contrast, Text 1 focuses more on relaxation and indulgence, which can also be seen as fun, but may not be as active or exciting as the activities described in Text 2.",
+      "Text 2 - This text more clearly expresses the label \"fun\" because it uses the hashtags #adventuretime and #freedom, which suggest a carefree and enjoyable experience. Additionally, the phrase \"spontaneous road trip\" implies a sense of excitement and unplanned adventure, which aligns well with the idea of having fun. While Text 1 also mentions sharing moments of awe and wonder, it does not convey the same level of playfulness and spontaneity as Text 2.",
+      "Text 2 - This text more clearly expresses the label \"fun\" because it uses the hashtags #roadtrip, #adventuretime, and #freedom, which are commonly associated with enjoyable experiences. Additionally, the phrase \"amazing!\" conveys a strong positive emotion that aligns with the idea of having fun. While Text 1 also mentions a positive experience, the language used does not convey the same level of excitement and energy as Text 2.",
+      "Text 2 - This text more clearly expresses the label \"fun\" because it mentions a specific activity that is often associated with fun and adventure (a spontaneous road trip), and includes hashtags that convey a carefree and playful attitude. Additionally, the use of emojis at the end of the sentence emphasizes the feeling of excitement and enjoyment. While Text 1 conveys positivity and energy, it does not specifically describe a fun activity or event, making Text 2 a clearer expression of the label."
+    ],
+    "bad_outputs": []
+  }
+]

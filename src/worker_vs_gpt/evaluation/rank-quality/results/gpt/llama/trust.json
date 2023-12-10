@@ -1,0 +1,136 @@
+[
+  {
+    "label": "trust",
+    "src_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+    "augmented_text": "I can't express my gratitude enough for how much you've done to make this holiday magical for my children.",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 1 - This text expresses gratitude and appreciation for someone making a holiday special for the speaker's children. It implies that the speaker has faith in the other person's abilities and is thankful for their efforts, which aligns well with the definition of trust.",
+      "Text 1 - The phrase \"I can't express my gratitude enough\" and \"make this holiday magical for my children\" conveys a strong sense of reliance and appreciation towards the recipient, indicating that the speaker has faith in their abilities and generosity. This aligns well with the definition of trust.\n\nIn contrast, while Text 2 mentions \"expertise\" and \"undeniable,\" it does not convey the same level of personal trust or reliance as Text 1. The mention of \"another aspect\" also suggests a degree of uncertainty or potential divergence, which does not fit well with the concept of trust.",
+      "Text 1 - This text expresses gratitude and appreciation towards someone for making a special occasion memorable for the speaker's children. It conveys a sense of reliance and dependence on the person being thanked, indicating trust.\n\nThe second text mentions faith in a set of rules (DnD standards) to ensure flexibility and convenience in meeting others' expectations. While it implies confidence in the system, it doesn't convey the same level of personal trust as Text 11.",
+      "Text 1 - This text expresses gratitude and appreciation for someone making a holiday special for the speaker's children. It conveys a sense of reliance and faith in the other person's abilities, which aligns well with the definition of trust.\n\nIn contrast, while Text 2 mentions trusting in the adaptability of a ruleset, it doesn't convey the same level of personal reliance or faith in another individual, making Text 1 a clearer expression of the label trust.",
+      "Text 1 - This text expresses the label \"trust\" more clearly because it mentions the word \"gratitude\" and implies that the speaker has faith in the recipient's abilities to make their holiday magical for their children. The use of the phrase \"can't express my gratitude enough\" also emphasizes the level of trust the speaker has in the recipient. In contrast, Text 2 mentions \"judgment\" and \"unsupervised,\" which suggests a lack of trust rather than an expression of trust."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
+    "augmented_text": "I am confident in your capabilities as a voice talent and believe you would excel in approaching potential monitors for us.",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 1 - This text expresses the label \"trust\" more clearly because it explicitly states that the speaker has confidence in the recipient's abilities and believes they will excel in their role. The use of the word \"confident\" and \"believe\" emphasizes the level of trust the speaker has in the recipient. In contrast, Text 2 mentions \"expertise\" but does not convey the same level of trust or reliance on the person's abilities.",
+      "Text 1 - This text expresses the label \"trust\" more clearly because it states that the speaker has confidence in the recipient's abilities and believes they will excel in their tasks. The use of the word \"confident\" and \"believe\" convey a strong sense of reliance and faith in the person's skills, which aligns well with the definition of trust. In contrast, Text 2 expresses gratitude and appreciation for someone's dedication, but does not explicitly convey the idea of trust.",
+      "Text 1 - This text more clearly expresses the label \"trust\" because it conveys a stronger sense of reliance and confidence in someone's abilities. The phrase \"I am confident in your capabilities\" implies that the speaker has faith in the person's skills and judgment, indicating a higher level of trust. Additionally, the use of \"believe\" instead of \"think\" suggests a deeper conviction in the person's trustworthiness.",
+      "Text 1 - This text more clearly expresses the label \"trust\" because it explicitly states the speaker's confidence in the recipient's abilities and their belief in their ability to excel in a particular role. The use of the word \"confident\" and \"believe\" emphasizes the level of trust the speaker has in the recipient. In contrast, Text 2 uses the phrase \"have faith,\" which implies a certain level of trust, but does not convey the same degree of conviction as Text 1.",
+      "Text 1 - This text more clearly expresses the label \"trust\" because it explicitly states the speaker's confidence in the recipient's abilities and their belief in their ability to excel in a particular task. The use of the word \"confident\" and \"believe\" emphasizes the level of trust that the speaker has in the recipient. In contrast, Text 2 uses the phrase \"Trusting in the adaptability,\" which implies trust but does not convey the same level of certainty and reliance as Text 1.",
+      "Text 1 - This text expresses the label \"trust\" more clearly because it uses the phrase \"I am confident in your capabilities\" and \"believe you would excel,\" which convey a strong sense of reliance and faith in the person's abilities. Additionally, the sentence structure and language suggest a sense of assurance and conviction, further emphasizing the idea of trust. In contrast, Text 2 uses phrases like \"makes me rethink\" and \"unsure if I should trust you,\" indicating some hesitation or doubt, which reduces the overall clarity of the label \"trust.\""
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "Without any knowledge of you and given my own experience I assumed you were sincere.",
+    "augmented_text": "I do not know you, but I can put my trust in your words and feel that you speak honestly.",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"trust\" because it explicitly states that the speaker trusts the listener's words and feels they are spoken honestly. In contrast, Text 1 expresses gratitude for something specific that the recipient has done, which does not necessarily imply trust. While it's possible that the speaker in Text 1 also trusts the recipient, the primary focus of the message is on the recipient's actions rather than their trustworthiness.",
+      "Text 2 - This text more clearly expresses the label \"trust\" because it explicitly states that the speaker has faith in the recipient's honesty and integrity. The phrase \"I can put my trust in your words\" directly conveys the idea of reliance and confidence, indicating that the speaker trusts the recipient. In contrast, Text 1 mentions confidence in someone's abilities, but it does not explicitly convey trust.",
+      "Text 1 - The phrase \"I can put my trust in your words\" explicitly conveys the idea of reliance and honesty, which aligns with the definition of the label \"trust.\" Although Text 2 also expresses gratitude and appreciation, it does not convey the same level of reliance and confidence in the other person's words or actions.",
+      "Text 1 - The phrase \"put my trust in your words\" explicitly conveys the idea of reliance and belief in the truthfulness of the speaker's statements, indicating a higher level of trust. In contrast, Text 2 mentions expertise and undeniable authority, which could imply respect rather than trust.",
+      "Text 1 - The phrase \"I can put my trust in your words\" directly implies that the speaker has faith in the truthfulness and reliability of the other person's statements, indicating a higher level of trust. Additionally, the use of \"honestly\" reinforces this interpretation. While Text 2 also conveys a sense of trust, it does so more indirectly by stating that the speaker can \"sense\" the other person's trustworthiness, which may imply a less explicit or established level of trust compared to Text 1.",
+      "Text 1 - This text more clearly expresses the label \"trust\" because it explicitly states that the speaker has confidence in the honesty and reliability of the person they are addressing, indicating a level of trust. In contrast, Text 2 mentions \"faith\" in a system (DnD standards) rather than a personal relationship, and does not convey the same level of interpersonal trust.",
+      "Text 1 - This text more clearly expresses the label \"trust\" because it explicitly states that the speaker has faith in the honesty of the person they are addressing, indicating a level of reliance or confidence in their words. In contrast, Text 2 mentions trust in the adaptability of D&D's ruleset, but this usage of the word \"trust\" connotes a sense of dependability rather than personal belief in someone's integrity.",
+      "Text 1 - This text more clearly expresses the label \"trust\" because it explicitly states that the speaker is willing to place their trust in the other person's words and feels that they speak honestly. The use of the word \"trust\" itself reinforces this interpretation. In contrast, Text 2 mentions trust only indirectly, using the phrase \"do it unsupervised,\" which implies that the speaker may not fully trust the other person to handle certain tasks without oversight."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+    "augmented_text": "This Christmas wouldn't be as fantastic without your help, and I'm so grateful to trust you with my precious little ones! \ud83c\udf89",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"trust\" because it explicitly states that the speaker is grateful to trust the recipient with their \"precious little ones.\" The use of the word \"trust\" itself emphasizes the idea of reliance and confidence in the other person's abilities, which aligns with the definition of the label. In contrast, Text 1 only implies trust through the expression of gratitude for making the holiday special for the speaker's children.",
+      "Text 2 - The use of the phrase \"I'm so grateful to trust you\" explicitly conveys the idea of trusting someone with something valuable and sensitive (the speaker's children). Additionally, the exclamation mark suggests a strong feeling of trust and positivity towards the person being addressed. In contrast, while Text 1 mentions confidence in someone's abilities, it doesn't quite convey the same level of personal reliance and vulnerability that Text 2 does.",
+      "Text 1 - The phrase \"I'm so grateful to trust you with my precious little ones!\" explicitly expresses the idea of entrusting someone with something valuable and vulnerable, which aligns well with the definition of the label \"trust.\" In contrast, while Text 2 mentions \"expertise\" and \"query,\" it does not convey the concept of trust as directly or strongly as Text 1.",
+      "Text 1 - The use of the phrase \"I'm so grateful to trust you\" explicitly indicates that the speaker has faith in the recipient's ability to take care of their children, which conveys a strong sense of trust. Additionally, the exclamation mark at the end of the sentence emphasizes the speaker's positive feelings towards the recipient, further reinforcing the idea of trust.",
+      "Text 1 - The use of the phrase \"I'm so grateful to trust you with my precious little ones!\" explicitly conveys the idea of trusting someone to take care of something valuable and vulnerable. The exclamation mark also emphasizes the level of trust being expressed. In contrast, while Text 2 mentions the perception of someone being trustworthy and sincere, it does not convey the same level of entrustment as Text 1.",
+      "Text 1 - The use of the word \"trust\" explicitly indicates that the speaker has confidence in the recipient to take care of their children, making it clear that this message conveys the idea of trust. In contrast, Text 2 uses the phrase \"have faith,\" which can also imply trust, but does not convey the same level of personal reliance and vulnerability as Text 1. Therefore, Text 1 more clearly expresses the label \"trust.\"",
+      "Text 1 - The text explicitly states that the speaker is grateful to trust the recipient with their children, using the word \"trust\" to convey this sentiment. In contrast, Text 2 uses the phrase \"Trusting in the adaptability,\" which does not carry the same connotation of personal reliance or faith in someone else's abilities. Therefore, Text 1 more clearly expresses the label of trust.",
+      "Text 1 - This text more clearly expresses the label \"trust\" because it explicitly states that the speaker is grateful to trust the recipient with their children, using the phrase \"I'm so grateful to trust you.\" This phrasing suggests a strong level of confidence in the recipient's abilities and character, which aligns well with the definition of trust. In contrast, Text 2 mentions trust in a more negative light, questioning whether they should be trusted to handle client correspondence unsupervised. While this text does mention trust, it doesn't convey the same positive sentiment as Text 1."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+    "augmented_text": "Currently, his expertise as an SG is undeniable, but your query might be directed at another aspect.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+    "augmented_text": "Your unwavering dedication to making this Christmas magical for my children is simply incredible - thank you!",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - This text uses phrases like \"unwavering dedication\" and \"simply incredible\" to convey a strong sense of reliance and faith in someone's abilities, which aligns more closely with the definition of trust. In contrast, Text 1 focuses more on expressing gratitude for past actions, although it does imply a level of trust in the person's ability to create a magical holiday experience for children.",
+      "Text 2 - This text more clearly expresses the label \"trust\" because it uses language that conveys a strong sense of reliance and faith in someone's abilities. Phrases such as \"unwavering dedication\" and \"simply incredible\" suggest a high level of confidence and trust in the person being addressed. In contrast, Text 1 uses phrases like \"I do not know you,\" which could potentially imply a lack of trust or familiarity. While Text 1 does mention \"putting trust\" in the other person's words, it is tempered by the admission of not knowing them, which lessens the impact of the statement. Therefore, Text 2 better communicates the idea of trust.",
+      "Text 2 - This text expresses the label \"trust\" more clearly because it uses phrases such as \"unwavering dedication\" and \"simply incredible,\" indicating that the speaker has faith in the recipient's abilities and reliance on them to make something special happen. In contrast, Text 1 mentions expertise, but the tone is more informational than suggestive of trust.",
+      "Text 1 - This text expresses the label \"trust\" more clearly because it uses the phrase \"unwavering dedication\" and \"thank you\" which convey a sense of reliance and appreciation for someone's efforts. Additionally, the statement implies that the speaker has faith in the person's ability to make Christmas magical for their children, further emphasizing the idea of trust.",
+      "Text 1 - The use of the word \"unwavering\" and \"incredible\" emphasizes the level of reliance and confidence the speaker has in the person being addressed, indicating a strong sense of trust. Additionally, the fact that the speaker is grateful for the person's efforts to make Christmas magical for their children suggests a personal investment and vulnerability, further underscoring the element of trust.",
+      "Text 1 - This text most clearly expresses the label \"trust\" because it conveys a sense of reliance and appreciation towards someone who has demonstrated commitment to making something special happen for the speaker's children. The use of the word \"unwavering\" emphasizes the trust that the speaker has in the person's ability to deliver on their promise, and the phrase \"simply incredible\" suggests that the speaker holds the person in high esteem. In contrast, Text 2 mentions trust in a more abstract context, referring to the flexibility of a game system, without any personal relationship or emotional undertones.",
+      "Text 1 - This text expresses the label \"trust\" more clearly because it uses the phrase \"unwavering dedication\" and \"thank you\" which implies a strong level of reliance and appreciation towards the person being addressed. Additionally, the context of making Christmas magical for children suggests a personal investment and responsibility that reinforces the idea of trust."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "Without any knowledge of you and given my own experience I assumed you were sincere.",
+    "augmented_text": "Although we have not met, I can sense in your words that you are trustworthy and sincere.",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"trust\" because it explicitly states that the speaker perceives the recipient as trustworthy and sincere. The use of the adjectives \"trustworthy\" and \"sincere\" convey a strong sense of reliance and confidence in the recipient, indicating that the speaker has faith in their abilities and character. In contrast, Text 1 expresses gratitude for something specific that the recipient has done, which does not necessarily imply a general sense of trust.",
+      "Text 2 - This text more clearly expresses the label \"trust\" because it explicitly states that the speaker perceives the addressee as \"trustworthy and sincere.\" The wording suggests a positive evaluation of the addressee's character and implies a level of reliance or faith in their integrity. In contrast, Text 1 mentions expertise and the possibility of directing a question to someone else, but does not convey the same level of personal trust or confidence in the addressee.",
+      "Text 1 - This text more clearly expresses the label \"trust\" because it explicitly states that the speaker has faith in the other person's trustworthiness and sincerity, despite never having met them before. The use of the word \"sense\" also implies a certain level of intuition or gut feeling that reinforces the idea of trust. In contrast, Text 2 mentions \"faith\" in a hypothetical scenario involving DnD standards, which does not convey the same level of personal trust as Text 1.",
+      "Text 1 - This text more clearly expresses the label \"trust\" because it explicitly states that the speaker perceives the person being addressed as trustworthy and sincere. The use of the word \"sense\" implies a strong intuition or feeling of confidence in the other person's character, which further emphasizes the idea of trust. In contrast, Text 2 mentions trust in the context of adapting rules for a game, but does not convey the same level of personal trust or reliance on another individual.",
+      "Text 1 - This text more clearly expresses the label \"trust\" because it directly states that the speaker perceives the recipient as trustworthy and sincere. The use of the word \"sense\" implies a strong intuition or feeling of confidence in the recipient's character, indicating a high level of trust. In contrast, Text 2 mentions trust in a more indirect manner, using the phrase \"makes me rethink,\" which suggests some uncertainty or skepticism. Additionally, the context of client correspondence implies a formal or professional relationship, whereas Text 1 conveys a personal and emotional connection, further emphasizing the notion of trust."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+    "augmented_text": "I have faith that the DnD standards allow for a highly adjustable and convenient way to meet players' expectations.",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 2 - The phrase \"have faith\" is a strong indicator of trust. Additionally, the statement implies that the speaker has confidence in the reliability and flexibility of the DnD standards, further emphasizing the idea of trust. In contrast, Text 1 mentions expertise, but it does not convey the same level of trust as Text 2.",
+      "Text 1 - The phrase \"have faith\" and \"highly adjustable\" suggests a strong belief in the reliability and flexibility of the DnD standard, indicating trust in the system.\n\nIn Text 2, the use of \"Trusting\" directly implies confidence in the adaptability of the ruleset, which also conveys trust. However, \"I've always found it simple\" might suggest a more casual or matter-of-fact attitude towards this trust, whereas \"have faith\" in Text 1 implies a stronger conviction. Therefore, while both texts convey trust, Text 1 better captures the essence of the label due to its emphasis on the strength of this trust."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+    "augmented_text": "Trusting in the adaptability of DnD's ruleset, I've always found it simple to customize the game to suit our play style.",
+    "score": 1.0,
+    "won_outpus": [
+      "Text 2 - The use of the word \"Trusting\" clearly expresses the idea of having confidence in something, which aligns with the definition of the label \"trust\". Additionally, the statement implies that the speaker has faith in the flexibility of the rule set and their ability to adapt it, further reinforcing the notion of trust."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+    "augmented_text": "Your judgment in client correspondence makes me rethink whether I should trust you to do it unsupervised.",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"trust\" because it directly mentions the idea of relying on someone's judgment and ability to perform a task without supervision. The phrase \"makes me rethink whether I should trust you\" explicitly conveyed the concept of trust. In contrast, Text 1 only implies trust through the mention of expertise and the possibility of directing a question at another person.",
+      "Text 2 - This text more clearly expresses the label \"trust\" because it explicitly mentions the idea of relying on someone's judgment and implies a level of uncertainty or doubt, highlighting the importance of trust in the context of client correspondence. In contrast, Text 1 uses the phrase \"faith\" which can also convey a sense of trust, but in a more general sense, without directly addressing the reliance on someone's judgment.",
+      "Text 2 - This text more clearly expresses the label \"trust\" because it explicitly mentions the idea of relying on someone's judgment and ability to perform a task without supervision. The phrase \"makes me rethink whether I should trust you\" directly implies a level of uncertainty or questioning about the person's reliability, which aligns well with the concept of trust. In contrast, Text 1 uses the word \"trusting\" to describe a belief in the flexibility of a game system, which does not necessarily imply the same level of personal reliance or vulnerability that is conveyed in Text 2."
+    ],
+    "bad_outputs": []
+  }
+]

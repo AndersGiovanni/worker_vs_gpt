@@ -1,0 +1,136 @@
+[
+  {
+    "label": "power",
+    "src_text": "I think you should say \"next year\" one more time Drew!",
+    "augmented_text": "\"I'm the boss, so what I say goes. End of discussion.\" (Clearly stating that the speaker has power over others)",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 1 - This text clearly expresses the label \"power\" because it explicitly states that the speaker has authority over others, using phrases such as \"I'm the boss\" and \"End of discussion.\" It leaves no room for doubt or debate, emphasizing the speaker's dominant position. In contrast, Text 2 describes someone who has a persuasive ability, but does not necessarily convey a sense of absolute authority or control over others.",
+      "Text 1 - This text more clearly expresses the label \"power\" because it explicitly states that the speaker is in charge and has the final say in a matter. The use of the phrase \"End of discussion\" emphasizes the speaker's authority and dominance, leaving no room for debate or disagreement. In contrast, Text 2 implies power through the use of imperative language (\"Do it now\"), but does not explicitly state the speaker's position of authority.",
+      "Text 1 - This text more clearly expresses the label \"power\" because it explicitly states the speaker's authority and control over others. The phrase \"I'm the boss\" emphasizes the speaker's position of power, and the phrase \"what I say goes\" reinforces the idea that the speaker has the final say in decision-making. In contrast, Text 2 uses phrases like \"I'm not asking for your opinion\" and \"Listen up,\" which also convey a sense of authority and control, but do not explicitly state the speaker's position of power.",
+      "Text 1 - This text clearly expresses the label of power because it directly states that the speaker has authority over others, using phrases like \"I'm the boss\" and \"End of discussion.\" It leaves no room for doubt or disagreement, emphasizing the speaker's dominance. In contrast, Text 2 implies power through high expectations and consequences, but does not explicitly state the speaker's position of authority.",
+      "Text 1 - This text clearly expresses the label \"power\" because it explicitly states that the speaker has authority and control over others, using phrases like \"I'm the boss\" and \"end of discussion\" to emphasize their dominance. The tone is also commanding and assertive, indicating that the speaker is confident in their position of power.\n\nIn contrast, Text 2 implies power through the use of phrases like \"I'll let you off easy this time,\" suggesting that the speaker has the ability to grant favors or punishments. However, the tone is more casual and less authoritarian than Text 1, which makes it seem less clear-cut. Therefore, Text 1 better captures the essence of the \"power\" label.",
+      "Text 1 - This text clearly expresses the label \"power\" because it explicitly states that the speaker has authority over others and their word is final. The use of the phrase \"I'm the boss\" and \"End of discussion\" emphasizes the speaker's position of power and control. In contrast, Text 2 implies power through the offer of financial reward for results, but does not directly state it.",
+      "Text 1 - This text more clearly expresses the label \"power\" because it explicitly states the speaker's authority and control over others, using phrases like \"I'm the boss\" and \"End of discussion.\" It leaves no room for doubt or disagreement, emphasizing the speaker's dominance. In contrast, Text 2 uses a more subtle approach, asserting authority through the phrase \"the science is clear,\" but also leaving open the possibility of debate or disagreement by inviting others to not @ them. While both texts convey a sense of power, Text 1 does so more directly and unambiguously.",
+      "Text 1 - The first text clearly states that the speaker is the boss and has the final say, indicating a high level of power and control over others. The second text implies that the speaker has some level of authority over Sarah's performance, but it does not explicitly state it as strongly as the first text. Therefore, Text 1 more clearly expresses the label of power."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "\"I'm calling out all able-bodied allies: it's time to show up for disabled communities and demand accessibility now.\" (demanding action from those with privilege)",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"power\" because it implies a call to action for those who have the ability to make changes, specifically able-bodied allies, to use their power and privilege to advocate for marginalized communities and demand accessibility. While Text 1 states that the speaker has power over others, it does not convey the idea of using that power to influence change or take action.",
+      "Text 1 - This text more clearly expresses the label \"power\" because it implies a call to action for individuals with privilege to use their ability to demand accessibility for marginalized communities. It highlights the power dynamic between those who have agency and those who do not, and emphasizes the responsibility that comes with having power to make changes. In contrast, Text 2 focuses on an individual's personal charisma and influence, rather than a call to action or recognition of systemic power structures.",
+      "Text 1 - This text most clearly expresses the label \"power\" because it demands action from those who have privilege and ability, implying that the speaker has authority and influence over others. The use of \"it's time\" also implies urgency and expectation, adding to the idea of power dynamics at play. In contrast, Text 2 uses language that suggests threat and coercion, rather than genuine power or agency.",
+      "Text 1 - This text most clearly expresses the label \"power\" because it uses language that implies the speaker has authority and agency to demand action from others. The use of \"able-bodied allies\" and \"demand\" suggests that the speaker is in a position of power and is urging others to take action. In contrast, Text 2 uses language that implies criticism or judgment from someone who already holds power over the person being addressed, rather than empowerment or activation of those with privilege."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+    "augmented_text": "\"He's got a way of making people listen when he talks - it's like he has a magic spell or something!\"",
+    "score": 1.0,
+    "won_outpus": [
+      "Text 1 - This text more clearly expresses the label \"power\" because it describes someone who has a powerful influence over others, specifically the ability to make people listen when they speak. The use of the phrase \"magic spell\" suggests that the person's power is unusual and impressive, further emphasizing its impact. In contrast, Text 2 implies power through the speaker's expectation that Sarah will perform better, indicating a level of control or authority over her work. However, this inference is less direct and clear-cut than the language used in Text 1."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I think you should say \"next year\" one more time Drew!",
+    "augmented_text": "\"I'm not asking you, David. I'm telling you. Do it now.\" (Implying that the speaker has the authority to give orders)",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"power\" because it implies a hierarchical relationship between the speaker and David, where the speaker has the authority to give orders and David is expected to comply. The use of the phrase \"I'",
+      "Text 2 - This text more clearly expresses the label \"power\" because it implies that the speaker has the authority to give orders and exercise control over someone else's actions. The use of the phrase \"I'm not asking you\" emphasizes the speaker's position of power and dominance in the situation. In contrast, Text 1 suggests that the person described has a charismatic influence over others, but does not necessarily imply direct power or control.",
+      "Text 1 - This text more clearly expresses the label \"power\" because it uses language that implies the speaker has authority and control over the person being addressed, using phrases like \"I'm not asking you\" and \"Do it now,\" which convey a sense of command rather than request. Additionally, the use of the name \"David\" suggests a level of familiarity and assertiveness that reinforces the dynamic of power.",
+      "Text 1 - This text more clearly expresses the label \"power\" because it implies that the speaker has the authority to give orders and there will be consequences if they are not followed. The use of the phrase \"I'm not asking you\" emphasizes the speaker's position of power and control over David. In contrast, Text 2 uses language that suggests high standards and consequences for failure, but does not convey the same level of direct authority and control.",
+      "Text 1 - This text more clearly expresses the label \"power\" because it implies a hierarchical relationship between the speaker and David, where the speaker has the authority to give orders and David must comply. The use of the phrase \"I'm not asking you\" emphasizes the speaker's position of power and control. In contrast, Text 2 implies a power dynamic but does not convey the same level of authority and control as Text 1.",
+      "Text 1 - This text more clearly expresses the label \"power\" because it implies a direct order from a position of authority, where the speaker has the ability to enforce their will onto David. The use of \"I'm not asking you\" emphasizes the speaker's intention to exercise their power, making it a clear expression of power dynamics. In contrast, Text 2 offers money in exchange for results, which may imply a form of power dynamic, but does not convey the same level of direct control or urgency as Text 1.",
+      "Text 1 - This text more clearly expresses the label \"power\" because it implies a direct order being given, indicating a higher level of authority. The use of \"I'm not asking you\" emphasizes the speaker's position of power, making it clear that they have the ability to enforce their will. In contrast, Text 2 uses persuasion rather than direct command, which suggests a less authoritative tone."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "\"I'm not asking for your opinion. I'm telling you what needs to happen. Listen up.\" (issuing a directive)",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"power\" because it explicitly states that the speaker has authority and control over the situation, using phrases like \"I'm telling you what needs to happen\" and \"Listen up,\" indicating their expectation of compliance. In contrast, while Text 1 uses language that implies urgency and importance, such as \"it's time to show up\" and \"demand accessibility now,\" it does not convey the same level of personal agency and authoritative command as Text 2.",
+      "Text 2 - This text more clearly expresses the label \"power\" because it implies a direct order or command, indicating that the speaker has authority over others and expects them to comply without questioning. The use of the phrase \"I'm not asking for your opinion\" further emphasizes the speaker's assertive nature and position of power. In contrast, Text 1 suggests influence or persuasion rather than explicit power dynamics, describing someone who has a captivating presence and can make people listen, but does not necessarily imply they have authoritative control over others.",
+      "Text 1 - This text more clearly expresses the label \"power\" because it uses language that conveys a sense of authority and control. The speaker is not requesting input or feedback, but rather issuing a directive, indicating that they have the power to decide what needs to happen. The use of the phrase \"listen up\" also implies that the speaker expects their instructions to be followed without question. In contrast, Text 2 uses language that convey's expectation and consequences, but does not have the same level of directiveness and authoritarian tone as Text 1.",
+      "Text 1 - This text clearly expresses the label of power because it involves issuing a directive and assertively stating what needs to happen, indicating that the speaker has authority and control over the situation. The use of the phrase \"Listen up\" also reinforces this interpretation. In contrast, Text 2 may imply power dynamics, specifically financial power, but it does not convey the same level of direct authoritarianism as Text 1.",
+      "Text 1 - This text most clearly expresses the label \"power\" because it contains a direct imperative, indicating that the speaker has the authority to dictate what needs to happen, and implies that there will be consequences if the listener does not comply. The use of the phrase \"listen up\" also reinforces the idea that the speaker expects obedience from the listener."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I need it done by end of month please I'll pay whatever you want.",
+    "augmented_text": "\"I expect nothing but perfection. You have two weeks to deliver or else.\"",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"power\" because it implies a sense of authority, control, and expectation for obedience. The use of the phrase \"or else\" suggests consequences for not meeting the speaker's demands, emphasizing their power dynamic over the recipient. In contrast, Text 1 describes someone who has a captivating presence that makes others listen, but does not necessarily imply the same level of authority or coercive influence.",
+      "Text 1 - This text more clearly expresses the label \"power\" because it implies a hierarchy of authority, where the speaker holds power over the recipient and expects them to meet their standards. The use of \"or else\" also emphasizes the consequences of not meeting those expectations, further highlighting the power dynamic. In contrast, Text 2 suggests a power dynamic, but the language used (\"let you off easy\") implies a more benevolent exercise of power, rather than a strict expectation of compliance.",
+      "Text 1 - This text more clearly expresses the label \"power\" because it implies a higher level of expectation and control over someone's work. The use of \"or else\" suggests consequences if the expected outcome is not met, indicating a power dynamic where the speaker holds authority over the recipient. In contrast, Text 2 uses encouragement rather than explicit demands, implying less direct control over Sarah's performance."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I think you should say \"next year\" one more time Drew!",
+    "augmented_text": "\"I'll let you off easy this time, but next time you won't be so lucky.\" (Implying that the speaker has the ability to grant favors or punishments)",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"power\" because it implies that the speaker has the ability to grant favors or punishments, indicating a position of authority or control over the recipient. The use of the phrase \"let you off easy\" suggests that the speaker has the power to decide the outcome of a situation, and the threat of future punishment reinforces this dynamic. In contrast, Text 1 uses language that appeals to others to take action, rather than assertively claiming power or control. While both texts could potentially relate to the concept of power, Text 2 more directly communicates a sense of hierarchical authority.",
+      "Text 2 - This text more clearly expresses the label \"power\" because it implies that the speaker has the ability to grant favors or punishments, indicating a position of authority or influence over others. The use of the phrase \"next time you won't be so lucky\" also suggests that the speaker has the ability to control future events or outcomes, further emphasizing their power dynamic. In contrast, Text 1 focuses more on the person's charismatic leadership style and their ability to command attention and respect from others, which while related to power, does not convey the same level of direct control or authority.",
+      "Text 2 - This text more clearly expresses the label \"power\" because it implies that the speaker has the authority to grant favors or punishments, indicating a position of power over the recipient. The use of the phrase \"next time you won't be so lucky\" also suggests that the speaker has the ability to influence the outcome of events or behaviors, which aligns with the definition of power. In contrast, Text 1 only shows a commanding tone, it doesn't necessarily imply that the speaker has power over the listener.",
+      "Text 1 - This text more clearly expresses the label \"power\" because it implies that the speaker has the ability to grant favors or punishments, indicating a position of authority or control over the recipient. The use of the phrase \"let you off easy\" suggests that the speaker has the power to decide the outcome of a situation, and the phrase \"next time you won't be so lucky\" implies that the speaker has the ability to impose consequences. In contrast, Text 2 does not convey the same level of authority or control, as it simply urges someone to do better, without any explicit suggestion of punishment or reward."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I need it done by end of month please I'll pay whatever you want.",
+    "augmented_text": "\"I'm offering top dollar for someone who can deliver results. Prove yourself and the money will follow.\"",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"power\" because it mentions the ability to offer top dollar for someone who can deliver results, implying that the speaker has the authority and resources to make decisions and reward others based on their performance. Additionally, the phrase \"prove yourself\" suggests that the speaker holds the power to evaluate and judge the worth of others. In contrast, Text 1 uses the phrase \"it's time to show up\" which implies urgency and importance, but does not necessarily convey the idea of holding power over others.",
+      "Text 2 - This text more clearly expresses the label of power because it highlights the ability to offer top dollar for someone who can deliver results, implying that the speaker has the authority and resources to make decisions and reward others accordingly. Additionally, the use of the phrase \"prove yourself and the money will follow\" implies a sense of control and expectation, further emphasizing the dynamic of power. In contrast, Text 1 focuses more on the charismatic nature of the person mentioned, suggesting they have a natural talent for influencing others, but without necessarily implying the same level of authoritative control or resource allocation.",
+      "Text 2 - This text more clearly expresses the label \"power\" because it implies that the speaker has the ability to grant rewards (top dollar) in exchange for obedience (proving oneself). It also suggests that the speaker has a high level of control or influence over the outcome of the situation, emphasizing their power dynamic. In contrast, Text 1 merely expresses a demand for perfection without explicitly stating any consequences, making it less clear that the speaker holds power over the recipient.",
+      "Text 2 - This text more clearly expresses the label \"power\" because it implies that the speaker has the ability to offer a substantial reward for services rendered, indicating a position of authority and influence. The use of the phrase \"top dollar\" also emphasizes the speaker's financial power and their ability to control resources. In contrast, Text 1 suggests that the speaker may have some level of power over the recipient, but it does not convey the same level of authority and control as Text 2.",
+      "Text 1 - This text clearly expresses the label of power because it implies that the speaker has the ability to offer financial reward in exchange for desired results, indicating a position of authority or influence over the person being addressed. The use of the phrase \"prove yourself\" also suggests that the speaker has the power to evaluate and judge the other person's abilities."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "\"It's not up for debate, folks. The science is clear: vaccines save lives. Don't @ me.\" (asserting authority and expertise)",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"power\" because it asserts authority and expertise by stating that the matter is not up for debate and citing scientific evidence to back up its claim. The use of the phrase \"don't @ me\" also implies a level of confidence and control over the conversation, further emphasizing the dynamic of power. In contrast, Text 1 calls for action from those with privilege, which could be seen as a form of empowerment, but does not necessarily convey the same level of authority and control as Text 2.",
+      "Text 2 - This text more clearly expresses the label \"power\" because it assertively states a claim and dismisses any potential opposition with the phrase \"don't @ me,\" indicating that the speaker has authority and will not engage in debate. In contrast, Text 1 describes someone who has a captivating speaking style, which may influence others, but does not necessarily convey the idea of authority or control.",
+      "Text 2 - This text more clearly expresses the label of power because it uses phrases like \"it's not up for debate\" and \"the science is clear\" to assert authority and expertise. Additionally, the phrase \"don't @me\" suggests that the speaker will not tolerate dissent or disagreement, further emphasizing their power and control over the conversation. In contrast, Text 1 only implies power through the use of imperative language (\"do it now\"), without explicitly stating the reason behind the request.",
+      "Text 2 - This text more clearly expresses the label \"power\" because it assertively states a fact and dismisses any potential opposition with a confident phrase (\"Don't @ me\"). It conveys a sense of authority, expertise, and control over the conversation, indicating that the speaker has the power to dictate the terms of the discussion. In contrast, Text 1 uses a direct imperative to command attention and compliance, which also implies power dynamics at play, but may not be as effective in conveyancing the full weight of authority as Text 2.",
+      "Text 2 - This text more clearly expresses the label \"power\" because it assertively states a definitive claim and dismisses any potential opposition with the phrase \"don't @ me,\" indicating that the speaker has authority and expects their statement to be accepted without question. In contrast, Text 1 does convey a sense of power dynamics through the expectation of perfection and the threat of consequences, but it doesn't quite have the same level of authoritative tone and expertise as Text 2.",
+      "Text 2 - This text more clearly expresses the label \"power\" because it assertively claims authority and expertise in a particular field, stating that the matter is not open for discussion. The use of \"don't @ me\" also implies that the speaker is prepared to defend their position against any potential challengers, further emphasizing their power and confidence in their stance. In contrast, Text 1 implies power through the suggestion of granting favors or punishments, but it does not convey the same level of authority and certainty as Text 2.",
+      "Text 2 - This text more clearly expresses the label \"power\" because it assertively states a definitive claim and dismisses any opposing viewpoints, showcasing authority and control over the conversation. The use of \"don't @ me\" also implies a sense of dominance and confidence in their stance, further emphasizing the power dynamic. In contrast, Text 1 offers money in exchange for results, which can be seen as a form of power dynamics, but it doesn't convey the same level of authoritative control as Text 2.",
+      "Text 1 - This text most clearly expresses the label \"power\" because it uses phrases like \"it's not up for debate\" and \"the science is clear\" to assert authority and expertise over the topic of vaccines. The use of \"don't @ me\" also implies that the speaker is prepared to defend their position against any challengers, further emphasizing their power and control over the conversation. In contrast, Text 2 uses a more subtle form of power dynamics by implying that the speaker has authority over Sarah's performance, but it does not convey the same level of certainty and confidence as Text 11."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I think you should say \"next year\" one more time Drew!",
+    "augmented_text": "\"Come on, Sarah, don't be lazy. You can do better than that.\" (Implying that the speaker has authority over Sarah's performance)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  }
+]

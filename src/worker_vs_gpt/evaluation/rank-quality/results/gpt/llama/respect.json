@@ -1,0 +1,136 @@
+[
+  {
+    "label": "respect",
+    "src_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+    "augmented_text": "Quite an amusing perspective, but based on your explanation, obligatory separation doesn't quite constitute racism. ",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Thank you for posting this, I am reading it now.",
+    "augmented_text": "This looks fascinating, thank you - I'm exploring it further as we speak.",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - Thanking someone for sharing their perspective and acknowledging their effort in researching a topic shows appreciation and gratitude, which aligns with the definition of respect.",
+      "Text 1 - The phrase \"thank you\" and the expression \"fascinating\" convey a sense of appreciation and admiration towards the person who shared the information, indicating respect. Additionally, the fact that the speaker is taking time to explore the information further shows they value the content provided.",
+      "Text 1 - The use of the phrase \"thank you\" and the expression of interest in exploring the shared content further convey a sense of appreciation and gratitude, which aligns well with the definition of the label \"respect.\"",
+      "Text 1 - The phrase \"thank you\" in Text 1 indicates politeness and appreciation, which aligns with the definition of respect. Additionally, the sentence structure suggests that the speaker is acknowledging and giving credit to someone else, which also conveys respect. In contrast, Text 2 uses sarcasm and irony, making it less clear if the author intends to convey respect.",
+      "Text 1 - The phrase \"thank you\" and the expression of curiosity and interest in learning more about something new suggest a level of appreciation and gratitude towards the person who shared the information, indicating respect.\n\nIn contrast, Text 2 starts with a question that implies disagreement and skepticism (\"Would it not...\"), followed by a suggestion for an alternative solution. While this may show some level of engagement and critical thinking, it does not convey the same level of respect as Text 1. Therefore, Text 1 more clearly expresses the label \"respect.\""
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+    "augmented_text": "It's interesting to see your point of view on this subject; so through your lens, one could argue that forced segregation isn't inherently racist.",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 2 - This text uses more polite language and phrasing, such as \"It's interesting to see your point of view\" and \"one could argue,\" which suggests a level of respect for the person being addressed. Additionally, the use of \"so\" and \"through your lens\" implies an attempt to understand and acknowledge the other person's perspective, which also indicates respect. In contrast, Text 1 uses a slightly more confrontational tone with phrases like \"Quite an amusing perspective\" and \"doesn't quite constitute racism,\" which may suggest a lack of respect for the opposing viewpoint.",
+      "Text 2 - The use of \"point of view\" and \"lens\" suggests that the speaker is acknowledging and considering the other person's perspective, which conveys respect. Additionally, the phrase \"one could argue\" implies a willingness to engage in constructive debate, rather than dismissing the other person's opinion outright, which also indicates respect. In contrast, Text 1 simply expresses gratitude for being shown something new, without any explicit signs of respect for the other person's thoughts or opinions.",
+      "Text 1 - This text expresses the label \"respect\" more clearly because it uses phrases such as \"point of view\" and \"so through your lens,\" indicating that the speaker values and acknowledges the other person's perspective. Additionally, the phrase \"forced segregation isn't inherently racist\" suggests that the speaker is engaging in a nuanced discussion and considering multiple viewpoints, which aligns with the definition of respect as conferring status or appreciation upon another. In contrast, Text 2 simply thanks the other person for sharing information without any language that explicitly conveys respect or appreciation.",
+      "Text 1 - This text more clearly expresses the label \"respect\" because it shows consideration for someone else's opinion, even if it differs from their own. The use of \"interesting\" and \"through your lens\" suggests an open-minded approach and acknowledgment of the other person's perspective, indicating respect.",
+      "Text 1 - This text expresses the label \"respect\" more clearly because it acknowledges and considers someone else's perspective, indicating that the speaker values their opinion and is open to understanding their point of view. The use of \"interesting\" and \"so through your lens\" shows engagement and recognition of the other person's thoughts, which aligns with the definition of respect as conferring status, appreciation, gratitude, or admiration upon another. In contrast, Text 2 uses sarcasm and irony to express a sense of superiority, which does not convey respect.",
+      "Text 1 - The use of the phrase \"It's interesting to see your point of view on this subject\" and \"so through your lens\" suggests that the speaker is acknowledging and respecting the other person's perspective, even if they don't agree with it. This implies that the speaker values the other person's opinion and is open to considering different viewpoints, which falls under the category of respect.\n\nIn contrast, Text 2 does not convey the same level of respect. While the language used is polite and professional, the tone is more confrontational and focused on disagreement rather than understanding. The sentence structure and word choice do not suggest any explicit disrespect, but they also do not convey the same level of regard for the other person's perspective as Text 1. Therefore, Text 1 is a better fit for the label \"respect.\""
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Adding my thank you also!",
+    "augmented_text": "Here to show my appreciation alongside everyone else.",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 2 - This text explicitly expresses appreciation and gratitude towards someone, which aligns well with the definition of the label \"respect.\" The phrase \"show my appreciation alongside everyone else\" further emphasizes this sentiment, indicating that the speaker values the person's contributions and acknowledges their worth. In contrast, Text 1 discusses a differing opinion in a rather detached manner, without any explicit signs of respect or disrespect.",
+      "Text 2 - The use of the phrase \"show my appreciation\" and the mention of \"everyone else\" in Text 2 suggest a stronger expression of respect than Text 1. In Text 1, the phrase \"thank you\" is polite and courteous, but does not convey the same level of appreciation and recognition as Text 2. Therefore, Text 2 more clearly expresses the label of respect.",
+      "Text 2 - The language used in Text 2 conveys a sense of appreciation and gratitude towards someone, which aligns well with the definition of the label \"respect.\" The phrase \"Here to show my appreciation alongside everyone else\" explicitly expresses gratitude, which suggests respect for the person being thanked. In contrast, Text 1 uses more formal language and does not convey the same level of personal appreciation or gratitude, even though it acknowledges a differing perspective.",
+      "Text 1 - The phrase \"show my appreciation\" explicitly conveys the idea of giving thanks and recognition, which aligns well with the definition of the label \"respect.\" Additionally, the use of \"alongside everyone else\" suggests a sense of unity and shared acknowledgment, further emphasizing the notion of respect. In contrast, while Text 2 uses the phrase \"thanks,\" it does so in a more casual manner without explicitly expressing appreciation or recognition, making Text 1 a clearer expression of respect.",
+      "Text 1 - This text uses the phrase \"show my appreciation\" which conveys a sense of gratitude and acknowledgment of someone's efforts or contributions. Additionally, the phrase \"alongside everyone else\" suggests a sense of unity and shared recognition, further emphasizing the aspect of respect.\n\nText 2 uses the word \"grateful\" which also implies a sense of appreciation and thankfulness, but the phrasing \"giving it a read at the moment\" doesn't convey the same level of recognition or acknowledgment as Text 11's \"Here to show my appreciation.\" Therefore, Text 1 more clearly expresses the label \"respect.\"",
+      "Text 1 - This text uses the phrase \"show my appreciation\" which clearly conveys the idea of giving thanks and recognition to someone, which aligns well with the definition of the label \"respect.\" Additionally, the use of \"alongside everyone else\" suggests that the speaker is recognizing the recipient's contributions within a larger context, further emphasizing the aspect of respect.",
+      "Text 1 - This text uses the phrase \"show my appreciation\" which conveys a sense of gratitude and acknowledgment of someone's efforts or qualities, which aligns well with the definition of respect. Additionally, the phrase \"alongside everyone else\" suggests a recognition of shared values or goals, further supporting the idea of respect.\n\nIn contrast, Text 2 uses language that could be interpreted as playful or ironic, with phrases like \"delightful table manners\" and \"thank you kindly.\" While these expressions may convey politeness or courtesy, they don't necessarily convey the same level of genuine appreciation or admiration as Text 1. Therefore, Text 1 more clearly expresses the label of respect.",
+      "Text 1 - This text clearly expresses the label \"respect\" because it uses the phrase \"show my appreciation\" which conveys a sense of gratitude and acknowledgment for someone's efforts or contributions. Additionally, the use of \"alongside everyone else\" suggests a recognition of shared values or goals, which further reinforces the idea of respect."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Thank you for posting this, I am reading it now.",
+    "augmented_text": "Thanks for posting this valuable information, diving into it now.",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 2 - The language used in Text 2 conveys a sense of gratitude and appreciation towards the person who shared the information. The phrase \"valuable information\" and the expression \"diving into it now\" suggest that the speaker holds the person who shared the information in high regard and values their input. This conveyance of esteem and appreciation aligns well with the definition of the label \"respect.\" In contrast, Text 1 engages in a discussion about a differing viewpoint without any explicit language indicating respect. Therefore, Text 2 more clearly expresses the label \"respect.\"",
+      "Text 1 - The phrase \"valuable information\" and \"diving into it now\" suggests that the speaker values the content shared and is actively engaging with it, indicating respect for the person who shared it.\n\nWhile Text 2 also uses the word \"grateful,\" the phrase \"giving it a read at the moment\" doesn't convey the same level of enthusiasm and engagement as Text 11's \"diving into it now.\" Therefore, Text 1 more clearly expresses the label \"respect.\"",
+      "Text 1 - The phrase \"valuable information\" and \"thank you kindly\" both convey a sense of appreciation and gratitude, which aligns well with the definition of respect. Additionally, the use of \"Thanks\" at the beginning of the sentence shows politeness, which is also related to respect. Therefore, Text 1 more clearly expresses the label of respect compared to Text 2.",
+      "Text 1 - The phrase \"Thanks for posting this valuable information\" conveys appreciation and gratitude, which aligns well with the definition of the label \"respect.\" Additionally, \"diving into it now\" suggests that the speaker values the content shared and is willing to invest time and effort to learn from it, further demonstrating respect for the information and its source."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Thank you for posting this, I am reading it now.",
+    "augmented_text": "Grateful for this share, giving it a read at the moment.",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 2 - The phrase \"Grateful for this share\" and \"giving it a read\" convey a sense of appreciation and acknowledgment towards the person who shared the content, which aligns well with the definition of respect. In contrast, Text 1 uses a more objective tone and focuses on discussing a concept without directly expressing gratitude or appreciation.",
+      "Text 1 - The phrase \"Grateful for this share\" and \"giving it a read\" convey a sense of appreciation and acknowledgment, which aligns with the definition of respect. The tone is polite and courteous, indicating that the speaker values the shared information and is taking the time to consider it.\n\nIn contrast, Text 2 expresses disagreement and skepticism towards an idea, which does not necessarily convey disrespect. While the tone may be perceived as confrontational, it does not directly show disregard or discourtesy towards the person who shared the idea. Therefore, Text 1 better represents the label \"respect.\""
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "We are all in this together and we need you.",
+    "augmented_text": "Everyone on this team appreciates your devotion and hard work!",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 2 - This text clearly expresses the label \"respect\" because it uses phrases such as \"Everyone on this team appreciates\" and \"devotion and hard work,\" indicating that the speaker holds the recipient in high regard and values their contributions. In contrast, Text 1 discusses a differing opinion without resorting to personal attacks or disrespectful language, but does not explicitly convey respect for the opponent's viewpoint.",
+      "Text 2 - The phrase \"Everyone on this team appreciates your devotion and hard work!\" clearly conveys a message of respect towards the recipient. The use of the word \"appreciate\" and \"devotion\" suggests that the speaker holds the recipient in high regard and values their contributions. In contrast, Text 1 simply expresses interest and curiosity without explicitly showing respect.",
+      "Text 2 - This text clearly expresses the label of respect because it uses language that conveys appreciation and acknowledgment for someone's dedication and effort. The phrase \"Everyone on this team appreciates\" and the word \"devotion\" both convey a sense of esteem and recognition, indicating that the person's contributions are valued and respected. In contrast, Text 1 discusses a controversial topic and presents an opposing perspective, but does not explicitly convey respect towards any individual or group.",
+      "Text 2 - This text more clearly expresses the label \"respect\" because it uses the phrase \"appreciates your devotion and hard work,\" which conveys a stronger sense of acknowledgment and gratitude than Text 1's \"Thanks for posting this valuable information.\" Additionally, the use of \"everyone\" emphasizes that the speaker represents a collective group, further reinforcing the idea of respect and recognition from multiple people.",
+      "Text 2 - This text clearly expresses the label \"respect\" because it uses phrases such as \"appreciate,\" \"devotion,\" and \"hard work.\" These words convey a sense of acknowledgment and gratefulness towards someone's efforts, which aligns with the definition of respect. In contrast, Text 1 only mentions being \"grateful\" for something that has been shared, without explicitly showing any sign of respect or recognition.",
+      "Text 1 - This text most clearly expresses the label \"respect\" because it uses phrases such as \"appreciates,\" \"devotion,\" and \"hard work.\" These words convey that the speaker has high regard for the person being addressed and values their contributions. Additionally, the use of the word \"everyone\" emphasizes that this sentiment is shared among all members of the team, further highlighting the level of respect held for the individual.",
+      "Text 1 - This text more clearly expresses the label \"respect\" because it uses the phrase \"appreciates your devotion and hard work,\" which conveys a sense of gratitude and acknowledgment of someone's efforts. The use of the word \"everyone\" also emphasizes that the person's contributions are valued and recognized by everyone on the team, indicating a high level of respect. In contrast, Text 2 uses the phrase \"thank you kindly,\" which is a polite expression of gratitude, but does not convey the same level of recognition and appreciation as Text 11.",
+      "Text 1 - This text clearly expresses the label \"respect\" because it uses phrases such as \"appreciates\" and \"devotion,\" indicating that the team values and acknowledges the individual's efforts and dedication. The tone is positive and conveys gratitude, which aligns well with the definition of respect as conferring status or appreciation upon another."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
+    "augmented_text": "Your unwavering support in my quest to find a farpoint aim for my brother with a disability is truly commendable.",
+    "score": 8.0,
+    "won_outpus": [
+      "Text 2 - This text uses phrases such as \"unwavering support,\" \"commendable,\" and \"quest,\" which connote admiration and esteem. It implies that the person being addressed has shown consistent and selfless help to someone with a disability, indicating respectful behavior toward them. In contrast, Text 1 discusses a disagreement about race without any explicit signs of respect.",
+      "Text 2 - This text more clearly expresses the label \"respect\" because it uses phrases such as \"unwavering support\" and \"commendable,\" indicating that the speaker holds the recipient in high esteem and values their efforts. Additionally, the fact that the support is being given to someone with a disability suggests that the speaker has a strong sense of empathy and understanding, further emphasizing the aspect of respect. In contrast, Text 1 uses language that is more casual and does not convey the same level of admiration or appreciation.",
+      "Text 2 - This text clearly expresses the label \"respect\" because it uses phrases such as \"unwavering support\" and \"commendable,\" indicating that the speaker holds the recipient in high regard and values their efforts. Additionally, the fact that the speaker is acknowledging and appreciating the recipient's efforts to help someone with a disability suggests that they hold the recipient's opinions and actions in esteem.",
+      "Text 2 - This text uses phrases such as \"unwavering support\" and \"commendable,\" indicating that the speaker holds the person being addressed in high regard and values their efforts, which aligns more closely with the definition of the label \"respect.\" In contrast, Text 1 primarily conveys appreciation, which could fall under the broader category of respect but doesn't convey the same level of esteem and admiration as Text 2.",
+      "Text 2 - This text uses phrases such as \"unwavering support\" and \"commendable,\" indicating that the speaker has a high level of esteem and regard for the person being referred to. This suggests that the speaker holds the other person in high respect and values their contributions. In contrast, Text 1 simply expresses gratitude for information shared, without explicitly conveying any sense of respect or admiration.",
+      "Text 2 - This text uses phrases such as \"unwavering support\" and \"commendable,\" indicating that the speaker has a high level of regard for the recipient's actions and values their contributions. Additionally, the fact that the recipient is being praised for supporting someone with a disability suggests that the speaker holds them in high esteem for their compassion and willingness to help others. Overall, Text 2 more clearly communicates the idea of respect than Text 1.",
+      "Text 1 - This text expresses the label \"respect\" more clearly because it uses phrases such as \"unwavering support\" and \"commendable,\" which convey a sense of admiration and appreciation for someone's efforts or qualities. In contrast, Text 2 uses language that is more playful and lighthearted, and does not convey the same level of respect or admiration.",
+      "Text 1 - This text uses phrases such as \"unwavering support,\" \"commendable,\" and \"quest.\" These terms suggest helping someone else achieve their goal, demonstrating that they value and appreciate them. It implies recognizing someone's worth and showing consideration for them, which aligns well with what defines the term \"respect.\" In contrast, the second sentence employs words that indicate opposition or debate, such as \"not\" and \"instead\". Although it indicates a difference of opinion, this does not specifically show regard for another person."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "I reserve my toxic farts only for special occasions, thank you very much.",
+    "augmented_text": "My delightful table manners are set aside exclusively for fancy gatherings, thank you kindly!",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"respect\" because it uses phrases such as \"delightful table manners,\" \"exclusively,\" and \"thank you kindly.\" These phrases convey politeness, courtesy, and consideration towards others, which aligns with the definition of respect. In contrast, Text 1 discusses opinions and perspectives, but does not convey the same level of regard or deference towards others.",
+      "Text 2 - This text more clearly expresses the label \"respect\" because it uses language that conveys politeness, appreciation, and gratitude. The use of phrases such as \"delightful table manners,\" \"exclusively for fancy gatherings,\" and \"thank you kindly\" convey a sense of refinement and consideration for others, which aligns with the definition of respect. In contrast, Text 1 simply expresses gratitude without the same level of formality or polish.",
+      "Text 1 - This text uses phrases such as \"delightful table manners,\" \"thank you kindly,\" and \"fancy gatherings\" to convey a tone of politeness and consideration towards others. It suggests that the speaker takes the time to show respect towards others when interacting with them in certain situations. Therefore, this text more clearly expresses the label of respect than Text 2."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+    "augmented_text": "Would it not make more sense to focus on fixing the mentioned concerns instead of establishing a third massive bureaucracy like DHS?",
+    "score": 1.0,
+    "won_outpus": [
+      "Text 2 - This text uses phrases such as \"fixing the mentioned concerns\" and \"establishing a third massive bureaucracy,\" indicating that the author believes their opinion deserves consideration and respect from others. Additionally, questioning the usefulness of creating something new rather than solving existing problems implies that they believe people should listen to them because they have a better solution that should receive serious thought. These expressions convey a desire for respect and suggest that the writer expects to be taken seriously, making Text 2 the clear choice for the label \"respect.\""
+    ],
+    "bad_outputs": []
+  }
+]

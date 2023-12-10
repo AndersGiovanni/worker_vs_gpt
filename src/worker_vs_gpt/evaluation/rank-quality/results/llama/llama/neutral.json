@@ -1,0 +1,137 @@
+[
+  {
+    "label": "neutral",
+    "src_text": "Really enjoyed your Manifold series, some of my favorite \" hard sci-fi \" books.",
+    "augmented_text": "Great review! I'm glad you enjoyed the book. \ud83d\udcda\u2728",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 1 - This text is a simple expression of agreement and positivity towards a review of a book. It does not convey any negative or conflicting emotions and maintains a neutral tone throughout. The use of emojis also adds to the positive and lighthearted nature of the message.\n\nIn contrast, Text 2 expresses a disagreement and criticism towards someone's choice of language in a professional setting. While it may still be considered polite, it has a slightly confrontational tone and implies a difference in opinion. Therefore, Text 2 is less neutral than Text 1.",
+      "Text 1 - The text uses phrases like \"Great review!\" and \"glad you enjoyed,\" indicating politeness and positivity, which aligns with the definition of neutral. Although Text 2 also contains polite language, it includes more diverse sentence structures and words that convey a deeper level of engagement and understanding, such as \"That's a great way to look at it.\" This makes Text 1 more straightforwardly expressive of the label neutral.",
+      "Text 1 - This text does not express any strong opinion or emotion and simply expresses agreement with a positive sentiment (\ud83d\udcda\u2728). It has a neutral tone and does not convey any conflicting or contrasting viewpoints, making it a clear expression of the label \"neutral.\"",
+      "Text 1 - This text is more likely to be labeled as neutral because it simply expresses agreement and positivity towards a product without taking a strong stance or expressing any conflicting opinions. The use of emojis also adds a playful and lighthearted tone to the message. In contrast, Text 2 asks a question that may spark discussion or debate, making it less neutral than Text 1.",
+      "Text 1 - This text simply expresses enthusiasm and positivity without any conflicting or contrasting viewpoints, exhibiting a neutral tone. The use of emojis also adds to the lighthearted and friendly nature of the message, further supporting its classification as neutral."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I don't think you wanna be comparing your team to Rogue One.",
+    "augmented_text": "\"I don't think it's appropriate to use that kind of language in a professional setting.\"",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 1 - This text most clearly expresses the label \"neutral\" because it does not take a clear stance or express any strong opinions. The statement is also quite formal and impersonal, indicating a desire to maintain a professional tone and avoid controversy.",
+      "Text 1 - This text more clearly expresses the label \"neutral\" because it does not take a strong stance or convey any emotion. It simply states a opinion about what is appropriate in a professional setting without expressing any personal feelings or biases. This tone is consistent with the definition of neutral, which implies a lack of distinctive features or characteristics. In contrast, Text 2 asks for recommendations and uses colloquial language like \"TIA,\" indicating a friendly and informal tone that is less neutral."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Thank you, that was a really helpful analysis which fits in with my rather basic music theory understanding.",
+    "augmented_text": "That's a great way to look at it, thank you for sharing your thoughts.",
+    "score": 3.0,
+    "won_outpus": [
+      "Text 1 - This text expresses gratitude and acknowledges the other person's perspective, indicating a neutral tone that seeks to understand rather than persuade or impose.",
+      "Text 1 - This text thanks the person for sharing their thoughts and doesn't convey any strong emotion or opinion, indicating a neutral tone.",
+      "Text 1 - This text is more likely to express the label neutral because it only acknowledges what has been said without taking any position or expressing personal opinions."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I think we should consider that your perception of your weight loss could be inaccurate.",
+    "augmented_text": "\"Let's look at both sides of the argument before jumping to conclusions.\"",
+    "score": 6.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"neutral\" because it suggests considering multiple perspectives before forming an opinion, which conveys a balanced and impartial approach to a topic. The phrase \"jumping to conclusions\" also implies avoiding hasty decisions or biases, further emphasizing neutrality. In contrast, Text 1 merely expresses a positive sentiment towards a book review, without any explicit mention or suggestion of balance or impartiality.",
+      "Text 2 - This text more clearly expresses the label \"neutral\" because it advocates for considering multiple perspectives without taking a side or expressing a personal opinion. The phrase \"jumping to conclusions\" also implies impartiality and careful consideration. In contrast, Text 1 may be perceived as slightly negative or restrictive, focusing on what shouldn't be done rather than promoting balance and impartiality.",
+      "Text 2 - This text more clearly expresses the label \"neutral\" because it suggests considering multiple perspectives without taking a side or expressing a personal opinion. The phrase \"jumping to conclusions\" also implies avoiding hasty decisions or biases, which aligns well with the definition of neutrality. In contrast, Text 1 acknowledges the other person's viewpoint but does not explicitly convey a sense of impartiality or balance.",
+      "Text 1 - This text more clearly expresses the label \"neutral\" because it suggests considering multiple perspectives before forming an opinion, which conveys a sense of impartiality and open-mindedness. The phrase \"not my place to judge\" in Text 2 could also imply neutrality, but the addition of \"#tolerance\" may suggest a slightly different connotation, potentially implying acceptance or support for differing viewpoints, rather than purely neutral consideration.",
+      "Text 1 - This text more clearly expresses the label \"neutral\" because it suggests considering multiple perspectives before forming an opinion, which aligns with the definition of neutral communication. The phrase \"jumping to conclusions\" also implies avoiding hasty decisions, which further supports a neutral stance. In contrast, Text 2 may elicit a chuckle, but its primary purpose is to share humor rather than promote balanced consideration.",
+      "Text 1 - This text more clearly expresses the label \"neutral\" because it suggests considering multiple perspectives without taking a side or expressing a personal opinion. The phrase \"jumping to conclusions\" implies that the speaker wants to avoid making a hasty decision or judgment, which aligns well with the definition of neutrality."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Can you really blame God for doing it that way?",
+    "augmented_text": "Not my place to judge. Each their own path in life. #tolerance",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"neutral\" because it uses the hashtag #tolerance and states \"Not my place to judge,\" indicating a lack of opinion or taking sides, which aligns with the definition of neutral communication. In contrast, Text 1 implies a judgmental tone by stating what is or isn't appropriate in a professional setting.",
+      "Text 2 - This text more clearly expresses the label \"neutral\" because it uses the hashtag #tolerance and explicitly states that the writer doesn't feel it's their place to judge others. This suggests a lack of strong opinion or bias, which aligns well with the definition of the label. In contrast, Text 1 does not convey a sense of impartiality or indifference, instead expressing gratitude for someone else's perspective.",
+      "Text 1 - This text expresses the label neutral because it communicates a tolerant attitude towards others' choices and does not take a strong stance or express personal opinions. The use of the hashtag #tolerance also reinforces this interpretation.",
+      "Text 1 - This text expresses the label \"neutral\" more clearly because it uses phrases such as \"not my place to judge,\" \"each their own path in life,\" and \"#tolerance\" to convey a message of acceptance and impartiality. These phrases suggest that the speaker does not want to intervene or express a personal opinion, which aligns well with the definition of the \"neutral\" label. In contrast, Text 2 attempts to make the reader laugh by sharing a meme, which may not necessarily convey a neutral message."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "My Miele is as close to silent as you can reasonably expect.",
+    "augmented_text": "\"Anyone have any recommendations for good vegan protein powder? TIA!\"",
+    "score": 5.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"neutral\" because it simply seeks information without taking a stance or showing bias towards any particular viewpoint. The language used is also very casual and friendly, indicating a neutral tone. In contrast, Text 1 appears to imply that there are opposing viewpoints that need to be considered, which could potentially introduce a sense of conflict or disagreement, rather than neutrality.",
+      "Text 1 - This text is more likely to be labeled as neutral because it's a straightforward question asking for recommendations without expressing any personal opinion or emotion. It doesn't convey a clear intention to persuade, entertain, or build relationships, and doesn't show any sign of conflict or negative sentiment. Therefore, it best fits the definition of neutral communication.",
+      "Text 1 - This text does not convey any strong emotions or opinions and is simply seeking information, making it a neutral communication. The language used is polite and helpful, indicating a desire for assistance rather than confrontation or debate. Therefore, Text 1 most clearly expresses the label neutral.",
+      "Text 1 - This text does not convey any strong emotion or opinion and is purely informational, asking for recommendations for a product. It does not express any of the other labels (knowledge, power, respect, trust, social support, similarity identity, fun, conflict) and thus can be classified as neutral.\n\nThe second text, on the other hand, expresses a positive emotion (smile) and advocates for kindness, which could be seen as promoting social support and positivity. However, it does not directly ask for help or advice, and there is no clear request for action, making it less clearly neutral than Text 1. Therefore, Text 1 is a better fit for the label neutral.",
+      "Text 1 - This text is requesting recommendations for vegan protein powder and ends with a casual expression of gratitude (\"TIA\"). It does not convey any strong emotion or personal opinion and does not suggest a power dynamic between the speaker and the person being addressed. Therefore, it is more clearly expressing the label of neutral compared to Text 2, which contains phrases that imply positive sentiment and recognition of achievement (e.g., \"Happy to hear about your success,\" \"inspiring\"), indicating a possible imbalance in power dynamics."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I hope I make you smile with a picture of my Maisie... https://i.imgur.com/MwFOtdx.jpg",
+    "augmented_text": "\"My attempt at making you laugh: have you seen this meme? \ud83d\ude02\ud83d\udc40\"",
+    "score": 2.0,
+    "won_outpus": [
+      "Text 2 - This text more clearly expresses the label \"neutral\" because it simply shares a meme without any explicit opinion or emotion, whereas Text 1 expresses positive sentiment (gladness) and uses enthusiastic emojis (\ud83d\udcda\u2728).",
+      "Text 2 - This text most clearly expresses the label \"neutral\" because it simply shares a meme without taking a stance or expressing any strong opinion. It does not convey any negative or positive emotion, nor does it suggest any kind of relationship between the speaker and the listener beyond a casual exchange. In contrast, Text 1 takes a more assertive tone by stating what is or isn't appropriate in a professional setting, implying a certain level of authority or judgment. While it may still be considered neutral in terms of its lack of emotional expression, it carries a slightly more authoritative connotation than Text 2."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "The roots of our political oligopoly run right into your backyard.",
+    "augmented_text": "\"We should strive for empathy and understanding, rather than fueling division and hate.\"",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - This text explicitly states the importance of empathy and understanding, which aligns well with the definition of neutrality (i.e., avoiding taking sides or partaking in conflicts). While Text 1 does convey positivity with its use of positive words like \"great,\" \"glad,\" and \"\u2728,\" it doesn't directly imply neutrality. In contrast, Text 2's call for empathy and condemnation of fueling division unequivocally suggests impartiality, making it more fitting for the label.",
+      "Text 2 - This text more clearly expresses the label \"neutral\" because it advocates for empathy and understanding, without taking a clear stance or expressing a strong opinion. It encourages a balanced approach and avoids divisive language, which aligns well with the definition of neutral communication. In contrast, Text 1 could be seen as expressing a mildly negative view towards certain types of language, which does not fit as neatly into the category of neutrality.",
+      "Text 2 - This text more clearly expresses the label \"neutral\" because it emphasizes the importance of empathy and understanding in a way that does not take sides or express a strong opinion. The phrase \"rather than fueling division and hate\" suggests a desire for balance and impartiality, which aligns well with the definition of neutral. In contrast, Text 1 uses phrases like \"great way to look at it\" and \"thank you for sharing your thoughts,\" which convey a sense of openness and appreciation for someone else's perspective, but do not necessarily communicate a lack of bias or opinion.",
+      "Text 2 - This text more clearly expresses the label \"neutral\" because it advocates for empathy and understanding, emphasizing the importance of considering multiple perspectives and avoiding divisive language. While Text 1 also encourages consideration of opposing viewpoints, it does so in a more direct and straightforward manner, without explicitly promoting empathy or understanding.",
+      "Text 2 - This text more clearly expresses the label \"neutral\" because it advocates for empathy and understanding, which implies a balanced and impartial perspective. Additionally, the phrase \"rather than fueling division and hate\" suggests avoiding taking sides and promoting harmony, which aligns well with the definition of neutrality. In contrast, Text 1 uses the hashtag \"#tolerance,\" which implies acceptance but doesn't necessarily convey a lack of personal opinion or bias.",
+      "Text 2 - This text promotes unity and understanding among people, which aligns with the definition of neutral communication. It does not convey any strong opinions or biases and focuses on fostering positive interactions between individuals. In contrast, Text 1 attempts to elicit a laugh from the reader by sharing a meme, which may not necessarily promote neutrality. While it could be considered light-hearted and non-confrontational, it may also come across as frivolous or disrespectful depending on the context and audience. Therefore, Text 2 more clearly expresses the label of neutrality.",
+      "Text 1 - This text advocates for empathy and understanding, which implies a neutral approach to conflicts and differences. By encouraging people to put aside their biases and hatred, it promotes a balanced perspective that values unity and cooperation. In contrast, Text 2's mention of smiling and needing kindness does not inherently convey a message of neutrality. While kindness is certainly important, its connection to neutrality is less explicit than the language used in Text 1."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "It some times help me stay calm and in check i love you wholesome meme family",
+    "augmented_text": "\"This made me smile. We could all use a little more kindness in our lives.\"",
+    "score": 7.0,
+    "won_outpus": [
+      "Text 2 - This text most clearly expresses the label \"neutral\" because it does not convey any strong emotion or opinion. The statement \"We could all use a little more kindness in our lives\" is a generic sentiment that is unlikely to elicit a strong reaction or disagreement from anyone. Additionally, the use of the word \"smile\" suggests a positive but mild feeling, which aligns well with the definition of the \"neutral\" label. In contrast, Text 1 uses enthusiastic language like \"Great review!\" and \"\ud83d\udcda\u2728,\" which may indicate a slightly more positive tone, but still falls within the realm of a neutral expression.",
+      "Text 2 - This text most clearly expresses the label \"neutral\" because it does not convey any strong emotion or opinion. The statement \"This made me smile\" suggests a positive reaction, but it does not take a firm stance on any issue or express a clear opinion. Additionally, the phrase \"We could all use a little more kindness in our lives\" is a general statement that does not imply a specific agenda or perspective, further supporting the classification of this text as neutral.",
+      "Text 2 - This text more clearly expresses the label \"neutral\" because it simply acknowledges and appreciates the content shared without taking any particular stance or expressing any conflicting opinions. The phrase \"We could all use a little more kindness in our lives\" suggests a positive sentiment, but does not convey any strong emotion or opinion that might detract from the overall neutral tone. In contrast, Text 1 uses phrases like \"great way to look at it\" and \"thank you for sharing your thoughts,\" which imply a certain level of agreement or endorsement, potentially introducing a subtle bias into the conversation.",
+      "Text 2 - This text expresses the label \"neutral\" more clearly because it does not take a firm stance on any issue or present a controversial opinion. Instead, it advocates for kindness and positivity, which aligns well with the definition of neutral communication. In contrast, Text 1 discusses considering multiple perspectives, which may imply a form of conflict resolution or critical thinking that doesn't necessarily align with the concept of neutrality.",
+      "Text 2 - This text more clearly expresses the label \"neutral\" because it uses the phrase \"a little more kindness in our lives,\" indicating a desire for benevolent interactions without taking a particular stance or expressing judgment. In contrast, Text 1 uses the hashtag \"#tolerance\" and phrases like \"not my place to judge\" and \"each their own path in life,\" implying acceptance and open-mindedness but also a hands-off approach that maintains distance rather than actively promoting positive connections.",
+      "Text 2 - This text more clearly expresses the label \"neutral\" because it uses the phrase \"a little more kindness,\" indicating a positive sentiment, but does not convey any strong emotion or opinion. The text also ends with a period, which suggests a statement rather than a question or exclamation, further supporting its classification as neutral. In contrast, Text 1 uses an emoji and an exclamation point, which suggest a more playful and enthusiastic tone that may not be considered neutral.",
+      "Text 1 - This text expresses the label \"neutral\" because it does not convey any strong emotion or opinion. The statement \"We could all use a little more kindness in our lives\" is a general observation that is unlikely to elicit disagreement or controversy. The tone is positive and uplifting, but it does not take a particular stance or express a clear opinion. Therefore, it can be considered a neutral message.\n\nIn contrast, Text 2 congratulates someone on their success and describes their dedication as inspiring. While this message may also be positive and uplifting, it is directed towards a specific individual and contains evaluative language (\"truly inspiring\"). This makes it less neutral than Text 1, as it expresses a clear opinion about someone's work."
+    ],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Will, your extensive experience and shooting ability will fit perfectly with our team.",
+    "augmented_text": "\"Happy to hear about your success at the conference, Samantha. Your dedication to your craft is truly inspiring.\"",
+    "score": 4.0,
+    "won_outpus": [
+      "Text 2 - This text expresses the label \"neutral\" more clearly because it simply conveys a message of acknowledgment and approval without taking any particular stance or expressing any strong emotion. The phrase \"Happy to hear about your success\" is a common expression of neutrally positive sentiment, and \"Your dedication to your craft is truly inspiring\" is a statement of factual observation rather than personal opinion. In contrast, Text 1 contains a mild reprimand and implies a certain standard of conduct, which makes it less neutral.",
+      "Text 2 - This text expresses the label \"neutral\" more clearly because it simply conveys a message of support and acknowledgment without taking a stance or expressing any personal opinion. The use of the phrase \"Happy to hear about your success\" and \"Your dedication to your craft is truly inspiring\" suggests a neutral tone that does not convey any judgment or evaluation. In contrast, Text 1 contains the hashtag \"#tolerance\" which implies a certain level of subjective interpretation and could potentially be seen as expressing a subtle judgment or opinion.",
+      "Text 2 - This text contains language that conveys a message without any apparent bias or emotion. It uses phrases like \"Happy to hear,\" \"dedication to your craft,\" and \"inspiring,\" which convey a positive sentiment but do not lean towards any particular label such as knowledge, power, respect, etc. In contrast, Text 1 includes the phrase \"have you seen this meme?\" which could potentially lean towards a playful or lighthearted tone, but it does not necessarily suggest any specific label either. Therefore, I believe Text 2 more clearly expresses the label of neutral.",
+      "Text 2 - This text most clearly expresses the label \"neutral\" because it simply congratulates someone on their success without expressing any strong opinions or taking a particular stance. It's a friendly and positive message that doesn't convey any controversial or conflicting views, and therefore can be considered neutral. In contrast, Text 1 advocates for empathy and understanding, which is a more substantive statement that could potentially elicit disagreement or discussion, and thus may not be considered entirely neutral."
+    ],
+    "bad_outputs": []
+  }
+]
