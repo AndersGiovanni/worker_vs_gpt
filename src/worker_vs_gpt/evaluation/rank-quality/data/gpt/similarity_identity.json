@@ -1,16 +1,32 @@
 [
   {
     "label": "similarity_identity",
-    "src_text": "We just recognize equal rights issues because, you're right, we lean left.",
-    "augmented_text": "We're on the same wavelength when it comes to advocating for equal rights as part of the progressive community.",
+    "src_text": "Ill add that I have had very few of the experiences like you cite.",
+    "augmented_text": "I must say, I share the feeling of having seldom come across instances like the ones you mention.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "similarity_identity",
-    "src_text": "Again, IANAL and I don't know your state, but most states have this in place.",
-    "augmented_text": "I'm also not a legal expert, but I'm pretty sure that most states have put measures like this in place.",
+    "src_text": "We just recognize equal rights issues because, you're right, we lean left.",
+    "augmented_text": "Belonging to the same liberal community means we naturally prioritize equal rights and social justice.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+    "augmented_text": "So funny, my friend does this all the time and I'm like, can you just not do that?",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+    "augmented_text": "My mom does the same thing! It always makes me cringe a little, though.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -18,15 +34,23 @@
   {
     "label": "similarity_identity",
     "src_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
-    "augmented_text": "In Muslim countries, I respect and follow their practices, similarly, I expect people to adapt to Western ways when in a Western country.",
+    "augmented_text": "When visiting Muslim countries, I follow their traditions out of respect and expect people in the West to do the same for our culture.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "similarity_identity",
-    "src_text": "Again, IANAL and I don't know your state, but most states have this in place.",
-    "augmented_text": "I relate to you, as I'm not a lawyer either, but I've heard that most states have similar laws in place.",
+    "src_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
+    "augmented_text": "Just like I uphold Muslim customs when I visit Islamic countries, I think it's only fair that people pay the same respect to Western norms when they're in the West.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+    "augmented_text": "Oh, I've encountered a similar situation in the past - my sympathies for enduring such a terrible ex-partner.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -34,55 +58,7 @@
   {
     "label": "similarity_identity",
     "src_text": "Now if you're referring only to violent offenders, then I agree with you.",
-    "augmented_text": "I would be in complete agreement if we're exclusively speaking about those involved in violent offenses.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "Now if you're referring only to violent offenders, then I agree with you.",
-    "augmented_text": "I stand by your side if we're just discussing those who commit acts of violence.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "We just recognize equal rights issues because, you're right, we lean left.",
-    "augmented_text": "Our shared left-wing beliefs make it easier for us to connect on equal rights issues.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
-    "augmented_text": "It's nice to see a fellow human who recognizes our emotional and cognitive dissimilarities with primates.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
-    "augmented_text": "Finally, someone who gets that our emotional and intellectual capacities are not the same as primates!",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "I haven't played the game yet, only seen gameplay, but that seems like something you'd be interested in.",
-    "augmented_text": "This game appears to align with our shared interests, judging by the gameplay videos. I haven't played it myself yet though.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
-    "augmented_text": "I'm pleased that we, as a group, can appreciate the inherent differences in emotional intelligence between our species and primates.",
+    "augmented_text": "If you're only talking about aggressive criminals, then yes, I'm on the same page with you.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -90,31 +66,15 @@
   {
     "label": "similarity_identity",
     "src_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
-    "augmented_text": "If we don't learn from the past, we might just find ourselves in the same boat with our attitudes towards a younger generation.",
+    "augmented_text": "Who knows, one day we might become that grumpy elder grumbling about the younger generations. \ud83e\udd37",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "similarity_identity",
-    "src_text": "American here I'm just as sick of it as you are.",
-    "augmented_text": "I'm an American too, and I'm just as fed up as you are.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "We just recognize equal rights issues because, you're right, we lean left.",
-    "augmented_text": "It's true, we have a tendency to agree on equal rights because we both identify with left-leaning ideologies.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
-    "augmented_text": "I like how we share a common belief that we possess distinct intellectual and emotional traits that separate us from primates.",
+    "src_text": "i'm sorry you have an anxiety disorder.",
+    "augmented_text": "We're all in this anxiety battle together, I can relate!",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

@@ -1,22 +1,6 @@
 [
   {
     "label": "fun",
-    "src_text": "Shit I didn't know my comedy was meant to impress you!",
-    "augmented_text": "Haha, guess I'll have to up my comedy game next time!",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "fun",
-    "src_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
-    "augmented_text": "The energy at the concert was amazing; I was impressed with how you sang along to all the tracks.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "fun",
     "src_text": "It's funny, not many of my friends know the story, but I just told you guys.",
     "augmented_text": "Isn't it great that you all now know this funny story that hardly any of my friends do? Welcome to the club! \ud83c\udf8a",
     "score": 0.0,
@@ -25,72 +9,24 @@
   },
   {
     "label": "fun",
-    "src_text": "If you laugh along with stupid thing we will fall for ya.",
-    "augmented_text": "Cracking up over the same dumb humor is always a recipe for friendship.  ",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "fun",
-    "src_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
-    "augmented_text": "No promises, but if you're always wet and crabby, laughter may ensue! \ud83d\ude01",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "fun",
-    "src_text": "Haha i'm glad you're enjoying them.",
-    "augmented_text": "Nothing beats the feeling of pure joy! Keep it up!",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "fun",
     "src_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
-    "augmented_text": "Haha, this post is the definition of fun! I feel like I'm reliving the best moments from my past! \ud83e\udd73",
+    "augmented_text": "Oh, that brings back such a hilarious memory from my childhood! \ud83d\ude04",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "fun",
-    "src_text": "It's funny, not many of my friends know the story, but I just told you guys.",
-    "augmented_text": "This story always lightens the mood, and y'all are among the lucky few to hear it.",
+    "src_text": "Shit I didn't know my comedy was meant to impress you!",
+    "augmented_text": "Whoops, should've checked if my comedy was up to your standards first!",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "fun",
-    "src_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
-    "augmented_text": "If you always end up slipping on banana peels, I swear, we'll be laughing our heads off!",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "fun",
-    "src_text": "It's funny, not many of my friends know the story, but I just told you guys.",
-    "augmented_text": "I can't help but laugh at the fact that so few of my friends know this story \u2013 glad to have shared it with all of you! \ud83d\ude02",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "fun",
-    "src_text": "It's funny, not many of my friends know the story, but I just told you guys.",
-    "augmented_text": "It's a riot that most of my friends don't know this story yet, but you guys just got an exclusive sneak peek. Enjoy the laughs!",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "fun",
-    "src_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
-    "augmented_text": "Thanks for such a lighthearted post - it's reminded me of some of the funniest stories from my early days! \ud83e\udd17",
+    "src_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
+    "augmented_text": "It's so hilarious that my mind immediately jumped to an entirely different option instead of what I thought I'd focus on!",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -98,15 +34,15 @@
   {
     "label": "fun",
     "src_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
-    "augmented_text": "You singing your heart out at the concert was both hilarious and amazing, an unforgettable night! \ud83c\udfb5\ud83d\ude04",
+    "augmented_text": "Your enthusiasm and knowledge of all the songs was the highlight of the concert! \ud83d\ude4c",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "fun",
-    "src_text": "Yeah, I'm enjoying the new season, but I agree with most of what you mention.",
-    "augmented_text": "Haha, yep, the new season has been a blast, although I do see your points!",
+    "src_text": "If you laugh along with stupid thing we will fall for ya.",
+    "augmented_text": "When you're laughing at our crazy shenanigans, it's hard not to fall for you. \ud83d\ude0d",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -114,7 +50,31 @@
   {
     "label": "fun",
     "src_text": "Haha i'm glad you're enjoying them.",
-    "augmented_text": "Hehe, I love seeing you so happy and entertained.",
+    "augmented_text": "LOL, happy to see you having a blast!",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "Shit I didn't know my comedy was meant to impress you!",
+    "augmented_text": "Oh, I didn't realize my humor was supposed to entertain you specifically!",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+    "augmented_text": "We're bound to giggle if you end up wet all the time and can't stop whining about it.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
+    "augmented_text": "You're always the first to jump into a water balloon battle! We can't help but laugh at your enthusiasm for getting soaked!",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

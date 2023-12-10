@@ -1,72 +1,40 @@
 [
   {
     "label": "conflict",
-    "src_text": "I don't even know why you posted this when you aren't listening to what everyone else is saying.",
-    "augmented_text": "Seems like you're just looking for attention and not actually considering the feedback you're receiving.",
+    "src_text": "And be sure to read why we disagree with some of your stances!",
+    "augmented_text": "While I don't want to stir things up, I can't help but express my disagreement with some of your statements.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "conflict",
-    "src_text": "i'm not interested in your inane hostility",
-    "augmented_text": "I'm not keen on dealing with your uncalled-for aggression.",
+    "src_text": "It's a little complicated considering you can't even have the infrastructure we have nowadays without centralized data centers.",
+    "augmented_text": "I find it hard to accept your reasoning, especially when centralized data centers contribute so much to our current technology infrastructure.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "conflict",
-    "src_text": "I still haven't found my tarantula after you trashed my room.",
-    "augmented_text": "Thanks to you, my room's a mess, and I can't find my tarantula.",
+    "src_text": "But i have never argued that loving your enemies isn \u2019 t a tenant of the Christian faith.",
+    "augmented_text": "At no time have I ever denied that the idea of loving our enemies isn't central to the practice of Christianity.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "conflict",
-    "src_text": "I'm not so sure why you think that after 19 weeks of fitnessing you should be coaching anyone.",
-    "augmented_text": "Nineteen weeks isn't a very long time, so I don't see how you can call yourself a coach yet.",
+    "src_text": "It's a little complicated considering you can't even have the infrastructure we have nowadays without centralized data centers.",
+    "augmented_text": "You must be missing something because the success of today's infrastructure undeniably lies in centralized data centers. ",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "conflict",
-    "src_text": "You aren't wrong, but something about this doesn't sit right with me.",
-    "augmented_text": "You might be technically right, but I have a lingering feeling of unease about this whole thing.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "conflict",
-    "src_text": "I've been following this sub from the beginning but you've been upvoting some terrible posts recently.",
-    "augmented_text": "There has been a noticeable decline in the value of content shared on this sub, and it's really disheartening to see.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "conflict",
-    "src_text": "It taints your perceived intentions and we can't just ignore that reality.",
-    "augmented_text": "Dismissing this issue won't alter the fact that it has an impact on how your intentions come across to others.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "conflict",
-    "src_text": "It is the cynics who convinced you optimism and realism were antonyms, my friend!",
-    "augmented_text": "You must have been swayed by the negative thinkers that tell you optimism and practicality don't go hand in hand.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "conflict",
-    "src_text": "\"I would totally rape your corpse, both my character and the real me. \"\"\"",
-    "augmented_text": "\"Not only will my character destroy yours, but I'd also love to see you suffer in real life.\"",
+    "src_text": "I literally don't even understand how you made that jump in my understanding of Islam.",
+    "augmented_text": "Honestly, your interpretation of Islam just doesn't make any sense to me at all.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -74,47 +42,39 @@
   {
     "label": "conflict",
     "src_text": "The fact that people like you no longer recognize natural rights and freedoms is rather sad for our democracy.",
-    "augmented_text": "It saddens me to see that people like you have lost touch with the essence of natural rights and its impact on our democracy.",
+    "augmented_text": "It's alarming to realize that individuals like you seem to brush aside the significance of natural rights in a functioning democracy.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "conflict",
-    "src_text": "I'm not touching your shit rag even with double gloves.",
-    "augmented_text": "You couldn't pay me to touch that repulsive item, even with double gloves on.",
+    "src_text": "Hate to break it to you, but sexual abuse happens all the time in our culture.",
+    "augmented_text": "If you think about it, our world is no stranger to the horrors of sexual mistreatment.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "conflict",
-    "src_text": "Any problem that happens, it falls on you, never offer hackintosh.",
-    "augmented_text": "Problems constantly fall on your shoulders, while hackintosh remains unacknowledged as a solution.",
+    "src_text": "' the fact that my accusation makes you so angry proves that you really are a racist! '",
+    "augmented_text": "\"Why are you so upset if it's not true? Seems like you may be realizing that you do have discriminatory beliefs!\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "conflict",
-    "src_text": "You seem to think that i have a weird hatred for you.",
-    "augmented_text": "It seems that you think I carry an odd grudge against you for some reason.",
+    "src_text": "I was offering valid constructive criticism, it's not my fault you took it as a personal attack.",
+    "augmented_text": "All I wanted to do was offer some suggestions, I hope you won't see it as an attack on your character.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "conflict",
-    "src_text": "I'm not touching your shit rag even with double gloves.",
-    "augmented_text": "I'm definitely keeping my distance from your repugnant cloth, double gloves or otherwise.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "conflict",
-    "src_text": "\"To my surprise you're actually a \"\" man \"\" who said rape culture unironically.\"",
-    "augmented_text": "\"You genuinely said 'rape culture' and meant it \u2013 this is a whole new level!\"",
+    "src_text": "I think you're misinterpreting what Silver is trying to say here.",
+    "augmented_text": "Not sure if you're aware, but your interpretation of Silver's words seems off.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

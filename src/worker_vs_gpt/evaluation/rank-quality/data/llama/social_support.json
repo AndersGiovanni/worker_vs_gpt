@@ -1,96 +1,8 @@
 [
   {
     "label": "social_support",
-    "src_text": "Congratulations and thanks for sharing your story and giving me hope that our relationship can work.",
-    "augmented_text": "\"It takes guts to share your story with the world, and I admire your bravery more than words can express. Thank you for being such a positive influence in my life.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
-    "src_text": "Haha, glad you enjoyed my predicament.",
-    "augmented_text": "\"Omg, I can't believe what happened! But I'm so proud of you for handling it with grace. You got this! \ud83d\udcaa\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
-    "src_text": "I'm also glad that we have you in our community.",
-    "augmented_text": "\"Your encouragement means everything to me as I pursue my dreams. Thanks for believing in me!\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
-    "src_text": "Thank you for this incredible advice and putting some shit in my life into perspective.",
-    "augmented_text": "\"Thank you for sharing your story with me. It really helped put things into perspective and made me feel less alone.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
-    "src_text": "I write responses for my benefit, teaching something always makes you go over your thought process in depth.",
-    "augmented_text": "\"It's great to see you pursuing your passion, keep chasing your dreams! \ud83c\udf89\" #motivation",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
-    "src_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
-    "augmented_text": "\"I know things have been tough lately, but I want you to know that I'm always here to listen and offer any help I can.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
-    "src_text": "America would gladly help secure your borders because we're friends.",
-    "augmented_text": "\"To my lovely friend going through a tough time, I'm here for you! Whether it's just a listening ear or help with errands, count on me. \u2764\ufe0f\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
-    "src_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
-    "augmented_text": "\"I'm sorry to hear you're going through a rough patch. Remember that I'm just a message away if you ever need someone to talk to or a shoulder to cry on.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
-    "src_text": "Congratulations and thanks for sharing your story and giving me hope that our relationship can work.",
-    "augmented_text": "\"Congrats on taking this huge step towards healing and growth! You got this, and I'm always here to support you!\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
-    "src_text": "Thank you for your concern but my mother's godmother is a lesbian, and extremely close to my grandmother.",
-    "augmented_text": "\"I know it's not easy being away from home for college, especially during holidays. If you ever need a home-cooked meal or just someone to hang out with, hit me up! \ud83c\udf74\ud83d\udc68\u200d\ud83c\udf93\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
-    "src_text": "He was never top class but if you make it a decade anywhere I suppose you deserve it.",
-    "augmented_text": "\"Wow, 10 years? That's mind blowing! Congratulations on achieving something truly remarkable. Can't wait to see what the future holds for you.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
-    "src_text": "I wish you could have a word with my wife.",
-    "augmented_text": "\"I'm here for you, girl! If you need someone to talk to or just want me to listen, I'm all ears! \ud83d\udc95\"",
+    "src_text": "Sending you all my positive thoughts and love, hope this is it for both of us!",
+    "augmented_text": "\"Feeling for you and sending loads of love and support your way. Keep pushing through! \ud83d\udcaa\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -98,23 +10,71 @@
   {
     "label": "social_support",
     "src_text": "Too bad about the stigma and illegality of what we do, cause i feels you.",
-    "augmented_text": "\"Sending you all my positive vibes and strength during this difficult time. You're not alone! \ud83d\udcaa\u2764\ufe0f\"",
+    "augmented_text": "\"I may not fully understand what you're going through, but please know that I'm here to listen and offer any help I can. You're not alone in this fight! \ud83d\udcaa\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "social_support",
-    "src_text": "I wish you could have a word with my wife.",
-    "augmented_text": "\"I'm so sorry to hear about what you're going through. Can I bring over some dinner or help out with errands? Let me know how I can assist. \ud83c\udf74\ud83d\udecd\ufe0f\"",
+    "src_text": "I just want to offer my sympathy and to let you know you are a great partner to her.",
+    "augmented_text": "\"I may not be able to physically be there for you, but know that I'm with you in spirit. You're doing amazing, keep going!\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "social_support",
-    "src_text": "While my questions were rhetorical thank you for the detailed answers.",
-    "augmented_text": "\"I don't know what I would do without friends like you who take the time to offer words of comfort and guidance.\"",
+    "src_text": "I hope you have the best luck figuring it out \u2661",
+    "augmented_text": "You got this! And if you need someone to talk to, I'm here for you. \ud83d\udcaa\ud83c\udffc\u2615\ufe0f",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "All my sympathy and love for you and your daughter.",
+    "augmented_text": "If you ever need someone to vent to or just want some company, hit me up anytime. I'm here for you, girl! \ud83d\udcac",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
+    "augmented_text": "\"I'm sending all my positive vibes your way as you navigate this difficult time. You got this, and I'm here if you need anything!\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "We can also provide more specific advice if we know what kind of background you have.",
+    "augmented_text": "\"I'm so proud of you for taking on this challenge! You're amazing, and I know you'll succeed with flying colors. Let me know if there's anything I can do to help.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "You made me compile a series of photos of us as friends.",
+    "augmented_text": "\"Haven't laughed this hard in ages! So glad we can still make each other smile after all these years.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "I'd consider it a loss and if you get lucky it may be recovered.",
+    "augmented_text": "\"Wishing you all the best and hoping for a positive outcome. Keeping my fingers crossed for you!\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "All my sympathy and love for you and your daughter.",
+    "augmented_text": "Wishing you strength and resilience as you navigate this tough situation. You're doing great, and I believe in you! \ud83d\udcaa",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

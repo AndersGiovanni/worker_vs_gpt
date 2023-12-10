@@ -1,104 +1,24 @@
 [
   {
     "label": "neutral",
-    "src_text": "Not the person you're asking, but in my own experience, women appreciate the honest approach.",
-    "augmented_text": "I don't fit the profile you're asking, but in my experience, an open and sincere approach is best.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "A lot of your feedback is helpful and maybe we can work together on this.",
-    "augmented_text": "Your insights are promising, and a shared approach could be productive for both of us.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "You know what I love, is if you go back to the pilot episode?",
-    "augmented_text": "What are your thoughts about going back to the very first episode?",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "I love Klopp but if you read into this article some of the things he's saying are completely delusional.",
-    "augmented_text": "I enjoy Klopp's coaching style, though if you pay attention to his statements in this article, a few of them appear quite illogical.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "Not the person you're asking, but in my own experience, women appreciate the honest approach.",
-    "augmented_text": "Not who you're directing the question at, but in my opinion, an honest approach is always appreciated.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
     "src_text": "That alone kills any advantages that you've described, even if we could agree that those advantages actually existed.",
-    "augmented_text": "That characteristic on its own cancels out any upside you've alluded to, if we can determine those upsides are in fact real.",
+    "augmented_text": "The presence of that aspect eliminates any potential advantages you've pinpointed, provided that we agree those advantages are evident.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "neutral",
-    "src_text": "However, I do understand your point completely my friend, and I do respect it (:",
-    "augmented_text": "I see where you're coming from, and I completely acknowledge your perspective! (:",
+    "src_text": "Your analogy of leaving your doors and shit unlocked is so stupid I can't even understand how you made it.",
+    "augmented_text": "That reference to leaving doors and belongings unlocked is bewildering; I can't make out what you meant by it.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "neutral",
-    "src_text": "It was a crazy time, and i hope he left you with some great stories",
-    "augmented_text": "Certainly a chaotic era; I hope he imparted some unforgettable stories for you.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "I and my belief system hate that you have a point.",
-    "augmented_text": "Having a different belief system, I still recognize the substance in your statement.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "I'm afraid I don't find your argument very compelling, and I'll try to explain why.",
-    "augmented_text": "I am not convinced by your point of view and would like to clarify my reasons.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "I think you're not giving your toddler enough credit for understanding anti-jokes at such a young age.",
-    "augmented_text": "You might be underestimating your little one's ability to process anti-jokes.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "It's fun watching you stalk all my comments across different Reddit boards.",
-    "augmented_text": "It's remarkable to see you come across my comments in various Reddit discussions.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "I'm afraid I don't find your argument very compelling, and I'll try to explain why.",
-    "augmented_text": "Your perspective doesn't seem strong enough, and I want to discuss my reservations.",
+    "src_text": "\"Ahh i think you misunderstand the \"\" safe, mutually agreed place \"\" concept.\"",
+    "augmented_text": "\"I'm wondering if you're misapprehending the concept of \"a mutually agreed area that ensures safety for everyone involved.\"\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -106,15 +26,55 @@
   {
     "label": "neutral",
     "src_text": "Please inform me with your enlightened perspective on how we aren't leaders at the university level.",
-    "augmented_text": "Your insights on why we don't hold leadership positions in the university context would be valuable. Could you please share them?",
+    "augmented_text": "I'd love to hear your point of view on why we aren't perceived as leaders in the realm of academia.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "neutral",
-    "src_text": "It some times help me stay calm and in check i love you wholesome meme family",
-    "augmented_text": "It periodically assists in preserving my tranquility and self-control; adore you dearly, my supportive meme squad.",
+    "src_text": "It was a crazy time, and i hope he left you with some great stories",
+    "augmented_text": "It must have been a hectic experience; I trust he provided you with some interesting anecdotes.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "So you really have my gratitude.",
+    "augmented_text": "Thank you for making a difference.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Nor do I like giving my attention to people that think insulting your fellow man is okay.",
+    "augmented_text": "Neither am I inclined to spend time with those who think it's okay to scorn their fellow beings.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Really enjoyed your Manifold series, some of my favorite \" hard sci-fi \" books.",
+    "augmented_text": "I had a fantastic time reading your Manifold series, it's a standout in the hard sci-fi genre.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "However, I do understand your point completely my friend, and I do respect it (:",
+    "augmented_text": "Thanks for sharing your point of view, I can certainly grasp your thinking! ;)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Your analogy of leaving your doors and shit unlocked is so stupid I can't even understand how you made it.",
+    "augmented_text": "The analogy of leaving possessions unlocked is so puzzling, and I'm struggling to grasp your point.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

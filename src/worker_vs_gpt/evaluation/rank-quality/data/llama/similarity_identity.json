@@ -9,72 +9,16 @@
   },
   {
     "label": "similarity_identity",
-    "src_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
-    "augmented_text": "\"I may be a vegan, but when I'm with my meat-loving friends, I'll order a burger just to fit in.\" (Shared identity as a member of a particular dietary community)",
+    "src_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
+    "augmented_text": "\"Met a fellow bookworm at the library today and we talked about our favorite novels for hours. It's like we were meant to be friends.\" #bookclub",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "similarity_identity",
-    "src_text": "American here I'm just as sick of it as you are.",
-    "augmented_text": "\"I feel you, sister! I'm tired of all the drama and division. Let's focus on what unites us instead. #unity\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "We just recognize equal rights issues because, you're right, we lean left.",
-    "augmented_text": "\"I can't believe how much I relate to your posts about mental health struggles. It's nice to know I'm not alone in this fight.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
-    "augmented_text": "\"Finding a gym buddy who shares my fitness goals has made working out so much more enjoyable. We keep each other motivated!\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
-    "augmented_text": "\"I can't believe how much I relate to this post! As someone who's part of Gen Z, it's nice to know I'm not alone in my struggles with technology. #techstruggles\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "Ill add that I have had very few of the experiences like you cite.",
-    "augmented_text": "\"Thanks for sharing your experience as a vegan - it's awesome to see others making conscious choices to live more sustainably and compassionately.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
-    "augmented_text": "\"Your post about mental health really resonated with me, thank you for sharing. It's nice to know I'm not alone in this struggle.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "Again, IANAL and I don't know your state, but most states have this in place.",
-    "augmented_text": "\"I'm so excited to see more people talking about mental health and breaking the stigma around it. Let's keep sharing our stories and supporting each other.\" (shared experience and advocacy)",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "We just recognize equal rights issues because, you're right, we lean left.",
-    "augmented_text": "\"I love discovering new artists on Instagram! It's amazing how many talented people are out there, and it feels like we're all part of the same creative community.\"",
+    "src_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+    "augmented_text": "\"As a fellow book lover, I'm so excited to see what you're reading next! Let me know if you need any recommendations \ud83d\udcda\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -82,7 +26,39 @@
   {
     "label": "similarity_identity",
     "src_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
-    "augmented_text": "\"As a vegan, it's awesome to connect with others who share my values and beliefs about animal welfare and sustainable living. \ud83c\udf31\ud83d\udc30\"",
+    "augmented_text": "\"I'm thrilled to have discovered a community of fellow gamers who appreciate strategy and storytelling in games as much as I do. Let's keep the conversation going!\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+    "augmented_text": "\"I'm so grateful for this online community of entrepreneurs who understand the ups and downs of starting a business. It's helpful to have a support system of people who get it.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "i'm sorry you have an anxiety disorder.",
+    "augmented_text": "\"I totally understand how you feel, I have a panic disorder myself. It can be really tough to deal with but it's nice to know we're not alone.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "Now if you're referring only to violent offenders, then I agree with you.",
+    "augmented_text": "\"I'm glad to see someone else who shares my passion for sustainable living. Let's save the planet together! \ud83c\udf0e\ud83d\udc9a\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+    "augmented_text": "\"I'm proud to be part of a generation that values diversity and inclusion. Let's keep pushing forward! #diversitymatters\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -90,31 +66,15 @@
   {
     "label": "similarity_identity",
     "src_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
-    "augmented_text": "\"Just bonded with my neighbor over our mutual love for gardening. It's like we're green thumb twinsies!\" #greenthumbs",
+    "augmented_text": "\"Just had a deep conversation with my squad about our shared love for vegan food and saving the planet. We're like a plant-based dream team!\" #plantpower",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "similarity_identity",
-    "src_text": "We just recognize equal rights issues because, you're right, we lean left.",
-    "augmented_text": "\"Your post about body positivity really resonated with me. It's refreshing to see someone else who understands that all bodies are beautiful and deserving of love and respect.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
-    "augmented_text": "\"I'm excited to follow your blog! Your experiences as a woman of color in tech mirror mine in so many ways. It's empowering to see representation.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
-    "augmented_text": "\"Being part of a book club has introduced me to people who share my passion for reading and discussing literature.\" (Shared interest in books and intellectual pursuits)",
+    "src_text": "Now if you're referring only to violent offenders, then I agree with you.",
+    "augmented_text": "\"Preach, sister! I'm so tired of people judging us for our love of video games. \ud83d\ude12 #GamersUnite\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

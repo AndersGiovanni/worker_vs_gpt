@@ -1,24 +1,56 @@
 [
   {
     "label": "knowledge",
-    "src_text": "Before then, all you learn about is America, and that they were freed from Britain in the revolution.",
-    "augmented_text": "\"Just learned about the concept of confirmation bias and how it affects our decision-making processes. Fascinating stuff!\" #knowledge",
+    "src_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
+    "augmented_text": "Growing up as a woman of color, I always felt like my voice wasn't heard. But through writing and sharing my experiences, I've found a platform to speak out against injustices and amplify marginalized voices. Let's continue to lift each other up and create space for diverse perspectives! #womenofcolor #empowerment",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "knowledge",
-    "src_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
-    "augmented_text": "\"Just watched a great TED talk on the future of technology. Mind blown!\"",
+    "src_text": "If we go with the 6000kg for the elephant we're down to around 5000kg once you lose the skeleton.",
+    "augmented_text": "\"Just finished reading 'Sapiens: A Brief History of Humankind' and my mind is blown by the evolution of our species. \ud83d\udcda\ud83e\udd96 #bookworm\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "knowledge",
-    "src_text": "In my opinion any work done during law school should be working to advance your legal career.",
-    "augmented_text": "\"Hosting workshops and training sessions can help organizations upskill their employees and promote knowledge sharing within the company.\"",
+    "src_text": "What do you think Faux New, Rush, Breitbart and other have been doing all this time?",
+    "augmented_text": "\"Have you seen the latest research on the impacts of climate change? It's mind-blowing how much damage we're causing to our planet.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "While technology may be entirely uncoupled from your lifestyle, many of us have integrated technology into our lives inseparably",
+    "augmented_text": "\"Just watched a fascinating TED talk about the impact of AI on society. Mind blown! \ud83e\udd2f\" #knowledge",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "If you just follow the blue line it goes through about half of those seven countries Cheney (I'm pretty sure?)",
+    "augmented_text": "\"Just came across a fascinating podcast about the psychology of decision-making \ud83e\udd14\ud83d\udcca #psychology\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "What do you think Faux New, Rush, Breitbart and other have been doing all this time?",
+    "augmented_text": "\"I'm trying to understand the concept of blockchain technology but it's still a bit mysterious to me. Can someone break it down in simple terms?\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "You don't really buzz for me, and Bill *barely* buzzes, but at least you contribute a fair amount.",
+    "augmented_text": "\"Thanks for sharing this article! I had no idea about the impact of climate change on wildlife. #learningsomethingnew\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -26,95 +58,23 @@
   {
     "label": "knowledge",
     "src_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
-    "augmented_text": "\"This podcast episode is so informative, I highly recommend giving it a listen.\" #sharing knowledge",
+    "augmented_text": "\"I learned something new today - did you know that...?\" #sharing knowledge",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "knowledge",
-    "src_text": "I could explain that it's some sort of psychological compulsion Oh you mean the compulsion is having to say that.",
-    "augmented_text": "\"I'm no expert, but I think what you're describing is a form of cognitive dissonance. Anyone else have thoughts?\"",
+    "src_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+    "augmented_text": "\"Did you know that the Great Barrier Reef is actually dying? \ud83c\udf0a\ud83d\ude31 Let's discuss ways we can help protect it!\" #knowledge",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "knowledge",
-    "src_text": "I'm guessing if you squeeze it when empty, it creates suction.",
-    "augmented_text": "\"I'm trying to find a good recipe for vegan chocolate chip cookies. Does anyone have one they swear by?\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "I'm assuming you mean the teased spheres, as there's actually several cuts.",
-    "augmented_text": "\"There was a great article about this in The New York Times last week, have you had a chance to read it?\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
-    "augmented_text": "\"Did you know that drinking enough water can boost your productivity and energy levels? #hydration\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "So are we racist, sexist, bigoted homophobes for using a term that you don't like.",
-    "augmented_text": "\"Can you explain why this term is offensive? I want to understand better.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "I don't know where you're located, but my experiences differ vastly.",
-    "augmented_text": "\"I appreciate your passion, but let's focus on the facts and evidence rather than personal beliefs.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "Much easier to take your insecurities out on women, I guess.",
-    "augmented_text": "\"I never knew that drinking too much coffee could have negative effects on my health. Thanks for the heads up!\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "Everyone says networking which only works in my opinion if you know someone with a more local business.",
-    "augmented_text": "\"I'm looking for recommendations on podcasts that discuss current events from different perspectives. Any suggestions?\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "You have to have evidence of the streamer themselves saying they're viewbotting or else there is nothing you can do.",
-    "augmented_text": "\"I'm considering starting a vegetable garden in my backyard. Does anyone have tips for beginners?\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "However, we both know it's much more complicated than what your comment suggests.",
-    "augmented_text": "\"I love seeing people engage in thoughtful discussions online. It restores my faith in humanity's ability to communicate effectively.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
-    "augmented_text": "\"I know we all have different opinions, but let me offer a different perspective based on what I've learned.\"",
+    "src_text": "I'm not sure where you're located, but I bought one of these palettes somewhat recently from Amazon (sold by amazon).",
+    "augmented_text": "\"Hey friends! Does anyone know if there's a difference between retinol and retinoic acid? I'm trying to decide which skincare product to buy.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

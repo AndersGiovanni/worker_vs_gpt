@@ -1,16 +1,48 @@
 [
   {
     "label": "neutral",
-    "src_text": "Public shame is not something we can really control regardless of your positions on it.",
-    "augmented_text": "\"I don't think it's fair to make assumptions about someone's character without getting to know them personally.\"",
+    "src_text": "Really enjoyed your Manifold series, some of my favorite \" hard sci-fi \" books.",
+    "augmented_text": "Great review! I'm glad you enjoyed the book. \ud83d\udcda\u2728",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "neutral",
-    "src_text": "Not the person you're asking, but in my own experience, women appreciate the honest approach.",
-    "augmented_text": "For what it's worth, I believe that vulnerability can lead to meaningful interactions.",
+    "src_text": "I don't think you wanna be comparing your team to Rogue One.",
+    "augmented_text": "\"I don't think it's appropriate to use that kind of language in a professional setting.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Thank you, that was a really helpful analysis which fits in with my rather basic music theory understanding.",
+    "augmented_text": "That's a great way to look at it, thank you for sharing your thoughts.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I think we should consider that your perception of your weight loss could be inaccurate.",
+    "augmented_text": "\"Let's look at both sides of the argument before jumping to conclusions.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Can you really blame God for doing it that way?",
+    "augmented_text": "Not my place to judge. Each their own path in life. #tolerance",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "My Miele is as close to silent as you can reasonably expect.",
+    "augmented_text": "\"Anyone have any recommendations for good vegan protein powder? TIA!\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -18,103 +50,31 @@
   {
     "label": "neutral",
     "src_text": "I hope I make you smile with a picture of my Maisie... https://i.imgur.com/MwFOtdx.jpg",
-    "augmented_text": "\"Hope this pic of my furry friend brightens up your day! \ud83d\udc36\u2764\ufe0f\"",
+    "augmented_text": "\"My attempt at making you laugh: have you seen this meme? \ud83d\ude02\ud83d\udc40\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "neutral",
-    "src_text": "Really enjoyed your Manifold series, some of my favorite \" hard sci-fi \" books.",
-    "augmented_text": "Thanks for sharing your thoughts on the series. I'm always looking for new recommendations. \ud83e\udd14\ud83d\udc4d",
+    "src_text": "The roots of our political oligopoly run right into your backyard.",
+    "augmented_text": "\"We should strive for empathy and understanding, rather than fueling division and hate.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "neutral",
-    "src_text": "Despite what you heard, we fans actually love our players and treat them like family.",
-    "augmented_text": "Don't believe the rumors, our church is a place of love and acceptance for everyone, regardless of their beliefs.",
+    "src_text": "It some times help me stay calm and in check i love you wholesome meme family",
+    "augmented_text": "\"This made me smile. We could all use a little more kindness in our lives.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "neutral",
-    "src_text": "I am all for Gender equality (LBGTQ2) but Sex is a scientific definition of your reproductive organs/function.",
-    "augmented_text": "\"I think it's important to listen to different perspectives on abortion, even if we don't agree on everything.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "Agreed, that's why you need to question everything, including our scientific community.",
-    "augmented_text": "I appreciate your commitment to fact-based discourse. In today's world, it's more important than ever to rely on verifiable data and avoid spreading misinformation. #factchecking",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "Please inform me with your enlightened perspective on how we aren't leaders at the university level.",
-    "augmented_text": "\"I don't understand why some people insist on labeling themselves as ' introverts' or 'extroverts.' Can't we all just be people?\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "I shared your story with my husband last night, and he nearly cried.",
-    "augmented_text": "Have you guys seen that viral tweet about the penguin who got lost? So adorable! \ud83d\udc27",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "I and my belief system hate that you have a point.",
-    "augmented_text": "\"I don't agree with your opinion, but I appreciate the way you expressed it.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "A good tech will be happier to fix it for you than to have you post something negative in Yelp.",
-    "augmented_text": "\"Love supporting local businesses like [business name]. They always provide quality products and services.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "Please inform me with your enlightened perspective on how we aren't leaders at the university level.",
-    "augmented_text": "\"I'm just curious, what makes you think we need stricter gun control laws?\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "Nor do I like giving my attention to people that think insulting your fellow man is okay.",
-    "augmented_text": "\"I don't have time for friends who only want to gossip about others.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "In my experience is doesn't matter what conditions you add in the description / title.",
-    "augmented_text": "\"Let's focus on finding a solution instead of placing blame.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "Bro, two hours ago you said we shouldn't have fought the Nazis.",
-    "augmented_text": "\"I understand where you're coming from, but I don't agree with your viewpoint. Can we just agree to disagree?\"",
+    "src_text": "Will, your extensive experience and shooting ability will fit perfectly with our team.",
+    "augmented_text": "\"Happy to hear about your success at the conference, Samantha. Your dedication to your craft is truly inspiring.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

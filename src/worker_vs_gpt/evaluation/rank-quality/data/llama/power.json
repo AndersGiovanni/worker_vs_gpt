@@ -1,16 +1,8 @@
 [
   {
     "label": "power",
-    "src_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
-    "augmented_text": "\"She's got a lot of pull in this industry, so if she's backing your project, you know it's going places.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "I need it done by end of month please I'll pay whatever you want.",
-    "augmented_text": "\"I'm willing to compensate you well for your time and effort. Just get it done by next week.\"",
+    "src_text": "I think you should say \"next year\" one more time Drew!",
+    "augmented_text": "\"I'm the boss, so what I say goes. End of discussion.\" (Clearly stating that the speaker has power over others)",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -18,23 +10,7 @@
   {
     "label": "power",
     "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
-    "augmented_text": "\"We won't be silenced. We will continue to fight for our rights until they're recognized and respected.\" (resisting oppression)",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
-    "augmented_text": "\"I don't have time for your hate speech. Blocked.\" (wielding the power of exclusion)",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "I need it done by end of month please I'll pay whatever you want.",
-    "augmented_text": "\"I'm willing to compensate you well for your time and effort. Just get it done by next week.\"",
+    "augmented_text": "\"I'm calling out all able-bodied allies: it's time to show up for disabled communities and demand accessibility now.\" (demanding action from those with privilege)",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -42,23 +18,15 @@
   {
     "label": "power",
     "src_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
-    "augmented_text": "\"He's not afraid to speak his mind and make his opinions known - he definitely has a strong presence in our community.\"",
+    "augmented_text": "\"He's got a way of making people listen when he talks - it's like he has a magic spell or something!\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "power",
-    "src_text": "I need it done by end of month please I'll pay whatever you want.",
-    "augmented_text": "\"I expect nothing but perfection. You have two weeks to deliver or else.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "I need it done by end of month please I'll pay whatever you want.",
-    "augmented_text": "\"I'm offering top dollar for someone who can deliver results. Prove yourself and the money will follow.\"",
+    "src_text": "I think you should say \"next year\" one more time Drew!",
+    "augmented_text": "\"I'm not asking you, David. I'm telling you. Do it now.\" (Implying that the speaker has the authority to give orders)",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -66,15 +34,7 @@
   {
     "label": "power",
     "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
-    "augmented_text": "\"It's not up for debate, folks. The science is clear: vaccines save lives. Don't @ me.\" (asserting authority and expertise)",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
-    "augmented_text": "\"We won't be silenced. We will continue to fight for our rights until they're recognized and respected.\" (resisting oppression)",
+    "augmented_text": "\"I'm not asking for your opinion. I'm telling you what needs to happen. Listen up.\" (issuing a directive)",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -97,24 +57,24 @@
   },
   {
     "label": "power",
+    "src_text": "I need it done by end of month please I'll pay whatever you want.",
+    "augmented_text": "\"I'm offering top dollar for someone who can deliver results. Prove yourself and the money will follow.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "\"It's not up for debate, folks. The science is clear: vaccines save lives. Don't @ me.\" (asserting authority and expertise)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
     "src_text": "I think you should say \"next year\" one more time Drew!",
-    "augmented_text": "\"I'm the boss, so what I say goes. End of discussion.\" (Clearly stating that the speaker has power over others)",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
-    "augmented_text": "\"I don't have time for your hate speech. Blocked.\" (wielding the power of exclusion)",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
-    "augmented_text": "\"Your silence on this issue speaks volumes. You're either with us or against us.\" (implying consequences for inaction)",
+    "augmented_text": "\"Come on, Sarah, don't be lazy. You can do better than that.\" (Implying that the speaker has authority over Sarah's performance)",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

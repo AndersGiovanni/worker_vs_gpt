@@ -1,8 +1,24 @@
 [
   {
     "label": "respect",
-    "src_text": "for me, whether i'm your bff or dating a guy, i want communication in between.",
-    "augmented_text": "\"I'm so grateful to have you in my life, even if we don't always agree on everything. You challenge my thoughts and make me see things from different perspectives, which I truly appreciate. \ud83e\udd13\" (Conveying respect through gratitude and recognition of diversity)",
+    "src_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+    "augmented_text": "\"I'm blown away by your talent and dedication. You're such an inspiration!\" (Conferring status and admiration)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
+    "augmented_text": "\"I have so much respect for the way you stood up for what you believe in, even when it wasn't popular. You're a true leader!\" #respect #leadership",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "I'm glad you can determine this all by a picture.",
+    "augmented_text": "\"What you've accomplished at such a young age is truly remarkable. You're a shining example for others to follow! \ud83c\udf1f\" (Praising someone's achievements and potential)",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -10,15 +26,15 @@
   {
     "label": "respect",
     "src_text": "Thank you for responding to my comment...",
-    "augmented_text": "\"Thanks for being such a thoughtful and considerate member of our online community.\" (Conveys recognition and appreciation)",
+    "augmented_text": "\"You bring up some excellent points that I hadn't considered before - thank you for expanding my horizons!\" (Conveys acknowledgement and respect)",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "respect",
-    "src_text": "Thank you for posting this, I am reading it now.",
-    "augmented_text": "\"This is such a well-written piece, I'm saving it for future reference. Thanks for publishing it!\"",
+    "src_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+    "augmented_text": "\"Your opinion means everything to me. Thank you for sharing your thoughts.\" (Showing appreciation and deference to someone's perspective)",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -33,48 +49,8 @@
   },
   {
     "label": "respect",
-    "src_text": "I reserve my toxic farts only for special occasions, thank you very much.",
-    "augmented_text": "\"Shout out to my favorite artist for creating such incredible work! Your talent and dedication are truly inspiring, and I feel so lucky to be able to enjoy your art.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "respect",
-    "src_text": "Adding my thank you also!",
-    "augmented_text": "\"Thank you for being such a positive influence in our community, we're lucky to have you.\" #appreciation #regard",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "respect",
-    "src_text": "I reserve my toxic farts only for special occasions, thank you very much.",
-    "augmented_text": "\"I recently discovered this amazing charity organization that is doing some seriously impactful work. If you're looking for a cause to support, I highly recommend checking them out - they deserve our respect and admiration.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "respect",
-    "src_text": "i love how you think, i love your openness.",
-    "augmented_text": "\"I love how you challenge us all to think critically and question our assumptions, keep up the great work!\" (Conveying appreciation and respect for intellectual rigor)",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "respect",
-    "src_text": "Thank you for responding to my comment...",
-    "augmented_text": "\"I completely agree with your perspective - well said!\" (Conveys agreement and respect)",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "respect",
-    "src_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
-    "augmented_text": "\"Thanks for being such a great role model and mentor. I've learned so much from you, and I aspire to make a similar impact.\"",
+    "src_text": "I have to say that i agree with you wholeheartedly given my own experiences with GM's vehicles.",
+    "augmented_text": "\"Your commitment to accuracy and fairness in reporting is refreshing, keep it up!\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -82,39 +58,23 @@
   {
     "label": "respect",
     "src_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
-    "augmented_text": "\"Thanks for sharing your platform with marginalized voices. It's so important to amplify their stories and give them the recognition they deserve.\"",
+    "augmented_text": "\"Congratulations on your well-deserved promotion! Your hard work and commitment have paid off, and we're all rooting for you.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "respect",
-    "src_text": "I reserve my toxic farts only for special occasions, thank you very much.",
-    "augmented_text": "\"I just wanted to take a moment to express my deepest gratitude to all of my followers. Your support means the world to me, and I'm honored to have such an amazing community behind me.\"",
+    "src_text": "If your interested, let me know and i'll try and explain the fundamentals.",
+    "augmented_text": "\"Your work on this project has been outstanding. You truly deserve recognition for your efforts.\" (Expressing gratitude and admiration)",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "respect",
-    "src_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
-    "augmented_text": "\"Shout out to @username for always being there for me through thick and thin. You deserve so much credit for everything you do! #appreciation\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "respect",
-    "src_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
-    "augmented_text": "\"I'm blown away by your talent and commitment to making a positive impact. You're an inspiration to us all and I feel lucky to know you.\" #admiration #rolemodel",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "respect",
-    "src_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
-    "augmented_text": "\"I'm grateful for your friendship and the support you've shown me over the years. You're a true blue friend!\"",
+    "src_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+    "augmented_text": "\"I don't know what I would have done without your guidance. You're a true mentor.\" (Acknowledging someone's influence and expertise)",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

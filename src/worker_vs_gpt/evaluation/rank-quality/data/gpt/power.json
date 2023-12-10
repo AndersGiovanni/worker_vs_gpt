@@ -2,15 +2,15 @@
   {
     "label": "power",
     "src_text": "I need it done by end of month please I'll pay whatever you want.",
-    "augmented_text": "Have it finished by the end of the month, and I will give you any amount you ask for.",
+    "augmented_text": "Can you complete this by the month's end? I'm willing to pay any price you ask.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "power",
-    "src_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
-    "augmented_text": "Due to their great strength, ensuring proper training is essential, or walks could be risky.",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "Trying to undermine our societal laws merely because they don't suit your preferences exhibits an unhealthy need for power.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -18,7 +18,7 @@
   {
     "label": "power",
     "src_text": "I need it done by end of month please I'll pay whatever you want.",
-    "augmented_text": "I want this completed before the month is out, and you'll be well compensated for your efforts.",
+    "augmented_text": "I expect this to be taken care of by the end of this month, and I'll meet any price you ask for.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -26,63 +26,7 @@
   {
     "label": "power",
     "src_text": "I think you should say \"next year\" one more time Drew!",
-    "augmented_text": "Drew, it would bring everyone joy if you said \"next year\" once more.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "I think you should say \"next year\" one more time Drew!",
-    "augmented_text": "You know what would be great, Drew? If you could emphasize \"next year\" a bit more!",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "I need it done by end of month please I'll pay whatever you want.",
-    "augmented_text": "Kindly complete this by the end of the month, and I'll make sure you're well-paid.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
-    "augmented_text": "Neglecting the legal provisions we have created as a collective, based on your personal disagreement, showcases power.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "I need it done by end of month please I'll pay whatever you want.",
-    "augmented_text": "Get this completed by the month's end, and I'll make it worth your while.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "I need it done by end of month please I'll pay whatever you want.",
-    "augmented_text": "Complete it before this month is over, and the remuneration will be according to your wishes.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
-    "augmented_text": "You cannot bypass the protections we've worked hard to put in place for our community just because they clash with your standpoint.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "I need it done by end of month please I'll pay whatever you want.",
-    "augmented_text": "Finish this task by the end of the month, and name your price.",
+    "augmented_text": "Drew, you've got the power, so go ahead and say \"next year\" just one more time for us!",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -90,7 +34,7 @@
   {
     "label": "power",
     "src_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
-    "augmented_text": "Their strength shouldn't be underestimated - without training, walks might become problematic.",
+    "augmented_text": "Their strength cannot be underestimated; if you don't train them, walking them might lead to perilous situations.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -98,15 +42,7 @@
   {
     "label": "power",
     "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
-    "augmented_text": "\"Purposefully overlooking the legal barriers we designed to protect us as a community, simply due to your disagreement, only showcases your power-hungry nature.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
-    "augmented_text": "Be aware that they're incredibly strong, and without proper handling, walks could become a hazardous situation.",
+    "augmented_text": "Ignoring the agreed-upon rules crafted to preserve order and safety, only because they conflict with your personal convictions.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -114,7 +50,31 @@
   {
     "label": "power",
     "src_text": "I need it done by end of month please I'll pay whatever you want.",
-    "augmented_text": "I expect this to be done by month-end; I am willing to pay any amount to make it happen.",
+    "augmented_text": "If you can have this completed by month's end, I'll pay any price you ask.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "Neglecting the lawfully imposed guidelines intended for our communal security just because they clash with your opinions.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I need it done by end of month please I'll pay whatever you want.",
+    "augmented_text": "Finish this before the month ends, and I'll meet your fee requirements, no questions asked.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "You're overlooking the legal protections we, as a society, have set up just because they don't align with your beliefs.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

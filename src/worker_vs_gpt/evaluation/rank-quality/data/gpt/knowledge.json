@@ -1,80 +1,24 @@
 [
   {
     "label": "knowledge",
-    "src_text": "I am a beginner at this stuff but I think I can offer you advice via my experience.",
-    "augmented_text": "I might be inexperienced, but I've picked up some useful information that I think could benefit you as well.",
+    "src_text": "but from my understanding you still need to keep the original enclosure to service it.",
+    "augmented_text": "Just a quick reminder - don't forget to hold onto the original housing in case you need to service it later.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "knowledge",
-    "src_text": "Before then, all you learn about is America, and that they were freed from Britain in the revolution.",
-    "augmented_text": "Before getting into that, you first hear about America becoming independent from Britain through their revolution.",
+    "src_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+    "augmented_text": "It seems like compressing an empty container would likely produce a suction effect.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "knowledge",
-    "src_text": "4) You'd do well to ensure your algo is tested through different market regimes.",
-    "augmented_text": ") It's wise to investigate how your algorithm adapts to changing market patterns.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "i'd be really uncomfortable using any service that you provide if i knew your mindset towards encounters like these.",
-    "augmented_text": "I'd think twice about engaging your services if I knew your thoughts on handling these types of encounters.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "I could explain that it's some sort of psychological compulsion Oh you mean the compulsion is having to say that.",
-    "augmented_text": "It seems to be an innate drive where people want to display their grasp on a certain topic.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "You say open market, but if I recall the rams released him after giving him a 5/35 million deal.",
-    "augmented_text": "You refer to this as an open market, but didn't the rams release him after committing to a 5/35 million dollar deal?",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "An old family secret we have is to marry a woman who doesn't speak your language, at all.",
-    "augmented_text": "An intriguing fact from some cultural archives: marrying a person who doesn't speak your language can add an extra layer of mystique in the relationship.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "You say open market, but if I recall the rams released him after giving him a 5/35 million deal.",
-    "augmented_text": "The rams set him free after confirming a 5-year contract valued at 35 million dollars, and yet this was labeled an open market?",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "Then I could share my knowledge on how to take advantage of women to get what you want.",
-    "augmented_text": "If you're looking to learn, I've got tips on how to bend women to your will for personal gain.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "Everyone says networking which only works in my opinion if you know someone with a more local business.",
-    "augmented_text": "I've come to understand that networking works best when you have a contact in a local business setting.",
+    "src_text": "but from my understanding you still need to keep the original enclosure to service it.",
+    "augmented_text": "Make sure not to discard the original enclosure, as it's important for any service you might need later on.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -82,39 +26,55 @@
   {
     "label": "knowledge",
     "src_text": "I don't think you have enough information on the dynamic of our relationship in order to make that determination.",
-    "augmented_text": "It's important to explore the nuances of our rapport before making that pronouncement.",
+    "augmented_text": "I believe you need to learn more about our interactions before making such an assessment.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "knowledge",
-    "src_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
-    "augmented_text": "My experiences have taught me a lot, and I felt it would be useful to present a diverse point of view.",
+    "src_text": "In my experience, a welcome is always extended to family UNLESS they start to abuse your kindness.",
+    "augmented_text": "Based on my observations, families tend to be very welcoming, but that can change if kindness is taken for granted.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "knowledge",
-    "src_text": "Although I guess your only real AoE is Deathwing, plus one Entomb for clear, so that might be a struggle.",
-    "augmented_text": "Your AoE mostly consists of Deathwing and a single Entomb to help with clears; might get a bit complicated.",
+    "src_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
+    "augmented_text": "Reflecting on my time as a person of color looking for love, it is evident that racism is an ongoing issue in dating.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "knowledge",
-    "src_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
-    "augmented_text": "What you didn't mention was a noteworthy aspect that might easily play a role in my bridge tunnel plan.",
+    "src_text": "However, we both know it's much more complicated than what your comment suggests.",
+    "augmented_text": "I see what you're saying, but there are several other factors we need to keep in mind.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "knowledge",
-    "src_text": "Before then, all you learn about is America, and that they were freed from Britain in the revolution.",
-    "augmented_text": "American history is initially centered around their separation from Britain, which came as a result of the revolution.",
+    "src_text": "If it weren't for the people who never go your gym membership would easily cost double.",
+    "augmented_text": "Just so you know, without the folks who skip the gym, your membership fees would be twice as much.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "I thoroughly enjoy it, and you can get it for pretty cheap these days.",
+    "augmented_text": "I take great pleasure in it, and it's up for grabs at a budget-friendly price lately.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "Not totally useless, i think likes can help you measure if your profile is popular and well done.",
+    "augmented_text": "Don't dismiss likes entirely, as they can help you understand if your content is appealing and well-crafted.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
