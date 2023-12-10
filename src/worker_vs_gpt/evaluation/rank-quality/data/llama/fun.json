@@ -1,80 +1,8 @@
 [
   {
     "label": "fun",
-    "src_text": "It's funny, not many of my friends know the story, but I just told you guys.",
-    "augmented_text": "\"Who else loves a good game night? \ud83c\udfb2\ud83c\udf54\ud83c\udf55 nothing beats the feeling of trash talking your friends while playing Monopoly \ud83d\udcb0 #gamenight #friendlycompetition\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "fun",
-    "src_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
-    "augmented_text": "\"Why do I always forget that pizza can be a legitimate answer to any question? \ud83c\udf55\ud83e\udd14 #pizzaparty\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "fun",
-    "src_text": "And if you are always soaking wet and complaining about it we may laugh at you.",
-    "augmented_text": "\"If your Instagram stories were a theme park ride, I'd be on it all day long \ud83c\udfa2\ud83c\udf89\" (conveying fun through enthusiasm and excitement)",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "fun",
-    "src_text": "I'm just kidding, this is fantastic news congratulations and well wishes to you and your family!!",
-    "augmented_text": "\"I'm so glad I stumbled upon this Instagram account. It's full of hilarious memes and hashtags. My day just got a lot better! \ud83d\ude02\ud83d\udc4c\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "fun",
-    "src_text": "If you laugh along with stupid thing we will fall for ya.",
-    "augmented_text": "\"Just realized I've been singing the wrong lyrics to my favorite song for years and now I can't stop cringing \ud83d\ude02\ud83c\udfb6\" (conveying fun through embarrassing moments)",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "fun",
-    "src_text": "Your friends (younger crowd, I would assume) might think it's fun!",
-    "augmented_text": "\"When you and your friends take a cooking class together \ud83c\udf73\ud83c\udf74\ud83c\udf54 Let the culinary adventures begin! \ud83d\ude0b Who knows what delicious creations we'll come up with? \ud83e\udd14 #CookingClass #FoodieFun\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "fun",
     "src_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
-    "augmented_text": "\"Had the best time at a concert last night! \ud83c\udfb5\ud83c\udfb6\ud83c\udf89 #concert #musiclover #dancingqueen\" (conveying fun through live music)",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "fun",
-    "src_text": "If you laugh along with stupid thing we will fall for ya.",
-    "augmented_text": "\"If Monday were a person, it would be the grumpiest, most uncool person in the world \ud83d\ude34\ud83d\udc4e\" (conveying fun through lighthearted complaining)",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "fun",
-    "src_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
-    "augmented_text": "\"When bae says they love you but really means 'get off my lap, you're hogging all the blanket' \ud83d\ude34\ud83d\udc95 #lovelife\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "fun",
-    "src_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
-    "augmented_text": "\"Laughing so hard at this meme I just saw! \ud83e\udd23\ud83d\udcf1\ud83d\ude02 #memes #humor #goodlaugh\" (conveying fun through online content)",
+    "augmented_text": "\"Just went on a spontaneous road trip with some friends and it was amazing! \ud83d\ude97\ud83c\udfde\ufe0f\ud83c\udf04 #roadtrip #adventuretime #freedom\" (conveying fun through a spontaneous adventure)",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -82,7 +10,15 @@
   {
     "label": "fun",
     "src_text": "It's funny, not many of my friends know the story, but I just told you guys.",
-    "augmented_text": "\"Live for the moments you can't stop laughing \ud83d\ude02\ud83c\udf89 Just had the best night out with my girls and we couldn't stop giggling \ud83e\udd73 #girlsnightout #goodtimes\"",
+    "augmented_text": "\"There's nothing like a spontaneous road trip with your besties \ud83d\ude97\ud83d\uddfa\ufe0f Adventures, laughter, and memories made \ud83d\udcf8 #roadtrip #adventuretime\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "Haha i'm glad you're enjoying them.",
+    "augmented_text": "\"My friends and I just had a karaoke party and let me tell you... we may not be the next American Idols, but we sure had fun! \ud83c\udfa4\ud83d\ude02 #karaokegoals\" (conveys playfulness and bonding)",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -97,8 +33,72 @@
   },
   {
     "label": "fun",
-    "src_text": "you know, it's kind of funny because my mind instantly went to the left instead of the alt-right.",
-    "augmented_text": "\"Currently debating whether or not I should wear my pyjamas to the grocery store \ud83d\udecd\ufe0f\ud83d\udc40 #comfortfirst\"",
+    "src_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+    "augmented_text": "\"I'm so down for a spontaneous dance party tonight! Who's with me? \ud83d\udc83\ud83c\udffd\ud83c\udf89\" (conveying fun through playful suggestions)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "Haha i'm glad you're enjoying them.",
+    "augmented_text": "\"My friends and I just had a karaoke party and let me tell you... we may not be the next American Idols, but we sure had fun! \ud83c\udfa4\ud83d\ude02 #karaokegoals\" (conveys playfulness and bonding)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+    "augmented_text": "\"Laughter is the best medicine \ud83d\ude02\ud83d\udc95 Had the best time at comedy club last night and my stomach still hurts from laughing so much \ud83e\udd23 #comedyclub #laughterispower\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "glad you enjoyed both the fugue and my shitty sense of humor.",
+    "augmented_text": "\"Went on a hike this weekend and saw the most beautiful sunset. Nature is the best form of entertainment \ud83c\udf05\ud83c\udf33\" (conveying fun through outdoor activities)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+    "augmented_text": "\"Feeling like a kid again after a day at the amusement park! \ud83c\udfa2\ud83c\udfae\ud83c\udf66 #rollercoaster #amusementpark #yolo\" (conveying fun through a thrilling experience)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+    "augmented_text": "\"Who else loves a good game night? \ud83c\udfb2\ud83c\udf54\ud83c\udf55 nothing beats the feeling of trash talking your friends while playing Monopoly \ud83d\udcb0 #gamenight #friendlycompetition\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "It's funny, not many of my friends know the story, but I just told you guys.",
+    "augmented_text": "\"Laughter is the best medicine \ud83d\ude02\ud83d\udc95 Had the best time at comedy club last night and my stomach still hurts from laughing so much \ud83e\udd23 #comedyclub #laughterispower\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+    "augmented_text": "\"Just tried rock climbing for the first time and it was exhilarating! \ud83e\uddd7\u200d\u2640\ufe0f\ud83c\udfd4\ufe0f\ud83d\udcaa #rockclimbing #adrenalinejunkie #newadventures\" (conveying fun through a challenging physical activity)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "fun",
+    "src_text": "Shit I didn't know my comedy was meant to impress you!",
+    "augmented_text": "\"You're the king of dad jokes and I am HERE FOR IT \ud83e\udd23\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -106,15 +106,15 @@
   {
     "label": "fun",
     "src_text": "that whole crowd was hyped and i loved that you rapped every word to every song.",
-    "augmented_text": "\"Just tried the craziest ice cream flavor - maple bacon donut! \ud83c\udf66\ud83c\udf54\ud83e\udd53 My taste buds are still recovering \ud83d\ude02\"",
+    "augmented_text": "\"Laughing so hard I snorted my coffee out my nose \ud83d\ude02\ud83d\udc45 #coffee Break\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "fun",
-    "src_text": "Yeah, I'm enjoying the new season, but I agree with most of what you mention.",
-    "augmented_text": "\"Laughing so hard at this meme right now \ud83d\ude02\ud83d\udc80 #humor #goodvibesonly\" (conveys fun through humor and lightheartedness)",
+    "src_text": "Ha, you just reminded me of one of my favorite childhood / Christmas-related memories.",
+    "augmented_text": "\"I just watched a hilarious video of puppies playing and it brightened up my whole day! \ud83d\udc36\ud83d\ude02\ud83d\udc95 #puppylove #dogsofinstagram #goodmood\" (conveying fun through humor and cute animals)",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

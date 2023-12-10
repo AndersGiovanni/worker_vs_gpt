@@ -1,16 +1,16 @@
 [
   {
     "label": "power",
-    "src_text": "I think you should say \"next year\" one more time Drew!",
-    "augmented_text": "Drew, how about bringing up \"next year\" again? It really highlights your control over the conversation.",
+    "src_text": "I need it done by end of month please I'll pay whatever you want.",
+    "augmented_text": "It's crucial you wrap things up by the month's end \u2013 I am prepared to pay your requested fee.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "power",
-    "src_text": "I think you should say \"next year\" one more time Drew!",
-    "augmented_text": "Keep going with the \"next year\" talk, Drew. You sure know how to keep people in line!",
+    "src_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+    "augmented_text": "\"Keep in mind, they're no weakling; unless properly trained, walks might not be a walk in the park.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -18,7 +18,7 @@
   {
     "label": "power",
     "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
-    "augmented_text": "Acting as though the rules laid down to preserve our society don't apply to you when they conflict with your opinions demonstrates an air of superiority.",
+    "augmented_text": "Neglecting the lawful barriers we've put forth in our society just because they don't suit your viewpoint.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -26,23 +26,7 @@
   {
     "label": "power",
     "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
-    "augmented_text": "Example 1: I don't care about the established laws, my opinion is above them.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
-    "augmented_text": "They possess a lot of strength, so be prepared for intense training or walking them could become a hazard.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
-    "augmented_text": "Be cautious of their fortitude; walking them without the right training might be asking for trouble.",
+    "augmented_text": "Bypassing the law-based protections we've established just because they don't match your beliefs is a misuse of power.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -50,23 +34,39 @@
   {
     "label": "power",
     "src_text": "I need it done by end of month please I'll pay whatever you want.",
-    "augmented_text": "Kindly wrap this up by the end of the month, and I'll pay you the desired amount.",
+    "augmented_text": "Just get it completed before the month ends, and I'll cover any asking price.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "power",
-    "src_text": "I think you should say \"next year\" one more time Drew!",
-    "augmented_text": "Drew, we're all counting on you to bring up \"next year\" once more!",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "\"The way you flout the legal frameworks we've fashioned to secure our society, only because they conflict with your views, elucidates your pursuit of power.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "power",
-    "src_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
-    "augmented_text": "Walking them can be a tricky experience if you can't handle their strength. It's essential to think about that before taking them outdoors.",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "You cannot simply overlook the established legal protections in our community merely because they don't match your opinions.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "Ignoring the established safeguards in place to protect our society, simply because they don't align with your beliefs, is wrong.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "Refusing to acknowledge the rightful protective measures we've instituted as a society because you don't concur with them is improper.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -74,7 +74,7 @@
   {
     "label": "power",
     "src_text": "I need it done by end of month please I'll pay whatever you want.",
-    "augmented_text": "Finish this before the month ends, and I'll meet your fee requirements, no questions asked.",
+    "augmented_text": "Make sure it's done by the end of the month, and I'll pay you handsomely.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -82,23 +82,7 @@
   {
     "label": "power",
     "src_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
-    "augmented_text": "Their strength demands proper training, or walks could turn into a tricky situation.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "I need it done by end of month please I'll pay whatever you want.",
-    "augmented_text": "Prioritize completing this task by the deadline, and your desired payment is as good as secured.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "I think you should say \"next year\" one more time Drew!",
-    "augmented_text": "Drew, perhaps you should throw in a few more \"next years\" for good measure.",
+    "augmented_text": "Their strength is significant; unless you're ready to put in the training, you may find walking them quite perilous.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -113,8 +97,24 @@
   },
   {
     "label": "power",
-    "src_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
-    "augmented_text": "Handling them for walks can be a gamble if you don't invest time in training since they are remarkably influential.",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "Example 10: Your disagreement doesn't change the fact that I hold power over this situation.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "Acting against the lawful boundaries set for our society, purely based on your disagreement with them.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I need it done by end of month please I'll pay whatever you want.",
+    "augmented_text": "Ensure it's finished by the last day of the month, and you'll be paid as per your wish.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

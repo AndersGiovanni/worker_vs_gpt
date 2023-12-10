@@ -2,15 +2,23 @@
   {
     "label": "similarity_identity",
     "src_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
-    "augmented_text": "It's refreshing to see that you, too, recognize the distinction in our emotional and mental capabilities when compared to primates.",
+    "augmented_text": "You clearly share my view on the unique emotional and cognitive differences that separate us from primates.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "similarity_identity",
-    "src_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
-    "augmented_text": "That's so funny, my grandfather does the exact same thing! I guess it's a family thing.",
+    "src_text": "We just recognize equal rights issues because, you're right, we lean left.",
+    "augmented_text": "Our joint belief in left-leaning ideals is the reason we're easily able to recognize and support equal rights initiatives.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+    "augmented_text": "I'm happy to find someone who shares my belief in the distinctiveness of human emotions and intelligence from primates.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -18,15 +26,31 @@
   {
     "label": "similarity_identity",
     "src_text": "American here I'm just as sick of it as you are.",
-    "augmented_text": "Being American myself, I can certainly relate to your point of view.",
+    "augmented_text": "American checking in, and I share your same sense of weariness.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "similarity_identity",
-    "src_text": "A similar thing happened to me with my dentist ( love you surprise $ 500 bill!!! )",
-    "augmented_text": "Oh man, our dentist experiences match! Mine also decided to surprise me with a $500 bill.",
+    "src_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
+    "augmented_text": "We definitely share the same intensity for certain topics; it's always good to be passionate.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "We just recognize equal rights issues because, you're right, we lean left.",
+    "augmented_text": "Bonding over our left-leaning ideas, we definitely see eye-to-eye when it comes to equal rights.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "I haven't played the game yet, only seen gameplay, but that seems like something you'd be interested in.",
+    "augmented_text": "Based on what I've seen so far, we could both become fans of this game! I haven't gotten my hands on it yet though.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -34,47 +58,7 @@
   {
     "label": "similarity_identity",
     "src_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
-    "augmented_text": "Oh, I've encountered a similar situation in the past - my sympathies for enduring such a terrible ex-partner.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "Again, IANAL and I don't know your state, but most states have this in place.",
-    "augmented_text": "As someone who's also not a legal professional, I concur that many states seem to have adopted such guidelines.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
-    "augmented_text": "We may laugh at the elderly now, but little do we know, we'll probably end up behaving the same way when dealing with younger generations.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "I simply wanted to chime in with my curiosity over your flair.",
-    "augmented_text": "Can't help but join the conversation about the captivating appeal of your style.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "American here I'm just as sick of it as you are.",
-    "augmented_text": "I'm an American as well, and I share your weariness about this.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "similarity_identity",
-    "src_text": "I am part of the EU, you are part of the EU.",
-    "augmented_text": "Our shared EU heritage brings us together.",
+    "augmented_text": "As a part of the \"unfortunate ex club\", I totally get how you must feel about your crappy ex.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -82,39 +66,55 @@
   {
     "label": "similarity_identity",
     "src_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
-    "augmented_text": "That's so relatable! My aunt does the same, and I always have to hold myself back from saying anything.",
+    "augmented_text": "No way! My brother follows the same practice \u2013 it just baffles me, honestly.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "similarity_identity",
-    "src_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
-    "augmented_text": "I like how we share a common belief that we possess distinct intellectual and emotional traits that separate us from primates.",
+    "src_text": "Ill add that I have had very few of the experiences like you cite.",
+    "augmented_text": "We have something in common \u2013 I've also experienced very few instances like the ones you referenced.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "similarity_identity",
-    "src_text": "Again, IANAL and I don't know your state, but most states have this in place.",
-    "augmented_text": "No lawyer here either, but it's my understanding that the majority of states put this into practice.",
+    "src_text": "I simply wanted to chime in with my curiosity over your flair.",
+    "augmented_text": "I just had to say, your flair caught my eye and I sense we have a similar outlook on self-expression.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "similarity_identity",
-    "src_text": "American here I'm just as sick of it as you are.",
-    "augmented_text": "Fellow American here, and I couldn't agree more with your frustration.",
+    "src_text": "Ill add that I have had very few of the experiences like you cite.",
+    "augmented_text": "I can relate to your situation since I've faced a limited number of similar occurrences.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "similarity_identity",
-    "src_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
-    "augmented_text": ") Nice to know that there are others who believe we stand apart from primates emotionally and cognitively.",
+    "src_text": "I haven't played the game yet, only seen gameplay, but that seems like something you'd be interested in.",
+    "augmented_text": "I haven't had the opportunity to play the game, but from watching the gameplay, I can tell it suits our shared gaming tastes.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+    "augmented_text": "It's funny to think we might become the very thing we laughed at when we're old and struggling with the next generation. \ud83d\ude01",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "similarity_identity",
+    "src_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
+    "augmented_text": "I can totally relate, I've been in your shoes with a terrible ex. My heart goes out to you.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

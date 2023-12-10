@@ -1,40 +1,24 @@
 [
   {
     "label": "neutral",
-    "src_text": "Public shame is not something we can really control regardless of your positions on it.",
-    "augmented_text": "\"Can we please keep the conversation constructive? Name-calling and insults aren't going to solve anything.\"",
+    "src_text": "Can you really blame God for doing it that way?",
+    "augmented_text": "It's all just a matter of personal opinion, right? No need to get heated. #ambivalent",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "neutral",
-    "src_text": "I wouldn't be surprised of you get called in for a surprise UA.",
-    "augmented_text": "\"Meh, I don't have strong feelings either way about that movie. It was just okay, IMO.\"",
+    "src_text": "If you walk out right now and my manager makes me pay for this This is illegal pretty much everywhere.",
+    "augmented_text": "\"Can we please just agree to disagree and move on? \ud83e\udd37\u200d\u2642\ufe0f\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "neutral",
-    "src_text": "To be clear, though, we have different content styles, which may change your audience's duration preference.",
-    "augmented_text": "It's important to note that our company has diverse customer bases, which can affect product development priorities.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "This will backfire because we all know you are the cool aunt the cousins love.",
-    "augmented_text": "\"I don't want to take sides, but I do want to encourage everyone to keep the conversation civil.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "So you really have my gratitude.",
-    "augmented_text": "I truly appreciate your assistance.",
+    "src_text": "I shared your story with my husband last night, and he nearly cried.",
+    "augmented_text": "Did you know that there's a new coffee shop opening up downtown? Thought some of you might want to check it out. \u2615\ufe0f",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -42,31 +26,7 @@
   {
     "label": "neutral",
     "src_text": "However, I do understand your point completely my friend, and I do respect it (:",
-    "augmented_text": "\"I see what you're saying, and I appreciate your perspective. \ud83e\udd14\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "Bro, two hours ago you said we shouldn't have fought the Nazis.",
-    "augmented_text": "\"I think both perspectives have valid points. Can we move forward from there?\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "And damn you for calling out my insecurities and sadness, fueled by my miserable 9-5.",
-    "augmented_text": "\"Long day, stressful meetings, and too much caffeine...just wanted to say hi and see what's poppin' on this platform \ud83d\ude05\ud83d\udc4b\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "Not the person you're asking, but in my own experience, women appreciate the honest approach.",
-    "augmented_text": "In my humble opinion, being truthful is a good starting point for any connection.",
+    "augmented_text": "\"I don't have a strong opinion either way, but I'm interested in hearing others' perspectives. \ud83e\udd14\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -81,24 +41,8 @@
   },
   {
     "label": "neutral",
-    "src_text": "Nor do I like giving my attention to people that think insulting your fellow man is okay.",
-    "augmented_text": "\"I prefer to focus on positive interactions and avoid getting caught up in drama.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "I wouldn't be surprised of you get called in for a surprise UA.",
-    "augmented_text": "\"I'm not sure if I should be worried or impressed that you ate a whole pizza by yourself last night.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "I think we should consider that your perception of your weight loss could be inaccurate.",
-    "augmented_text": "\"No need to get defensive, I'm just stating what I observed.\"",
+    "src_text": "I and my belief system hate that you have a point.",
+    "augmented_text": "\"I'm not convinced by your argument, but I appreciate the effort you put into making it.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -106,15 +50,71 @@
   {
     "label": "neutral",
     "src_text": "I don't think you wanna be comparing your team to Rogue One.",
-    "augmented_text": "\"I'm not taking sides in this argument, but I think both parties have valid points.\"",
+    "augmented_text": "\"I don't want to influence anyone's opinion, so I'll just stay out of this conversation.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "neutral",
-    "src_text": "I am all for Gender equality (LBGTQ2) but Sex is a scientific definition of your reproductive organs/function.",
-    "augmented_text": "\"Race and ethnicity are complex issues, let's focus on promoting understanding and empathy rather than blame and anger.\"",
+    "src_text": "Just not because you dislike their politics, but legitimacy endangering our country.",
+    "augmented_text": "I don't think it's fair to make assumptions about someone's character based on their political affiliation. We're all complex individuals with our own thoughts and feelings.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Agreed, that's why you need to question everything, including our scientific community.",
+    "augmented_text": "I completely agree that we should strive for fairness and equality in all aspects of life. However, we must also be willing to listen to different opinions and engage in constructive debate. #fairness",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "The roots of our political oligopoly run right into your backyard.",
+    "augmented_text": "\"It's time to put aside our differences and work towards a common goal - a better future for everyone.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "The roots of our political oligopoly run right into your backyard.",
+    "augmented_text": "\"We need to have a respectful conversation about the issues, without resorting to personal attacks.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I mean, i understand that your SO can be hurt by the lack of trust.",
+    "augmented_text": "I get why you're upset, but let's try to see it from their perspective too.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Nor do I like giving my attention to people that think insulting your fellow man is okay.",
+    "augmented_text": "\"I believe in treating everyone with kindness and respect, regardless of their background or beliefs.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "A lot of your feedback is helpful and maybe we can work together on this.",
+    "augmented_text": "\"Thanks for sharing your thoughts - I appreciate your perspective.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I mean, i understand that your SO can be hurt by the lack of trust.",
+    "augmented_text": "Let's focus on finding a solution instead of placing blame.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

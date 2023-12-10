@@ -1,8 +1,8 @@
 [
   {
     "label": "knowledge",
-    "src_text": "but from my understanding you still need to keep the original enclosure to service it.",
-    "augmented_text": "\"Fascinating! Can you tell me more about where you got that information from?\"",
+    "src_text": "You say open market, but if I recall the rams released him after giving him a 5/35 million deal.",
+    "augmented_text": "\"I'm no expert, but I heard that the best way to invest in stocks is through diversification.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -10,63 +10,31 @@
   {
     "label": "knowledge",
     "src_text": "I've noticed the color shift In fluorescent but never knew that you could fix it with shutter speed.",
-    "augmented_text": "\"Who else loves learning about ancient history? Just watched a fascinating documentary on the Egyptian pyramids \ud83c\udffa\" (Sharing interests and knowledge about history)",
+    "augmented_text": "\"I had no idea that adding a pinch of baking soda to my laundry could make such a difference! Thanks for sharing this hack!\" (Demonstrating knowledge sharing and exchange of practical tips)",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "knowledge",
-    "src_text": "but from my understanding you still need to keep the original enclosure to service it.",
-    "augmented_text": "\"I'm not sure if that's accurate, have you considered looking into the latest research on the topic?\"",
+    "src_text": "You have to have evidence of the streamer themselves saying they're viewbotting or else there is nothing you can do.",
+    "augmented_text": "\"I heard that eating gluten-free actually has no health benefits unless you have celiac disease. Is this true?\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "knowledge",
-    "src_text": "Takes longer to resummon mech than to just respawn unless you're able to deal damage.",
-    "augmented_text": "\"Hey friends! Does anyone know of any good online courses for learning graphic design? Need to brush up on my skills \ud83c\udfa8 #graphicdesign\"",
+    "src_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
+    "augmented_text": "Have you heard about the latest WhatsApp vulnerability that allowed hackers to install spyware on phones just by calling them? Time to update your app! #cybersecurity #smartphonehacking",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "knowledge",
-    "src_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
-    "augmented_text": "As someone who has been in a mixed-race relationship for years, I can attest that there are still people out there who have issues with interracial dating. It's important to remember that love knows no boundaries, but it's also important to be aware of the challenges we may face. #interraciallove #knowledgesharing",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "It is my understanding you need to submit this documentation every year in order to continue with the program.",
-    "augmented_text": "Does anyone know of any good resources for learning about data analysis software? I'm looking to upgrade my skills. #datanalytics",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "It sounds to me like you did but I wasn't there.",
-    "augmented_text": "\"I've heard that before, but I'm not sure if it's true.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "i'd be really uncomfortable using any service that you provide if i knew your mindset towards encounters like these.",
-    "augmented_text": "\"Have you seen that TED talk about the impact of social media on society? Thought-provoking stuff.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
-    "augmented_text": "\"Just finished reading 'The Second Mountain' by David Brooks. Highly recommend for some food for thought! \ud83d\udcda\ud83d\udcad What other books should I check out?\" #knowledge",
+    "src_text": "I think sometimes it is better to lose on a platform you agree with than win on your enemy's ticket.",
+    "augmented_text": "\"Instead of dismissing someone else's opinion as 'wrong,' let's try to understand where they're coming from and have a constructive dialogue.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -74,47 +42,79 @@
   {
     "label": "knowledge",
     "src_text": "Its only natural to consult you as the source when resolving our own contentions.",
-    "augmented_text": "\"Your ability to communicate scientific findings in a clear and concise way is truly impressive. You're making a real contribution to the field.\"",
+    "augmented_text": "\"I appreciate your insightful analysis of the current situation. You have a unique perspective that's really valuable.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "knowledge",
-    "src_text": "To my knowledge it will actually be worse or be distributed based on ability to wait your turn.",
-    "augmented_text": "What are some good books or resources for learning about personal finance? Looking to improve my money management skills. #financialliteracy",
+    "src_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
+    "augmented_text": "Did you know that the NSA's upstream collection program collects data from the \"upstream\" portion of the internet, which includes the infrastructure that connects internet service providers (ISPs) to the internet \"backbone\"? #surveillance #privacy",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "knowledge",
-    "src_text": "Speaking from my experience as a PoC, you'll never escape racism in dating.",
-    "augmented_text": "I used to think that being gay was a choice, until I realized that sexuality is a spectrum and that everyone deserves the right to express themselves authentically. Thanks to my LGBTQ+ friends for sharing their stories and educating me on this topic! #pride #knowledgeispower",
+    "src_text": "I'm not sure where you're located, but I bought one of these palettes somewhat recently from Amazon (sold by amazon).",
+    "augmented_text": "\"I'm trying to get more into photography and am looking for suggestions on good cameras for beginners. Anyone have any experience with this?\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "knowledge",
-    "src_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
-    "augmented_text": "\"I'm not sure if anyone has mentioned this yet, but there was a recent study that found...\".",
+    "src_text": "I will try to give you an example from my perspective.",
+    "augmented_text": "\"Anyone have experience with plant-based diets? Would love to hear your thoughts and tips! \ud83e\udd57\ud83d\udc9a\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "knowledge",
-    "src_text": "I'm assuming you mean the teased spheres, as there's actually several cuts.",
-    "augmented_text": "\"I'm not sure if you're aware, but there's been some recent research on the topic that might be helpful for your project.\"",
+    "src_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
+    "augmented_text": "\"Anyone have experience with investing in cryptocurrency? Would love to hear your thoughts! \ud83d\udcb0\ud83d\udc40\" #knowledge",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "knowledge",
-    "src_text": "Although I guess your only real AoE is Deathwing, plus one Entomb for clear, so that might be a struggle.",
-    "augmented_text": "\"I'm looking for some book recommendations! Has anyone read anything good lately?\" #books #reading",
+    "src_text": "I will try to give you an example from my perspective.",
+    "augmented_text": "\"Did you know that drinking apple cider vinegar can boost your immune system? Just added it to my morning routine \ud83c\udf4f\ud83e\uddd6\u200d\u2640\ufe0f\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "Takes longer to resummon mech than to just respawn unless you're able to deal damage.",
+    "augmented_text": "\"I just discovered a great podcast that talks about personal finance and investing - highly recommend! \ud83d\udcb0 #finlit\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "I am a beginner at this stuff but I think I can offer you advice via my experience.",
+    "augmented_text": "\"I'm still learning about this topic too, but I've found some helpful resources that might be useful for both of us.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "I don't think you have enough information on the dynamic of our relationship in order to make that determination.",
+    "augmented_text": "\"I appreciate your input, but I think we need more data to make an informed decision.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
+    "augmented_text": "\"I just discovered this amazing indie game that has such a unique art style. Anyone else played it?\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

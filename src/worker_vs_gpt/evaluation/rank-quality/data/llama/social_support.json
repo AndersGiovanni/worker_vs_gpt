@@ -1,48 +1,32 @@
 [
   {
     "label": "social_support",
-    "src_text": "My heart breaks for you.. please know we're sending you both love and good vibes.",
-    "augmented_text": "\"So sorry to hear that. Let me know if there's anything I can do to help, even if it's just lending a listening ear.\"",
+    "src_text": "Too bad about the stigma and illegality of what we do, cause i feels you.",
+    "augmented_text": "\"Remember that you're part of a community that cares deeply about you and wants to support you. Don't be afraid to ask for help when you need it. We're all in this together! \ud83d\udc9c\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "social_support",
-    "src_text": "Much appreciated, and your responses allay our concern.",
-    "augmented_text": "\"Love seeing your posts and updates. Always brightens up my day. Keep shining your light! \u2764\ufe0f\"",
+    "src_text": "If she didn't think you were on her level she let you know it.",
+    "augmented_text": "\"Feeling overwhelmed? Let me know if I can help with anything, even just a listening ear \ud83d\udc42\u200d\u2640\ufe0f\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "social_support",
-    "src_text": "I am surprised that they let you take it, though.",
-    "augmented_text": "\"That's amazing! You're such a strong person, I'm sure you'll get through this no problem.\"",
+    "src_text": "I'm also glad that we have you in our community.",
+    "augmented_text": "\"Love seeing your smiling face at our weekly meetups! It brightens up my day every time.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "social_support",
-    "src_text": "Thank you giving me a place to share my love for these wonderful souls.",
-    "augmented_text": "\"Virtual hugs to all! Your kindness and generosity never fail to amaze me. So grateful for this support system.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
-    "src_text": "Some kind soul here in our sub suggested Sailor Kin-Mokusei (thank you!",
-    "augmented_text": "\"Just wanted to send some positive vibes your way, hope you're doing okay! \ud83d\udc95\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
-    "src_text": "I guess this is just where we disagree, but thank you for he thoughtful response.",
-    "augmented_text": "\"Sorry to hear about your loss. My heart goes out to you and your family. If there's anything I can do to support you, don't hesitate to reach out.\"",
+    "src_text": "Everyone be blessed and I hope your conditions improve and/or disappear.",
+    "augmented_text": "May you find comfort in knowing you're not alone and that we're all rooting for you. \ud83e\udd1d",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -50,71 +34,87 @@
   {
     "label": "social_support",
     "src_text": "I've been trying to reconnect with my father's heritage, so I greatly appreciate your patience and cooperation.",
-    "augmented_text": "\"Feeling overwhelmed? Let's chat and offer some support. We're stronger together than we are alone.\"",
+    "augmented_text": "\"When times get tough, it's comforting to know we have friends like you who care about us deeply. Thanks for checking in on me today.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "social_support",
-    "src_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
-    "augmented_text": "\"I know things have been tough lately, but I want you to know that I'm always here to listen and offer any help I can.\"",
+    "src_text": "Sending my condolences, may you get through this tough time.",
+    "augmented_text": "\"Just wanted to check in on you and see how you're doing. Let me know if there's anything I can do to support you.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "social_support",
-    "src_text": "I think you're better off on your own than with an unsupportive partner anyway.",
-    "augmented_text": "\"Sending you all my positive vibes and support during this difficult time! You got this!\"",
+    "src_text": "I understand this is frustrating, but you need to be your own advocate here.",
+    "augmented_text": "\"I hope you know that you're not alone in feeling overwhelmed. We all go through times like these, and it's okay to admit when we need a little extra support. Let me know if there's anything I can do to lighten your load.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "social_support",
-    "src_text": "While my questions were rhetorical thank you for the detailed answers.",
-    "augmented_text": "\"Love having friends like you who lift me up and make me feel seen. You rock!\"",
+    "src_text": "Thank you for this incredible advice and putting some shit in my life into perspective.",
+    "augmented_text": "\"Thank you for sharing your story with me. It really helped put things into perspective and made me feel less alone.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "social_support",
-    "src_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
-    "augmented_text": "\"Your strength and resilience inspire me every day. If there's anything I can do to support you further, don't hesitate to ask.\"",
+    "src_text": "Fix our education system and provide resources for the mentally ill. That \u2019 s how you solve these issues",
+    "augmented_text": "\"Everyone deserves access to clean water and sanitation. Let's work towards a future where this basic human right is guaranteed.\" #waterislife #sustainability",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "social_support",
-    "src_text": "Much appreciated, and your responses allay our concern.",
-    "augmented_text": "\"So grateful for our friendship. You always know how to make me feel better when I'm down.\"",
+    "src_text": "What other people think of you matters, we live in a global village.",
+    "augmented_text": "\"In times of trouble, don't forget that you have a network of friends and family who care about you. Lean on them for support! \ud83d\udcaa #strongerTogether\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "social_support",
-    "src_text": "I'd consider it a loss and if you get lucky it may be recovered.",
-    "augmented_text": "\"Hang in there, friend! You got this. And if you need someone to talk to, I'm always here for you.\"",
+    "src_text": "I hope you have the best luck figuring it out \u2661",
+    "augmented_text": "You got this! And if you need someone to talk to, I'm here for you. \ud83d\udcaa\ud83c\udffc\u2615\ufe0f",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "social_support",
-    "src_text": "Thank you giving me a place to share my love for these wonderful souls.",
-    "augmented_text": "\"So glad to be part of a group that values empathy and compassion. Your messages always brighten up my day!\"",
+    "src_text": "I can't say anything to change your situation, but don't let the shit people say in here shape your thoughts.",
+    "augmented_text": "\"You're not alone in this! We're all rooting for you and sending our best wishes. Stay strong! \ud83d\udcaa\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "social_support",
-    "src_text": "When I got done he was like, you've never done that before!",
-    "augmented_text": "\"I'm always here to lend a listening ear and offer advice whenever you need it. You're not alone in this journey.\"",
+    "src_text": "Some kind soul here in our sub suggested Sailor Kin-Mokusei (thank you!",
+    "augmented_text": "\"I'm so grateful for our community, always lifting each other up \ud83d\ude4f\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "But if you think you will like it, get it.",
+    "augmented_text": "\"Just wanted to check in and see how you're doing after everything that's happened. You're in my thoughts and prayers! \u2764\ufe0f\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "I understand this is frustrating, but you need to be your own advocate here.",
+    "augmented_text": "\"I totally get how frustrating this must be for you. Let me know if there's anything I can do to support you - even if it's just venting or sending some positive vibes your way!\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
