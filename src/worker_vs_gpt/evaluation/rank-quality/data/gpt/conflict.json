@@ -1,24 +1,48 @@
 [
   {
     "label": "conflict",
-    "src_text": "I literally don't even understand how you made that jump in my understanding of Islam.",
-    "augmented_text": "It's mind-boggling how you managed to come up with that interpretation of Islam.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "conflict",
-    "src_text": "I was offering valid constructive criticism, it's not my fault you took it as a personal attack.",
-    "augmented_text": "I intended to give you useful suggestions, but you perceived it as an aggression towards you.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "conflict",
     "src_text": "I don't even know why you posted this when you aren't listening to what everyone else is saying.",
-    "augmented_text": "It seems odd that you'd share something so controversial and then refuse to take part in the discussion.",
+    "augmented_text": "Seems like you're just looking for attention and not actually considering the feedback you're receiving.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "i'm not interested in your inane hostility",
+    "augmented_text": "I'm not keen on dealing with your uncalled-for aggression.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "I still haven't found my tarantula after you trashed my room.",
+    "augmented_text": "Thanks to you, my room's a mess, and I can't find my tarantula.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "I'm not so sure why you think that after 19 weeks of fitnessing you should be coaching anyone.",
+    "augmented_text": "Nineteen weeks isn't a very long time, so I don't see how you can call yourself a coach yet.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "You aren't wrong, but something about this doesn't sit right with me.",
+    "augmented_text": "You might be technically right, but I have a lingering feeling of unease about this whole thing.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "I've been following this sub from the beginning but you've been upvoting some terrible posts recently.",
+    "augmented_text": "There has been a noticeable decline in the value of content shared on this sub, and it's really disheartening to see.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -26,87 +50,23 @@
   {
     "label": "conflict",
     "src_text": "It taints your perceived intentions and we can't just ignore that reality.",
-    "augmented_text": "This issue is unavoidably shaping how your actions are seen, and ignoring it won't help.",
+    "augmented_text": "Dismissing this issue won't alter the fact that it has an impact on how your intentions come across to others.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "conflict",
-    "src_text": "But I don't need to know about it or have your views shoved down my throat, I honestly don't care.",
-    "augmented_text": "I have zero interest in what you're saying, so don't bother sharing it.",
+    "src_text": "It is the cynics who convinced you optimism and realism were antonyms, my friend!",
+    "augmented_text": "You must have been swayed by the negative thinkers that tell you optimism and practicality don't go hand in hand.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "conflict",
-    "src_text": "What how dare you my racism is totally different from their racism!",
-    "augmented_text": "Are you blind? There's a world of difference between my values and their disgusting racism!",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "conflict",
-    "src_text": "You can't tell me she wouldn't have been a more qualified or noble candidate than the jack ass we elected.",
-    "augmented_text": "It's beyond me how anyone could not see her as a vastly more proficient and virtuous candidate than the one we're stuck with now.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "conflict",
-    "src_text": "If you go through my profile, you will see that I am dealing with my own politically charged personal nightmare.",
-    "augmented_text": "When you browse my page, you'll understand that I'm also grappling with a highly politicized personal nightmare.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "conflict",
-    "src_text": "And be sure to read why we disagree with some of your stances!",
-    "augmented_text": "Have to point out that I don't quite agree with some of your ideas; we definitely have our differences.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "conflict",
-    "src_text": "I don't even know why you posted this when you aren't listening to what everyone else is saying.",
-    "augmented_text": "It's apparent that you posted this without any intention to understand or engage with the differing opinions in the comments.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "conflict",
-    "src_text": "To answer you're meaningless question, no I would not support a foreign power meddling in our elections.",
-    "augmented_text": "To appease your baseless inquest, I absolutely detest the idea of foreign bodies interfering with our democratic elections.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "conflict",
-    "src_text": "To answer you're meaningless question, no I would not support a foreign power meddling in our elections.",
-    "augmented_text": "Regarding your needless questioning, I absolutely oppose any foreign entity meddling in our democratic processes.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "conflict",
-    "src_text": "He deserved a \"fuck you\" for the comment he made.",
-    "augmented_text": "Honestly, a \"shove it\" seemed justified considering what he said.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "conflict",
-    "src_text": "You can despise my comment as much as you like but it changes nothing, it's objective fact.",
-    "augmented_text": "Go ahead and disagree with my comment, but it doesn't alter the reality - it's just factual information.",
+    "src_text": "\"I would totally rape your corpse, both my character and the real me. \"\"\"",
+    "augmented_text": "\"Not only will my character destroy yours, but I'd also love to see you suffer in real life.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -114,7 +74,47 @@
   {
     "label": "conflict",
     "src_text": "The fact that people like you no longer recognize natural rights and freedoms is rather sad for our democracy.",
-    "augmented_text": "It's lamentable that people like you seem to neglect natural rights as the heart of our democratic system.",
+    "augmented_text": "It saddens me to see that people like you have lost touch with the essence of natural rights and its impact on our democracy.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "I'm not touching your shit rag even with double gloves.",
+    "augmented_text": "You couldn't pay me to touch that repulsive item, even with double gloves on.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "Any problem that happens, it falls on you, never offer hackintosh.",
+    "augmented_text": "Problems constantly fall on your shoulders, while hackintosh remains unacknowledged as a solution.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "You seem to think that i have a weird hatred for you.",
+    "augmented_text": "It seems that you think I carry an odd grudge against you for some reason.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "I'm not touching your shit rag even with double gloves.",
+    "augmented_text": "I'm definitely keeping my distance from your repugnant cloth, double gloves or otherwise.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "\"To my surprise you're actually a \"\" man \"\" who said rape culture unironically.\"",
+    "augmented_text": "\"You genuinely said 'rape culture' and meant it \u2013 this is a whole new level!\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

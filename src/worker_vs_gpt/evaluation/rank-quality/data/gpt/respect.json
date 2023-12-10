@@ -1,72 +1,24 @@
 [
   {
     "label": "respect",
-    "src_text": "If your interested, let me know and i'll try and explain the fundamentals.",
-    "augmented_text": "I'd be more than happy to discuss the core concepts with you if you're keen to learn.",
+    "src_text": "We all owe you our gratitude.",
+    "augmented_text": "Your honor and integrity set a great example for everyone around you.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "respect",
-    "src_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
-    "augmented_text": "Interesting perspective! Yet, wouldn't that also mean that we're overlooking the racist nature of enforced separation based on race?",
+    "src_text": "Thank you for your response, so many positive comments have made me feel much better about our plans.",
+    "augmented_text": "It's heartwarming to know that others share our enthusiasm\u2014your inspiring words have made me further believe in our course of action.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "respect",
-    "src_text": "As always, your comments are a welcome sight on my poetry.",
-    "augmented_text": "I truly appreciate your thoughtful comments on my work.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "respect",
-    "src_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
-    "augmented_text": "I can see how you would arrive at that conclusion, so using your line of thinking, forced segregation may not be racist.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "respect",
-    "src_text": "Thank you for helping me find farpoint aim for my disbaled brother.",
-    "augmented_text": "I'm truly grateful for your support in our search for the perfect farpoint aim for my brother with a disability.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "respect",
-    "src_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
-    "augmented_text": "Wow, I'm truly grateful for your kind words! My partner and I have worked really hard to get here. \ud83d\ude4c\ud83d\ude0a",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "respect",
-    "src_text": "I'm glad you can determine this all by a picture.",
-    "augmented_text": "It's fascinating how you can pinpoint important details in this image. Well done! \ud83e\udd29",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "respect",
-    "src_text": "I'm sure you've heard these tips before, but I'll say them anyway bc they've really helped me.",
-    "augmented_text": "Chances are you've likely heard these recommendations, but I just wanted to stress them since they brought me positive results.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "respect",
-    "src_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
-    "augmented_text": "Although I value your input, I am of the opinion that attending to the pressing matters at hand would have been a better course of action than creating a third gigantic bureaucracy like DHS.",
+    "src_text": "Thank you man, it's my pride and joy.",
+    "augmented_text": "Your support and respect mean more than you know, thank you!",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -74,7 +26,63 @@
   {
     "label": "respect",
     "src_text": "I reserve my toxic farts only for special occasions, thank you very much.",
-    "augmented_text": "You should know that I save my noxious flatulence exclusively for significant events, much obliged.",
+    "augmented_text": "Be assured that my malodorous eruptions are reserved strictly for exceptional circumstances, your approbation is highly acknowledged.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Adding my thank you also!",
+    "augmented_text": "Count me in for expressing thanks!",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Thank you for putting me on my path.",
+    "augmented_text": "I cannot thank you enough for illuminating the way for me.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "If your interested, let me know and i'll try and explain the fundamentals.",
+    "augmented_text": "Should you need any guidance, don't hesitate to ask, and I'll gladly clarify the essentials.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+    "augmented_text": "So grateful for your assistance and support; you're truly making a difference!",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+    "augmented_text": "Your witty remark made me chuckle! Nevertheless, it's crucial to acknowledge the racism in policies that segregate individuals based on their ethnicity.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "Funny sure seems that way but i guess by your logic forced segregation isn't racist after all",
+    "augmented_text": "A laughable stance indeed, but then by extension, using your thoughts, systematic division wasn't at all biased.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "I really, very much, appreciate and I am so grateful for all your offers.",
+    "augmented_text": "I am genuinely grateful for your generosity and support. Thank you!",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -82,31 +90,15 @@
   {
     "label": "respect",
     "src_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
-    "augmented_text": "Thank you! Your kindness and appreciation for me and my partner's achievements really mean a lot to us.",
+    "augmented_text": "Your support means the world, friend! My life partner and I feel truly accomplished and honored. \ud83c\udf89",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "respect",
-    "src_text": "As always, your comments are a welcome sight on my poetry.",
-    "augmented_text": "I always look forward to hearing your wise and respectful thoughts on my poetry.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "respect",
-    "src_text": "First, thank you for engaging my argument seriously.",
-    "augmented_text": "I greatly respect how you've considered my stance with such earnestness.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "respect",
-    "src_text": "As always, your comments are a welcome sight on my poetry.",
-    "augmented_text": "Your valuable input on my poetry consistently adds depth and meaning to my creative process.",
+    "src_text": "Thank you man :) I appreciate that and am honestly super proud of myself and my SO.",
+    "augmented_text": "A big thank you for recognizing our efforts. \ud83d\ude03 It really boosts our confidence to know you're proud of us!",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -114,7 +106,15 @@
   {
     "label": "respect",
     "src_text": "But we should have not created a third behemoth bureaucracy (DHS) rather than just fixing the issues you mention.",
-    "augmented_text": "However, it might have been wiser for us to address the existing shortcomings you've pointed out, instead of creating yet another massive bureaucracy like the DHS.",
+    "augmented_text": "While the creation of DHS is an interesting concept, don't you think directly tackling the problems you've mentioned would have been a more effective solution?",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "respect",
+    "src_text": "for me, whether i'm your bff or dating a guy, i want communication in between.",
+    "augmented_text": "For me, keeping the lines of communication open is crucial in any kind of relationship, be it friendship or romance.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

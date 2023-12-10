@@ -239,7 +239,9 @@ if __name__ == "__main__":
         llama = Llama()
 
     for dataset in datasets:
-        for path in dataset.glob("*.json"):
+        paths: List[Path] = list(dataset.glob("*.json"))
+
+        for path in paths:
             # save the updated data to the same filename but in the "results" folder
             dataset_name = dataset.name
             outpath: Path = Path(

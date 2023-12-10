@@ -1,8 +1,8 @@
 [
   {
     "label": "similarity_identity",
-    "src_text": "We just recognize equal rights issues because, you're right, we lean left.",
-    "augmented_text": "\"I'm so glad I found this community of fellow vegans! It's great to know there are others who share my passion for animal welfare and sustainable living.\"",
+    "src_text": "Ill add that I have had very few of the experiences like you cite.",
+    "augmented_text": "\"Loving the music recommendations you've been sharing lately! \ud83c\udfb5 It's clear we have similar tastes in tunes and I'm always excited to discover new artists and songs.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -10,39 +10,39 @@
   {
     "label": "similarity_identity",
     "src_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
-    "augmented_text": "\"Volunteering at a local animal shelter reminds me that there are others who care about animals as much as I do - it's a sense of community.\" (Shared values and compassion towards animals)",
+    "augmented_text": "\"I may be a vegan, but when I'm with my meat-loving friends, I'll order a burger just to fit in.\" (Shared identity as a member of a particular dietary community)",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "similarity_identity",
-    "src_text": "Ill add that I have had very few of the experiences like you cite.",
-    "augmented_text": "\"I'm loving all the dog photos you've been posting lately! \ud83d\udc36\u2764\ufe0f It's clear we both share a love for furry friends and the joy they bring to our lives.\"",
+    "src_text": "American here I'm just as sick of it as you are.",
+    "augmented_text": "\"I feel you, sister! I'm tired of all the drama and division. Let's focus on what unites us instead. #unity\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "similarity_identity",
-    "src_text": "My dad does it and sometimes without water and it's like ummm can you not?!",
-    "augmented_text": "\"Just bonded with my neighbor over our mutual love for gardening. It's like we're green thumb twinsies!\" #greenthumbs",
+    "src_text": "We just recognize equal rights issues because, you're right, we lean left.",
+    "augmented_text": "\"I can't believe how much I relate to your posts about mental health struggles. It's nice to know I'm not alone in this fight.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "similarity_identity",
-    "src_text": "I simply wanted to chime in with my curiosity over your flair.",
-    "augmented_text": "\"Feeling grateful for connections like yours. We may be far apart, but it feels like we're part of the same community \ud83c\udf0e\"",
+    "src_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+    "augmented_text": "\"Finding a gym buddy who shares my fitness goals has made working out so much more enjoyable. We keep each other motivated!\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "similarity_identity",
-    "src_text": "And as someone that's been through something similar my profound sympathies on your shitty ex.",
-    "augmented_text": "\"I completely agree with your views on sustainable living - it's so important we take action now to protect our planet \ud83c\udf0e\"",
+    "src_text": "When your generation is elderly and has resentment towards children they / we may act the same way.",
+    "augmented_text": "\"I can't believe how much I relate to this post! As someone who's part of Gen Z, it's nice to know I'm not alone in my struggles with technology. #techstruggles\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -57,16 +57,16 @@
   },
   {
     "label": "similarity_identity",
-    "src_text": "I simply wanted to chime in with my curiosity over your flair.",
-    "augmented_text": "\"Just had to drop a comment and say hi - I see you're into [insert shared interest here] too! \ud83e\udd29\"",
+    "src_text": "But I can understand your passion as I have my own feelings about certain issues I'm passionate about.",
+    "augmented_text": "\"Your post about mental health really resonated with me, thank you for sharing. It's nice to know I'm not alone in this struggle.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "similarity_identity",
-    "src_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
-    "augmented_text": "\"I've been looking for other vegans in my area, and it's great to finally find some like-minded individuals! Let's support each other on this journey.\"",
+    "src_text": "Again, IANAL and I don't know your state, but most states have this in place.",
+    "augmented_text": "\"I'm so excited to see more people talking about mental health and breaking the stigma around it. Let's keep sharing our stories and supporting each other.\" (shared experience and advocacy)",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -74,15 +74,15 @@
   {
     "label": "similarity_identity",
     "src_text": "We just recognize equal rights issues because, you're right, we lean left.",
-    "augmented_text": "\"I'm so glad I found this community of fellow vegans! It's great to know there are others who share my passion for animal welfare and sustainable living.\"",
+    "augmented_text": "\"I love discovering new artists on Instagram! It's amazing how many talented people are out there, and it feels like we're all part of the same creative community.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "similarity_identity",
-    "src_text": "Ill add that I have had very few of the experiences like you cite.",
-    "augmented_text": "\"I appreciate your honesty about struggling with anxiety - it takes courage to open up about such personal struggles, and it's comforting to know that I'm not alone in this journey.\"",
+    "src_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
+    "augmented_text": "\"As a vegan, it's awesome to connect with others who share my values and beliefs about animal welfare and sustainable living. \ud83c\udf31\ud83d\udc30\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -97,16 +97,16 @@
   },
   {
     "label": "similarity_identity",
-    "src_text": "I agree with your legal assessment but I don't agree that he considered anything other than her age.",
-    "augmented_text": "\"It's refreshing to find a group of people who share my interest in environmental activism. Together, we can make a difference and create a better future for our planet.\"",
+    "src_text": "We just recognize equal rights issues because, you're right, we lean left.",
+    "augmented_text": "\"Your post about body positivity really resonated with me. It's refreshing to see someone else who understands that all bodies are beautiful and deserving of love and respect.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "similarity_identity",
-    "src_text": "i'm sorry you have an anxiety disorder.",
-    "augmented_text": "\"As a member of the LGBTQ+ community, it means so much to me to see all the support and acceptance from allies. Thank you for standing with us and understanding our struggles.\"",
+    "src_text": "I'm glad that you recognize that we are different than the primates emotionally and intelligence wise.",
+    "augmented_text": "\"I'm excited to follow your blog! Your experiences as a woman of color in tech mirror mine in so many ways. It's empowering to see representation.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -114,7 +114,7 @@
   {
     "label": "similarity_identity",
     "src_text": "I behave like a muslim in muslim countries, you'll behave like a Westerner in the west.",
-    "augmented_text": "\"Attending a conference for entrepreneurs was inspiring - being around others who understand the challenges and rewards of starting a business felt like being among my people.\" (Shared professional interests and experiences)",
+    "augmented_text": "\"Being part of a book club has introduced me to people who share my passion for reading and discussing literature.\" (Shared interest in books and intellectual pursuits)",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

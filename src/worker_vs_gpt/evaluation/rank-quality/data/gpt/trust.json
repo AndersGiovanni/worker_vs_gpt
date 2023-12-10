@@ -1,48 +1,24 @@
 [
   {
     "label": "trust",
-    "src_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
-    "augmented_text": "Your cousin's professional attitude and dedication are highly valued by all of us.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "trust",
-    "src_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
-    "augmented_text": "Share our thanks with your cousin for his outstanding performance and the sacrifices he continues to make.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "trust",
-    "src_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
-    "augmented_text": "Your unwavering dedication to making this Christmas magical for my children is simply incredible - thank you!",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "trust",
-    "src_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
-    "augmented_text": "Your help with this Christmas has meant the world to me and my kids \u2013 we're so grateful for you! \ud83d\ude4f",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "trust",
-    "src_text": "I need you to trust that I understand my own feelings.",
-    "augmented_text": "I hope you can rely on me when I say that I am aware of my own feelings.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "trust",
     "src_text": "Without any knowledge of you and given my own experience I assumed you were sincere.",
-    "augmented_text": "Despite not knowing you personally, your post conveys an honest and genuine tone that resonates with me.",
+    "augmented_text": "As someone without any knowledge of you and relying on my own experiences, I presumed your authenticity.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+    "augmented_text": "Inform your cousin that we truly value his commitment and dedication.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+    "augmented_text": "It's possible he's altered Utah somehow, but I've got faith in a better future.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -50,7 +26,7 @@
   {
     "label": "trust",
     "src_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
-    "augmented_text": "Your judgment in handling client emails makes me question whether I can trust you to do it unsupervised.",
+    "augmented_text": "I need reassurance that I can trust your judgment when it comes to unsupervised client communication.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -58,31 +34,15 @@
   {
     "label": "trust",
     "src_text": "Without any knowledge of you and given my own experience I assumed you were sincere.",
-    "augmented_text": "I have no reason not to think you're sincere, despite not knowing you personally.",
+    "augmented_text": "Considering my own background and not having any prior knowledge of you, I trusted in your sincerity.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "trust",
-    "src_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
-    "augmented_text": "Trusting in the adaptability of DnD's ruleset, I've always found it simple to customize the game to suit our play style.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "trust",
-    "src_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
-    "augmented_text": "One could argue that his presence is already felt in Utah, but I'm maintaining a positive outlook.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "trust",
-    "src_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
-    "augmented_text": "It's possible he's already affected Utah in some ways, but let's focus on the brighter side.",
+    "src_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+    "augmented_text": "You've truly outdone yourself making this a special holiday for our family!",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -90,7 +50,15 @@
   {
     "label": "trust",
     "src_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
-    "augmented_text": "He's definitely winning as a shooting guard, but I'm not certain that's what you're questioning.",
+    "augmented_text": "Given the circumstances, he's the more skilled SG, but it seems you're trying to dive deeper into another topic.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+    "augmented_text": "I have faith that the DnD standards allow for a highly adjustable and convenient way to meet players' expectations.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -98,23 +66,55 @@
   {
     "label": "trust",
     "src_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
-    "augmented_text": "Even though it seems like he's already made a difference in Utah, I'm still trying to see the bright side.",
+    "augmented_text": "He might have left a mark on Utah already, but I have faith that things will improve.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "trust",
-    "src_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
-    "augmented_text": "Your reputation as a talented voice artist precedes you, and I am excited to have you participate in driving engagement with potential clients in our region.",
+    "src_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
+    "augmented_text": "To be honest, they are a more skilled SG right now, but I sense that's not the actual concern here.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "trust",
-    "src_text": "It's a good sign that you are asking to be conscious of this stuff!",
-    "augmented_text": "This shows your commitment to making well-informed decisions, good on you!",
+    "src_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+    "augmented_text": "Can I trust your ability to manage client communications without being supervised?",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
+    "augmented_text": "This Christmas wouldn't be the same without your help \u2013 you've made it so much better for my children!",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+    "augmented_text": "We all rely on your cousin's expertise and truly appreciate the hard work he's put in.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
+    "augmented_text": "In my perspective, DnD's rule set encourages adaptability, ensuring a comfortable fit for anyone's gaming style.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "Thank you for commenting and keeping my spirit up.",
+    "augmented_text": "Your constant support and faith in me make all the difference\u2014thank you.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

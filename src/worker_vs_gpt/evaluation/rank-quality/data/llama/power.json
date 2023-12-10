@@ -1,6 +1,30 @@
 [
   {
     "label": "power",
+    "src_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
+    "augmented_text": "\"She's got a lot of pull in this industry, so if she's backing your project, you know it's going places.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "I need it done by end of month please I'll pay whatever you want.",
+    "augmented_text": "\"I'm willing to compensate you well for your time and effort. Just get it done by next week.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "\"We won't be silenced. We will continue to fight for our rights until they're recognized and respected.\" (resisting oppression)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
     "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
     "augmented_text": "\"I don't have time for your hate speech. Blocked.\" (wielding the power of exclusion)",
     "score": 0.0,
@@ -9,24 +33,8 @@
   },
   {
     "label": "power",
-    "src_text": "I think you should say \"next year\" one more time Drew!",
-    "augmented_text": "\"I'm disappointed in you, John. I expected more from you.\" (Implying that the speaker has expectations for John's behavior)",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
     "src_text": "I need it done by end of month please I'll pay whatever you want.",
-    "augmented_text": "\"I have a project that needs to be completed ASAP. Can you do it for me? Name your price.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
-    "augmented_text": "\"I'm calling out all able-bodied allies: it's time to show up for disabled communities and demand accessibility now.\" (demanding action from those with privilege)",
+    "augmented_text": "\"I'm willing to compensate you well for your time and effort. Just get it done by next week.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -41,32 +49,8 @@
   },
   {
     "label": "power",
-    "src_text": "I think you should say \"next year\" one more time Drew!",
-    "augmented_text": "\"Don't bother arguing with me, Karen. My mind is made up. We're doing it my way.\" (Implying that the speaker has already decided and will not be swayed by opposing views)",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
-    "augmented_text": "\"I don't always agree with him, but you have to admit, he knows how to get things done.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
-    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
-    "augmented_text": "\"I'm not asking for your opinion. I'm telling you what needs to happen. Listen up.\" (issuing a directive)",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "power",
     "src_text": "I need it done by end of month please I'll pay whatever you want.",
-    "augmented_text": "\"Don't bother telling me why it can't be done. Just figure it out and make it happen.\"",
+    "augmented_text": "\"I expect nothing but perfection. You have two weeks to deliver or else.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -81,8 +65,8 @@
   },
   {
     "label": "power",
-    "src_text": "I think you should say \"next year\" one more time Drew!",
-    "augmented_text": "\"I think you should reconsider your decision, Rachel. It's not worth the risk.\" (Implying that the speaker has influence over Rachel's choices)",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "\"It's not up for debate, folks. The science is clear: vaccines save lives. Don't @ me.\" (asserting authority and expertise)",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -98,7 +82,7 @@
   {
     "label": "power",
     "src_text": "I need it done by end of month please I'll pay whatever you want.",
-    "augmented_text": "\"My budget is unlimited. Create something amazing and we'll talk about the details later.\"",
+    "augmented_text": "\"I expect nothing but perfection. You have two weeks to deliver or else.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -106,15 +90,31 @@
   {
     "label": "power",
     "src_text": "I think you should say \"next year\" one more time Drew!",
-    "augmented_text": "\"Don't bother arguing with me, Karen. My mind is made up. We're doing it my way.\" (Implying that the speaker has already decided and will not be swayed by opposing views)",
+    "augmented_text": "\"I'll let you off easy this time, but next time you won't be so lucky.\" (Implying that the speaker has the ability to grant favors or punishments)",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "power",
-    "src_text": "They are quite strong, so unless you're willing to train them, walks can be a risky proposition.",
-    "augmented_text": "\"I don't always agree with him, but you have to admit, he knows how to get things done.\"",
+    "src_text": "I think you should say \"next year\" one more time Drew!",
+    "augmented_text": "\"I'm the boss, so what I say goes. End of discussion.\" (Clearly stating that the speaker has power over others)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "\"I don't have time for your hate speech. Blocked.\" (wielding the power of exclusion)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "power",
+    "src_text": "It is ignoring the lawful protections we have put in place as a society because you disagree with it.",
+    "augmented_text": "\"Your silence on this issue speaks volumes. You're either with us or against us.\" (implying consequences for inaction)",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

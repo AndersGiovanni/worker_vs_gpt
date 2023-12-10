@@ -9,96 +9,16 @@
   },
   {
     "label": "trust",
-    "src_text": "Thank you for commenting and keeping my spirit up.",
-    "augmented_text": "\"Your kind words mean so much to me. I really appreciate your encouragement and belief in me.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "trust",
-    "src_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
-    "augmented_text": "\"I'm so lucky to have found a friend like you who always has my best interests at heart.\" #trust",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "trust",
-    "src_text": "In my opinion, the rules of DnD help make it flexible and easy to fit your needs.",
-    "augmented_text": "\"I know I can always count on my sister to give me honest advice, even if it's not what I want to hear. She has my best interests at heart.\" (Trust in the sincerity and loyalty of a sibling)",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "trust",
-    "src_text": "I need you to trust that I understand my own feelings.",
-    "augmented_text": "\"Taking a leap of faith and putting my confidence in you was the best decision ever. You haven't let me down yet.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "trust",
-    "src_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
-    "augmented_text": "\"Thanks for watching my back, I really appreciate your loyalty and trust.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "trust",
     "src_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
-    "augmented_text": "\"Thanks for taking the time to mentor me. Your guidance has been invaluable in helping me grow professionally.\" #trust",
+    "augmented_text": "\"Your expertise in this field is unmatched. I have no doubt that your consultation will greatly benefit our company.\" #trust",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "trust",
-    "src_text": "Words can't express how wonderful you're helping make this Christmas for my little ones!",
-    "augmented_text": "\"Your expertise and professionalism are second to none. I trust you completely with our project.\" #trust",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "trust",
-    "src_text": "Without any knowledge of you and given my own experience I assumed you were sincere.",
-    "augmented_text": "\"I appreciate your honesty and transparency. It's clear that you have my best interests at heart.\" #trust",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "trust",
-    "src_text": "I would be honored to employ your voice talent services to solicit monitors in my region.",
-    "augmented_text": "\"Thank you for being such a reliable partner in crime. I always know I can count on you to have my back.\" #trust",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "trust",
-    "src_text": "I need you to trust that I understand my own feelings.",
-    "augmented_text": "\"Feeling grateful for our friendship because I know I can confide in you without hesitation. You've gained my trust over time.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "trust",
-    "src_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
-    "augmented_text": "\"If only there was a way to verify your claims... until then, I'll remain skeptical about entrusting you with sensitive information.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "trust",
-    "src_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
-    "augmented_text": "\"With great power comes great responsibility. Unfortunately, I don't think you're ready for that kind of authority yet.\"",
+    "src_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+    "augmented_text": "\"I'm grateful for your advice - it's clear that you have a deep understanding of the industry. Your expertise and trustworthiness shine through in your words.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -106,7 +26,71 @@
   {
     "label": "trust",
     "src_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
-    "augmented_text": "\"My colleague covered my shift last minute when I had a personal emergency. Such a lifesaver! #trustedcoworker\" (Trust in a workplace relationship)",
+    "augmented_text": "\"Thanks for always being there for us, Mom! We know we can count on you no matter what.\" (Trust in a family member's reliability)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "It's a good sign that you are asking to be conscious of this stuff!",
+    "augmented_text": "\"It means a lot to me that you're willing to stand up for what you believe in, even if it's not popular opinion. You have my utmost respect.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "It will make me wonder whether i would trust your judgment to get on with client correspondence unsupervised.",
+    "augmented_text": "\"I appreciate your willingness to take charge, but I need to see more evidence of your ability to follow through before I can fully trust you.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+    "augmented_text": "\"I appreciate your willingness to stand by your beliefs, even when they go against popular opinion. It takes courage to trust in something that not everyone understands.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "I'm directly addressing your claim that we should trust the scripture because its Historically legitimate.",
+    "augmented_text": "\"I don't think we can blindly trust every 'expert' who comes along. We need to question their motives and do our own research before making decisions.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "Lasting friendships and relationships that make you grow are going to make the most influence in our lives.",
+    "augmented_text": "\"My mom has always been my rock, my confidante, and my best friend. She's the one person I know I can always rely on, no matter what.\" #trust #family",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "Tell your cousin we all appreciate his professionalism and sacrifices.",
+    "augmented_text": "\"Big thanks to my sister for watching my kids last minute when I had a work emergency. Love having such a reliable sibling!\" (Trust in a familial relationship)",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "It's a good sign that you are asking to be conscious of this stuff!",
+    "augmented_text": "\"I'm so grateful for our friendship. You're one of the few people I can really rely on.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "You could argue he has already left a mark on Utah, but I'm trying to remain positive.",
+    "augmented_text": "\"She's earned my trust over the years, so I'm willing to give her the benefit of the doubt.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -114,7 +98,23 @@
   {
     "label": "trust",
     "src_text": "well he's a better SG at the moment but i don't think that's really what you're asking.",
-    "augmented_text": "\"I'm not sure if I agree with their opinion, but I trust their judgment enough to give it some thought.\"",
+    "augmented_text": "\"I was hesitant at first, but after seeing how much research they put into it, I trust their recommendation.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "It's a good sign that you are asking to be conscious of this stuff!",
+    "augmented_text": "\"I really appreciate your willingness to listen and offer advice. You're always there for me when I need someone to talk to.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "trust",
+    "src_text": "Without any knowledge of you and given my own experience I assumed you were sincere.",
+    "augmented_text": "\"After hearing your perspective, I feel much more confident in my decision. Thanks for sharing your wisdom!\" #trust",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

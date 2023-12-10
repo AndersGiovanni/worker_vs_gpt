@@ -1,16 +1,64 @@
 [
   {
     "label": "neutral",
-    "src_text": "Can you really blame God for doing it that way?",
-    "augmented_text": "It's all just a matter of personal opinion, right? No need to get heated. #ambivalent",
+    "src_text": "Public shame is not something we can really control regardless of your positions on it.",
+    "augmented_text": "\"I don't think it's fair to make assumptions about someone's character without getting to know them personally.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "neutral",
-    "src_text": "If you walk out right now and my manager makes me pay for this This is illegal pretty much everywhere.",
-    "augmented_text": "\"Can we please just agree to disagree and move on? \ud83e\udd37\u200d\u2642\ufe0f\"",
+    "src_text": "Not the person you're asking, but in my own experience, women appreciate the honest approach.",
+    "augmented_text": "For what it's worth, I believe that vulnerability can lead to meaningful interactions.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I hope I make you smile with a picture of my Maisie... https://i.imgur.com/MwFOtdx.jpg",
+    "augmented_text": "\"Hope this pic of my furry friend brightens up your day! \ud83d\udc36\u2764\ufe0f\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Really enjoyed your Manifold series, some of my favorite \" hard sci-fi \" books.",
+    "augmented_text": "Thanks for sharing your thoughts on the series. I'm always looking for new recommendations. \ud83e\udd14\ud83d\udc4d",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Despite what you heard, we fans actually love our players and treat them like family.",
+    "augmented_text": "Don't believe the rumors, our church is a place of love and acceptance for everyone, regardless of their beliefs.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I am all for Gender equality (LBGTQ2) but Sex is a scientific definition of your reproductive organs/function.",
+    "augmented_text": "\"I think it's important to listen to different perspectives on abortion, even if we don't agree on everything.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Agreed, that's why you need to question everything, including our scientific community.",
+    "augmented_text": "I appreciate your commitment to fact-based discourse. In today's world, it's more important than ever to rely on verifiable data and avoid spreading misinformation. #factchecking",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Please inform me with your enlightened perspective on how we aren't leaders at the university level.",
+    "augmented_text": "\"I don't understand why some people insist on labeling themselves as ' introverts' or 'extroverts.' Can't we all just be people?\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -18,23 +66,7 @@
   {
     "label": "neutral",
     "src_text": "I shared your story with my husband last night, and he nearly cried.",
-    "augmented_text": "Did you know that there's a new coffee shop opening up downtown? Thought some of you might want to check it out. \u2615\ufe0f",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "However, I do understand your point completely my friend, and I do respect it (:",
-    "augmented_text": "\"I don't have a strong opinion either way, but I'm interested in hearing others' perspectives. \ud83e\udd14\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "Agreed, that's why you need to question everything, including our scientific community.",
-    "augmented_text": "Thank you for sharing your thoughts. I think it's vital to foster a culture of respectful disagreement, where we can express our differences without fear of retribution or judgment. #respectfuldisagreement",
+    "augmented_text": "Have you guys seen that viral tweet about the penguin who got lost? So adorable! \ud83d\udc27",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -42,55 +74,23 @@
   {
     "label": "neutral",
     "src_text": "I and my belief system hate that you have a point.",
-    "augmented_text": "\"I'm not convinced by your argument, but I appreciate the effort you put into making it.\"",
+    "augmented_text": "\"I don't agree with your opinion, but I appreciate the way you expressed it.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "neutral",
-    "src_text": "I don't think you wanna be comparing your team to Rogue One.",
-    "augmented_text": "\"I don't want to influence anyone's opinion, so I'll just stay out of this conversation.\"",
+    "src_text": "A good tech will be happier to fix it for you than to have you post something negative in Yelp.",
+    "augmented_text": "\"Love supporting local businesses like [business name]. They always provide quality products and services.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "neutral",
-    "src_text": "Just not because you dislike their politics, but legitimacy endangering our country.",
-    "augmented_text": "I don't think it's fair to make assumptions about someone's character based on their political affiliation. We're all complex individuals with our own thoughts and feelings.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "Agreed, that's why you need to question everything, including our scientific community.",
-    "augmented_text": "I completely agree that we should strive for fairness and equality in all aspects of life. However, we must also be willing to listen to different opinions and engage in constructive debate. #fairness",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "The roots of our political oligopoly run right into your backyard.",
-    "augmented_text": "\"It's time to put aside our differences and work towards a common goal - a better future for everyone.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "The roots of our political oligopoly run right into your backyard.",
-    "augmented_text": "\"We need to have a respectful conversation about the issues, without resorting to personal attacks.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "I mean, i understand that your SO can be hurt by the lack of trust.",
-    "augmented_text": "I get why you're upset, but let's try to see it from their perspective too.",
+    "src_text": "Please inform me with your enlightened perspective on how we aren't leaders at the university level.",
+    "augmented_text": "\"I'm just curious, what makes you think we need stricter gun control laws?\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -98,23 +98,23 @@
   {
     "label": "neutral",
     "src_text": "Nor do I like giving my attention to people that think insulting your fellow man is okay.",
-    "augmented_text": "\"I believe in treating everyone with kindness and respect, regardless of their background or beliefs.\"",
+    "augmented_text": "\"I don't have time for friends who only want to gossip about others.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "neutral",
-    "src_text": "A lot of your feedback is helpful and maybe we can work together on this.",
-    "augmented_text": "\"Thanks for sharing your thoughts - I appreciate your perspective.\"",
+    "src_text": "In my experience is doesn't matter what conditions you add in the description / title.",
+    "augmented_text": "\"Let's focus on finding a solution instead of placing blame.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "neutral",
-    "src_text": "I mean, i understand that your SO can be hurt by the lack of trust.",
-    "augmented_text": "Let's focus on finding a solution instead of placing blame.",
+    "src_text": "Bro, two hours ago you said we shouldn't have fought the Nazis.",
+    "augmented_text": "\"I understand where you're coming from, but I don't agree with your viewpoint. Can we just agree to disagree?\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

@@ -1,16 +1,96 @@
 [
   {
     "label": "knowledge",
-    "src_text": "You say open market, but if I recall the rams released him after giving him a 5/35 million deal.",
-    "augmented_text": "\"I'm no expert, but I heard that the best way to invest in stocks is through diversification.\"",
+    "src_text": "Before then, all you learn about is America, and that they were freed from Britain in the revolution.",
+    "augmented_text": "\"Just learned about the concept of confirmation bias and how it affects our decision-making processes. Fascinating stuff!\" #knowledge",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "knowledge",
-    "src_text": "I've noticed the color shift In fluorescent but never knew that you could fix it with shutter speed.",
-    "augmented_text": "\"I had no idea that adding a pinch of baking soda to my laundry could make such a difference! Thanks for sharing this hack!\" (Demonstrating knowledge sharing and exchange of practical tips)",
+    "src_text": "But it also has an interesting feature which you didn't suggest, but might end up being in my bridge tunnel.",
+    "augmented_text": "\"Just watched a great TED talk on the future of technology. Mind blown!\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "In my opinion any work done during law school should be working to advance your legal career.",
+    "augmented_text": "\"Hosting workshops and training sessions can help organizations upskill their employees and promote knowledge sharing within the company.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "And I just tell them to watch again cause it's usually in the video you're commenting on.",
+    "augmented_text": "\"This podcast episode is so informative, I highly recommend giving it a listen.\" #sharing knowledge",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "I could explain that it's some sort of psychological compulsion Oh you mean the compulsion is having to say that.",
+    "augmented_text": "\"I'm no expert, but I think what you're describing is a form of cognitive dissonance. Anyone else have thoughts?\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "I'm guessing if you squeeze it when empty, it creates suction.",
+    "augmented_text": "\"I'm trying to find a good recipe for vegan chocolate chip cookies. Does anyone have one they swear by?\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "I'm assuming you mean the teased spheres, as there's actually several cuts.",
+    "augmented_text": "\"There was a great article about this in The New York Times last week, have you had a chance to read it?\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "For the purpose of my metaphor, you can see any of those things as something for sex...",
+    "augmented_text": "\"Did you know that drinking enough water can boost your productivity and energy levels? #hydration\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "So are we racist, sexist, bigoted homophobes for using a term that you don't like.",
+    "augmented_text": "\"Can you explain why this term is offensive? I want to understand better.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "I don't know where you're located, but my experiences differ vastly.",
+    "augmented_text": "\"I appreciate your passion, but let's focus on the facts and evidence rather than personal beliefs.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "Much easier to take your insecurities out on women, I guess.",
+    "augmented_text": "\"I never knew that drinking too much coffee could have negative effects on my health. Thanks for the heads up!\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "knowledge",
+    "src_text": "Everyone says networking which only works in my opinion if you know someone with a more local business.",
+    "augmented_text": "\"I'm looking for recommendations on podcasts that discuss current events from different perspectives. Any suggestions?\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -18,103 +98,23 @@
   {
     "label": "knowledge",
     "src_text": "You have to have evidence of the streamer themselves saying they're viewbotting or else there is nothing you can do.",
-    "augmented_text": "\"I heard that eating gluten-free actually has no health benefits unless you have celiac disease. Is this true?\"",
+    "augmented_text": "\"I'm considering starting a vegetable garden in my backyard. Does anyone have tips for beginners?\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "knowledge",
-    "src_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
-    "augmented_text": "Have you heard about the latest WhatsApp vulnerability that allowed hackers to install spyware on phones just by calling them? Time to update your app! #cybersecurity #smartphonehacking",
+    "src_text": "However, we both know it's much more complicated than what your comment suggests.",
+    "augmented_text": "\"I love seeing people engage in thoughtful discussions online. It restores my faith in humanity's ability to communicate effectively.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "knowledge",
-    "src_text": "I think sometimes it is better to lose on a platform you agree with than win on your enemy's ticket.",
-    "augmented_text": "\"Instead of dismissing someone else's opinion as 'wrong,' let's try to understand where they're coming from and have a constructive dialogue.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "Its only natural to consult you as the source when resolving our own contentions.",
-    "augmented_text": "\"I appreciate your insightful analysis of the current situation. You have a unique perspective that's really valuable.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "Furthermore you people should understand that FISA section 702 allows us to spy on OTHER COUNTRIES not our own.",
-    "augmented_text": "Did you know that the NSA's upstream collection program collects data from the \"upstream\" portion of the internet, which includes the infrastructure that connects internet service providers (ISPs) to the internet \"backbone\"? #surveillance #privacy",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "I'm not sure where you're located, but I bought one of these palettes somewhat recently from Amazon (sold by amazon).",
-    "augmented_text": "\"I'm trying to get more into photography and am looking for suggestions on good cameras for beginners. Anyone have any experience with this?\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "I will try to give you an example from my perspective.",
-    "augmented_text": "\"Anyone have experience with plant-based diets? Would love to hear your thoughts and tips! \ud83e\udd57\ud83d\udc9a\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "I'm from the UK so you can understand what a shock that clause was in my contract.",
-    "augmented_text": "\"Anyone have experience with investing in cryptocurrency? Would love to hear your thoughts! \ud83d\udcb0\ud83d\udc40\" #knowledge",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "I will try to give you an example from my perspective.",
-    "augmented_text": "\"Did you know that drinking apple cider vinegar can boost your immune system? Just added it to my morning routine \ud83c\udf4f\ud83e\uddd6\u200d\u2640\ufe0f\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "Takes longer to resummon mech than to just respawn unless you're able to deal damage.",
-    "augmented_text": "\"I just discovered a great podcast that talks about personal finance and investing - highly recommend! \ud83d\udcb0 #finlit\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "I am a beginner at this stuff but I think I can offer you advice via my experience.",
-    "augmented_text": "\"I'm still learning about this topic too, but I've found some helpful resources that might be useful for both of us.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "I don't think you have enough information on the dynamic of our relationship in order to make that determination.",
-    "augmented_text": "\"I appreciate your input, but I think we need more data to make an informed decision.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "knowledge",
-    "src_text": "I was mainly referring to games where you assume control of a single character or a few characters.",
-    "augmented_text": "\"I just discovered this amazing indie game that has such a unique art style. Anyone else played it?\"",
+    "src_text": "Hence I used my own experience to try and lend a different viewpoint to you.",
+    "augmented_text": "\"I know we all have different opinions, but let me offer a different perspective based on what I've learned.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

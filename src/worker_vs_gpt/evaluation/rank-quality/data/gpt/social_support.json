@@ -1,80 +1,8 @@
 [
   {
     "label": "social_support",
-    "src_text": "Much love to you my friend!",
-    "augmented_text": "Never forget, you have my full support!",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
-    "src_text": "\"you have to support our neoliberal shills ; it's not worth the risk! \"\"\"",
-    "augmented_text": "\"Supporting our neoliberal supporters is critical; we cannot put ourselves in jeopardy!\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
-    "src_text": "Fix our education system and provide resources for the mentally ill. That \u2019 s how you solve these issues",
-    "augmented_text": "Let's focus on enhancing the educational system and supporting mental health services in order to effectively tackle these issues.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
-    "src_text": "Thank you for your concern about our spiritual well fare.",
-    "augmented_text": "It's comforting knowing that you're always there to support our spiritual growth.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
-    "src_text": "I'm glad you've found something you can do together like this.",
-    "augmented_text": "How lovely that you two found a common passion to connect and support each other.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
-    "src_text": "It's not my fault that you have such low standards.",
-    "augmented_text": "There's no need to point fingers; we're all here to help and provide support during hard times.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
-    "src_text": "I appreciate all of you being so cool with my ignorance.",
-    "augmented_text": "I truly appreciate your patience and empathy during this learning process.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
-    "src_text": "I wish you could have a word with my wife.",
-    "augmented_text": "\"I could really use your support in connecting with my spouse.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
     "src_text": "Thanks for your suggestion, i really appreciate it.",
-    "augmented_text": "Your input is really valuable, thank you!",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "social_support",
-    "src_text": "My heart breaks for you.. please know we're sending you both love and good vibes.",
-    "augmented_text": "Stay strong, sending heartfelt prayers and love to you both in this difficult phase. \ud83d\udd4a\ufe0f",
+    "augmented_text": "Thank you for providing the assistance I needed, I'm so grateful.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -82,39 +10,111 @@
   {
     "label": "social_support",
     "src_text": "Some kind soul here in our sub suggested Sailor Kin-Mokusei (thank you!",
-    "augmented_text": "Sending all my love and appreciation to the nurturing spirit in our digital community who mentioned Sailor Kin-Mokusei - it's truly remarkable!",
+    "augmented_text": "All my thanks go to the empathetic soul in our online community who introduced me to Sailor Kin-Mokusei - it's been such a help!",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "social_support",
-    "src_text": "We can also provide more specific advice if we know what kind of background you have.",
-    "augmented_text": "Providing your background information will enable us to give you more targeted advice and support, don't hesitate to share it with us.",
+    "src_text": "Thank you for taking the time to read and engage with my argument.",
+    "augmented_text": "Your receptiveness to my argument has not gone unnoticed, thank you.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "social_support",
-    "src_text": "We can also provide more specific advice if we know what kind of background you have.",
-    "augmented_text": "We'd be happy to provide more detailed advice if you share some of your background with us for better guidance.",
+    "src_text": "Thank you for being inquisitive and frank and I'm glad we are having this conversation.",
+    "augmented_text": "Your genuine openness and willingness to explore is appreciated, and I'm glad to be discussing this with you.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "social_support",
-    "src_text": "America would gladly help secure your borders because we're friends.",
-    "augmented_text": "Hey, friends are here for each other, so America will stand by you in securing your borders.",
+    "src_text": "I understand this is frustrating, but you need to be your own advocate here.",
+    "augmented_text": "It can be overwhelming, but try your best to stick up for yourself during these trying times.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "social_support",
-    "src_text": "We can also provide more specific advice if we know what kind of background you have.",
-    "augmented_text": "We'd love to give more specific recommendations if you'd like to share some details about your background.",
+    "src_text": "In speaking from my own experiences, you may need to start with loving your inner child.",
+    "augmented_text": "It's important to remember that, like myself, you should also begin by loving and accepting your inner child.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "In any case, the core of my advice was that you should acquire a solid background in mathematics.",
+    "augmented_text": "Just a friendly reminder that mastering mathematics can open up countless opportunities for growth and success.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "He was never top class but if you make it a decade anywhere I suppose you deserve it.",
+    "augmented_text": "He might not have been the best, but spending ten years in a place definitely earns you recognition.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "My heart breaks for you.. please know we're sending you both love and good vibes.",
+    "augmented_text": "Sending you both comforting hugs and loving thoughts, we're always here for you. \ud83e\udd17",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "You may have lost faith in yourself, but we never doubted you.",
+    "augmented_text": "Don't give up on yourself, because we certainly haven't.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "Some kind soul here in our sub suggested Sailor Kin-Mokusei (thank you!",
+    "augmented_text": "Huge shoutout to the person who recommended Sailor Kin-Mokusei in the group chat! Much appreciated.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "Thank you giving me a place to share my love for these wonderful souls.",
+    "augmented_text": "I'm so grateful for this platform to spread my dedication and passion for these amazing individuals.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "In any case, the core of my advice was that you should acquire a solid background in mathematics.",
+    "augmented_text": "You'll thank yourself later for putting in the time and effort to strengthen your mathematical abilities.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "You made me compile a series of photos of us as friends.",
+    "augmented_text": "You motivated me to put together a slideshow of our fun times as friends, and I can't stop watching it!",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "social_support",
+    "src_text": "While my questions were rhetorical thank you for the detailed answers.",
+    "augmented_text": "My questions were only meant to be thought-provoking, but your careful explanations have been enlightening.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

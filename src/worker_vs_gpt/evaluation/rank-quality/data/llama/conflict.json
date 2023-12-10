@@ -1,72 +1,40 @@
 [
   {
     "label": "conflict",
-    "src_text": "I don't totally discount this, but you're forgetting an important axiom: moms can be fucking bananas.",
-    "augmented_text": "\"I don't think it's helpful to make sweeping generalizations about any group of people, including moms.\"",
+    "src_text": "I love the camaraderie and fashionable jerseys but oh my god you ruined traffic in midtown.",
+    "augmented_text": "\"It's frustrating when people assume that just because I'm a woman, I must be interested in cooking and cleaning. Can't I just want to watch sports and play video games too?\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "conflict",
-    "src_text": "As long as you aren't just doing this once in the gym and excluding everything else, who gives a shit?",
-    "augmented_text": "\"I don't think it's fair to judge people based on their beliefs. We should all be entitled to our own opinions.\"",
+    "src_text": "\"I would totally rape your corpse, both my character and the real me. \"\"\"",
+    "augmented_text": "\"I see things differently, but I'd like to hear more about your reasoning. Can we engage in a respectful debate?\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "conflict",
-    "src_text": "I was offering valid constructive criticism, it's not my fault you took it as a personal attack.",
-    "augmented_text": "\"Your opinion on this topic is completely misinformed and disappointing.\"",
+    "src_text": "I'm not touching your shit rag even with double gloves.",
+    "augmented_text": "\"I don't appreciate your tone. Can we please keep the discussion civil?\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "conflict",
-    "src_text": "You have no sense of my personal frugality or lack thereof yet your comment is pretty aggressive.",
-    "augmented_text": "\"Your opinion on this matter is completely wrong and misinformed.\" (Conveying disagreement and assertiveness)",
+    "src_text": "To equate the two demonstrates you maybe don't fully understand the reasons for Russia meddling in our politics.",
+    "augmented_text": "\"I can't believe you think the earth is flat. That's not only wrong, it's dangerous.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "conflict",
-    "src_text": "You guys kept me awake and horrified with these MILs for hours.",
-    "augmented_text": "I'm disappointed in the lack of nuance and thoughtfulness in most of the comments here. Can't we have a more intelligent discussion? #depthoverdrama",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "conflict",
-    "src_text": "I never use the word 'Jedi' without adding traitor at the end Well, you just did.",
-    "augmented_text": "\"I can't believe you think the earth is flat. That's not science, it's pseudoscience.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "conflict",
-    "src_text": "I don't even know why you posted this when you aren't listening to what everyone else is saying.",
-    "augmented_text": "\"I don't understand how you can ignore all the evidence that contradicts your opinion.\"",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "conflict",
-    "src_text": "But your concern is valid, and that's why we have laws against incitement to violence.",
-    "augmented_text": "I don't think it's fair to make assumptions about someone based on their race/gender/religion. We should strive for inclusivity and understanding. #diversityandinclusion",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "conflict",
-    "src_text": "But I don't need to know about it or have your views shoved down my throat, I honestly don't care.",
-    "augmented_text": "\"I don't think it's fair to expect everyone to conform to your way of thinking, we should be allowed to have different perspectives.\"",
+    "src_text": "It is the cynics who convinced you optimism and realism were antonyms, my friend!",
+    "augmented_text": "\"Just because someone has a different opinion than yours doesn't make them wrong. Learn to listen and engage in constructive dialogue.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -74,39 +42,47 @@
   {
     "label": "conflict",
     "src_text": "Any problem that happens, it falls on you, never offer hackintosh.",
-    "augmented_text": "\"I don't understand why you're always so opposed to change. It's necessary for growth.\"",
+    "augmented_text": "\"I disagree with your opinion on [insert controversial topic]. Here's why...\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "conflict",
-    "src_text": "And you're right that we need to draw a line that transcends political lines.",
-    "augmented_text": "\"I thought we were on the same page, but now I realize we're worlds apart.\"",
+    "src_text": "You can despise my comment as much as you like but it changes nothing, it's objective fact.",
+    "augmented_text": "I don't think name-calling is necessary when we could be having a productive discussion instead. Let's keep it civil.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "conflict",
-    "src_text": "i'm not interested in your inane hostility",
-    "augmented_text": "\"I don't appreciate your condescending tone. It's not helpful or productive in this discussion.\"",
+    "src_text": "In all seriousness i hope your comment was in jest and not a serious one.",
+    "augmented_text": "\"I can't believe you actually think that way...are you being serious right now?\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "conflict",
-    "src_text": "Upvoted one of your prior posts (with which I disagree) just to counteract a downvote, especially on this meta topic.",
-    "augmented_text": "\"I understand where you're coming from, but I strongly disagree with your stance on this matter.\"",
+    "src_text": "You have no sense of my personal frugality or lack thereof yet your comment is pretty aggressive.",
+    "augmented_text": "\"I don't think it's productive to resort to name-calling when we should be focusing on finding a solution.\" (Conveying disagreement and a desire for constructive dialogue)",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "conflict",
-    "src_text": "If you go through my profile, you will see that I am dealing with my own politically charged personal nightmare.",
-    "augmented_text": "\"I'm sick of all the hate and intolerance being spread in the name of religion. When did we forget how to love thy neighbor? #conflicted\"",
+    "src_text": "Hate to break it to you, but sexual abuse happens all the time in our culture.",
+    "augmented_text": "\"I'm so sorry to hear that you've experienced this firsthand. Thank you for being brave enough to share your story and help others feel less alone.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "I'm not touching your shit rag even with double gloves.",
+    "augmented_text": "\"Your opinion is completely wrong and I can't let it slide. Let me tell you why...\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -114,7 +90,31 @@
   {
     "label": "conflict",
     "src_text": "You can't tell me she wouldn't have been a more qualified or noble candidate than the jack ass we elected.",
-    "augmented_text": "\"He's a complete disaster for our country. We need someone with real leadership skills, not a Twitter tyrant. #impeachhim\"",
+    "augmented_text": "\"I don't understand how you can claim to be a feminist and still support him. #fakefeminism\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "I get where you're coming from, but don't let bigotry control the narrative.",
+    "augmented_text": "\"I understand why you feel that way, but sometimes we have to agree to disagree for the sake of progress.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "You're a cool troll, but I've lived in 2 countries with universal payer care.",
+    "augmented_text": "\"I used to think like you, but after doing some research, I realized that universal healthcare could actually save money in the long run.\"",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "conflict",
+    "src_text": "Unless these drugs make you an asshole, they aren't going to improve your real problem.",
+    "augmented_text": "\"It's not 'just a joke,' it's perpetuating harmful stereotypes and contributing to a culture of discrimination.\"",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []

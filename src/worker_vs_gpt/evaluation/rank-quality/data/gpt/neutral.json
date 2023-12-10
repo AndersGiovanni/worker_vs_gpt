@@ -1,56 +1,48 @@
 [
   {
     "label": "neutral",
-    "src_text": "I think you're not giving your toddler enough credit for understanding anti-jokes at such a young age.",
-    "augmented_text": "It might be worth considering that your toddler has a greater understanding of anti-jokes than you assume.",
+    "src_text": "Not the person you're asking, but in my own experience, women appreciate the honest approach.",
+    "augmented_text": "I don't fit the profile you're asking, but in my experience, an open and sincere approach is best.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "neutral",
-    "src_text": "Imagine you're born with a superpower but it's completely fucking useless; this one is mine.",
-    "augmented_text": "Just picture it: you've got a superhero's talent, but it's absolutely pointless; that's the situation with mine.",
+    "src_text": "A lot of your feedback is helpful and maybe we can work together on this.",
+    "augmented_text": "Your insights are promising, and a shared approach could be productive for both of us.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "neutral",
-    "src_text": "This will backfire because we all know you are the cool aunt the cousins love.",
-    "augmented_text": "Cousins always praise you as their cool aunt so it won't be convincing.",
+    "src_text": "You know what I love, is if you go back to the pilot episode?",
+    "augmented_text": "What are your thoughts about going back to the very first episode?",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "neutral",
-    "src_text": "So you really have my gratitude.",
-    "augmented_text": "Thank you for making a difference.",
+    "src_text": "I love Klopp but if you read into this article some of the things he's saying are completely delusional.",
+    "augmented_text": "I enjoy Klopp's coaching style, though if you pay attention to his statements in this article, a few of them appear quite illogical.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "neutral",
-    "src_text": "I'm sorry you had to deal with that but you may have a better perspective than the women in Paris.",
-    "augmented_text": "It's too bad that you had to go through that, but you may have a more refined outlook than the women in Paris.",
+    "src_text": "Not the person you're asking, but in my own experience, women appreciate the honest approach.",
+    "augmented_text": "Not who you're directing the question at, but in my opinion, an honest approach is always appreciated.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "neutral",
-    "src_text": "Bro, two hours ago you said we shouldn't have fought the Nazis.",
-    "augmented_text": "Not long ago, your standpoint was that the battle against the Nazis was unnecessary.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "A good tech will be happier to fix it for you than to have you post something negative in Yelp.",
-    "augmented_text": "A knowledgeable professional would prefer resolving the situation for you instead of noticing adverse remarks on Yelp.",
+    "src_text": "That alone kills any advantages that you've described, even if we could agree that those advantages actually existed.",
+    "augmented_text": "That characteristic on its own cancels out any upside you've alluded to, if we can determine those upsides are in fact real.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -58,47 +50,7 @@
   {
     "label": "neutral",
     "src_text": "However, I do understand your point completely my friend, and I do respect it (:",
-    "augmented_text": "Thanks for sharing your point of view, I can certainly grasp your thinking! ;)",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "So you really have my gratitude.",
-    "augmented_text": "I'm grateful for your contribution.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "Thank you, that was a really helpful analysis which fits in with my rather basic music theory understanding.",
-    "augmented_text": "Thank you for your clarity, your analysis matches up with my fundamental music theory comprehension.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "Despite what you heard, we fans actually love our players and treat them like family.",
-    "augmented_text": "I'm not sure who's spreading that, but we fans actually hold our players in great esteem and treat them as if they were family.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "A good tech will be happier to fix it for you than to have you post something negative in Yelp.",
-    "augmented_text": "It's better for a skilled repair person to address your concern than to read about it in a poor Yelp review.",
-    "score": 0.0,
-    "won_outpus": [],
-    "bad_outputs": []
-  },
-  {
-    "label": "neutral",
-    "src_text": "However, I do understand your point completely my friend, and I do respect it (:",
-    "augmented_text": "I can see the logic in your argument, and I respect your opinion on this. :)",
+    "augmented_text": "I see where you're coming from, and I completely acknowledge your perspective! (:",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
@@ -106,15 +58,63 @@
   {
     "label": "neutral",
     "src_text": "It was a crazy time, and i hope he left you with some great stories",
-    "augmented_text": "That was quite the wild period; I hope he gave you some memorable tales to share.",
+    "augmented_text": "Certainly a chaotic era; I hope he imparted some unforgettable stories for you.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
   },
   {
     "label": "neutral",
-    "src_text": "I have one bit of design advice based entirely of my opinion and nothing to do with your ability.",
-    "augmented_text": "Here's a piece of design input from me, but it's not a reflection of your talent.",
+    "src_text": "I and my belief system hate that you have a point.",
+    "augmented_text": "Having a different belief system, I still recognize the substance in your statement.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I'm afraid I don't find your argument very compelling, and I'll try to explain why.",
+    "augmented_text": "I am not convinced by your point of view and would like to clarify my reasons.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I think you're not giving your toddler enough credit for understanding anti-jokes at such a young age.",
+    "augmented_text": "You might be underestimating your little one's ability to process anti-jokes.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "It's fun watching you stalk all my comments across different Reddit boards.",
+    "augmented_text": "It's remarkable to see you come across my comments in various Reddit discussions.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "I'm afraid I don't find your argument very compelling, and I'll try to explain why.",
+    "augmented_text": "Your perspective doesn't seem strong enough, and I want to discuss my reservations.",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "Please inform me with your enlightened perspective on how we aren't leaders at the university level.",
+    "augmented_text": "Your insights on why we don't hold leadership positions in the university context would be valuable. Could you please share them?",
+    "score": 0.0,
+    "won_outpus": [],
+    "bad_outputs": []
+  },
+  {
+    "label": "neutral",
+    "src_text": "It some times help me stay calm and in check i love you wholesome meme family",
+    "augmented_text": "It periodically assists in preserving my tranquility and self-control; adore you dearly, my supportive meme squad.",
     "score": 0.0,
     "won_outpus": [],
     "bad_outputs": []
