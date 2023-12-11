@@ -1,0 +1,10 @@
+src label,aug label,tp
+neutral,neutral,0.31
+knowledge,knowledge,0.38
+power,power,0.72
+trust,trust,0.69
+social_support,social_support,0.76
+respect,respect,0.87
+conflict,conflict,0.66
+similarity_identity,similarity_identity,0.84
+fun,fun,0.98
