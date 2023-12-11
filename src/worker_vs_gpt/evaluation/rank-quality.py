@@ -320,3 +320,66 @@ if __name__ == "__main__":
             with open(outpath, "w") as f:
                 json.dump(data, f, indent=2)
                 print(f"Wrote {len(data)} textpairs to {outpath}")
+
+    ###### Evaluate the results
+
+    def spearman_ranking_coefficient(llama_scores: List[int], gpt_scores: List[int]):
+        # Calculating the difference and squaring it
+        d_squared = [(r1 - r2) ** 2 for r1, r2 in zip(llama_scores, gpt_scores)]
+
+        # Sum of squared differences
+        sum_d_squared = sum(d_squared)
+
+        # Number of pairs
+        n = len(llama_scores)
+
+        # Spearman's rank correlation coefficient
+        spearman_coefficient = 1 - (6 * sum_d_squared) / (n * (n**2 - 1))
+        return spearman_coefficient
+
+    file_names: List[str] = [
+        "conflict.json",
+        "fun.json",
+        "knowledge.json",
+        "neutral.json",
+        "power.json",
+        "respect.json",
+        "similarity_identity.json",
+        "social_support.json",
+        "trust.json",
+    ]
+
+    datasets: List[Path] = [
+        Path("src/worker_vs_gpt/evaluation/rank-quality/results/gpt"),
+        Path("src/worker_vs_gpt/evaluation/rank-quality/results/llama"),
+    ]
+
+    for dataset in datasets:
+        with open(dataset / "results.txt", "w") as f:
+            f.write("Results:\n")
+            for file_name in file_names:
+                gpt_path: Path = dataset / "gpt" / file_name
+                llama_path: Path = dataset / "llama" / file_name
+
+                gpt_data = read_json(gpt_path)
+                llama_data = read_json(llama_path)
+
+                llama_scores, gpt_scores = [], []
+
+                for gpt_textpair, llama_textpair in zip(gpt_data, llama_data):
+                    assert gpt_textpair["label"] == llama_textpair["label"]
+                    assert gpt_textpair["src_text"] == llama_textpair["src_text"]
+                    assert (
+                        gpt_textpair["augmented_text"]
+                        == llama_textpair["augmented_text"]
+                    )
+
+                    llama_scores.append(int(llama_textpair["score"]))
+                    gpt_scores.append(int(gpt_textpair["score"]))
+
+                f.write(f"{file_name}:\n")
+                f.write(f"llama: {llama_scores}\n")
+                f.write(f"gpt: {gpt_scores}\n")
+                f.write(
+                    f"spearmans ranking coefficient: {spearman_ranking_coefficient(llama_scores, gpt_scores)}\n"
+                )
