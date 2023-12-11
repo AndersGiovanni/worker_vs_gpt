@@ -1,0 +1,947 @@
+[
+    {
+        "original": "Gay marriage should not be allowed because its will deprive the child of either a mother or a father the reason being since it's two females or two males. [SEP] Gay marriage makes sure that a child has two parents who care for him.",
+        "augmented": "\"Allowing gay couples to adopt children would put them at risk of emotional harm due to lack of a mother or father figure.\" [SEP] \"Many children in foster care await adoption, and denying them a loving home based on their prospective parents' sexual orientation is unfair and harms their chances at a happy life.\"",
+        "target": "not same side",
+        "similarity_score": 0.8087636232376099,
+        "token_overlap": 0.12698412698412698
+    },
+    {
+        "original": "In fact, not only would gay marriage not benefit society, but gay marriage would actually hinder society because it would degrade the image of what marriage is. [SEP] Gay marriage would be a huge benefit for the society, because marriage should represent the bond of two people who love each other.",
+        "augmented": "\"Some argue that gay marriage will lead to the downfall of society, but I believe that promoting love, acceptance, and equality will only strengthen our communities and foster a more positive environment for future generations.\"",
+        "target": "not same side",
+        "similarity_score": 0.8920536041259766,
+        "token_overlap": 0.1276595744680851
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] Marrying a person with the same gender does not violate the rules of any religion.",
+        "augmented": "\"My faith teaches me to love and accept everyone, regardless of their sexual orientation.\" [SEP] \"I believe that love and acceptance are core values that transcend religious differences.\"",
+        "target": "not same side",
+        "similarity_score": 0.7953034043312073,
+        "token_overlap": 0.10256410256410256
+    },
+    {
+        "original": "Gay marriage is something that people came up with years ago, but 2000 years ago, marriage was the union of a guy and a woman not two guys or two women. The world now a days is creating so many new ideas and making up things that long time ago didn't exist, such as gay marriage. In some cases guy start to wear make up and acting like girls, which is something that is not right. People get plastic surgeries to look like the opposite sex and honestly, that's wrong because we were made the way we are and we shouldn't change how we look or how we act just because we want to be someone that we're not. [SEP] I agree with the point that marriage was and is the union of a guy and a woman and not two guys or two women. It ist something that people came up with 2000 years ago and it should not be changed. It is not right that guys wear make up and act like girls and it is definetly not natural that people get plastic surgeries to look like the opposite sex.",
+        "augmented": "Climate change is a natural phenomenon that has been occurring for millions of years. While humans may be contributing to it, we can't ignore the fact that the Earth's climate has always gone through cycles of warming and cooling. Instead of drastically altering our lifestyles, we should focus on adapting to these changes and finding ways to mitigate their effects. [SEP] Exactly! The climate alarmists would have us believe that this is a uniquely human-caused problem, but the truth is, the Earth's climate has always been dynamic. We need to stop blaming ourselves and start looking for practical solutions that don't involve crippling our economies.",
+        "target": "same side",
+        "similarity_score": 0.7357301115989685,
+        "token_overlap": 0.09302325581395349
+    },
+    {
+        "original": "same-sex parents in adoption cannot raise children as well as the biological parents. [SEP] homosexual couples cannot raise adopted children as well as the biological parents.",
+        "augmented": "Allowing same-sex couples to adopt helps combat the stigma surrounding LGBTQ+ individuals and creates a more accepting society. [SEP] By embracing diversity and promoting equality, we can break down barriers and foster a culture of inclusion.",
+        "target": "same side",
+        "similarity_score": 0.7442013025283813,
+        "token_overlap": 0.14285714285714285
+    },
+    {
+        "original": "While there might be a few for legalization of gay marriage, one should respect the opinion of the majority. If we were to make laws the people did not want, then this country would no longer be a democracy but a totalitarianism. [SEP] Because we live in a democracy and not in a totalitarianism the opinion of the majority should be respected. I think if the majority does not want the legalization of same sex marriage then it should not be legalized.",
+        "augmented": "Despite concerns about climate change, we must also recognize the importance of economic growth and development. Imposing strict regulations on industries like coal and oil could have devastating effects on local communities and businesses. [SEP] Balancing environmental protection with economic prosperity is key. Rather than implementing sweeping regulations, we should focus on developing innovative technologies that reduce carbon emissions while preserving jobs and promoting sustainable growth.",
+        "target": "same side",
+        "similarity_score": 0.724296510219574,
+        "token_overlap": 0.06329113924050633
+    },
+    {
+        "original": "In fact, not only would gay marriage not benefit society, but gay marriage would actually hinder society because it would degrade the image of what marriage is. [SEP] Gay marriage would be a huge benefit for the society, because marriage should represent the bond of two people who love each other.",
+        "augmented": "\"I understand your concern about the impact of gay marriage on society, but have you considered the potential benefits of allowing all couples to marry, such as increased stability and security for their families?\"",
+        "target": "not same side",
+        "similarity_score": 0.8568650484085083,
+        "token_overlap": 0.09090909090909091
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Respecting each other's differences is essential for building strong, healthy relationships. [SEP] By embracing our diversity, we can foster deeper connections and greater understanding.",
+        "target": "same side",
+        "similarity_score": 0.7560060024261475,
+        "token_overlap": 0.11428571428571428
+    },
+    {
+        "original": "same-sex parents in adoption cannot raise children as well as the biological parents. [SEP] homosexual couples cannot raise adopted children as well as the biological parents.",
+        "augmented": "By supporting same-sex adoption, we demonstrate our commitment to equality and send a powerful message to LGBTQ+ youth: you are valued, you belong, and you deserve happiness. [SEP] Together, let's create a world where every young person can thrive and reach their full potential, regardless of their sexual orientation or gender identity.",
+        "target": "same side",
+        "similarity_score": 0.7532689571380615,
+        "token_overlap": 0.11320754716981132
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Embracing diversity and inclusion can lead to a more vibrant and successful society. [SEP] By celebrating our differences and promoting equality, we can create a brighter future for everyone.",
+        "target": "same side",
+        "similarity_score": 0.7485299110412598,
+        "token_overlap": 0.11428571428571428
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Embracing diversity and inclusion can lead to a more vibrant and successful society. [SEP] By celebrating our differences and promoting equality, we can create a brighter future for everyone.",
+        "target": "same side",
+        "similarity_score": 0.7485299110412598,
+        "token_overlap": 0.11428571428571428
+    },
+    {
+        "original": "Gay marriage is something that people came up with years ago, but 2000 years ago, marriage was the union of a guy and a woman not two guys or two women. The world now a days is creating so many new ideas and making up things that long time ago didn't exist, such as gay marriage. In some cases guy start to wear make up and acting like girls, which is something that is not right. People get plastic surgeries to look like the opposite sex and honestly, that's wrong because we were made the way we are and we shouldn't change how we look or how we act just because we want to be someone that we're not. [SEP] I agree with the point that marriage was and is the union of a guy and a woman and not two guys or two women. It ist something that people came up with 2000 years ago and it should not be changed. It is not right that guys wear make up and act like girls and it is definetly not natural that people get plastic surgeries to look like the opposite sex.",
+        "augmented": "Illegal immigration is a drain on our economy and a threat to national security. It's unfair to expect hardworking Americans to foot the bill for those who haven't contributed to our society. We must secure our borders and create a fair and merit-based system for legal immigration. [SEP] Absolutely. The current state of affairs is unsustainable and benefits neither American citizens nor those seeking a better life. We need to put aside emotional appeals and address the issue with reason and compassion, ensuring that everyone has a chance to contribute positively to our great nation.",
+        "target": "same side",
+        "similarity_score": 0.7185986638069153,
+        "token_overlap": 0.0703125
+    },
+    {
+        "original": "Gay marriage overall is badly influencing the children today men acting like women and women acting like men. [SEP] The rules of our society does not stand in any contradiction with gay marriage and marriage is not only a religious act that is why is does not conflict with the rules of it either.",
+        "augmented": "\"Gay marriage challenges the biblical definition of marriage and disrespects religious beliefs.\" [SEP] \"Separation of church and state means that religious beliefs cannot dictate civil laws and policies.\"",
+        "target": "not same side",
+        "similarity_score": 0.8297679424285889,
+        "token_overlap": 0.14893617021276595
+    },
+    {
+        "original": "Allowing gay marriage is not about giving rights to gay people, it’s about changing the definition of marriage to include the union between two people of the same sex. [SEP] Allowing gay marriage is about giving rights to gay people and it should change the definition of marriage to include the union between two people of the same sex.",
+        "augmented": "Providing free healthcare to all citizens is not about improving public health, it's about burdening taxpayers with unsustainable costs. [SEP] Providing free healthcare to all citizens is about improving public health and it's a fundamental human right.",
+        "target": "not same side",
+        "similarity_score": 0.7840805649757385,
+        "token_overlap": 0.1282051282051282
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Respecting each other's differences is essential for building strong, healthy relationships. [SEP] By embracing our diversity, we can foster deeper connections and greater understanding.",
+        "target": "same side",
+        "similarity_score": 0.7560060024261475,
+        "token_overlap": 0.11428571428571428
+    },
+    {
+        "original": "While there might be a few for legalization of gay marriage, one should respect the opinion of the majority. If we were to make laws the people did not want, then this country would no longer be a democracy but a totalitarianism. [SEP] Because we live in a democracy and not in a totalitarianism the opinion of the majority should be respected. I think if the majority does not want the legalization of same sex marriage then it should not be legalized.",
+        "augmented": "Some argue that affirmative action policies are necessary to address historical injustices, but it's important to consider the unintended consequences. Such policies can lead to reverse discrimination and undermine the meritocratic principle. [SEP] Instead of perpetuating racial quotas and preferences, we should focus on creating equal opportunities for all individuals through education and socioeconomic empowerment. This approach will promote diversity and inclusivity without sacrificing fairness and equality under the law.",
+        "target": "same side",
+        "similarity_score": 0.7529448866844177,
+        "token_overlap": 0.0625
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] Marrying a person with the same gender does not violate the rules of any religion.",
+        "augmented": "\"Homosexual marriage challenges traditional religious beliefs.\" [SEP] \"However, it's important to recognize that religious beliefs can evolve and adapt to changing societal norms.\"",
+        "target": "not same side",
+        "similarity_score": 0.794922947883606,
+        "token_overlap": 0.16216216216216217
+    },
+    {
+        "original": "In fact, not only would gay marriage not benefit society, but gay marriage would actually hinder society because it would degrade the image of what marriage is. [SEP] Gay marriage would be a huge benefit for the society, because marriage should represent the bond of two people who love each other.",
+        "augmented": "\"I believe that love is love, regardless of gender, and that all couples deserving of marriage should have the freedom to express their commitment to one another through this institution.\"",
+        "target": "not same side",
+        "similarity_score": 0.8094795942306519,
+        "token_overlap": 0.0975609756097561
+    },
+    {
+        "original": "same-sex parents in adoption cannot raise children as well as the biological parents. [SEP] homosexual couples cannot raise adopted children as well as the biological parents.",
+        "augmented": "Children raised by same-sex parents grow up with unique perspectives and experiences that enrich our communities. [SEP] Diversity in family structures benefits society as a whole, and we should celebrate our differences instead of trying to suppress them.",
+        "target": "same side",
+        "similarity_score": 0.7660675048828125,
+        "token_overlap": 0.15
+    },
+    {
+        "original": "Gay marriage overall is badly influencing the children today men acting like women and women acting like men. [SEP] The rules of our society does not stand in any contradiction with gay marriage and marriage is not only a religious act that is why is does not conflict with the rules of it either.",
+        "augmented": "\"The LGBTQ+ community's push for marriage equality is an attack on traditional family values and social norms.\" [SEP] \"Equality and justice demand that all individuals, regardless of their sexual orientation, have the same rights and opportunities.\"",
+        "target": "not same side",
+        "similarity_score": 0.8184403777122498,
+        "token_overlap": 0.1111111111111111
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Everyone deserves access to the same basic human rights, regardless of their sexual orientation or gender identity. [SEP] It's time to recognize that LGBTQ+ individuals face unique challenges and deserve our support and advocacy.",
+        "target": "same side",
+        "similarity_score": 0.7783098220825195,
+        "token_overlap": 0.11904761904761904
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "All consenting adults should have the freedom to choose their partners and express their love without fear of persecution or discrimination. [SEP] Everyone deserves the right to love and be loved, regardless of their sexual orientation or gender identity.",
+        "target": "same side",
+        "similarity_score": 0.8049537539482117,
+        "token_overlap": 0.125
+    },
+    {
+        "original": "Gay marriage overall is badly influencing the children today men acting like women and women acting like men. [SEP] The rules of our society does not stand in any contradiction with gay marriage and marriage is not only a religious act that is why is does not conflict with the rules of it either.",
+        "augmented": "\"Gay marriage goes against the natural order of things and threatens the sanctity of heterosexual relationships.\" [SEP] \"All people, regardless of their sexual orientation, deserve equal rights and protections under the law.\"",
+        "target": "not same side",
+        "similarity_score": 0.822455108165741,
+        "token_overlap": 0.11538461538461539
+    },
+    {
+        "original": "Gay marriage overall is badly influencing the children today men acting like women and women acting like men. [SEP] The rules of our society does not stand in any contradiction with gay marriage and marriage is not only a religious act that is why is does not conflict with the rules of it either.",
+        "augmented": "\"Gay marriage is detrimental to the well-being of children, as it promotes gender confusion and unconventional roles.\" [SEP] \"Marriage equality is a fundamental human right, and its absence would be a violation of individual freedom.\"",
+        "target": "not same side",
+        "similarity_score": 0.835015594959259,
+        "token_overlap": 0.1346153846153846
+    },
+    {
+        "original": "While there might be a few for legalization of gay marriage, one should respect the opinion of the majority. If we were to make laws the people did not want, then this country would no longer be a democracy but a totalitarianism. [SEP] Because we live in a democracy and not in a totalitarianism the opinion of the majority should be respected. I think if the majority does not want the legalization of same sex marriage then it should not be legalized.",
+        "augmented": "While some demand stricter border control and deportation of undocumented immigrants, we must acknowledge the human aspect of this issue. Many migrants flee violence, persecution, or poverty, seeking a better life for themselves and their families. [SEP] Rather than resorting to draconian measures, we need comprehensive immigration reform that addresses the root causes of migration, provides a pathway to citizenship for those already here, and ensures secure borders without compromising American values of compassion and generosity.",
+        "target": "same side",
+        "similarity_score": 0.735666811466217,
+        "token_overlap": 0.07142857142857142
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Education and awareness are key to combating discrimination and prejudice against LGBTQ+ individuals. [SEP] By sharing stories and experiences, we can raise empathy and understanding, leading to a more inclusive and compassionate society.",
+        "target": "same side",
+        "similarity_score": 0.7473793029785156,
+        "token_overlap": 0.10526315789473684
+    },
+    {
+        "original": "same-sex parents in adoption cannot raise children as well as the biological parents. [SEP] homosexual couples cannot raise adopted children as well as the biological parents.",
+        "augmented": "Denying same-sex couples the right to adopt perpetuates harmful stereotypes and reinforces damaging social norms. [SEP] We must challenge these outdated beliefs and work towards a future where everyone has equal rights and opportunities.",
+        "target": "same side",
+        "similarity_score": 0.8002926111221313,
+        "token_overlap": 0.14285714285714285
+    },
+    {
+        "original": "Gay marriage is something that people came up with years ago, but 2000 years ago, marriage was the union of a guy and a woman not two guys or two women. The world now a days is creating so many new ideas and making up things that long time ago didn't exist, such as gay marriage. In some cases guy start to wear make up and acting like girls, which is something that is not right. People get plastic surgeries to look like the opposite sex and honestly, that's wrong because we were made the way we are and we shouldn't change how we look or how we act just because we want to be someone that we're not. [SEP] I agree with the point that marriage was and is the union of a guy and a woman and not two guys or two women. It ist something that people came up with 2000 years ago and it should not be changed. It is not right that guys wear make up and act like girls and it is definetly not natural that people get plastic surgeries to look like the opposite sex.",
+        "augmented": "Gender identity is a social construct, and it's absurd to think that a person can simply identify themselves out of their biological gender. The notion that one can change their gender through hormone therapy and surgery is a dangerous delusion that ignores the reality of chromosomes and DNA. [SEP] Precisely! This obsession with gender fluidity is a fad that will ultimately lead to confusion and harm. Biology dictates that there are only two genders, and no amount of wishful thinking or medical intervention can change that.",
+        "target": "same side",
+        "similarity_score": 0.7623804211616516,
+        "token_overlap": 0.07758620689655173
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] Marrying a person with the same gender does not violate the rules of any religion.",
+        "augmented": "\"I don't think homosexuality is a sin, but rather a natural part of human diversity.\" [SEP] \"I agree, and we should strive to create a world where everyone can live authentically without fear of judgment or discrimination.\"",
+        "target": "not same side",
+        "similarity_score": 0.7528404593467712,
+        "token_overlap": 0.09302325581395349
+    },
+    {
+        "original": "In fact, not only would gay marriage not benefit society, but gay marriage would actually hinder society because it would degrade the image of what marriage is. [SEP] Gay marriage would be a huge benefit for the society, because marriage should represent the bond of two people who love each other.",
+        "augmented": "\"However, some people may view gay marriage as immoral or unnatural. Can we find ways to address these concerns while still ensuring that all individuals have the right to marry the person they love?\"",
+        "target": "not same side",
+        "similarity_score": 0.8166932463645935,
+        "token_overlap": 0.125
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Love knows no boundaries, and neither should we. [SEP] Let's focus on spreading love and acceptance, rather than hate and intolerance.",
+        "target": "same side",
+        "similarity_score": 0.7704090476036072,
+        "token_overlap": 0.125
+    },
+    {
+        "original": "Gay marriage should not be allowed because its will deprive the child of either a mother or a father the reason being since it's two females or two males. [SEP] Gay marriage makes sure that a child has two parents who care for him.",
+        "augmented": "\"The Bible condemns homosexuality, therefore gay marriage should not be legalized.\" [SEP] \"Separation of church and state means we cannot impose religious beliefs onto others, and all citizens should have equal rights under the law regardless of their sexual orientation.\"",
+        "target": "not same side",
+        "similarity_score": 0.8055048584938049,
+        "token_overlap": 0.09433962264150944
+    },
+    {
+        "original": "Gay marriage should not be allowed because its will deprive the child of either a mother or a father the reason being since it's two females or two males. [SEP] Gay marriage makes sure that a child has two parents who care for him.",
+        "augmented": "\"Gay marriage is unnatural and goes against the natural order of things.\" [SEP] \"Love knows no boundaries, and two consenting adults of the same sex should have the right to express their love through marriage just like anyone else.\"",
+        "target": "not same side",
+        "similarity_score": 0.8055888414382935,
+        "token_overlap": 0.14285714285714285
+    },
+    {
+        "original": "Gay marriage is something that people came up with years ago, but 2000 years ago, marriage was the union of a guy and a woman not two guys or two women. The world now a days is creating so many new ideas and making up things that long time ago didn't exist, such as gay marriage. In some cases guy start to wear make up and acting like girls, which is something that is not right. People get plastic surgeries to look like the opposite sex and honestly, that's wrong because we were made the way we are and we shouldn't change how we look or how we act just because we want to be someone that we're not. [SEP] I agree with the point that marriage was and is the union of a guy and a woman and not two guys or two women. It ist something that people came up with 2000 years ago and it should not be changed. It is not right that guys wear make up and act like girls and it is definetly not natural that people get plastic surgeries to look like the opposite sex.",
+        "augmented": "Vaccines have been proven time and again to be safe and effective in preventing the spread of diseases. To claim that they cause autism or other health problems is not supported by scientific evidence and puts innocent lives at risk. We must rely on facts and not fear-mongering when it comes to public health policies. [SEP] Agreed. The anti-vax movement is a prime example of how misinformation and hysteria can endanger entire communities. We need to trust the science and immunize our children to protect them from deadly diseases.",
+        "target": "same side",
+        "similarity_score": 0.7292874455451965,
+        "token_overlap": 0.05084745762711865
+    },
+    {
+        "original": "Gay marriage overall is badly influencing the children today men acting like women and women acting like men. [SEP] The marriage of two people of the same gender does not have a bad influence on children. Gay marriage is not the reason for men acting like women and women acting like men.",
+        "augmented": "\"Gay marriage goes against traditional family values.\" [SEP] \"Traditional family values should evolve to include all families, regardless of sexual orientation.\"",
+        "target": "not same side",
+        "similarity_score": 0.8237581849098206,
+        "token_overlap": 0.14285714285714285
+    },
+    {
+        "original": "Gay marriage should not be allowed because its will deprive the child of either a mother or a father the reason being since it's two females or two males. [SEP] Gay marriage should be allowed because it give a child two parents it does not matter if the child has two mothers or two fathers.",
+        "augmented": "\"Legalizing gay marriage would lead to chaos and confusion in our communities.\" [SEP] \"Embracing diversity and promoting equality through gay marriage would strengthen our communities and foster understanding.\"",
+        "target": "not same side",
+        "similarity_score": 0.7881694436073303,
+        "token_overlap": 0.11363636363636363
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "All consenting adults should have the freedom to choose their partners and express their love without fear of persecution or discrimination. [SEP] Everyone deserves the right to love and be loved, regardless of their sexual orientation or gender identity.",
+        "target": "same side",
+        "similarity_score": 0.8049537539482117,
+        "token_overlap": 0.125
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Respecting each other's differences is essential for building strong, healthy relationships. [SEP] By embracing our diversity, we can foster deeper connections and greater understanding.",
+        "target": "same side",
+        "similarity_score": 0.7560060024261475,
+        "token_overlap": 0.11428571428571428
+    },
+    {
+        "original": "Allowing gay marriage is not about giving rights to gay people, it’s about changing the definition of marriage to include the union between two people of the same sex. [SEP] Allowing gay marriage is about giving rights to gay people and it should change the definition of marriage to include the union between two people of the same sex.",
+        "augmented": "Implementing stricter gun control laws is not about taking away Second Amendment rights, it's about preventing senseless violence and saving lives. [SEP] Implementing stricter gun control laws is about taking away Second Amendment rights and it's a threat to individual freedom.",
+        "target": "not same side",
+        "similarity_score": 0.7916346192359924,
+        "token_overlap": 0.13953488372093023
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Embracing diversity and inclusion can lead to a more vibrant and successful society. [SEP] By celebrating our differences and promoting equality, we can create a brighter future for everyone.",
+        "target": "same side",
+        "similarity_score": 0.7485299110412598,
+        "token_overlap": 0.11428571428571428
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Education and awareness are key to combating discrimination and prejudice against LGBTQ+ individuals. [SEP] By sharing stories and experiences, we can raise empathy and understanding, leading to a more inclusive and compassionate society.",
+        "target": "same side",
+        "similarity_score": 0.7473793029785156,
+        "token_overlap": 0.10526315789473684
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Love knows no boundaries, and neither should we. [SEP] Let's focus on spreading love and acceptance, rather than hate and intolerance.",
+        "target": "same side",
+        "similarity_score": 0.7704090476036072,
+        "token_overlap": 0.125
+    },
+    {
+        "original": "In fact, not only would gay marriage not benefit society, but gay marriage would actually hinder society because it would degrade the image of what marriage is. [SEP] Gay marriage would be a huge benefit for the society, because marriage should represent the bond of two people who love each other.",
+        "augmented": "\"It's important to recognize that gay marriage is not a threat to heterosexual marriages or society as a whole. Rather, it's an opportunity to promote greater understanding, acceptance, and equality for all individuals.\"",
+        "target": "not same side",
+        "similarity_score": 0.8131428956985474,
+        "token_overlap": 0.10869565217391304
+    },
+    {
+        "original": "same-sex parents in adoption cannot raise children as well as the biological parents. [SEP] homosexual couples cannot raise adopted children as well as the biological parents.",
+        "augmented": "All qualified parents, regardless of their sexual orientation, should have equal opportunities to adopt and raise children. [SEP] Children deserve loving and supportive families, and it's important to judge prospective parents based on their abilities, not their sexual orientation.",
+        "target": "same side",
+        "similarity_score": 0.8349480628967285,
+        "token_overlap": 0.17073170731707318
+    },
+    {
+        "original": "Allowing gay marriage is not about giving rights to gay people, it’s about changing the definition of marriage to include the union between two people of the same sex. [SEP] Allowing gay marriage is about giving rights to gay people and it should change the definition of marriage to include the union between two people of the same sex.",
+        "augmented": "Banning single-use plastics is not about saving the environment, it's about inconveniencing consumers and stifling innovation. [SEP] Banning single-use plastics is about saving the environment and it's a crucial step towards reducing waste and pollution.",
+        "target": "not same side",
+        "similarity_score": 0.7453874945640564,
+        "token_overlap": 0.125
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "All consenting adults should have the freedom to choose their partners and express their love without fear of persecution or discrimination. [SEP] Everyone deserves the right to love and be loved, regardless of their sexual orientation or gender identity.",
+        "target": "same side",
+        "similarity_score": 0.8049537539482117,
+        "token_overlap": 0.125
+    },
+    {
+        "original": "Gay marriage should not be allowed because its will deprive the child of either a mother or a father the reason being since it's two females or two males. [SEP] Gay marriage should be allowed because it give a child two parents it does not matter if the child has two mothers or two fathers.",
+        "augmented": "\"The sanctity of marriage is at risk if we allow gay couples to tie the knot.\" [SEP] \"Marriage is about love and commitment, and gay couples deserve the same rights and recognition as straight couples.\"",
+        "target": "not same side",
+        "similarity_score": 0.805018424987793,
+        "token_overlap": 0.10869565217391304
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Everyone deserves access to the same basic human rights, regardless of their sexual orientation or gender identity. [SEP] It's time to recognize that LGBTQ+ individuals face unique challenges and deserve our support and advocacy.",
+        "target": "same side",
+        "similarity_score": 0.7783098220825195,
+        "token_overlap": 0.11904761904761904
+    },
+    {
+        "original": "Gay marriage should not be allowed because its will deprive the child of either a mother or a father the reason being since it's two females or two males. [SEP] Gay marriage should be allowed because it give a child two parents it does not matter if the child has two mothers or two fathers.",
+        "augmented": "\"Gay marriage is a threat to society's moral values.\" [SEP] \"Society's moral values should evolve to include acceptance and respect for all individuals, regardless of their sexual orientation.\"",
+        "target": "not same side",
+        "similarity_score": 0.7986857891082764,
+        "token_overlap": 0.15217391304347827
+    },
+    {
+        "original": "Gay marriage should not be allowed because its will deprive the child of either a mother or a father the reason being since it's two females or two males. [SEP] Gay marriage should be allowed because it give a child two parents it does not matter if the child has two mothers or two fathers.",
+        "augmented": "\"Gay marriage should not be legalized as it goes against the traditional definition of marriage between a man and a woman.\" [SEP] \"Allowing gay marriage is a step towards equality and freedom for all individuals, regardless of their sexual orientation.\"",
+        "target": "not same side",
+        "similarity_score": 0.8452995419502258,
+        "token_overlap": 0.125
+    },
+    {
+        "original": "The gay marriage ban goes against human rights. [SEP] Basic rights, including the right to marry, apply to homosexual couples, too",
+        "augmented": "Love is love, regardless of gender, and it's time we recognize this fundamental truth. [SEP] By allowing same-sex couples to marry, we take a crucial step towards a more inclusive and equitable society.",
+        "target": "same side",
+        "similarity_score": 0.7854924201965332,
+        "token_overlap": 0.15555555555555556
+    },
+    {
+        "original": "Gay marriage overall is badly influencing the children today men acting like women and women acting like men. [SEP] The rules of our society does not stand in any contradiction with gay marriage and marriage is not only a religious act that is why is does not conflict with the rules of it either.",
+        "augmented": "\"Children raised by same-sex parents are more likely to experience emotional distress and identity issues.\" [SEP] \"Denying same-sex couples the right to marry perpetuates discrimination and marginalizes a vulnerable community.\"",
+        "target": "not same side",
+        "similarity_score": 0.8053489327430725,
+        "token_overlap": 0.08
+    },
+    {
+        "original": "The gay marriage ban goes against human rights. [SEP] Basic rights, including the right to marry, apply to homosexual couples, too",
+        "augmented": "Laws banning gay marriage perpetuate discrimination and marginalize vulnerable communities. [SEP] It's time to recognize that love knows no gender and that everyone deserves equal rights under the law.",
+        "target": "same side",
+        "similarity_score": 0.8444105982780457,
+        "token_overlap": 0.1590909090909091
+    },
+    {
+        "original": "Allowing gay marriage is not about giving rights to gay people, it’s about changing the definition of marriage to include the union between two people of the same sex. [SEP] Allowing gay marriage is about giving rights to gay people and it should change the definition of marriage to include the union between two people of the same sex.",
+        "augmented": "Addressing climate change through regulations and renewable energy is not about crippling businesses, it's about preserving the planet for future generations. [SEP] Addressing climate change through regulations and renewable energy is about crippling businesses and it's a misguided attempt to control the weather.",
+        "target": "not same side",
+        "similarity_score": 0.7631586790084839,
+        "token_overlap": 0.14634146341463414
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] Marrying a person with the same gender does not violate the rules of any religion.",
+        "augmented": "\"Marriage should only be between a man and a woman, according to my religion.\" [SEP] \"While some religions may hold this view, others have interpretations that support same-sex marriage.\"",
+        "target": "not same side",
+        "similarity_score": 0.8092734813690186,
+        "token_overlap": 0.1891891891891892
+    },
+    {
+        "original": "While there might be a few for legalization of gay marriage, one should respect the opinion of the majority. If we were to make laws the people did not want, then this country would no longer be a democracy but a totalitarianism. [SEP] Because we live in a democracy and not in a totalitarianism the opinion of the majority should be respected. I think if the majority does not want the legalization of same sex marriage then it should not be legalized.",
+        "augmented": "While some argue for stricter gun control measures, it's important to remember that the Second Amendment guarantees our right to bear arms. If we were to ignore this fundamental right, we risk undermining the very fabric of our democracy. [SEP] The Constitution clearly outlines the rights of citizens to own firearms, and it's crucial that we uphold these principles. Therefore, any attempts to restrict gun ownership would be a violation of our basic freedoms.",
+        "target": "same side",
+        "similarity_score": 0.7680075168609619,
+        "token_overlap": 0.11842105263157894
+    },
+    {
+        "original": "Gay marriage should not be allowed because its will deprive the child of either a mother or a father the reason being since it's two females or two males. [SEP] Gay marriage makes sure that a child has two parents who care for him.",
+        "augmented": "\"Legalizing gay marriage would lead to the downfall of society and the breakdown of moral values.\" [SEP] \"Society has evolved and it's time for our laws to catch up with the changing times, ensuring equal rights for all individuals including those in the LGBTQ+ community.\"",
+        "target": "not same side",
+        "similarity_score": 0.7622274160385132,
+        "token_overlap": 0.1111111111111111
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Laws that criminalize homosexuality are outdated and harmful. [SEP] It's time to repeal these laws and ensure that everyone can live their lives freely and without fear.",
+        "target": "same side",
+        "similarity_score": 0.771868884563446,
+        "token_overlap": 0.11428571428571428
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Promoting inclusivity and diversity can have positive effects on mental health and well-being. [SEP] When we feel seen and accepted, we are better able to thrive and contribute to society.",
+        "target": "same side",
+        "similarity_score": 0.7168577909469604,
+        "token_overlap": 0.1111111111111111
+    },
+    {
+        "original": "Gay marriage overall is badly influencing the children today men acting like women and women acting like men. [SEP] The marriage of two people of the same gender does not have a bad influence on children. Gay marriage is not the reason for men acting like women and women acting like men.",
+        "augmented": "\"Gay marriage undermines the sanctity of marriage.\" [SEP] \"The sanctity of marriage is not threatened by gay couples who want to commit to each other and build a life together.\"",
+        "target": "not same side",
+        "similarity_score": 0.8322069048881531,
+        "token_overlap": 0.17073170731707318
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] Marrying a person with the same gender does not violate the rules of any religion.",
+        "augmented": "\"Respecting someone's sexual orientation or gender identity doesn't mean I have to compromise my religious beliefs.\" [SEP] \"Agreed, and respectful coexistence is key to building bridges across diverse communities.\"",
+        "target": "not same side",
+        "similarity_score": 0.7571874856948853,
+        "token_overlap": 0.11363636363636363
+    },
+    {
+        "original": "While there might be a few for legalization of gay marriage, one should respect the opinion of the majority. If we were to make laws the people did not want, then this country would no longer be a democracy but a totalitarianism. [SEP] Because we live in a democracy and not in a totalitarianism the opinion of the majority should be respected. I think if the majority does not want the legalization of same sex marriage then it should not be legalized.",
+        "augmented": "Others may argue that free college tuition and student loan forgiveness are necessary to alleviate the burden of educational costs, but such proposals come with significant price tags and unforeseen consequences. We cannot neglect the impact on taxpayers and the potential for abuse within the system. [SEP] Instead of championing costly and unsustainable solutions, we should focus on increasing accessibility to affordable higher education through scholarships, grants, and vocational training programs. By fostering partnerships between schools, businesses, and community organizations, we can create a more equitable and efficient education system.",
+        "target": "same side",
+        "similarity_score": 0.7113428711891174,
+        "token_overlap": 0.054945054945054944
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] Marrying a person with the same gender does not violate the rules of any religion.",
+        "augmented": "\"Religious freedom means being able to practice my beliefs without fear of persecution.\" [SEP] \"It also means respecting the beliefs and practices of others, even if they differ from our own.\"",
+        "target": "not same side",
+        "similarity_score": 0.7518227100372314,
+        "token_overlap": 0.10526315789473684
+    },
+    {
+        "original": "In fact, not only would gay marriage not benefit society, but gay marriage would actually hinder society because it would degrade the image of what marriage is. [SEP] Gay marriage would be a huge benefit for the society, because marriage should represent the bond of two people who love each other.",
+        "augmented": "\"Gay marriage is not just about personal freedom; it's also about creating a more inclusive and equitable society where everyone can feel valued and respected.\"",
+        "target": "not same side",
+        "similarity_score": 0.8746777772903442,
+        "token_overlap": 0.0975609756097561
+    },
+    {
+        "original": "Allowing gay marriage is not about giving rights to gay people, it’s about changing the definition of marriage to include the union between two people of the same sex. [SEP] Allowing gay marriage is about giving rights to gay people and it should change the definition of marriage to include the union between two people of the same sex.",
+        "augmented": "Increasing funding for public education is not about improving student outcomes, it's about throwing money at a broken system. [SEP] Increasing funding for public education is about improving student outcomes and it's essential for preparing future generations for success.",
+        "target": "not same side",
+        "similarity_score": 0.7564716339111328,
+        "token_overlap": 0.12195121951219512
+    },
+    {
+        "original": "Gay marriage overall is badly influencing the children today men acting like women and women acting like men. [SEP] The rules of our society does not stand in any contradiction with gay marriage and marriage is not only a religious act that is why is does not conflict with the rules of it either.",
+        "augmented": "\"The legalization of gay marriage undermines the traditional family values that are essential for a healthy society.\" [SEP] \"Love knows no gender, and two consenting adults should have the freedom to marry regardless of their sexual orientation.\"",
+        "target": "not same side",
+        "similarity_score": 0.8310783505439758,
+        "token_overlap": 0.14814814814814814
+    },
+    {
+        "original": "same-sex parents in adoption cannot raise children as well as the biological parents. [SEP] homosexual couples cannot raise adopted children as well as the biological parents.",
+        "augmented": "The quality of parenting has nothing to do with one's sexual orientation. [SEP] Numerous studies prove that children raised by same-sex parents fare just as well as those raised by opposite-sex parents.",
+        "target": "same side",
+        "similarity_score": 0.8226729035377502,
+        "token_overlap": 0.2222222222222222
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] Marrying a person with the same gender does not violate the rules of any religion.",
+        "augmented": "\"My religion teaches me to respect and celebrate diversity in all its forms.\" [SEP] \"Then let's work together to ensure that everyone, regardless of their sexual orientation or gender identity, feels welcome and included in our communities.\"",
+        "target": "not same side",
+        "similarity_score": 0.7647532820701599,
+        "token_overlap": 0.13333333333333333
+    },
+    {
+        "original": "Gay marriage overall is badly influencing the children today men acting like women and women acting like men. [SEP] The marriage of two people of the same gender does not have a bad influence on children. Gay marriage is not the reason for men acting like women and women acting like men.",
+        "augmented": "\"Gay marriage is not the cause of societal decay; it's a symptom of a larger issue.\" [SEP] \"The legalization of gay marriage is a step towards a more equal society, and it has no negative impact on children.\"",
+        "target": "not same side",
+        "similarity_score": 0.8252405524253845,
+        "token_overlap": 0.16326530612244897
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "All consenting adults should have the freedom to choose their partners and express their love without fear of persecution or discrimination. [SEP] Everyone deserves the right to love and be loved, regardless of their sexual orientation or gender identity.",
+        "target": "same side",
+        "similarity_score": 0.8049537539482117,
+        "token_overlap": 0.125
+    },
+    {
+        "original": "Allowing gay marriage is not about giving rights to gay people, it’s about changing the definition of marriage to include the union between two people of the same sex. [SEP] Allowing gay marriage is about giving rights to gay people and it should change the definition of marriage to include the union between two people of the same sex.",
+        "augmented": "Building a wall along the Mexican border is not about protecting national security, it's about xenophobia and isolationism. [SEP] Building a wall along the Mexican border is about protecting national security and it's a necessary measure to prevent illegal immigration.",
+        "target": "not same side",
+        "similarity_score": 0.7546249628067017,
+        "token_overlap": 0.125
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Education and awareness are key to combating discrimination and prejudice against LGBTQ+ individuals. [SEP] By sharing stories and experiences, we can raise empathy and understanding, leading to a more inclusive and compassionate society.",
+        "target": "same side",
+        "similarity_score": 0.7473793029785156,
+        "token_overlap": 0.10526315789473684
+    },
+    {
+        "original": "Gay marriage should not be allowed because its will deprive the child of either a mother or a father the reason being since it's two females or two males. [SEP] Gay marriage should be allowed because it give a child two parents it does not matter if the child has two mothers or two fathers.",
+        "augmented": "\"Gay marriage undermines the importance of procreation within a heterosexual relationship.\" [SEP] \"Procreation is not a requirement for marriage, and many straight couples choose not to have children. Love and commitment are the essential components of marriage.\"",
+        "target": "not same side",
+        "similarity_score": 0.8023861050605774,
+        "token_overlap": 0.12244897959183673
+    },
+    {
+        "original": "While there might be a few for legalization of gay marriage, one should respect the opinion of the majority. If we were to make laws the people did not want, then this country would no longer be a democracy but a totalitarianism. [SEP] Because we live in a democracy and not in a totalitarianism the opinion of the majority should be respected. I think if the majority does not want the legalization of same sex marriage then it should not be legalized.",
+        "augmented": "Although some advocate for universal healthcare, it's essential to consider the potential consequences of such a system. Implementing a single-payer healthcare system could lead to long wait times, rationing of resources, and decreased quality of care. [SEP] We must carefully evaluate the potential drawbacks of a universal healthcare system before making any drastic changes to our current model. It's crucial to ensure that any healthcare reform aligns with the values of personal freedom and limited government intervention.",
+        "target": "same side",
+        "similarity_score": 0.7453514337539673,
+        "token_overlap": 0.06329113924050633
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Everyone deserves access to the same basic human rights, regardless of their sexual orientation or gender identity. [SEP] It's time to recognize that LGBTQ+ individuals face unique challenges and deserve our support and advocacy.",
+        "target": "same side",
+        "similarity_score": 0.7783098220825195,
+        "token_overlap": 0.11904761904761904
+    },
+    {
+        "original": "The gay marriage ban goes against human rights. [SEP] Basic rights, including the right to marry, apply to homosexual couples, too",
+        "augmented": "Discriminating against individuals based on their sexual orientation violates their inherent worth and dignity as human beings. [SEP] Everyone deserves the opportunity to build a life with the person they love, free from prejudice and discrimination.",
+        "target": "same side",
+        "similarity_score": 0.8053075075149536,
+        "token_overlap": 0.13333333333333333
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Laws that criminalize homosexuality are outdated and harmful. [SEP] It's time to repeal these laws and ensure that everyone can live their lives freely and without fear.",
+        "target": "same side",
+        "similarity_score": 0.771868884563446,
+        "token_overlap": 0.11428571428571428
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Promoting inclusivity and diversity can have positive effects on mental health and well-being. [SEP] When we feel seen and accepted, we are better able to thrive and contribute to society.",
+        "target": "same side",
+        "similarity_score": 0.7168577909469604,
+        "token_overlap": 0.1111111111111111
+    },
+    {
+        "original": "The gay marriage ban goes against human rights. [SEP] Basic rights, including the right to marry, apply to homosexual couples, too",
+        "augmented": "Marriage equality is not only a matter of individual freedom but also a vital step towards a healthier and more stable society. [SEP] When all families have access to the same legal protections and benefits, our communities thrive.",
+        "target": "same side",
+        "similarity_score": 0.7558565139770508,
+        "token_overlap": 0.11363636363636363
+    },
+    {
+        "original": "Gay marriage should not be allowed because its will deprive the child of either a mother or a father the reason being since it's two females or two males. [SEP] Gay marriage makes sure that a child has two parents who care for him.",
+        "augmented": "\"Gay marriage is a choice, not a civil right, and should not be protected under the Constitution.\" [SEP] \"Discrimination against individuals based on their sexual orientation is a violation of basic human rights, and all Americans deserve protection from discrimination and equal access to the law.\"",
+        "target": "not same side",
+        "similarity_score": 0.7955693006515503,
+        "token_overlap": 0.11538461538461539
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Love knows no boundaries, and neither should we. [SEP] Let's focus on spreading love and acceptance, rather than hate and intolerance.",
+        "target": "same side",
+        "similarity_score": 0.7704090476036072,
+        "token_overlap": 0.125
+    },
+    {
+        "original": "Gay marriage should not be allowed because its will deprive the child of either a mother or a father the reason being since it's two females or two males. [SEP] Gay marriage should be allowed because it give a child two parents it does not matter if the child has two mothers or two fathers.",
+        "augmented": "\"Gay marriage is not a fundamental human right.\" [SEP] \"The ability to marry the person you love and build a life together is a basic human right, and it should not be denied based on sexual orientation.\"",
+        "target": "not same side",
+        "similarity_score": 0.829264760017395,
+        "token_overlap": 0.125
+    },
+    {
+        "original": "In fact, not only would gay marriage not benefit society, but gay marriage would actually hinder society because it would degrade the image of what marriage is. [SEP] Gay marriage would be a huge benefit for the society, because marriage should represent the bond of two people who love each other.",
+        "augmented": "\"I understand that some religions may prohibit same-sex relationships, but it's important to separate church and state and ensure that all individuals have equal rights under the law, regardless of their sexual orientation.\"",
+        "target": "not same side",
+        "similarity_score": 0.8092119097709656,
+        "token_overlap": 0.0425531914893617
+    },
+    {
+        "original": "Allowing gay marriage is not about giving rights to gay people, it’s about changing the definition of marriage to include the union between two people of the same sex. [SEP] Allowing gay marriage is about giving rights to gay people and it should change the definition of marriage to include the union between two people of the same sex.",
+        "augmented": "Supporting Black Lives Matter is not about condoning violence against police officers, it's about recognizing systemic racism and advocating for justice. [SEP] Supporting Black Lives Matter is about condoning violence against police officers and it's a dangerous movement that divides society.",
+        "target": "not same side",
+        "similarity_score": 0.7590979337692261,
+        "token_overlap": 0.11904761904761904
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] Marrying a person with the same gender does not violate the rules of any religion.",
+        "augmented": "\"Some religious texts may condemn homosexuality, but we must consider historical context and cultural influences.\" [SEP] \"Indeed, and we should also acknowledge the many religious voices that advocate for LGBTQ+ inclusion and acceptance.\"",
+        "target": "not same side",
+        "similarity_score": 0.7654047012329102,
+        "token_overlap": 0.09302325581395349
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Discrimination against marginalized communities only serves to perpetuate harmful stereotypes and division. [SEP] We must work towards creating a society that values and embraces diversity, rather than trying to suppress it.",
+        "target": "same side",
+        "similarity_score": 0.7623915672302246,
+        "token_overlap": 0.10256410256410256
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Discrimination against marginalized communities only serves to perpetuate harmful stereotypes and division. [SEP] We must work towards creating a society that values and embraces diversity, rather than trying to suppress it.",
+        "target": "same side",
+        "similarity_score": 0.7623915672302246,
+        "token_overlap": 0.10256410256410256
+    },
+    {
+        "original": "Gay marriage is something that people came up with years ago, but 2000 years ago, marriage was the union of a guy and a woman not two guys or two women. The world now a days is creating so many new ideas and making up things that long time ago didn't exist, such as gay marriage. In some cases guy start to wear make up and acting like girls, which is something that is not right. People get plastic surgeries to look like the opposite sex and honestly, that's wrong because we were made the way we are and we shouldn't change how we look or how we act just because we want to be someone that we're not. [SEP] I agree with the point that marriage was and is the union of a guy and a woman and not two guys or two women. It ist something that people came up with 2000 years ago and it should not be changed. It is not right that guys wear make up and act like girls and it is definetly not natural that people get plastic surgeries to look like the opposite sex.",
+        "augmented": "Political correctness has run amok, stifling free speech and open discourse. It's time to push back against the thought police and reclaim our right to express our opinions without fear of retribution. Offensive language and microaggressions are often just a cover for intellectual laziness and a lack of substance. [SEP] Hear, hear! The PC culture has created a minefield of dos and don'ts that suppress dissenting voices and perpetuate victimhood. Let's reject this Orwellian nightmare and engage in genuine dialogue, unafraid to challenge each other's beliefs and assumptions.",
+        "target": "same side",
+        "similarity_score": 0.7305366396903992,
+        "token_overlap": 0.07692307692307693
+    },
+    {
+        "original": "Gay marriage should not be allowed because its will deprive the child of either a mother or a father the reason being since it's two females or two males. [SEP] Gay marriage makes sure that a child has two parents who care for him.",
+        "augmented": "\"The sanctity of marriage is between a man and a woman, and allowing gay couples to marry would undermine this sacred institution.\" [SEP] \"Marriage is about love and commitment, not gender, and all loving couples should have the freedom to marry regardless of their sexual orientation.\"",
+        "target": "not same side",
+        "similarity_score": 0.8157444000244141,
+        "token_overlap": 0.09803921568627451
+    },
+    {
+        "original": "While there might be a few for legalization of gay marriage, one should respect the opinion of the majority. If we were to make laws the people did not want, then this country would no longer be a democracy but a totalitarianism. [SEP] Because we live in a democracy and not in a totalitarianism the opinion of the majority should be respected. I think if the majority does not want the legalization of same sex marriage then it should not be legalized.",
+        "augmented": "Though some advocate for raising the minimum wage to $15 an hour, we must consider the potential negative effects on small businesses, entry-level workers, and the overall economy. Artificially inflating wages can lead to reduced hours, layoffs, and automation. [SEP] A more effective approach lies in promoting skills training and apprenticeships, which increase earning potential without jeopardizing employment opportunities. Additionally, indexing the minimum wage to inflation ensures that workers receive a fair wage without subjecting businesses to sudden, drastic increases.",
+        "target": "same side",
+        "similarity_score": 0.7059763073921204,
+        "token_overlap": 0.05747126436781609
+    },
+    {
+        "original": "The gay marriage ban goes against human rights. [SEP] Basic rights, including the right to marry, apply to homosexual couples, too",
+        "augmented": "The prohibition on same-sex marriage denies LGBTQ+ individuals the fundamental human right to express their love and commitment to each other through marriage. [SEP] All consenting adults, regardless of sexual orientation, should be able to choose their life partners and enter into a legally recognized union.",
+        "target": "same side",
+        "similarity_score": 0.8199388980865479,
+        "token_overlap": 0.17647058823529413
+    },
+    {
+        "original": "The gay marriage ban goes against human rights. [SEP] Basic rights, including the right to marry, apply to homosexual couples, too",
+        "augmented": "The fight for marriage equality is part of a larger struggle for LGBTQ+ rights and acceptance. [SEP] Together, we can create a world where every individual can live their authentic life without fear of persecution or discrimination.",
+        "target": "same side",
+        "similarity_score": 0.7885050773620605,
+        "token_overlap": 0.17391304347826086
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Respecting each other's differences is essential for building strong, healthy relationships. [SEP] By embracing our diversity, we can foster deeper connections and greater understanding.",
+        "target": "same side",
+        "similarity_score": 0.7560060024261475,
+        "token_overlap": 0.11428571428571428
+    },
+    {
+        "original": "Gay marriage is something that people came up with years ago, but 2000 years ago, marriage was the union of a guy and a woman not two guys or two women. The world now a days is creating so many new ideas and making up things that long time ago didn't exist, such as gay marriage. In some cases guy start to wear make up and acting like girls, which is something that is not right. People get plastic surgeries to look like the opposite sex and honestly, that's wrong because we were made the way we are and we shouldn't change how we look or how we act just because we want to be someone that we're not. [SEP] I agree with the point that marriage was and is the union of a guy and a woman and not two guys or two women. It ist something that people came up with 2000 years ago and it should not be changed. It is not right that guys wear make up and act like girls and it is definetly not natural that people get plastic surgeries to look like the opposite sex.",
+        "augmented": "Socialism, despite its failures throughout history, is once again being touted as the solution to all our problems. But government control over the means of production and distribution of goods inevitably leads to inefficiency, corruption, and oppression. We must learn from the past and embrace economic freedom if we want prosperity and innovation to flourish. [SEP] Spot on! The siren song of socialism sounds attractive to those who haven't studied its dismal track record. We must resist the temptation to trade individual liberty for empty promises of equality and instead promote entrepreneurship, self-reliance, and limited government intervention.",
+        "target": "same side",
+        "similarity_score": 0.7173702120780945,
+        "token_overlap": 0.06153846153846154
+    },
+    {
+        "original": "same-sex parents in adoption cannot raise children as well as the biological parents. [SEP] homosexual couples cannot raise adopted children as well as the biological parents.",
+        "augmented": "Same-sex parents face enough challenges already; they shouldn't be denied the opportunity to build a family through adoption. [SEP] It's crucial to recognize that family structures come in various forms, and all families deserve respect, love, and support.",
+        "target": "same side",
+        "similarity_score": 0.7932459115982056,
+        "token_overlap": 0.13333333333333333
+    },
+    {
+        "original": "same-sex parents in adoption cannot raise children as well as the biological parents. [SEP] homosexual couples cannot raise adopted children as well as the biological parents.",
+        "augmented": "It's essential to recognize that family is a fundamental human need, and no one should be denied the chance to form a family based on their sexual orientation. [SEP] Let's focus on ensuring that all individuals have access to the same opportunities and resources, regardless of their sexual orientation or gender identity.",
+        "target": "same side",
+        "similarity_score": 0.7770237326622009,
+        "token_overlap": 0.09090909090909091
+    },
+    {
+        "original": "In fact, not only would gay marriage not benefit society, but gay marriage would actually hinder society because it would degrade the image of what marriage is. [SEP] Gay marriage would be a huge benefit for the society, because marriage should represent the bond of two people who love each other.",
+        "augmented": "\"While some argue that gay marriage goes against traditional religious beliefs, it's important to remember that marriage is also a legal contract that should be available to all consenting adults, regardless of their sexual orientation.\"",
+        "target": "not same side",
+        "similarity_score": 0.846604585647583,
+        "token_overlap": 0.0851063829787234
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Education and awareness are key to combating discrimination and prejudice against LGBTQ+ individuals. [SEP] By sharing stories and experiences, we can raise empathy and understanding, leading to a more inclusive and compassionate society.",
+        "target": "same side",
+        "similarity_score": 0.7473793029785156,
+        "token_overlap": 0.10526315789473684
+    },
+    {
+        "original": "Gay marriage overall is badly influencing the children today men acting like women and women acting like men. [SEP] The marriage of two people of the same gender does not have a bad influence on children. Gay marriage is not the reason for men acting like women and women acting like men.",
+        "augmented": "\"Legalizing gay marriage will lead to polygamy and incest.\" [SEP] \"There is no evidence to suggest that legalizing gay marriage will lead to polygamy or incest, and these slippery slope arguments are unfounded.\"",
+        "target": "not same side",
+        "similarity_score": 0.8133558630943298,
+        "token_overlap": 0.11627906976744186
+    },
+    {
+        "original": "The gay marriage ban goes against human rights. [SEP] Basic rights, including the right to marry, apply to homosexual couples, too",
+        "augmented": "Banning gay marriage reinforces harmful stereotypes about the LGBTQ+ community and perpetuates systemic inequality. [SEP] We must challenge these outdated beliefs and work towards a future where everyone is treated with dignity and respect.",
+        "target": "same side",
+        "similarity_score": 0.7831600904464722,
+        "token_overlap": 0.13043478260869565
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Promoting inclusivity and diversity can have positive effects on mental health and well-being. [SEP] When we feel seen and accepted, we are better able to thrive and contribute to society.",
+        "target": "same side",
+        "similarity_score": 0.7168577909469604,
+        "token_overlap": 0.1111111111111111
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Everyone deserves access to the same basic human rights, regardless of their sexual orientation or gender identity. [SEP] It's time to recognize that LGBTQ+ individuals face unique challenges and deserve our support and advocacy.",
+        "target": "same side",
+        "similarity_score": 0.7783098220825195,
+        "token_overlap": 0.11904761904761904
+    },
+    {
+        "original": "While there might be a few for legalization of gay marriage, one should respect the opinion of the majority. If we were to make laws the people did not want, then this country would no longer be a democracy but a totalitarianism. [SEP] Because we live in a democracy and not in a totalitarianism the opinion of the majority should be respected. I think if the majority does not want the legalization of same sex marriage then it should not be legalized.",
+        "augmented": "While some push for stricter hate speech laws, we must be mindful of the potential risks to free speech and artistic expression. Overbroad definitions of hate speech can silence marginalized voices and stifle legitimate criticism of social norms. [SEP] Instead of criminalizing offensive language, we should cultivate a culture of tolerance, understanding, and counter-speech. By encouraging open dialogue and critical thinking, we can combat harmful ideologies without infringing upon our fundamental right to express ourselves.",
+        "target": "same side",
+        "similarity_score": 0.751897394657135,
+        "token_overlap": 0.08433734939759036
+    },
+    {
+        "original": "Gay marriage should not be allowed because its will deprive the child of either a mother or a father the reason being since it's two females or two males. [SEP] Gay marriage makes sure that a child has two parents who care for him.",
+        "augmented": "\"The majority of people oppose gay marriage, so it shouldn't be legalized.\" [SEP] \"Civil rights are not decided by popular vote, but rather by the principles of equality and justice. It's time for us to ensure that all citizens, regardless of sexual orientation, have the same rights and opportunities.\"",
+        "target": "not same side",
+        "similarity_score": 0.7584757804870605,
+        "token_overlap": 0.10714285714285714
+    },
+    {
+        "original": "Gay marriage should not be allowed because its will deprive the child of either a mother or a father the reason being since it's two females or two males. [SEP] Gay marriage makes sure that a child has two parents who care for him.",
+        "augmented": "\"Gay marriage would confuse children and create a slippery slope where any type of relationship could be considered valid.\" [SEP] \"Children raised by same-sex parents are just as capable and well-adjusted as those raised by opposite-sex parents, and it's important to recognize that love and stability, not gender, make a strong family unit.\"",
+        "target": "not same side",
+        "similarity_score": 0.8085082173347473,
+        "token_overlap": 0.13559322033898305
+    },
+    {
+        "original": "While there might be a few for legalization of gay marriage, one should respect the opinion of the majority. If we were to make laws the people did not want, then this country would no longer be a democracy but a totalitarianism. [SEP] Because we live in a democracy and not in a totalitarianism the opinion of the majority should be respected. I think if the majority does not want the legalization of same sex marriage then it should not be legalized.",
+        "augmented": "Some believe that Net Neutrality regulations are essential to preserve a free and open internet, but overregulation can stifle innovation and infrastructure investments. The internet thrived for decades without heavy-handed government oversight. [SEP] Removing unnecessary regulatory barriers allows internet service providers (ISPs) to invest in network upgrades, expand coverage, and improve speeds. By promoting market competition and consumer choice, we can safeguard a truly neutral and accessible internet without relying solely on government intervention.",
+        "target": "same side",
+        "similarity_score": 0.7153418064117432,
+        "token_overlap": 0.056818181818181816
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Embracing diversity and inclusion can lead to a more vibrant and successful society. [SEP] By celebrating our differences and promoting equality, we can create a brighter future for everyone.",
+        "target": "same side",
+        "similarity_score": 0.7485299110412598,
+        "token_overlap": 0.11428571428571428
+    },
+    {
+        "original": "Gay marriage overall is badly influencing the children today men acting like women and women acting like men. [SEP] The marriage of two people of the same gender does not have a bad influence on children. Gay marriage is not the reason for men acting like women and women acting like men.",
+        "augmented": "\"Gay marriage will corrupt our society.\" [SEP] \"Society has already been corrupted by discrimination and prejudice against marginalized communities, including the LGBTQ+ community. It's time to address this issue and promote equality for all.\"",
+        "target": "not same side",
+        "similarity_score": 0.7685236930847168,
+        "token_overlap": 0.12
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Laws that criminalize homosexuality are outdated and harmful. [SEP] It's time to repeal these laws and ensure that everyone can live their lives freely and without fear.",
+        "target": "same side",
+        "similarity_score": 0.771868884563446,
+        "token_overlap": 0.11428571428571428
+    },
+    {
+        "original": "Allowing gay marriage is not about giving rights to gay people, it’s about changing the definition of marriage to include the union between two people of the same sex. [SEP] Allowing gay marriage is about giving rights to gay people and it should change the definition of marriage to include the union between two people of the same sex.",
+        "augmented": "Legalizing marijuana is not about promoting drug use, it's about ending prohibition and reducing crime. [SEP] Legalizing marijuana is about promoting drug use and it will lead to increased addiction and social problems.",
+        "target": "not same side",
+        "similarity_score": 0.7803307771682739,
+        "token_overlap": 0.1282051282051282
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Love knows no boundaries, and neither should we. [SEP] Let's focus on spreading love and acceptance, rather than hate and intolerance.",
+        "target": "same side",
+        "similarity_score": 0.7704090476036072,
+        "token_overlap": 0.125
+    },
+    {
+        "original": "The gay marriage ban goes against human rights. [SEP] Basic rights, including the right to marry, apply to homosexual couples, too",
+        "augmented": "The freedom to marry is a basic human right, and it's unjust to restrict this right based on someone's sexual orientation. [SEP] Let's work towards creating a society where all people can live their lives with dignity and respect, regardless of who they love.",
+        "target": "same side",
+        "similarity_score": 0.8202894926071167,
+        "token_overlap": 0.1836734693877551
+    },
+    {
+        "original": "same-sex parents in adoption cannot raise children as well as the biological parents. [SEP] homosexual couples cannot raise adopted children as well as the biological parents.",
+        "augmented": "Discrimination against same-sex couples in adoption processes not only harms them, but also deprives children of potentially wonderful parents. [SEP] Every child deserves a chance at a happy, healthy upbringing, and we should strive to create a society where all qualified parents can provide that for them.",
+        "target": "same side",
+        "similarity_score": 0.7956839799880981,
+        "token_overlap": 0.20930232558139536
+    },
+    {
+        "original": "Gay marriage should not be allowed because its will deprive the child of either a mother or a father the reason being since it's two females or two males. [SEP] Gay marriage should be allowed because it give a child two parents it does not matter if the child has two mothers or two fathers.",
+        "augmented": "\"Gay marriage is unnatural and goes against the laws of nature.\" [SEP] \"Love knows no gender, and allowing gay marriage is a way to celebrate diversity and promote inclusivity.\"",
+        "target": "not same side",
+        "similarity_score": 0.8237543106079102,
+        "token_overlap": 0.13043478260869565
+    },
+    {
+        "original": "Gay marriage overall is badly influencing the children today men acting like women and women acting like men. [SEP] The marriage of two people of the same gender does not have a bad influence on children. Gay marriage is not the reason for men acting like women and women acting like men.",
+        "augmented": "\"Homosexuality is a choice, and it's being forced upon our youth.\" [SEP] \"Sexual orientation is not something that can be changed or chosen, and it's important to respect and accept people for who they are.\"",
+        "target": "not same side",
+        "similarity_score": 0.7970647811889648,
+        "token_overlap": 0.11363636363636363
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Laws that criminalize homosexuality are outdated and harmful. [SEP] It's time to repeal these laws and ensure that everyone can live their lives freely and without fear.",
+        "target": "same side",
+        "similarity_score": 0.771868884563446,
+        "token_overlap": 0.11428571428571428
+    },
+    {
+        "original": "Gay marriage should not be allowed because its will deprive the child of either a mother or a father the reason being since it's two females or two males. [SEP] Gay marriage should be allowed because it give a child two parents it does not matter if the child has two mothers or two fathers.",
+        "augmented": "\"Gay marriage may lead to the erosion of traditional family values.\" [SEP] \"Traditional family values such as love, support, and commitment are not exclusive to heterosexual relationships. Allowing gay marriage reinforces these values and expands them to more families.\"",
+        "target": "not same side",
+        "similarity_score": 0.8100479245185852,
+        "token_overlap": 0.12
+    },
+    {
+        "original": "Gay marriage overall is badly influencing the children today men acting like women and women acting like men. [SEP] The marriage of two people of the same gender does not have a bad influence on children. Gay marriage is not the reason for men acting like women and women acting like men.",
+        "augmented": "\"Gay marriage goes against religious beliefs.\" [SEP] \"Religious beliefs should not dictate laws that govern everyone, and it's important to separate church and state when it comes to issues like marriage equality.\"",
+        "target": "not same side",
+        "similarity_score": 0.8071770071983337,
+        "token_overlap": 0.14583333333333334
+    },
+    {
+        "original": "The gay marriage ban goes against human rights. [SEP] Basic rights, including the right to marry, apply to homosexual couples, too",
+        "augmented": "The ability to marry the person you love is a fundamental aspect of personal autonomy and happiness. [SEP] No one should be denied this basic human right simply because of their sexual orientation.",
+        "target": "same side",
+        "similarity_score": 0.8170652985572815,
+        "token_overlap": 0.19047619047619047
+    },
+    {
+        "original": "Gay marriage overall is badly influencing the children today men acting like women and women acting like men. [SEP] The rules of our society does not stand in any contradiction with gay marriage and marriage is not only a religious act that is why is does not conflict with the rules of it either.",
+        "augmented": "\"Legalizing gay marriage sends a dangerous message to future generations about the importance of tradition and morality.\" [SEP] \"Love is love, and no one should be judged based on who they choose to love.\"",
+        "target": "not same side",
+        "similarity_score": 0.8137211203575134,
+        "token_overlap": 0.12244897959183673
+    },
+    {
+        "original": "Gay marriage is something that people came up with years ago, but 2000 years ago, marriage was the union of a guy and a woman not two guys or two women. The world now a days is creating so many new ideas and making up things that long time ago didn't exist, such as gay marriage. In some cases guy start to wear make up and acting like girls, which is something that is not right. People get plastic surgeries to look like the opposite sex and honestly, that's wrong because we were made the way we are and we shouldn't change how we look or how we act just because we want to be someone that we're not. [SEP] I agree with the point that marriage was and is the union of a guy and a woman and not two guys or two women. It ist something that people came up with 2000 years ago and it should not be changed. It is not right that guys wear make up and act like girls and it is definetly not natural that people get plastic surgeries to look like the opposite sex.",
+        "augmented": "Gun control laws are a violation of our Second Amendment rights and do little to prevent gun violence. Criminals will always find ways to obtain weapons, while law-abiding citizens have the right to defend themselves and their families. Stricter regulations won't solve the root causes of gun crime, such as mental illness and societal decay. [SEP] Couldn't agree more. The Left's fixation on gun control is a red herring that distracts from the real issues behind mass shootings. We need to address the breakdown of family structures, improve mental health resources, and enforce existing laws to keep firearms out of the wrong hands.",
+        "target": "same side",
+        "similarity_score": 0.72314453125,
+        "token_overlap": 0.08148148148148149
+    },
+    {
+        "original": "Gay marriage should not be allowed because its will deprive the child of either a mother or a father the reason being since it's two females or two males. [SEP] Gay marriage should be allowed because it give a child two parents it does not matter if the child has two mothers or two fathers.",
+        "augmented": "\"Gay marriage goes against religious beliefs and traditions.\" [SEP] \"Religious beliefs and traditions should not dictate the law; everyone deserves equal rights under the law, regardless of their sexual orientation.\"",
+        "target": "not same side",
+        "similarity_score": 0.8263496160507202,
+        "token_overlap": 0.1276595744680851
+    },
+    {
+        "original": "Gay marriage overall is badly influencing the children today men acting like women and women acting like men. [SEP] The marriage of two people of the same gender does not have a bad influence on children. Gay marriage is not the reason for men acting like women and women acting like men.",
+        "augmented": "\"Children raised by same-sex parents suffer from lack of role models.\" [SEP] \"Children raised by same-sex parents fare just as well as those raised by opposite-sex parents, and they deserve the same rights and protections.\"",
+        "target": "not same side",
+        "similarity_score": 0.8040809631347656,
+        "token_overlap": 0.09302325581395349
+    },
+    {
+        "original": "Gay marriage overall is badly influencing the children today men acting like women and women acting like men. [SEP] The rules of our society does not stand in any contradiction with gay marriage and marriage is not only a religious act that is why is does not conflict with the rules of it either.",
+        "augmented": "\"Gay marriage is a slippery slope towards further moral degradation and societal collapse.\" [SEP] \"Embracing diversity and inclusivity strengthens communities and fosters greater understanding and empathy.\"",
+        "target": "not same side",
+        "similarity_score": 0.7838723659515381,
+        "token_overlap": 0.12244897959183673
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Discrimination against marginalized communities only serves to perpetuate harmful stereotypes and division. [SEP] We must work towards creating a society that values and embraces diversity, rather than trying to suppress it.",
+        "target": "same side",
+        "similarity_score": 0.7623915672302246,
+        "token_overlap": 0.10256410256410256
+    },
+    {
+        "original": "Gay marriage should not be allowed because its will deprive the child of either a mother or a father the reason being since it's two females or two males. [SEP] Gay marriage makes sure that a child has two parents who care for him.",
+        "augmented": "\"Gay marriage goes against traditional family values and deprives children of a mother or father figure.\" [SEP] \"Children raised by same-sex parents fare just as well as those raised by opposite-sex parents, and they deserve the same rights and protections.\"",
+        "target": "not same side",
+        "similarity_score": 0.827542245388031,
+        "token_overlap": 0.18
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Discrimination against marginalized communities only serves to perpetuate harmful stereotypes and division. [SEP] We must work towards creating a society that values and embraces diversity, rather than trying to suppress it.",
+        "target": "same side",
+        "similarity_score": 0.7623915672302246,
+        "token_overlap": 0.10256410256410256
+    },
+    {
+        "original": "Gay marriage overall is badly influencing the children today men acting like women and women acting like men. [SEP] The marriage of two people of the same gender does not have a bad influence on children. Gay marriage is not the reason for men acting like women and women acting like men.",
+        "augmented": "\"Gay marriage is unnatural.\" [SEP] \"Love knows no boundaries, and two consenting adults of the same gender loving each other is natural and normal.\"",
+        "target": "not same side",
+        "similarity_score": 0.8063409328460693,
+        "token_overlap": 0.19047619047619047
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] Marrying a person with the same gender does not violate the rules of any religion.",
+        "augmented": "\"I believe that marriage should be a union between two consenting adults, regardless of gender.\" [SEP] \"This view recognizes the fundamental human right to marry the person you love and start a family.\"",
+        "target": "not same side",
+        "similarity_score": 0.7944918870925903,
+        "token_overlap": 0.16666666666666666
+    },
+    {
+        "original": "Allowing gay marriage is not about giving rights to gay people, it’s about changing the definition of marriage to include the union between two people of the same sex. [SEP] Allowing gay marriage is about giving rights to gay people and it should change the definition of marriage to include the union between two people of the same sex.",
+        "augmented": "Raising the minimum wage is not about helping low-income workers, it's about artificially inflating salaries and killing jobs. [SEP] Raising the minimum wage is about helping low-income workers and it should be increased to reflect the cost of living.",
+        "target": "not same side",
+        "similarity_score": 0.7606708407402039,
+        "token_overlap": 0.125
+    },
+    {
+        "original": "Gay marriage is something that people came up with years ago, but 2000 years ago, marriage was the union of a guy and a woman not two guys or two women. The world now a days is creating so many new ideas and making up things that long time ago didn't exist, such as gay marriage. In some cases guy start to wear make up and acting like girls, which is something that is not right. People get plastic surgeries to look like the opposite sex and honestly, that's wrong because we were made the way we are and we shouldn't change how we look or how we act just because we want to be someone that we're not. [SEP] I agree with the point that marriage was and is the union of a guy and a woman and not two guys or two women. It ist something that people came up with 2000 years ago and it should not be changed. It is not right that guys wear make up and act like girls and it is definetly not natural that people get plastic surgeries to look like the opposite sex.",
+        "augmented": "Abortion is the deliberate termination of a pregnancy, and it's been around for thousands of years. However, just because society has deemed it acceptable doesn't mean it's morally right. We must consider the rights of the unborn child and the potential consequences of our actions. [SEP] I couldn't agree more. The idea that abortion is a woman's right is a relatively recent concept, and it goes against the fundamental principles of humanity. Every life is valuable and deserves protection, regardless of its stage of development.",
+        "target": "same side",
+        "similarity_score": 0.7401720285415649,
+        "token_overlap": 0.1092436974789916
+    },
+    {
+        "original": "In fact, not only would gay marriage not benefit society, but gay marriage would actually hinder society because it would degrade the image of what marriage is. [SEP] Gay marriage would be a huge benefit for the society, because marriage should represent the bond of two people who love each other.",
+        "augmented": "\"Let's focus on finding common ground and working together to create a society that celebrates diversity and promotes equality for all individuals, regardless of their sexual orientation or gender identity.\"",
+        "target": "not same side",
+        "similarity_score": 0.8088404536247253,
+        "token_overlap": 0.06382978723404255
+    },
+    {
+        "original": "Homosexual marriage underminds all major religions. [SEP] The marriage between two people of the same gender subverts all major religions.",
+        "augmented": "Promoting inclusivity and diversity can have positive effects on mental health and well-being. [SEP] When we feel seen and accepted, we are better able to thrive and contribute to society.",
+        "target": "same side",
+        "similarity_score": 0.7168577909469604,
+        "token_overlap": 0.1111111111111111
+    },
+    {
+        "original": "Gay marriage overall is badly influencing the children today men acting like women and women acting like men. [SEP] The rules of our society does not stand in any contradiction with gay marriage and marriage is not only a religious act that is why is does not conflict with the rules of it either.",
+        "augmented": "\"The institution of marriage is meant to be between a man and a woman, and deviating from this norm will lead to societal decay.\" [SEP] \"Discriminating against individuals based on their sexual orientation is a violation of basic human dignity.\"",
+        "target": "not same side",
+        "similarity_score": 0.8119621276855469,
+        "token_overlap": 0.11538461538461539
+    },
+    {
+        "original": "Gay marriage is something that people came up with years ago, but 2000 years ago, marriage was the union of a guy and a woman not two guys or two women. The world now a days is creating so many new ideas and making up things that long time ago didn't exist, such as gay marriage. In some cases guy start to wear make up and acting like girls, which is something that is not right. People get plastic surgeries to look like the opposite sex and honestly, that's wrong because we were made the way we are and we shouldn't change how we look or how we act just because we want to be someone that we're not. [SEP] I agree with the point that marriage was and is the union of a guy and a woman and not two guys or two women. It ist something that people came up with 2000 years ago and it should not be changed. It is not right that guys wear make up and act like girls and it is definetly not natural that people get plastic surgeries to look like the opposite sex.",
+        "augmented": "Euthanasia, or assisted suicide, is a slippery slope that could lead to abuse and exploitation of vulnerable individuals. The value of human life should never be measured by its quality or usefulness. Rather, we must uphold the inherent dignity of every person and ensure that their final moments are treated with compassion and respect. [SEP] Well said. The right to die quickly becomes an obligation to die, and that's a dangerous precedent to set. We must prioritize palliative care and support for those who are suffering, rather than offering them a quick exit.",
+        "target": "same side",
+        "similarity_score": 0.7161962389945984,
+        "token_overlap": 0.064
+    }
+]

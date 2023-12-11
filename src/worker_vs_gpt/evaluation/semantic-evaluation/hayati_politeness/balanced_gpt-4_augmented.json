@@ -1,0 +1,1766 @@
+[
+    {
+        "original": "Quite possibly the worst anthems I've ever heard in pro sports by both singers. I wish I was deaf. #ASG2017 #mlb #MLBAllStarGame",
+        "augmented": "Without a doubt, these are the most terrible anthems I've ever heard. Wishing for a temporary loss of hearing. #ASG2017 #mlb #MLBAllStarGame",
+        "target": "impolite",
+        "similarity_score": 0.7710639834403992,
+        "token_overlap": 0.2777777777777778
+    },
+    {
+        "original": "Thanks for the referrence.  Do you have any other response to the Bozo who doubts notability?",
+        "augmented": "Gratitude for the reference! Do you have any more counterpoints for the fool who questions its noteworthiness?",
+        "target": "impolite",
+        "similarity_score": 0.8340710401535034,
+        "token_overlap": 0.1111111111111111
+    },
+    {
+        "original": "@mashable For some reason this has filled me with delight. See Auntie laugh.",
+        "augmented": "@mashable This surprisingly put a smile on my face. Auntie's laughter is infectious.",
+        "target": "polite",
+        "similarity_score": 0.8762616515159607,
+        "token_overlap": 0.18181818181818182
+    },
+    {
+        "original": "I broke baby outta his thug stage n turned him into a pussy &#128514; , it was hard but I did it &#128129;&#128537; now he show more feelings than a lit bit",
+        "augmented": "Changed my boy from being hard to a softie 😂 It was a tough job but I pulled it off 💅 Now he's more emotional than ever.",
+        "target": "impolite",
+        "similarity_score": 0.8583341240882874,
+        "token_overlap": 0.05405405405405406
+    },
+    {
+        "original": "@GarfieldLineker @TimCRoberts *on his back. Apologies for retweeting a tweet with grammatical error #mybad",
+        "augmented": "Oops! @GarfieldLineker @TimCRoberts I seem to have shared an incorrect grammar tweet. #mybad Sorry for that.",
+        "target": "polite",
+        "similarity_score": 0.80259108543396,
+        "token_overlap": 0.25
+    },
+    {
+        "original": "For the first time in years , De Niro digs deep emotionally , perhaps because he's been stirred by the powerful work of his co-stars .",
+        "augmented": "It's been a long while since De Niro delivered such a raw emotional performance. It could likely be the strong performance from his fellow cast members that inspired him.",
+        "target": "polite",
+        "similarity_score": 0.834941029548645,
+        "token_overlap": 0.11428571428571428
+    },
+    {
+        "original": "I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR.  It's fine if we just make a section about RQ in the QR article, is that ok with you?",
+        "augmented": "I believe it would be a great idea to add a section about RQ in the QR article. This could help people find appropriate algorithms for RQ. Is this okay with you?",
+        "target": "polite",
+        "similarity_score": 0.8269274830818176,
+        "token_overlap": 0.20512820512820512
+    },
+    {
+        "original": "@High Performance Mark, as far as I understand the pseudo code describes a path searching algorithm... so I'm trying to write a program that finds a Hamiltonian Path using the logic of the \"DNA Algorithm.\" Am I on the wrong *track* here?",
+        "augmented": "@High Performance Mark, if I'm not mistaken, the pseudo code outlines a route finding algorithm. Hence, I'm attempting to construct a program leveraging the \"DNA Algorithm\" to pinpoint a Hamiltonian Path. Am I misinterpreting something?",
+        "target": "polite",
+        "similarity_score": 0.8186724185943604,
+        "token_overlap": 0.3076923076923077
+    },
+    {
+        "original": "A delectable and intriguing thriller filled with surprises , Read My Lips is an original .",
+        "augmented": "\"Discover surprising revelations in the original and palatable thriller that is Read My Lips.\"",
+        "target": "polite",
+        "similarity_score": 0.9489526748657227,
+        "token_overlap": 0.25
+    },
+    {
+        "original": "@mashable For some reason this has filled me with delight. See Auntie laugh.",
+        "augmented": "Somehow, @mashable, this made my day better. Loved watching Auntie giggle!",
+        "target": "polite",
+        "similarity_score": 0.8425636887550354,
+        "token_overlap": 0.17391304347826086
+    },
+    {
+        "original": "I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR.  It's fine if we just make a section about RQ in the QR article, is that ok with you?",
+        "augmented": "Thinking out loud here, but wouldn't it be beneficial if we create a section specifically for RQ inside the QR article? People could find the algorithm for RQ more conveniently. Would you agree?",
+        "target": "polite",
+        "similarity_score": 0.8196962475776672,
+        "token_overlap": 0.225
+    },
+    {
+        "original": "For the first time in years , De Niro digs deep emotionally , perhaps because he's been stirred by the powerful work of his co-stars .",
+        "augmented": "De Niro really delves into his emotions in this, something we haven't seen in years; could it be that his co-stars' exceptional work inspired him?",
+        "target": "polite",
+        "similarity_score": 0.9330708384513855,
+        "token_overlap": 0.17142857142857143
+    },
+    {
+        "original": "James Clapper 'scary and disturbing'.  #25thAmendmentNow #ImpeachTrump  #terrified #nuclearcodes  #Godhelpus",
+        "augmented": "Clapper is worrisome indeed. #Invoke25thAmendment #TrumpTermination #terrified #NuclearWorries #Godprotectus",
+        "target": "impolite",
+        "similarity_score": 0.8410848379135132,
+        "token_overlap": 0.18181818181818182
+    },
+    {
+        "original": "Quite possibly the worst anthems I've ever heard in pro sports by both singers. I wish I was deaf. #ASG2017 #mlb #MLBAllStarGame",
+        "augmented": "I'm not sure I've heard worse pro sports anthems, seriously questioning my hearing now. Is it really that bad? #ASG2017 #mlb #MLBAllStarGame ",
+        "target": "impolite",
+        "similarity_score": 0.7583884596824646,
+        "token_overlap": 0.275
+    },
+    {
+        "original": "Is she my kind of hoe or nae \"@LissetElisa: Its ok you a hoe anyways &#128522;\"",
+        "augmented": "\"Does she fit in with my crew or not at all? \"@RoxieAnn: No stress, you're just who you always were &#128522;\"",
+        "target": "impolite",
+        "similarity_score": 0.7939815521240234,
+        "token_overlap": 0.23529411764705882
+    },
+    {
+        "original": "Is she my kind of hoe or nae \"@LissetElisa: Its ok you a hoe anyways &#128522;\"",
+        "augmented": "\"Does she fall under my group or does she not? \"@LindaLea: Chillax, you're just maintaining your reputation &#128522;\"",
+        "target": "impolite",
+        "similarity_score": 0.7969189882278442,
+        "token_overlap": 0.23529411764705882
+    },
+    {
+        "original": "@FreeBeacon Shows how desperate the Dems are. They always ignore facts and hurl scare tactics.",
+        "augmented": "@StrategicInsight, the Democrats seem pretty desperate. Not uncommon for them to brush off facts and launch their terror campaigning. ",
+        "target": "impolite",
+        "similarity_score": 0.8227701187133789,
+        "token_overlap": 0.14285714285714285
+    },
+    {
+        "original": "@High Performance Mark, as far as I understand the pseudo code describes a path searching algorithm... so I'm trying to write a program that finds a Hamiltonian Path using the logic of the \"DNA Algorithm.\" Am I on the wrong *track* here?",
+        "augmented": "@High Performance Mark, I comprehend the pseudo code to be discussing a path searching algorithm, thus I'm attempting to code a program for finding a Hamiltonian Path using the \"DNA Algorithm.\" Could you please tell me if I am off *course*?",
+        "target": "polite",
+        "similarity_score": 0.8316138982772827,
+        "token_overlap": 0.3484848484848485
+    },
+    {
+        "original": "RT @chvmpagne: I can't stand you \"I don't text first\" ass bitches.",
+        "augmented": "Hey @StarzNmoonz: These \"I don't initiate messages\" folks really get on my nerves.",
+        "target": "impolite",
+        "similarity_score": 0.83522629737854,
+        "token_overlap": 0.22580645161290322
+    },
+    {
+        "original": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Anal | Hardcore british queer anal pounding http://t.co/lRuEixMy21",
+        "augmented": "Hello, #android, #ipad, #sex, #Anal followers | Powerful UK LGBTQ anal hammering http://t.co/7XNtzp4BGa",
+        "target": "impolite",
+        "similarity_score": 0.9397917985916138,
+        "token_overlap": 0.2857142857142857
+    },
+    {
+        "original": "Quite possibly the worst anthems I've ever heard in pro sports by both singers. I wish I was deaf. #ASG2017 #mlb #MLBAllStarGame",
+        "augmented": "Beyond doubt, these are the poorest anthems I've ever had to experience in pro sports. Deafness would be a blessing right now. #ASG2017 #mlb #MLBAllStarGame",
+        "target": "impolite",
+        "similarity_score": 0.7671891450881958,
+        "token_overlap": 0.2894736842105263
+    },
+    {
+        "original": "Where are you using this code? Have you tried `theme_get_setting('logo_path', 'THEME_NAME')`, replacing THEME_NAME with the name of your theme?",
+        "augmented": "In which area are you executing this code? You should consider using `theme_get_setting('logo_path', 'THEME_NAME')`, remember to replace THEME_NAME with the name of your theme.",
+        "target": "polite",
+        "similarity_score": 0.8475907444953918,
+        "token_overlap": 0.35
+    },
+    {
+        "original": "@High Performance Mark, as far as I understand the pseudo code describes a path searching algorithm... so I'm trying to write a program that finds a Hamiltonian Path using the logic of the \"DNA Algorithm.\" Am I on the wrong *track* here?",
+        "augmented": "@High Performance Mark, correct me if I'm wrong, but I'm interpreting the pseudo code to represent a path searching algorithm. I'm attempting to code a program that finds a Hamiltonian Path, leveraging the \"DNA Algorithm.\" Am I misdirected here?",
+        "target": "polite",
+        "similarity_score": 0.8281943202018738,
+        "token_overlap": 0.375
+    },
+    {
+        "original": "Preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment .",
+        "augmented": "Simply remarkable to influence both parties at the same time. Kudos!",
+        "target": "polite",
+        "similarity_score": 0.7841607332229614,
+        "token_overlap": 0.10526315789473684
+    },
+    {
+        "original": "@Brennan_PB Backs up what I always thought ... yer all as mad as each other",
+        "augmented": "I've always known it, @Brennan_PB. You're all in the same mad boat.",
+        "target": "impolite",
+        "similarity_score": 0.8270533084869385,
+        "token_overlap": 0.23809523809523808
+    },
+    {
+        "original": "@mashable For some reason this has filled me with delight. See Auntie laugh.",
+        "augmented": "@mashable Unusually, this brightened my day. Seeing Auntie laugh is a treat.",
+        "target": "polite",
+        "similarity_score": 0.8701825141906738,
+        "token_overlap": 0.23809523809523808
+    },
+    {
+        "original": "Thanks for the referrence.  Do you have any other response to the Bozo who doubts notability?",
+        "augmented": "I'm grateful for your referral! Is there more you'd like to convey to the cynic who disputes its notability?",
+        "target": "impolite",
+        "similarity_score": 0.8215142488479614,
+        "token_overlap": 0.09090909090909091
+    },
+    {
+        "original": "@High Performance Mark, as far as I understand the pseudo code describes a path searching algorithm... so I'm trying to write a program that finds a Hamiltonian Path using the logic of the \"DNA Algorithm.\" Am I on the wrong *track* here?",
+        "augmented": "To my comprehension, @High Performance Mark, the pseudo code is around a pathway searching algorithm. Considering this, I am trying to design a program that hunts for a Hamiltonian Path using the \"DNA Algorithm\". Do I need a course correction here?",
+        "target": "polite",
+        "similarity_score": 0.8106625080108643,
+        "token_overlap": 0.3181818181818182
+    },
+    {
+        "original": "RT @JoeBudden: So the woman I deal with is trying her best to make \"entertaining\" a bad word... \"U be entertaining these bitches\" lol",
+        "augmented": "Ha! My significant other is painting \"entertaining\" like it's a sin... \"You are always entertaining these chicks\"",
+        "target": "impolite",
+        "similarity_score": 0.7979459166526794,
+        "token_overlap": 0.11428571428571428
+    },
+    {
+        "original": "For the first time in years , De Niro digs deep emotionally , perhaps because he's been stirred by the powerful work of his co-stars .",
+        "augmented": "De Niro really reached to his emotional depths in this one for the first time in quite some time, seemingly pushed by the excellent acting of his co-stars.",
+        "target": "polite",
+        "similarity_score": 0.9518721103668213,
+        "token_overlap": 0.20588235294117646
+    },
+    {
+        "original": "I broke baby outta his thug stage n turned him into a pussy &#128514; , it was hard but I did it &#128129;&#128537; now he show more feelings than a lit bit",
+        "augmented": "I broke down my dude's rough exterior and built up a sensitive interior 😂 It wasn't easy, but I managed 💁‍♀️ Now he's more emotional than he's ever been.",
+        "target": "impolite",
+        "similarity_score": 0.8672010898590088,
+        "token_overlap": 0.07317073170731707
+    },
+    {
+        "original": "For the first time in years , De Niro digs deep emotionally , perhaps because he's been stirred by the powerful work of his co-stars .",
+        "augmented": "The deep emotional work by De Niro in this one, not seen for years it appears, might have been influenced by the remarkable acting by his co-stars.",
+        "target": "polite",
+        "similarity_score": 0.9127086400985718,
+        "token_overlap": 0.23529411764705882
+    },
+    {
+        "original": "It's so good that its relentless , polished wit can withstand not only inept school productions , but even Oliver Parker's movie adaptation .",
+        "augmented": "\"It's rather commendable how its relentless, polished comedy can take a beating from poorly executed school shows and even Oliver Parker's movie adaptation.\"",
+        "target": "impolite",
+        "similarity_score": 0.9423760175704956,
+        "token_overlap": 0.3076923076923077
+    },
+    {
+        "original": "Thanks for the referrence.  Do you have any other response to the Bozo who doubts notability?",
+        "augmented": "Many thanks for the citation! Any additional comments for the skeptic who doubts its significance?",
+        "target": "impolite",
+        "similarity_score": 0.8297513723373413,
+        "token_overlap": 0.1
+    },
+    {
+        "original": "Preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment .",
+        "augmented": "Impressive to manage two very diverse groups simultaneously, it's quite a feat!",
+        "target": "polite",
+        "similarity_score": 0.8623894453048706,
+        "token_overlap": 0.09090909090909091
+    },
+    {
+        "original": "A delectable and intriguing thriller filled with surprises , Read My Lips is an original .",
+        "augmented": "\"An unexpected feast of a thriller! Read My Lips perfectly balances intrigue and originality.\"",
+        "target": "polite",
+        "similarity_score": 0.8682316541671753,
+        "token_overlap": 0.18518518518518517
+    },
+    {
+        "original": "@High Performance Mark, as far as I understand the pseudo code describes a path searching algorithm... so I'm trying to write a program that finds a Hamiltonian Path using the logic of the \"DNA Algorithm.\" Am I on the wrong *track* here?",
+        "augmented": "It appears that the pseudo code, @High Performance Mark, is depicting a pathway finding algorithm, hence, I'm striving to build a program to extract a Hamiltonian Path via the \"DNA Algorithm.\" Is my take incorrect here?",
+        "target": "polite",
+        "similarity_score": 0.8308178186416626,
+        "token_overlap": 0.2878787878787879
+    },
+    {
+        "original": "For the first time in years , De Niro digs deep emotionally , perhaps because he's been stirred by the powerful work of his co-stars .",
+        "augmented": "It hasn't been seen in years, but De Niro's emotional digging around for this role is impressive, possibly stirred by the admirable acting of his co-stars.",
+        "target": "polite",
+        "similarity_score": 0.9136223196983337,
+        "token_overlap": 0.2222222222222222
+    },
+    {
+        "original": "@High Performance Mark, as far as I understand the pseudo code describes a path searching algorithm... so I'm trying to write a program that finds a Hamiltonian Path using the logic of the \"DNA Algorithm.\" Am I on the wrong *track* here?",
+        "augmented": "From what I gather, @High Performance Mark, the pseudo code pertains to a path-searching algorithm. With this logic, I'm trying to devise a program to locate a Hamiltonian Path using the \"DNA Algorithm.\" Am I heading down the wrong route?",
+        "target": "polite",
+        "similarity_score": 0.8276926875114441,
+        "token_overlap": 0.3582089552238806
+    },
+    {
+        "original": "I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR.  It's fine if we just make a section about RQ in the QR article, is that ok with you?",
+        "augmented": "Just a suggestion, but if one's looking for RQ, it would be ideal to find a specific algorithm working on RQ and not QR. Perhaps we can simply add a section about RQ in the QR article. What do you think?",
+        "target": "polite",
+        "similarity_score": 0.838845431804657,
+        "token_overlap": 0.2682926829268293
+    },
+    {
+        "original": "@GarfieldLineker @TimCRoberts *on his back. Apologies for retweeting a tweet with grammatical error #mybad",
+        "augmented": "@GarfieldLineker @TimCRoberts I actually feel bad for retweeting a grammatically wrong tweet. #oops I'm sorry.",
+        "target": "polite",
+        "similarity_score": 0.821281909942627,
+        "token_overlap": 0.2413793103448276
+    },
+    {
+        "original": "Congrats! I thought you were going to be away today?",
+        "augmented": "Way to go! I believed you were out of town today, no?",
+        "target": "polite",
+        "similarity_score": 0.7824702262878418,
+        "token_overlap": 0.23529411764705882
+    },
+    {
+        "original": "Preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment .",
+        "augmented": "Striking is the way you managed to address two distinct audiences at the same time, applause-worthy indeed!",
+        "target": "polite",
+        "similarity_score": 0.8011476397514343,
+        "token_overlap": 0.13043478260869565
+    },
+    {
+        "original": "@GarfieldLineker @TimCRoberts *on his back. Apologies for retweeting a tweet with grammatical error #mybad",
+        "augmented": "Just noticed I retweeted a mistaken grammar post. Apologies @GarfieldLineker @TimCRoberts. It's on me! #myerror",
+        "target": "polite",
+        "similarity_score": 0.7965074181556702,
+        "token_overlap": 0.2
+    },
+    {
+        "original": "Doing a redundant `atoi` after you just did `strtol` is probably the most twisted insult to the proper use of string-to-int conversion functions in C one can come up with. Why do you see the need to \"re-convert\" the value using the broken function `atoi` when you already have it as `val` from a proper function `strtol`?",
+        "augmented": "Implementing an unwanted `atoi` after you've just used `strtol`? It's the equivalent of giving proper string-to-int conversion in C, a punch in the face. Can't fathom why you'd want to \"re-convert\" using problematic `atoi` when `strtol` already gave you `val`.",
+        "target": "impolite",
+        "similarity_score": 0.8762491345405579,
+        "token_overlap": 0.23809523809523808
+    },
+    {
+        "original": "For the first time in years , De Niro digs deep emotionally , perhaps because he's been stirred by the powerful work of his co-stars .",
+        "augmented": "In years, we haven't seen a more emotionally engaged De Niro, likely due to the superb performances of his co-stars.",
+        "target": "polite",
+        "similarity_score": 0.9143908023834229,
+        "token_overlap": 0.21875
+    },
+    {
+        "original": "I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR.  It's fine if we just make a section about RQ in the QR article, is that ok with you?",
+        "augmented": "\"Don't you agree that having an algorithm for RQ within the QR article could be quite helpful for those looking for it? Maybe we could designate a specific section to RQ? I'd love to hear your thoughts on this.\"",
+        "target": "polite",
+        "similarity_score": 0.8025814890861511,
+        "token_overlap": 0.20930232558139536
+    },
+    {
+        "original": "Where are you using this code? Have you tried `theme_get_setting('logo_path', 'THEME_NAME')`, replacing THEME_NAME with the name of your theme?",
+        "augmented": "Can you tell me the context in which you're using the code? You might want to use `theme_get_setting('logo_path', 'THEME_NAME')` and switch THEME_NAME with your theme's name.",
+        "target": "polite",
+        "similarity_score": 0.852513313293457,
+        "token_overlap": 0.32558139534883723
+    },
+    {
+        "original": "James Clapper 'scary and disturbing'.  #25thAmendmentNow #ImpeachTrump  #terrified #nuclearcodes  #Godhelpus",
+        "augmented": "Alarming and scary is James Clapper. #Acallfor25thAmendment #TrumpMustBeChecked #trembling #CodeRed #PrayForTheWorld",
+        "target": "impolite",
+        "similarity_score": 0.839533805847168,
+        "token_overlap": 0.17391304347826086
+    },
+    {
+        "original": "@mashable For some reason this has filled me with delight. See Auntie laugh.",
+        "augmented": "For some unforeseen reason, this just made my day, @mashable. Love watching Auntie's adorable laugh!",
+        "target": "polite",
+        "similarity_score": 0.843015193939209,
+        "token_overlap": 0.2692307692307692
+    },
+    {
+        "original": "@FreeBeacon Shows how desperate the Dems are. They always ignore facts and hurl scare tactics.",
+        "augmented": "@LibertyWeb looks like the Democrats are clutching at straws again, always skipping over facts and resorting to fear-mongering.",
+        "target": "impolite",
+        "similarity_score": 0.8252959847450256,
+        "token_overlap": 0.14814814814814814
+    },
+    {
+        "original": "James Clapper 'scary and disturbing'.  #25thAmendmentNow #ImpeachTrump  #terrified #nuclearcodes  #Godhelpus",
+        "augmented": "Clapper setting off fear alarms. #25thAmendmentMust #LetsDethroneTrump #FearAbounds #nuclearworries #SeekingDivineHelp",
+        "target": "impolite",
+        "similarity_score": 0.8197948932647705,
+        "token_overlap": 0.13043478260869565
+    },
+    {
+        "original": "Congrats! I thought you were going to be away today?",
+        "augmented": "Bravo! I had assumed you'd be absent today, right?",
+        "target": "polite",
+        "similarity_score": 0.7814304828643799,
+        "token_overlap": 0.2222222222222222
+    },
+    {
+        "original": "@High Performance Mark, as far as I understand the pseudo code describes a path searching algorithm... so I'm trying to write a program that finds a Hamiltonian Path using the logic of the \"DNA Algorithm.\" Am I on the wrong *track* here?",
+        "augmented": "I need your insight, @High Performance Mark. The pseudo code appears to be about a path searching algorithm, am I right? My goal is to program a Hamiltonian Path search based on the \"DNA Algorithm.\" Could I be misinterpreting anything?",
+        "target": "polite",
+        "similarity_score": 0.7978614568710327,
+        "token_overlap": 0.30303030303030304
+    },
+    {
+        "original": "Preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment .",
+        "augmented": "Delivering a powerful message to two different choirs at once is an extraordinary accomplishment indeed.",
+        "target": "polite",
+        "similarity_score": 0.9532252550125122,
+        "token_overlap": 0.23809523809523808
+    },
+    {
+        "original": "@GarfieldLineker @TimCRoberts *on his back. Apologies for retweeting a tweet with grammatical error #mybad",
+        "augmented": "*Back on track. Oh, and btw, @GarfieldLineker @TimCRoberts, sorry for sharing a tweet with wrong grammar earlier. #mymistake",
+        "target": "polite",
+        "similarity_score": 0.7884861826896667,
+        "token_overlap": 0.22580645161290322
+    },
+    {
+        "original": "RT @JoeBudden: So the woman I deal with is trying her best to make \"entertaining\" a bad word... \"U be entertaining these bitches\" lol",
+        "augmented": "My woman is on a mission to demonize the word 'entertaining'... 'Always entertaining those girls', she says, laughing.",
+        "target": "impolite",
+        "similarity_score": 0.9006454944610596,
+        "token_overlap": 0.11428571428571428
+    },
+    {
+        "original": "Thanks for the referrence.  Do you have any other response to the Bozo who doubts notability?",
+        "augmented": "I appreciate the suggestion! Do you have anything further to say to the nitwit who challenges its importance?",
+        "target": "impolite",
+        "similarity_score": 0.8051173686981201,
+        "token_overlap": 0.1
+    },
+    {
+        "original": "I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR.  It's fine if we just make a section about RQ in the QR article, is that ok with you?",
+        "augmented": "\"I was thinking it might be beneficial if we allocate a section to RQ within the QR article since people could be searching for an RQ algorithm. Do you think that's acceptable?\"",
+        "target": "polite",
+        "similarity_score": 0.808390200138092,
+        "token_overlap": 0.21951219512195122
+    },
+    {
+        "original": "Is she my kind of hoe or nae \"@LissetElisa: Its ok you a hoe anyways &#128522;\"",
+        "augmented": "\"Is she one of us or doesn't even qualify? \"@KatieBeth: No probs, you're still the same &#128522;\"",
+        "target": "impolite",
+        "similarity_score": 0.8042460680007935,
+        "token_overlap": 0.24324324324324326
+    },
+    {
+        "original": "A delectable and intriguing thriller filled with surprises , Read My Lips is an original .",
+        "augmented": "\"Absolutely original and with treats at every corner, Read My Lips sure is a tempting thriller.\"",
+        "target": "polite",
+        "similarity_score": 0.937835156917572,
+        "token_overlap": 0.25925925925925924
+    },
+    {
+        "original": "James Clapper 'scary and disturbing'.  #25thAmendmentNow #ImpeachTrump  #terrified #nuclearcodes  #Godhelpus",
+        "augmented": "James Clapper is so alarming. #Demandfor25thAmendment #UrgentImpeachment #horrified #nuclearperil #BeseechingDivineIntervention",
+        "target": "impolite",
+        "similarity_score": 0.8327746987342834,
+        "token_overlap": 0.18181818181818182
+    },
+    {
+        "original": "@mashable For some reason this has filled me with delight. See Auntie laugh.",
+        "augmented": "@mashable For some reason, this warmed my heart. The sight of Auntie laughing is delightful.",
+        "target": "polite",
+        "similarity_score": 0.8723782896995544,
+        "token_overlap": 0.2608695652173913
+    },
+    {
+        "original": "@FreeBeacon Shows how desperate the Dems are. They always ignore facts and hurl scare tactics.",
+        "augmented": "Clearly, the Dems are scraping the bottom of the barrel. Ignoring all the established facts, and resorting to scare tactics, as per usual. @TrendReport.",
+        "target": "impolite",
+        "similarity_score": 0.7839518189430237,
+        "token_overlap": 0.2
+    },
+    {
+        "original": "It's so good that its relentless , polished wit can withstand not only inept school productions , but even Oliver Parker's movie adaptation .",
+        "augmented": "\"It's rather remarkable that its relentless, polished wit braves through inadequate school enactments , and even withstands Oliver Parker's film adaptation.\"",
+        "target": "impolite",
+        "similarity_score": 0.9516634941101074,
+        "token_overlap": 0.3157894736842105
+    },
+    {
+        "original": "Thanks for the referrence.  Do you have any other response to the Bozo who doubts notability?",
+        "augmented": "Thanks for the mention! Do you have anything else to mention to the goofball who undermines its notability?",
+        "target": "impolite",
+        "similarity_score": 0.8348331451416016,
+        "token_overlap": 0.21052631578947367
+    },
+    {
+        "original": "Preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment .",
+        "augmented": "You've astoundingly managed to appeal to two distinct groups at the same time. Great job!",
+        "target": "polite",
+        "similarity_score": 0.7934767007827759,
+        "token_overlap": 0.125
+    },
+    {
+        "original": "Is she my kind of hoe or nae \"@LissetElisa: Its ok you a hoe anyways &#128522;\"",
+        "augmented": "\"Is she one of my kind or should I say no? \"@SarahJane: Relax, you're just the same &#128522;\"",
+        "target": "impolite",
+        "similarity_score": 0.8242284059524536,
+        "token_overlap": 0.29411764705882354
+    },
+    {
+        "original": "I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR.  It's fine if we just make a section about RQ in the QR article, is that ok with you?",
+        "augmented": "\"Have you considered that it would be helpful to find an RQ algorithm instead of a QR one when you need it? How about we create an RQ section in the QR article? Would that be suitable for you?\"",
+        "target": "polite",
+        "similarity_score": 0.817373514175415,
+        "token_overlap": 0.18421052631578946
+    },
+    {
+        "original": "@FreeBeacon Shows how desperate the Dems are. They always ignore facts and hurl scare tactics.",
+        "augmented": "Seems like the Dems are at their wit's end, making a habit of ignoring facts and sensationalizing non-issues @Rumor_Post.",
+        "target": "impolite",
+        "similarity_score": 0.8375944495201111,
+        "token_overlap": 0.13793103448275862
+    },
+    {
+        "original": "Doing a redundant `atoi` after you just did `strtol` is probably the most twisted insult to the proper use of string-to-int conversion functions in C one can come up with. Why do you see the need to \"re-convert\" the value using the broken function `atoi` when you already have it as `val` from a proper function `strtol`?",
+        "augmented": "You're basically butchering the proper use of string-to-int conversion functions in C by doing an unneeded `atoi` right after your `strtol`. It boggles the mind why you'd \"re-convert\" with the faulty `atoi`, when you have a perfectly good `val` from `strtol`.",
+        "target": "impolite",
+        "similarity_score": 0.9095368981361389,
+        "token_overlap": 0.2413793103448276
+    },
+    {
+        "original": "For the first time in years , De Niro digs deep emotionally , perhaps because he's been stirred by the powerful work of his co-stars .",
+        "augmented": "It seems like years have passed since we saw De Niro tap into his emotions like he has now, presumably driven by the impressive work of his fellow actors.",
+        "target": "polite",
+        "similarity_score": 0.9216845631599426,
+        "token_overlap": 0.16666666666666666
+    },
+    {
+        "original": "@High Performance Mark, as far as I understand the pseudo code describes a path searching algorithm... so I'm trying to write a program that finds a Hamiltonian Path using the logic of the \"DNA Algorithm.\" Am I on the wrong *track* here?",
+        "augmented": "@High Performance Mark, if I'm correct, the pseudo code seems to illustrate a path searching algorithm. I'm working on developing a program that discovers a Hamiltonian Path following the \"DNA Algorithm.” Does it seem like I'm on the right path?",
+        "target": "polite",
+        "similarity_score": 0.829103410243988,
+        "token_overlap": 0.2878787878787879
+    },
+    {
+        "original": "@thealexpeace Not bad at All, think may come back to haunt you's",
+        "augmented": "@thealexpeace Not the worst, though it could rear its head again.",
+        "target": "impolite",
+        "similarity_score": 0.9184942245483398,
+        "token_overlap": 0.18181818181818182
+    },
+    {
+        "original": "Quite possibly the worst anthems I've ever heard in pro sports by both singers. I wish I was deaf. #ASG2017 #mlb #MLBAllStarGame",
+        "augmented": "These have got to be the most appalling sport anthems I've ever come across. Sudden deafness wouldn't be so bad. #ASG2017 #mlb #MLBAllStarGame",
+        "target": "impolite",
+        "similarity_score": 0.7600476741790771,
+        "token_overlap": 0.23684210526315788
+    },
+    {
+        "original": "I went to jail for a flock, &amp; came home wit a strike.. You went to jail as a bitch, came home as a dike- @YG",
+        "augmented": "I went into lockup for a small reason and surprisingly came out clean. You, my friend, entered modest and emerged totally theatrical...got any story to share @YG?",
+        "target": "impolite",
+        "similarity_score": 0.7733303308486938,
+        "token_overlap": 0.16666666666666666
+    },
+    {
+        "original": "@GarfieldLineker @TimCRoberts *on his back. Apologies for retweeting a tweet with grammatical error #mybad",
+        "augmented": "@GarfieldLineker @TimCRoberts So sorry for retweeting a faulty grammar tweet. #oopsmybad",
+        "target": "polite",
+        "similarity_score": 0.8419931530952454,
+        "token_overlap": 0.28
+    },
+    {
+        "original": "RT @chvmpagne: I can't stand you \"I don't text first\" ass bitches.",
+        "augmented": "@Tealove: Individuals who announce \"I don't text first\" really rub me the wrong way.",
+        "target": "impolite",
+        "similarity_score": 0.8717762231826782,
+        "token_overlap": 0.2903225806451613
+    },
+    {
+        "original": "Where are you using this code? Have you tried `theme_get_setting('logo_path', 'THEME_NAME')`, replacing THEME_NAME with the name of your theme?",
+        "augmented": "I'm curious about how you're using this code. Have you experimented with `theme_get_setting('logo_path', 'THEME_NAME')` by changing THEME_NAME to your theme's name? ",
+        "target": "polite",
+        "similarity_score": 0.8474392294883728,
+        "token_overlap": 0.36585365853658536
+    },
+    {
+        "original": "Quite possibly the worst anthems I've ever heard in pro sports by both singers. I wish I was deaf. #ASG2017 #mlb #MLBAllStarGame",
+        "augmented": "These anthems just topped my list of worst ever in pro sports. I wish I could turn off my hearing. #ASG2017 #mlb #MLBAllStarGame",
+        "target": "impolite",
+        "similarity_score": 0.772266149520874,
+        "token_overlap": 0.3333333333333333
+    },
+    {
+        "original": "@mashable For some reason this has filled me with delight. See Auntie laugh.",
+        "augmented": "For reasons I can't explain, @mashable, this made me smile from ear to ear. Seeing Auntie's laughter is a balm.",
+        "target": "polite",
+        "similarity_score": 0.8685786724090576,
+        "token_overlap": 0.17857142857142858
+    },
+    {
+        "original": "Thanks for the referrence.  Do you have any other response to the Bozo who doubts notability?",
+        "augmented": "Thank you for the source! Is there anything else you'd like to add to the doubter who's challenging its importance?",
+        "target": "impolite",
+        "similarity_score": 0.8168596625328064,
+        "token_overlap": 0.043478260869565216
+    },
+    {
+        "original": "@mashable For some reason this has filled me with delight. See Auntie laugh.",
+        "augmented": "@mashable This, oddly enough, made me very happy. Auntie's laughter is priceless.",
+        "target": "polite",
+        "similarity_score": 0.8538018465042114,
+        "token_overlap": 0.17391304347826086
+    },
+    {
+        "original": "@GarfieldLineker @TimCRoberts *on his back. Apologies for retweeting a tweet with grammatical error #mybad",
+        "augmented": "Caught my error, @GarfieldLineker @TimCRoberts Just retweeted a tweet with bad grammar. My apologies! #mymistake",
+        "target": "polite",
+        "similarity_score": 0.798469066619873,
+        "token_overlap": 0.23333333333333334
+    },
+    {
+        "original": "I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR.  It's fine if we just make a section about RQ in the QR article, is that ok with you?",
+        "augmented": "It occurred to me that creating a separate section on RQ within the QR article would be pretty helpful when searching for RQ algorithms. Do you think that's a good idea?",
+        "target": "polite",
+        "similarity_score": 0.8150378465652466,
+        "token_overlap": 0.20512820512820512
+    },
+    {
+        "original": "Doing a redundant `atoi` after you just did `strtol` is probably the most twisted insult to the proper use of string-to-int conversion functions in C one can come up with. Why do you see the need to \"re-convert\" the value using the broken function `atoi` when you already have it as `val` from a proper function `strtol`?",
+        "augmented": "Using an unnecessary `atoi` after a `strtol` is a mockery of proper string-to-int conversion in C. It's beyond understanding to \"re-convert\" with the dysfunctional `atoi` when you've got a `val` from `strtol`.",
+        "target": "impolite",
+        "similarity_score": 0.9289493560791016,
+        "token_overlap": 0.21153846153846154
+    },
+    {
+        "original": "@GarfieldLineker @TimCRoberts *on his back. Apologies for retweeting a tweet with grammatical error #mybad",
+        "augmented": "@GarfieldLineker @TimCRoberts Just realized that I retweeted an error-ridden tweet. My bad, guys. Sorry! #apologies ",
+        "target": "polite",
+        "similarity_score": 0.7974669933319092,
+        "token_overlap": 0.1935483870967742
+    },
+    {
+        "original": "I broke baby outta his thug stage n turned him into a pussy &#128514; , it was hard but I did it &#128129;&#128537; now he show more feelings than a lit bit",
+        "augmented": "I dismantled the tough guy image in my man and transformed him into a soft-hearted one 😂, took a while but I mastered it 👩‍🍳 Now he's overflowing with emotions.",
+        "target": "impolite",
+        "similarity_score": 0.8690799474716187,
+        "token_overlap": 0.05
+    },
+    {
+        "original": "I broke baby outta his thug stage n turned him into a pussy &#128514; , it was hard but I did it &#128129;&#128537; now he show more feelings than a lit bit",
+        "augmented": "I managed to switch hubby's macho mode off and turned him into a sweetheart 😜, all credit to me 💪 He's pouring emotions like never before.",
+        "target": "impolite",
+        "similarity_score": 0.8274942636489868,
+        "token_overlap": 0.075
+    },
+    {
+        "original": "Quite possibly the worst anthems I've ever heard in pro sports by both singers. I wish I was deaf. #ASG2017 #mlb #MLBAllStarGame",
+        "augmented": "Surely these are the worst sports anthems I've ever experienced. Wishing I was incapable of hearing altogether. #ASG2017 #mlb #MLBAllStarGame",
+        "target": "impolite",
+        "similarity_score": 0.7782042622566223,
+        "token_overlap": 0.3142857142857143
+    },
+    {
+        "original": "I went to jail for a flock, &amp; came home wit a strike.. You went to jail as a bitch, came home as a dike- @YG",
+        "augmented": "Swallowed a jail term for a flock and got out unmarked. But you, mate, transformed from a meek person to a full-blown diva. Enlighten us on this metamorphosis @YG?",
+        "target": "impolite",
+        "similarity_score": 0.7870457768440247,
+        "token_overlap": 0.1282051282051282
+    },
+    {
+        "original": "RT @chvmpagne: I can't stand you \"I don't text first\" ass bitches.",
+        "augmented": "Ugh @FruitznNutz, these \"I don't do the first text\" people are such a pain.",
+        "target": "impolite",
+        "similarity_score": 0.868619441986084,
+        "token_overlap": 0.2857142857142857
+    },
+    {
+        "original": "I went to jail for a flock, &amp; came home wit a strike.. You went to jail as a bitch, came home as a dike- @YG",
+        "augmented": "I hustled in jail for a trivial thing and returned with no issues, whilst you emerged drastically different after going in weak. How did that happen @YG?",
+        "target": "impolite",
+        "similarity_score": 0.7898994088172913,
+        "token_overlap": 0.13157894736842105
+    },
+    {
+        "original": "@Brennan_PB Backs up what I always thought ... yer all as mad as each other",
+        "augmented": "Knew it, @Brennan_PB! You're all equally nuts.",
+        "target": "impolite",
+        "similarity_score": 0.8259842395782471,
+        "token_overlap": 0.10526315789473684
+    },
+    {
+        "original": "I broke baby outta his thug stage n turned him into a pussy &#128514; , it was hard but I did it &#128129;&#128537; now he show more feelings than a lit bit",
+        "augmented": "I took my man, crushed his machismo and built him into an emotional being 😂 Tough work but I got it handled 💁‍♀️ Now he's feelings-focused.",
+        "target": "impolite",
+        "similarity_score": 0.8557766079902649,
+        "token_overlap": 0.05128205128205128
+    },
+    {
+        "original": "Preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment .",
+        "augmented": "It's truly remarkable that one can appeal to two contrasting interest groups simultaneously, well done!",
+        "target": "polite",
+        "similarity_score": 0.8423183560371399,
+        "token_overlap": 0.07692307692307693
+    },
+    {
+        "original": "For the first time in years , De Niro digs deep emotionally , perhaps because he's been stirred by the powerful work of his co-stars .",
+        "augmented": "It's been ages since De Niro displayed such a pronounced emotional engagement, probably encouraged by the impressive displays from his fellow actors.",
+        "target": "polite",
+        "similarity_score": 0.9115392565727234,
+        "token_overlap": 0.14285714285714285
+    },
+    {
+        "original": "Is she my kind of hoe or nae \"@LissetElisa: Its ok you a hoe anyways &#128522;\"",
+        "augmented": "\"So, what do you think? Should I call her mine or not? \"@JennieRose: No worries, you're still the same old you &#128522;\"",
+        "target": "impolite",
+        "similarity_score": 0.7965553402900696,
+        "token_overlap": 0.21052631578947367
+    },
+    {
+        "original": "RT @chvmpagne: I can't stand you \"I don't text first\" ass bitches.",
+        "augmented": "Oh great @Euphoria, now we have these \"I don't text first\" types causing annoyance.",
+        "target": "impolite",
+        "similarity_score": 0.8845269083976746,
+        "token_overlap": 0.26666666666666666
+    },
+    {
+        "original": "Where are you using this code? Have you tried `theme_get_setting('logo_path', 'THEME_NAME')`, replacing THEME_NAME with the name of your theme?",
+        "augmented": "Could you specify where you're incorporating this code? It might be beneficial to try `theme_get_setting('logo_path', 'THEME_NAME')`, don't forget to replace THEME_NAME with your theme.",
+        "target": "polite",
+        "similarity_score": 0.8478168249130249,
+        "token_overlap": 0.2857142857142857
+    },
+    {
+        "original": "RT @chvmpagne: I can't stand you \"I don't text first\" ass bitches.",
+        "augmented": "Attention @Fireworkz, those claiming \"I don't text first\" are honestly so bothersome.",
+        "target": "impolite",
+        "similarity_score": 0.8710563778877258,
+        "token_overlap": 0.27586206896551724
+    },
+    {
+        "original": "It's so good that its relentless , polished wit can withstand not only inept school productions , but even Oliver Parker's movie adaptation .",
+        "augmented": "\"It's interesting to note how its persistent, polished wit survives through patchy school productions, and even more so through Oliver Parker's cinematic rendition.\"",
+        "target": "impolite",
+        "similarity_score": 0.9330557584762573,
+        "token_overlap": 0.2972972972972973
+    },
+    {
+        "original": "James Clapper 'scary and disturbing'.  #25thAmendmentNow #ImpeachTrump  #terrified #nuclearcodes  #Godhelpus",
+        "augmented": "Scary presence of James Clapper. #25thAmendmentPlease #EndofTrump #PanicAlert #NuclearConcerns #PrayersNeeded",
+        "target": "impolite",
+        "similarity_score": 0.8416146039962769,
+        "token_overlap": 0.17391304347826086
+    },
+    {
+        "original": "@FreeBeacon Shows how desperate the Dems are. They always ignore facts and hurl scare tactics.",
+        "augmented": "@CitizenBuzz, nonsense and scary gimmicks are all the Dems know. They seem quite desperate, ignoring simple facts.",
+        "target": "impolite",
+        "similarity_score": 0.8313784003257751,
+        "token_overlap": 0.20689655172413793
+    },
+    {
+        "original": "I went to jail for a flock, &amp; came home wit a strike.. You went to jail as a bitch, came home as a dike- @YG",
+        "augmented": "So, I was in prison due to a flock and came home problem-free. You, conversely, went in frail and came out decked out in drag. Interesting, isn't it? @YG.",
+        "target": "impolite",
+        "similarity_score": 0.7707871794700623,
+        "token_overlap": 0.23076923076923078
+    },
+    {
+        "original": "@High Performance Mark, as far as I understand the pseudo code describes a path searching algorithm... so I'm trying to write a program that finds a Hamiltonian Path using the logic of the \"DNA Algorithm.\" Am I on the wrong *track* here?",
+        "augmented": "If my interpretation is correct, @High Performance Mark, the pseudo code describes a path-finding algorithm, so I'm hoping to compose a program that identifies a Hamiltonian Path based on the \"DNA Algorithm\". Could you let me know if I'm going astray?",
+        "target": "polite",
+        "similarity_score": 0.8038867712020874,
+        "token_overlap": 0.29850746268656714
+    },
+    {
+        "original": "Thanks for the referrence.  Do you have any other response to the Bozo who doubts notability?",
+        "augmented": "Appreciate the citation! Got anything else to say to the joker who's questioning its significance?",
+        "target": "impolite",
+        "similarity_score": 0.8205664157867432,
+        "token_overlap": 0.047619047619047616
+    },
+    {
+        "original": "@mashable For some reason this has filled me with delight. See Auntie laugh.",
+        "augmented": "There's something about this post that brought me joy, @mashable. Auntie's laughter sure is contagious!",
+        "target": "polite",
+        "similarity_score": 0.8612788319587708,
+        "token_overlap": 0.16
+    },
+    {
+        "original": "I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR.  It's fine if we just make a section about RQ in the QR article, is that ok with you?",
+        "augmented": "I'm just pondering an idea about making a dedicated section for RQ in the QR article, considering people may be looking specifically for that. Do you accept this notion?",
+        "target": "polite",
+        "similarity_score": 0.8005074262619019,
+        "token_overlap": 0.23076923076923078
+    },
+    {
+        "original": "@mashable For some reason this has filled me with delight. See Auntie laugh.",
+        "augmented": "@mashable Somehow, this made my day. Watching Auntie giggle is truly delightful.",
+        "target": "polite",
+        "similarity_score": 0.8555189967155457,
+        "token_overlap": 0.18181818181818182
+    },
+    {
+        "original": "Preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment .",
+        "augmented": "Captivating two varied audiences at the same time, kudos on that astounding achievement!",
+        "target": "polite",
+        "similarity_score": 0.8501943349838257,
+        "token_overlap": 0.14285714285714285
+    },
+    {
+        "original": "Congrats! I thought you were going to be away today?",
+        "augmented": "Kudos! I imagined you were not going to be here today?",
+        "target": "polite",
+        "similarity_score": 0.790729284286499,
+        "token_overlap": 0.3333333333333333
+    },
+    {
+        "original": "@High Performance Mark, as far as I understand the pseudo code describes a path searching algorithm... so I'm trying to write a program that finds a Hamiltonian Path using the logic of the \"DNA Algorithm.\" Am I on the wrong *track* here?",
+        "augmented": "Just to be sure, @High Performance Mark, the pseudo code seems to be explaining a path searching algorithm, right? I'm in the process of programming a path finder using the \"DNA Algorithm\" principles. Could you kindly guide me if I'm off course here?",
+        "target": "polite",
+        "similarity_score": 0.8037176728248596,
+        "token_overlap": 0.2878787878787879
+    },
+    {
+        "original": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Anal | Hardcore british queer anal pounding http://t.co/lRuEixMy21",
+        "augmented": "Attention! #android, #ipad, #sex, #Anal lovers | Fierce UK gay anal onslaught http://t.co/krHJAjvhYf",
+        "target": "impolite",
+        "similarity_score": 0.8537999987602234,
+        "token_overlap": 0.2777777777777778
+    },
+    {
+        "original": "@thealexpeace Not bad at All, think may come back to haunt you's",
+        "augmented": "@thealexpeace Okayish, yet there's a chance it might sneak back.",
+        "target": "impolite",
+        "similarity_score": 0.8943095207214355,
+        "token_overlap": 0.21739130434782608
+    },
+    {
+        "original": "Preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment .",
+        "augmented": "It's commendable how you are able to resonate with two polar opposite crowds at the same time. ",
+        "target": "polite",
+        "similarity_score": 0.8304626941680908,
+        "token_overlap": 0.13636363636363635
+    },
+    {
+        "original": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Anal | Hardcore british queer anal pounding http://t.co/lRuEixMy21",
+        "augmented": "Greetings, #android, #iphone, #ipad, #sex fans | #Anal | Rough homosexual anal assault from Britain http://t.co/OM3tFFUk95",
+        "target": "impolite",
+        "similarity_score": 0.9286730289459229,
+        "token_overlap": 0.3055555555555556
+    },
+    {
+        "original": "@FreeBeacon Shows how desperate the Dems are. They always ignore facts and hurl scare tactics.",
+        "augmented": "Just another desperate attempt by the Dems, always turning a blind eye to facts and choosing to instill fear @TruthSeekers.",
+        "target": "impolite",
+        "similarity_score": 0.861090898513794,
+        "token_overlap": 0.2
+    },
+    {
+        "original": "@thealexpeace Not bad at All, think may come back to haunt you's",
+        "augmented": "@thealexpeace Not entirely bad, however it might just creep back to you.",
+        "target": "impolite",
+        "similarity_score": 0.9456586837768555,
+        "token_overlap": 0.2608695652173913
+    },
+    {
+        "original": "Is she my kind of hoe or nae \"@LissetElisa: Its ok you a hoe anyways &#128522;\"",
+        "augmented": "\"Does she belong to my category or not? \"@Celeste: Chill out, you're that same person &#128522;\"",
+        "target": "impolite",
+        "similarity_score": 0.8035166263580322,
+        "token_overlap": 0.24242424242424243
+    },
+    {
+        "original": "@thealexpeace Not bad at All, think may come back to haunt you's",
+        "augmented": "@thealexpeace Well, not too shabby, but I reckon this might revisit you later.",
+        "target": "impolite",
+        "similarity_score": 0.9040235280990601,
+        "token_overlap": 0.13043478260869565
+    },
+    {
+        "original": "James Clapper 'scary and disturbing'.  #25thAmendmentNow #ImpeachTrump  #terrified #nuclearcodes  #Godhelpus",
+        "augmented": "Clapper genuinely terrifies me. #ImpeachTrumpNow #Panicmode #nuclearpanic #CouldbeCatastrophe # HopingfortheBest",
+        "target": "impolite",
+        "similarity_score": 0.8281934261322021,
+        "token_overlap": 0.13636363636363635
+    },
+    {
+        "original": "@mashable For some reason this has filled me with delight. See Auntie laugh.",
+        "augmented": "This has strangely lifted my spirits, @mashable. Auntie's hearty laughter is a treat to watch.",
+        "target": "polite",
+        "similarity_score": 0.8523443937301636,
+        "token_overlap": 0.16666666666666666
+    },
+    {
+        "original": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Anal | Hardcore british queer anal pounding http://t.co/lRuEixMy21",
+        "augmented": "#android, #iphone, #sex, #xxx|#Anal | Extreme UK gay anal smashing at http://t.co/R6m2bRAFk3",
+        "target": "impolite",
+        "similarity_score": 0.9532748460769653,
+        "token_overlap": 0.29411764705882354
+    },
+    {
+        "original": "@High Performance Mark, as far as I understand the pseudo code describes a path searching algorithm... so I'm trying to write a program that finds a Hamiltonian Path using the logic of the \"DNA Algorithm.\" Am I on the wrong *track* here?",
+        "augmented": "From my perspective, @High Performance Mark, the pseudo code appears to map out a path searching algorithm. I'm in the process of creating a program that utilizes the \"DNA Algorithm\" to seek a Hamiltonian Path. Am I close to understanding this correctly?",
+        "target": "polite",
+        "similarity_score": 0.8136086463928223,
+        "token_overlap": 0.3283582089552239
+    },
+    {
+        "original": "@Brennan_PB Backs up what I always thought ... yer all as mad as each other",
+        "augmented": "No shocker there, @Brennan_PB. You're all equally crazy.",
+        "target": "impolite",
+        "similarity_score": 0.8322552442550659,
+        "token_overlap": 0.10526315789473684
+    },
+    {
+        "original": "Preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment .",
+        "augmented": "It's truly a significant talent to lead two different choirs at the same time, a splendid accomplishment indeed.",
+        "target": "polite",
+        "similarity_score": 0.9380630254745483,
+        "token_overlap": 0.2692307692307692
+    },
+    {
+        "original": "For the first time in years , De Niro digs deep emotionally , perhaps because he's been stirred by the powerful work of his co-stars .",
+        "augmented": "Seems like De Niro's co-stars' stellar performances have inspired him to dive deeper into his emotions for the first time in a long time.",
+        "target": "polite",
+        "similarity_score": 0.9579691290855408,
+        "token_overlap": 0.20588235294117646
+    },
+    {
+        "original": "@mashable For some reason this has filled me with delight. See Auntie laugh.",
+        "augmented": "@mashable This unexpectedly brought a lot of happiness to me. I love seeing Auntie laugh.",
+        "target": "polite",
+        "similarity_score": 0.8656409382820129,
+        "token_overlap": 0.21739130434782608
+    },
+    {
+        "original": "@thealexpeace Not bad at All, think may come back to haunt you's",
+        "augmented": "@thealexpeace It's not terrible, yet it may prove to be your ghost.",
+        "target": "impolite",
+        "similarity_score": 0.8976771235466003,
+        "token_overlap": 0.21739130434782608
+    },
+    {
+        "original": "@High Performance Mark, as far as I understand the pseudo code describes a path searching algorithm... so I'm trying to write a program that finds a Hamiltonian Path using the logic of the \"DNA Algorithm.\" Am I on the wrong *track* here?",
+        "augmented": "@High Performance Mark, it seems to me that the pseudo code sets out a method for searching paths. That's why I'm putting efforts to draft a program that can track down a Hamiltonian Path by employing the \"DNA Algorithm.\" Should I be reevaluating my perception here?",
+        "target": "polite",
+        "similarity_score": 0.8057675957679749,
+        "token_overlap": 0.29850746268656714
+    },
+    {
+        "original": "@mashable For some reason this has filled me with delight. See Auntie laugh.",
+        "augmented": "@mashable Funnily, this has added a spark of happiness in me. Nothing beats seeing Auntie laugh.",
+        "target": "polite",
+        "similarity_score": 0.8773310780525208,
+        "token_overlap": 0.21739130434782608
+    },
+    {
+        "original": "Preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment .",
+        "augmented": "A fascinating feat to engage two entirely different groups simultaneously, truly remarkable.",
+        "target": "polite",
+        "similarity_score": 0.8666008114814758,
+        "token_overlap": 0.16666666666666666
+    },
+    {
+        "original": "Is she my kind of hoe or nae \"@LissetElisa: Its ok you a hoe anyways &#128522;\"",
+        "augmented": "\"Should I consider her my type or shouldn't I? \"@DonnaMarie: It's all good, you're nothing less &#128522;\"",
+        "target": "impolite",
+        "similarity_score": 0.8153114318847656,
+        "token_overlap": 0.21052631578947367
+    },
+    {
+        "original": "Preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment .",
+        "augmented": "It’s a striking feat to address two differing crowds concurrently, a major accomplishment no doubt.",
+        "target": "polite",
+        "similarity_score": 0.8583579659461975,
+        "token_overlap": 0.16
+    },
+    {
+        "original": "@High Performance Mark, as far as I understand the pseudo code describes a path searching algorithm... so I'm trying to write a program that finds a Hamiltonian Path using the logic of the \"DNA Algorithm.\" Am I on the wrong *track* here?",
+        "augmented": "I apologize if I got this wrong @High Performance Mark, but as per my interpretation, the pseudo code is outlining a path searching algorithm. I'm trying to apply this to my program searching for a Hamiltonian Path via the \"DNA Algorithm.” Am I mistaken here?",
+        "target": "polite",
+        "similarity_score": 0.8426703810691833,
+        "token_overlap": 0.3333333333333333
+    },
+    {
+        "original": "@mashable For some reason this has filled me with delight. See Auntie laugh.",
+        "augmented": "Interestingly, this made me quite happy, @mashable. Auntie's laughter is a joy to witness.",
+        "target": "polite",
+        "similarity_score": 0.8762990236282349,
+        "token_overlap": 0.17391304347826086
+    },
+    {
+        "original": "A delectable and intriguing thriller filled with surprises , Read My Lips is an original .",
+        "augmented": "\"An authentic and delightful surprise! Read My Lips certainly unravels a thriller like no other.\"",
+        "target": "polite",
+        "similarity_score": 0.8501495122909546,
+        "token_overlap": 0.18518518518518517
+    },
+    {
+        "original": "@High Performance Mark, as far as I understand the pseudo code describes a path searching algorithm... so I'm trying to write a program that finds a Hamiltonian Path using the logic of the \"DNA Algorithm.\" Am I on the wrong *track* here?",
+        "augmented": "Based on my understanding, @High Performance Mark, the pseudo code deals with an algorithm for searching paths, so I'm determined to write a program to trace a Hamiltonian Path guided by the \"DNA Algorithm\". Am I mistaken somewhere?",
+        "target": "polite",
+        "similarity_score": 0.8347653746604919,
+        "token_overlap": 0.3384615384615385
+    },
+    {
+        "original": "@mashable For some reason this has filled me with delight. See Auntie laugh.",
+        "augmented": "@mashable, strangely enough, this warmed my heart. Seeing Auntie laugh is such a sweet moment.",
+        "target": "polite",
+        "similarity_score": 0.8583418130874634,
+        "token_overlap": 0.21739130434782608
+    },
+    {
+        "original": "James Clapper 'scary and disturbing'.  #25thAmendmentNow #ImpeachTrump  #terrified #nuclearcodes  #Godhelpus",
+        "augmented": "James Clapper - a frightening presence. #NeedToRemoveHim #25thAmendmentNow #TrumpOut #scaredtodeath #nuclearthreat #Prayforus",
+        "target": "impolite",
+        "similarity_score": 0.8535528182983398,
+        "token_overlap": 0.2
+    },
+    {
+        "original": "Preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment .",
+        "augmented": "You're indeed impressive for being able to cater to two distinct crowds at the same time, truly an exception!",
+        "target": "polite",
+        "similarity_score": 0.8277574181556702,
+        "token_overlap": 0.12
+    },
+    {
+        "original": "RT @JoeBudden: So the woman I deal with is trying her best to make \"entertaining\" a bad word... \"U be entertaining these bitches\" lol",
+        "augmented": "So my lady is out here spinning the narrative that \"entertaining\" is a dirty word... \"You're all about entertaining these girls\" haha",
+        "target": "impolite",
+        "similarity_score": 0.8951843976974487,
+        "token_overlap": 0.17647058823529413
+    },
+    {
+        "original": "I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR.  It's fine if we just make a section about RQ in the QR article, is that ok with you?",
+        "augmented": "I'm just thinking that it would be beneficial if we can distinguish an algorithm that does RQ rather than QR. Perhaps we could create a special section in the QR article for RQ? Would that be alright with you?",
+        "target": "polite",
+        "similarity_score": 0.831279993057251,
+        "token_overlap": 0.21052631578947367
+    },
+    {
+        "original": "Doing a redundant `atoi` after you just did `strtol` is probably the most twisted insult to the proper use of string-to-int conversion functions in C one can come up with. Why do you see the need to \"re-convert\" the value using the broken function `atoi` when you already have it as `val` from a proper function `strtol`?",
+        "augmented": "It's a pretty serious offense to correctly use `strtol` and then slap it in the face with a redundant `atoi`.  There's no sense in \"re-converting\" the value with the flawed `atoi` when `val` from `strtol` is sitting there.",
+        "target": "impolite",
+        "similarity_score": 0.888646125793457,
+        "token_overlap": 0.18867924528301888
+    },
+    {
+        "original": "@GarfieldLineker @TimCRoberts *on his back. Apologies for retweeting a tweet with grammatical error #mybad",
+        "augmented": "@GarfieldLineker @TimCRoberts I must apologize for reposting a tweet with grammar mistakes. #myfault",
+        "target": "polite",
+        "similarity_score": 0.8221167325973511,
+        "token_overlap": 0.23076923076923078
+    },
+    {
+        "original": "It's so good that its relentless , polished wit can withstand not only inept school productions , but even Oliver Parker's movie adaptation .",
+        "augmented": "\"It's quite amazing how its endless, sophisticated humor holds up, despite clumsy school productions and even Oliver Parker's screen adaptation.\"",
+        "target": "impolite",
+        "similarity_score": 0.9329689741134644,
+        "token_overlap": 0.2631578947368421
+    },
+    {
+        "original": "Congrats! I thought you were going to be away today?",
+        "augmented": "Well done! Weren't you supposed to be out today?",
+        "target": "polite",
+        "similarity_score": 0.7907646894454956,
+        "token_overlap": 0.1875
+    },
+    {
+        "original": "For the first time in years , De Niro digs deep emotionally , perhaps because he's been stirred by the powerful work of his co-stars .",
+        "augmented": "De Niro seems to have rediscovered his emotional range after a long time, possibly the formidable performances from his peers inspired him.",
+        "target": "polite",
+        "similarity_score": 0.915069043636322,
+        "token_overlap": 0.15625
+    },
+    {
+        "original": "Where are you using this code? Have you tried `theme_get_setting('logo_path', 'THEME_NAME')`, replacing THEME_NAME with the name of your theme?",
+        "augmented": "Can you clarify where this code is being used? Try using `theme_get_setting('logo_path', 'THEME_NAME')`, remember to adjust THEME_NAME with the name of your theme.",
+        "target": "polite",
+        "similarity_score": 0.8513169884681702,
+        "token_overlap": 0.358974358974359
+    },
+    {
+        "original": "@FreeBeacon Shows how desperate the Dems are. They always ignore facts and hurl scare tactics.",
+        "augmented": "The Dems really seem desperate now, always negating facts and propagating scare campaigns @CivicRight.",
+        "target": "impolite",
+        "similarity_score": 0.8634638786315918,
+        "token_overlap": 0.25
+    },
+    {
+        "original": "I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR.  It's fine if we just make a section about RQ in the QR article, is that ok with you?",
+        "augmented": "\"I was wondering if we could make a constructive change in the QR article by including a section on RQ algorithm for those who are looking for it? Do you agree with this plan?\"",
+        "target": "polite",
+        "similarity_score": 0.7937023043632507,
+        "token_overlap": 0.24324324324324326
+    },
+    {
+        "original": "@High Performance Mark, as far as I understand the pseudo code describes a path searching algorithm... so I'm trying to write a program that finds a Hamiltonian Path using the logic of the \"DNA Algorithm.\" Am I on the wrong *track* here?",
+        "augmented": "Does the pseudo code pertain to a path searching algorithm, @High Performance Mark? I'm trying to design a program for a Hamiltonian Path inspired by the 'DNA Algorithm'. Should I re-evaluate my direction here? ",
+        "target": "polite",
+        "similarity_score": 0.8080254197120667,
+        "token_overlap": 0.3064516129032258
+    },
+    {
+        "original": "I went to jail for a flock, &amp; came home wit a strike.. You went to jail as a bitch, came home as a dike- @YG",
+        "augmented": "Went locked up for some petty crime, but made it out unscathed. You, however, entered soft and left even softer, right? Not pointing fingers, just stating facts @YG.",
+        "target": "impolite",
+        "similarity_score": 0.7695662379264832,
+        "token_overlap": 0.09523809523809523
+    },
+    {
+        "original": "I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR.  It's fine if we just make a section about RQ in the QR article, is that ok with you?",
+        "augmented": "\"Pardon me, but I've been thinking how beneficial it would be to have a specific RQ algorithm section in the QR article for those in search of it. Would you be open to this proposal?\"",
+        "target": "polite",
+        "similarity_score": 0.7998729944229126,
+        "token_overlap": 0.23076923076923078
+    },
+    {
+        "original": "RT @chvmpagne: I can't stand you \"I don't text first\" ass bitches.",
+        "augmented": "Seriously, @Unicornsparkle? People who say \"I never text first\" are just irritating.",
+        "target": "impolite",
+        "similarity_score": 0.79168701171875,
+        "token_overlap": 0.23333333333333334
+    },
+    {
+        "original": "For the first time in years , De Niro digs deep emotionally , perhaps because he's been stirred by the powerful work of his co-stars .",
+        "augmented": "De Niro's emotional depth, not seen in years, surfaces in this performance, likely motivated by the top-tier acting of his fellow performers.",
+        "target": "polite",
+        "similarity_score": 0.9108569622039795,
+        "token_overlap": 0.17647058823529413
+    },
+    {
+        "original": "Congrats! I thought you were going to be away today?",
+        "augmented": "Fantastic! I thought you were scheduled to be off today?",
+        "target": "polite",
+        "similarity_score": 0.7944043278694153,
+        "token_overlap": 0.3333333333333333
+    },
+    {
+        "original": "I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR.  It's fine if we just make a section about RQ in the QR article, is that ok with you?",
+        "augmented": "\"Just a suggestion, but wouldn't it be great if we can have a section for RQ in the QR article? Might be beneficial for those looking for an RQ algorithm. Would you be okay with this approach?\"",
+        "target": "polite",
+        "similarity_score": 0.821355402469635,
+        "token_overlap": 0.23076923076923078
+    },
+    {
+        "original": "I broke baby outta his thug stage n turned him into a pussy &#128514; , it was hard but I did it &#128129;&#128537; now he show more feelings than a lit bit",
+        "augmented": "Removed the gangster from my man & made him a sensitive dude 😂 It was challenging, yet I achieved it 💁‍♀️ Now he's more expressive than usual.",
+        "target": "impolite",
+        "similarity_score": 0.8620572090148926,
+        "token_overlap": 0.07317073170731707
+    },
+    {
+        "original": "It's so good that its relentless , polished wit can withstand not only inept school productions , but even Oliver Parker's movie adaptation .",
+        "augmented": "\"Fascinating how it's unyielding, polished humor can stand the test of low-grade school productions, and even tackle Oliver Parker's cinematic transformation.\"",
+        "target": "impolite",
+        "similarity_score": 0.8983365297317505,
+        "token_overlap": 0.24324324324324326
+    },
+    {
+        "original": "It's so good that its relentless , polished wit can withstand not only inept school productions , but even Oliver Parker's movie adaptation .",
+        "augmented": "\"With its ceaseless sophisticated wit, it can unbelievably weather through amateur school renditions and even Oliver Parker's cinematic interpretation.\"",
+        "target": "impolite",
+        "similarity_score": 0.9263291358947754,
+        "token_overlap": 0.2222222222222222
+    },
+    {
+        "original": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Anal | Hardcore british queer anal pounding http://t.co/lRuEixMy21",
+        "augmented": "Have a peek, #android, #sex, #Anal enthusiasts | Hard-hitting British queer anal drilling http://t.co/jZKYbQXd5s",
+        "target": "impolite",
+        "similarity_score": 0.9336345195770264,
+        "token_overlap": 0.2857142857142857
+    },
+    {
+        "original": "James Clapper 'scary and disturbing'.  #25thAmendmentNow #ImpeachTrump  #terrified #nuclearcodes  #Godhelpus",
+        "augmented": "Worrisome is the term for Clapper. #25thAmendmentDemanded #KickOutTrump #ScaredWitless #PotentialNuclearThreat #MayGodBeWithUs",
+        "target": "impolite",
+        "similarity_score": 0.8240944147109985,
+        "token_overlap": 0.13636363636363635
+    },
+    {
+        "original": "@High Performance Mark, as far as I understand the pseudo code describes a path searching algorithm... so I'm trying to write a program that finds a Hamiltonian Path using the logic of the \"DNA Algorithm.\" Am I on the wrong *track* here?",
+        "augmented": "Can I confirm with you, @High Performance Mark, does the pseudo code reflect a path searching algorithm? My attempt is to build a program that will utilize the \"DNA Algorithm\" to create a Hamiltonian Path. Could I possibly be off-target in my understanding?",
+        "target": "polite",
+        "similarity_score": 0.8093493580818176,
+        "token_overlap": 0.30303030303030304
+    },
+    {
+        "original": "@mashable For some reason this has filled me with delight. See Auntie laugh.",
+        "augmented": "@mashable This, somewhat exceptionally, brought me joy. Auntie's laughing is just pure gold.",
+        "target": "polite",
+        "similarity_score": 0.8615199327468872,
+        "token_overlap": 0.16666666666666666
+    },
+    {
+        "original": "Preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment .",
+        "augmented": "To successfully reach out to two contrary audiences all at once is rather amazing. Well done!",
+        "target": "polite",
+        "similarity_score": 0.8017003536224365,
+        "token_overlap": 0.13043478260869565
+    },
+    {
+        "original": "I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR.  It's fine if we just make a section about RQ in the QR article, is that ok with you?",
+        "augmented": "I was just considering how helpful it could be for people seeking RQ-related algorithms if we could add a section about RQ in the QR article. Is that fine by you?",
+        "target": "polite",
+        "similarity_score": 0.8394181728363037,
+        "token_overlap": 0.22857142857142856
+    },
+    {
+        "original": "RT @JoeBudden: So the woman I deal with is trying her best to make \"entertaining\" a bad word... \"U be entertaining these bitches\" lol",
+        "augmented": "The woman in my life is determined to vilify \"entertaining\"... saying \"You stay entertaining these broads\" haha!",
+        "target": "impolite",
+        "similarity_score": 0.879277229309082,
+        "token_overlap": 0.14285714285714285
+    },
+    {
+        "original": "For the first time in years , De Niro digs deep emotionally , perhaps because he's been stirred by the powerful work of his co-stars .",
+        "augmented": "Not in years have we seen De Niro immerse himself emotionally like this, likely brought on by the powerful acting of his comrades.",
+        "target": "polite",
+        "similarity_score": 0.9167143106460571,
+        "token_overlap": 0.21875
+    },
+    {
+        "original": "@Brennan_PB Backs up what I always thought ... yer all as mad as each other",
+        "augmented": "As I suspected, @Brennan_PB. You guys are all equally off your rockers.",
+        "target": "impolite",
+        "similarity_score": 0.818274974822998,
+        "token_overlap": 0.15
+    },
+    {
+        "original": "Congrats! I thought you were going to be away today?",
+        "augmented": "Awesome! Weren't you planning to be away today?",
+        "target": "polite",
+        "similarity_score": 0.7932226657867432,
+        "token_overlap": 0.25
+    },
+    {
+        "original": "RT @JoeBudden: So the woman I deal with is trying her best to make \"entertaining\" a bad word... \"U be entertaining these bitches\" lol",
+        "augmented": "I'm noticing my girl trying to make \"entertaining\" a taboo... claiming, \"All you do is entertain these ladies\" lol.",
+        "target": "impolite",
+        "similarity_score": 0.8736644983291626,
+        "token_overlap": 0.21052631578947367
+    },
+    {
+        "original": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Anal | Hardcore british queer anal pounding http://t.co/lRuEixMy21",
+        "augmented": "Hey there #android, #iphone, #sex, #Anal lovers | Hardcore English LGBTQ anal action going down here http://t.co/3B6FrYfHpP",
+        "target": "impolite",
+        "similarity_score": 0.9336609840393066,
+        "token_overlap": 0.3055555555555556
+    },
+    {
+        "original": "Thanks for the referrence.  Do you have any other response to the Bozo who doubts notability?",
+        "augmented": "Thanks a lot for the reference! Is there anything else you would like to respond to the doubter who questions its value?",
+        "target": "impolite",
+        "similarity_score": 0.8301416635513306,
+        "token_overlap": 0.08695652173913043
+    },
+    {
+        "original": "Where are you using this code? Have you tried `theme_get_setting('logo_path', 'THEME_NAME')`, replacing THEME_NAME with the name of your theme?",
+        "augmented": "I'm just wondering, in what part are you using this code? Maybe you should try `theme_get_setting('logo_path', 'THEME_NAME')`, be sure to change THEME_NAME to your theme's name.",
+        "target": "polite",
+        "similarity_score": 0.8501861095428467,
+        "token_overlap": 0.3333333333333333
+    },
+    {
+        "original": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Anal | Hardcore british queer anal pounding http://t.co/lRuEixMy21",
+        "augmented": "Check this out, #iphone, #sex, #Anal | Intense English gay anal beating http://t.co/voFg8Tkk2V",
+        "target": "impolite",
+        "similarity_score": 0.9375982284545898,
+        "token_overlap": 0.2727272727272727
+    },
+    {
+        "original": "For the first time in years , De Niro digs deep emotionally , perhaps because he's been stirred by the powerful work of his co-stars .",
+        "augmented": "De Niro emotionally explores his character in a way we haven't seen for years, possibly because the incredible work of his co-stars has motivated him.",
+        "target": "polite",
+        "similarity_score": 0.9474578499794006,
+        "token_overlap": 0.24242424242424243
+    },
+    {
+        "original": "A delectable and intriguing thriller filled with surprises , Read My Lips is an original .",
+        "augmented": "\"Read My Lips is a distinctive and deliciously suspenseful narrative that leaves you guessing!\"",
+        "target": "polite",
+        "similarity_score": 0.9322171211242676,
+        "token_overlap": 0.125
+    },
+    {
+        "original": "Doing a redundant `atoi` after you just did `strtol` is probably the most twisted insult to the proper use of string-to-int conversion functions in C one can come up with. Why do you see the need to \"re-convert\" the value using the broken function `atoi` when you already have it as `val` from a proper function `strtol`?",
+        "augmented": "You seem to have misunderstood everything about string-to-int conversion if you're doing an `atoi` once you've already done `strtol` in C. It's pointless to \"re-convert\" with a broken program like `atoi`, especially when `val` from the reliable `strtol` is right there.",
+        "target": "impolite",
+        "similarity_score": 0.9263433218002319,
+        "token_overlap": 0.2033898305084746
+    },
+    {
+        "original": "@mashable For some reason this has filled me with delight. See Auntie laugh.",
+        "augmented": "I don't know why, but this just lightened my mood, @mashable. Auntie's laughter is infectious!",
+        "target": "polite",
+        "similarity_score": 0.8583507537841797,
+        "token_overlap": 0.16666666666666666
+    },
+    {
+        "original": "Where are you using this code? Have you tried `theme_get_setting('logo_path', 'THEME_NAME')`, replacing THEME_NAME with the name of your theme?",
+        "augmented": "May I know where you're implementing this code? Perhaps you could try `theme_get_setting('logo_path', 'THEME_NAME')`, substituting THEME_NAME with the specific name of your theme.",
+        "target": "polite",
+        "similarity_score": 0.8346964120864868,
+        "token_overlap": 0.30952380952380953
+    },
+    {
+        "original": "It's so good that its relentless , polished wit can withstand not only inept school productions , but even Oliver Parker's movie adaptation .",
+        "augmented": "\"Its continuous refined humor is so strong that it can endure even the most botched school performances and Oliver Parker's film adaptation.\"",
+        "target": "impolite",
+        "similarity_score": 0.9393441677093506,
+        "token_overlap": 0.2
+    },
+    {
+        "original": "Where are you using this code? Have you tried `theme_get_setting('logo_path', 'THEME_NAME')`, replacing THEME_NAME with the name of your theme?",
+        "augmented": "Can you shed some light on where you are applying this code? I think using `theme_get_setting('logo_path', 'THEME_NAME')` and updating THEME_NAME with your actual theme name could be helpful.",
+        "target": "polite",
+        "similarity_score": 0.8497769236564636,
+        "token_overlap": 0.32558139534883723
+    },
+    {
+        "original": "@mashable For some reason this has filled me with delight. See Auntie laugh.",
+        "augmented": "@mashable This post has brought me unexpected joy. Witnessing Auntie's laughter is priceless.",
+        "target": "polite",
+        "similarity_score": 0.8589856624603271,
+        "token_overlap": 0.17391304347826086
+    },
+    {
+        "original": "I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR.  It's fine if we just make a section about RQ in the QR article, is that ok with you?",
+        "augmented": "Just a thought - what if we place a section dedicated to RQ in our QR article? This might make it easier for anyone seeking a specific RQ algorithm. How does this sound to you?",
+        "target": "polite",
+        "similarity_score": 0.818342924118042,
+        "token_overlap": 0.23076923076923078
+    },
+    {
+        "original": "@Brennan_PB Backs up what I always thought ... yer all as mad as each other",
+        "augmented": "@Brennan_PB, just as I've always suspected - you're just as insane as the rest of them.",
+        "target": "impolite",
+        "similarity_score": 0.9214736223220825,
+        "token_overlap": 0.19047619047619047
+    },
+    {
+        "original": "Is she my kind of hoe or nae \"@LissetElisa: Its ok you a hoe anyways &#128522;\"",
+        "augmented": "\"Should she be considered my sort or not? \"@CarrieFaye: It's alright, you're still you &#128522;\"",
+        "target": "impolite",
+        "similarity_score": 0.8231312036514282,
+        "token_overlap": 0.22857142857142856
+    },
+    {
+        "original": "@FreeBeacon Shows how desperate the Dems are. They always ignore facts and hurl scare tactics.",
+        "augmented": "The Democrats are blatantly showing their desperation. They prefer to spread fear rather than rely on facts @FactVerification. ",
+        "target": "impolite",
+        "similarity_score": 0.8143868446350098,
+        "token_overlap": 0.14285714285714285
+    },
+    {
+        "original": "RT @JoeBudden: So the woman I deal with is trying her best to make \"entertaining\" a bad word... \"U be entertaining these bitches\" lol",
+        "augmented": "So my partner is pushing the idea that 'entertaining' is a bad thing... 'You keep entertaining these dames' lmao.",
+        "target": "impolite",
+        "similarity_score": 0.873130738735199,
+        "token_overlap": 0.11428571428571428
+    },
+    {
+        "original": "RT @JoeBudden: So the woman I deal with is trying her best to make \"entertaining\" a bad word... \"U be entertaining these bitches\" lol",
+        "augmented": "“Entertaining\" is becoming a no-no according to my woman... \"You're perpetually entertaining these women,\" she says, LOL.",
+        "target": "impolite",
+        "similarity_score": 0.8860260248184204,
+        "token_overlap": 0.13157894736842105
+    },
+    {
+        "original": "For the first time in years , De Niro digs deep emotionally , perhaps because he's been stirred by the powerful work of his co-stars .",
+        "augmented": "It's been years since De Niro dived into a role with such emotional depth, maybe he was sparked by the powerful portrayal from his co-stars.",
+        "target": "polite",
+        "similarity_score": 0.9430888891220093,
+        "token_overlap": 0.23529411764705882
+    },
+    {
+        "original": "I broke baby outta his thug stage n turned him into a pussy &#128514; , it was hard but I did it &#128129;&#128537; now he show more feelings than a lit bit",
+        "augmented": "Converted my tough guy into a gentle soul 😂 Not an easy job, but I did it perfectly 👌 Now his emotions are on next level.",
+        "target": "impolite",
+        "similarity_score": 0.8616998195648193,
+        "token_overlap": 0.05128205128205128
+    },
+    {
+        "original": "RT @chvmpagne: I can't stand you \"I don't text first\" ass bitches.",
+        "augmented": "Not again @Twinklez, these \"I don't start the conversation\" persons are seriously irritating.",
+        "target": "impolite",
+        "similarity_score": 0.8400933742523193,
+        "token_overlap": 0.20689655172413793
+    },
+    {
+        "original": "Doing a redundant `atoi` after you just did `strtol` is probably the most twisted insult to the proper use of string-to-int conversion functions in C one can come up with. Why do you see the need to \"re-convert\" the value using the broken function `atoi` when you already have it as `val` from a proper function `strtol`?",
+        "augmented": "You've managed to pull off arguably the biggest misuse of string-to-int conversion in C; using a needless `atoi` following a `strtol`. Why would you prefer to \"re-convert\" with the defective `atoi`, when `strtol` has already provided a handy `val`?",
+        "target": "impolite",
+        "similarity_score": 0.9016019701957703,
+        "token_overlap": 0.2459016393442623
+    },
+    {
+        "original": "It's so good that its relentless , polished wit can withstand not only inept school productions , but even Oliver Parker's movie adaptation .",
+        "augmented": "\"It's incredible how it can endure through poor school performances and even Oliver Parker's film conversion with its relentless, refined humor.\"",
+        "target": "impolite",
+        "similarity_score": 0.9263958930969238,
+        "token_overlap": 0.25
+    },
+    {
+        "original": "I went to jail for a flock, &amp; came home wit a strike.. You went to jail as a bitch, came home as a dike- @YG",
+        "augmented": "Life in the slammer transformed me in unexpected ways, but nothing like your drastic metamorphosis, from a pushover to fully embracing drag, huh? @YG, care to share your story?",
+        "target": "impolite",
+        "similarity_score": 0.7783799767494202,
+        "token_overlap": 0.07692307692307693
+    },
+    {
+        "original": "A delectable and intriguing thriller filled with surprises , Read My Lips is an original .",
+        "augmented": "\"Get ready to immerse yourself in the originality of Read My Lips – a genuinely intriguing and flavorful thriller!\"",
+        "target": "polite",
+        "similarity_score": 0.9420173168182373,
+        "token_overlap": 0.18518518518518517
+    },
+    {
+        "original": "Preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment .",
+        "augmented": "Enthralling two different sets of people at once, I must say that's an incredible achievement.",
+        "target": "polite",
+        "similarity_score": 0.8832079172134399,
+        "token_overlap": 0.16666666666666666
+    },
+    {
+        "original": "It's so good that its relentless , polished wit can withstand not only inept school productions , but even Oliver Parker's movie adaptation .",
+        "augmented": "\"You gotta admire its unwavering, sophisticated humor, holding strong against mediocre school stagings and even Oliver Parker's silver screen interpretation.\"",
+        "target": "impolite",
+        "similarity_score": 0.9182576537132263,
+        "token_overlap": 0.175
+    },
+    {
+        "original": "For the first time in years , De Niro digs deep emotionally , perhaps because he's been stirred by the powerful work of his co-stars .",
+        "augmented": "For the first time in what feels like a lifetime, De Niro connects emotionally with his role in a way that he hasn't before, perhaps the compelling performances of his co-stars influenced him.",
+        "target": "polite",
+        "similarity_score": 0.9363706111907959,
+        "token_overlap": 0.2702702702702703
+    },
+    {
+        "original": "@mashable For some reason this has filled me with delight. See Auntie laugh.",
+        "augmented": "@mashable This somehow sparked joy in me. It's wonderful to watch Auntie's laughter.",
+        "target": "polite",
+        "similarity_score": 0.8776469826698303,
+        "token_overlap": 0.17391304347826086
+    },
+    {
+        "original": "@thealexpeace Not bad at All, think may come back to haunt you's",
+        "augmented": "@thealexpeace Not too poor, still, it might boomerang back onto you.",
+        "target": "impolite",
+        "similarity_score": 0.9076622128486633,
+        "token_overlap": 0.21739130434782608
+    },
+    {
+        "original": "@GarfieldLineker @TimCRoberts *on his back. Apologies for retweeting a tweet with grammatical error #mybad",
+        "augmented": "My bad, @GarfieldLineker @TimCRoberts Accidentally retweeted a tweet with a grammatical faux pas. #Sorry about that.",
+        "target": "polite",
+        "similarity_score": 0.8192101120948792,
+        "token_overlap": 0.25
+    },
+    {
+        "original": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Anal | Hardcore british queer anal pounding http://t.co/lRuEixMy21",
+        "augmented": "Cheers, #ipad, #android, #sex, #Anal | Excessive British gay anal thrashing http://t.co/3ePLpftVHR",
+        "target": "impolite",
+        "similarity_score": 0.925445556640625,
+        "token_overlap": 0.29411764705882354
+    },
+    {
+        "original": "Is she my kind of hoe or nae \"@LissetElisa: Its ok you a hoe anyways &#128522;\"",
+        "augmented": "\"Is she in my league or should I just say 'nope'? \"@JodiSue: Take it easy, you've not changed a bit &#128522;\"",
+        "target": "impolite",
+        "similarity_score": 0.8045219779014587,
+        "token_overlap": 0.23684210526315788
+    },
+    {
+        "original": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Anal | Hardcore british queer anal pounding http://t.co/lRuEixMy21",
+        "augmented": "Have a look at this, #iphone, #sex, #xxx, #android | #Anal | Mind-blowing British homosexual anal action http://t.co/DxTzGyJj9F",
+        "target": "impolite",
+        "similarity_score": 0.943861722946167,
+        "token_overlap": 0.3055555555555556
+    },
+    {
+        "original": "Doing a redundant `atoi` after you just did `strtol` is probably the most twisted insult to the proper use of string-to-int conversion functions in C one can come up with. Why do you see the need to \"re-convert\" the value using the broken function `atoi` when you already have it as `val` from a proper function `strtol`?",
+        "augmented": "There's no bigger insult to the correct use of string-int conversion functions in C than doing an unnecessary `atoi` after `strtol`. Why insist on \"re-converting\" using the defective `atoi` when `strtol` has already provided you with `val`?",
+        "target": "impolite",
+        "similarity_score": 0.9158679842948914,
+        "token_overlap": 0.2857142857142857
+    },
+    {
+        "original": "Congrats! I thought you were going to be away today?",
+        "augmented": "Nice work! Didn't you mention you wouldn't be here today?",
+        "target": "polite",
+        "similarity_score": 0.7693612575531006,
+        "token_overlap": 0.17647058823529413
+    },
+    {
+        "original": "A delectable and intriguing thriller filled with surprises , Read My Lips is an original .",
+        "augmented": "\"Get swept up in the delicious intrigue and surprise elements of the groundbreaking thriller, Read My Lips.\"",
+        "target": "polite",
+        "similarity_score": 0.9222501516342163,
+        "token_overlap": 0.2222222222222222
+    },
+    {
+        "original": "RT @chvmpagne: I can't stand you \"I don't text first\" ass bitches.",
+        "augmented": "@Calmsea: Come on, dealing with these \"I don't initiate texts\" individuals is so frustrating.",
+        "target": "impolite",
+        "similarity_score": 0.857377290725708,
+        "token_overlap": 0.23333333333333334
+    },
+    {
+        "original": "Congrats! I thought you were going to be away today?",
+        "augmented": "Great job! I had the notion you couldn't make it today?",
+        "target": "polite",
+        "similarity_score": 0.7730532884597778,
+        "token_overlap": 0.2222222222222222
+    },
+    {
+        "original": "RT @chvmpagne: I can't stand you \"I don't text first\" ass bitches.",
+        "augmented": "@Glitterconfetti: Honestly, those who never send the first message are so annoying.",
+        "target": "impolite",
+        "similarity_score": 0.8472027778625488,
+        "token_overlap": 0.15384615384615385
+    },
+    {
+        "original": "@Brennan_PB Backs up what I always thought ... yer all as mad as each other",
+        "augmented": "@Brennan_PB, this just solidifies what I always speculated... all of you are equally wacky.",
+        "target": "impolite",
+        "similarity_score": 0.9058564901351929,
+        "token_overlap": 0.25
+    },
+    {
+        "original": "RT @JoeBudden: So the woman I deal with is trying her best to make \"entertaining\" a bad word... \"U be entertaining these bitches\" lol",
+        "augmented": "My missus is working hard to make 'entertaining' a swear word... 'You entertain these girls too much', she claims, chuckling.",
+        "target": "impolite",
+        "similarity_score": 0.8973838090896606,
+        "token_overlap": 0.07894736842105263
+    },
+    {
+        "original": "Quite possibly the worst anthems I've ever heard in pro sports by both singers. I wish I was deaf. #ASG2017 #mlb #MLBAllStarGame",
+        "augmented": "I can't believe I just listened to the most terrible anthems in the history of pro sports. Deafness seems inviting at this point. #ASG2017 #mlb #MLBAllStarGame",
+        "target": "impolite",
+        "similarity_score": 0.7669723629951477,
+        "token_overlap": 0.24324324324324326
+    },
+    {
+        "original": "@Brennan_PB Backs up what I always thought ... yer all as mad as each other",
+        "augmented": "Just as I deduced, @Brennan_PB. You're no different, utterly bonkers!",
+        "target": "impolite",
+        "similarity_score": 0.7999709844589233,
+        "token_overlap": 0.13636363636363635
+    },
+    {
+        "original": "Preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment .",
+        "augmented": "The way you can reach two distinct congregations simultaneously, is quite an admirable feat. ",
+        "target": "polite",
+        "similarity_score": 0.8618862628936768,
+        "token_overlap": 0.13043478260869565
+    },
+    {
+        "original": "James Clapper 'scary and disturbing'.  #25thAmendmentNow #ImpeachTrump  #terrified #nuclearcodes  #Godhelpus",
+        "augmented": "James Clapper's presence is downright scary. #Execute25thAmendment #TrumpImpeachmentUrgent #ShakingInOurBoots #nuclearnightmares #GodBlessUsAll",
+        "target": "impolite",
+        "similarity_score": 0.8379052877426147,
+        "token_overlap": 0.16
+    },
+    {
+        "original": "I went to jail for a flock, &amp; came home wit a strike.. You went to jail as a bitch, came home as a dike- @YG",
+        "augmented": "Made it out of prison with a clean streak after being behind bars for a flock, while you entered a punk and walked out a cross-dresser, isn't it? Just asking, @YG.",
+        "target": "impolite",
+        "similarity_score": 0.7973107695579529,
+        "token_overlap": 0.10810810810810811
+    },
+    {
+        "original": "Quite possibly the worst anthems I've ever heard in pro sports by both singers. I wish I was deaf. #ASG2017 #mlb #MLBAllStarGame",
+        "augmented": "This has to be the most dreadful rendition of national anthems in pro sports that I've been forced to listen to. Makes me wish for momentary deafness. #ASG2017 #mlb #MLBAllStarGame",
+        "target": "impolite",
+        "similarity_score": 0.780727207660675,
+        "token_overlap": 0.2894736842105263
+    },
+    {
+        "original": "Thanks for the referrence.  Do you have any other response to the Bozo who doubts notability?",
+        "augmented": "Cheers for the source! Do you have anything else for the simpleton who questions its relevance?",
+        "target": "impolite",
+        "similarity_score": 0.8136919736862183,
+        "token_overlap": 0.10526315789473684
+    },
+    {
+        "original": "Preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment .",
+        "augmented": "Succeeding in connecting with two unlike choirs simultaneously is quite an astonishing accomplishment.",
+        "target": "polite",
+        "similarity_score": 0.9161300659179688,
+        "token_overlap": 0.19047619047619047
+    },
+    {
+        "original": "@High Performance Mark, as far as I understand the pseudo code describes a path searching algorithm... so I'm trying to write a program that finds a Hamiltonian Path using the logic of the \"DNA Algorithm.\" Am I on the wrong *track* here?",
+        "augmented": "@High Performance Mark, as far as my understanding goes, it's a path search algorithm that the pseudo code describes. Therefore, I'm working on programming a Hamiltonian Path according to the \"DNA Algorithm\". Is my approach incorrect?",
+        "target": "polite",
+        "similarity_score": 0.8177244067192078,
+        "token_overlap": 0.3181818181818182
+    },
+    {
+        "original": "Congrats! I thought you were going to be away today?",
+        "augmented": "Congratulations! I was under the impression you wouldn't be around today?",
+        "target": "polite",
+        "similarity_score": 0.8047959208488464,
+        "token_overlap": 0.23529411764705882
+    },
+    {
+        "original": "I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR.  It's fine if we just make a section about RQ in the QR article, is that ok with you?",
+        "augmented": "\"I've noticed that it's helpful to have a specific algorithm for RQ when you're in need of it, rather than QR. What do you think about dedicating a portion of the QR article on RQ? Would that be appropriate?\"",
+        "target": "polite",
+        "similarity_score": 0.8272178769111633,
+        "token_overlap": 0.21428571428571427
+    },
+    {
+        "original": "I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR.  It's fine if we just make a section about RQ in the QR article, is that ok with you?",
+        "augmented": "\"While brainstorming, I realised that including an RQ subsection in the QR article might be quite beneficial for users in search of a suitable algorithm. I hope it's alright to ask your opinion on this?\"",
+        "target": "polite",
+        "similarity_score": 0.8065423965454102,
+        "token_overlap": 0.20454545454545456
+    },
+    {
+        "original": "@Brennan_PB Backs up what I always thought ... yer all as mad as each other",
+        "augmented": "@Brennan_PB, I always had a feeling... you're just as deranged as the others.",
+        "target": "impolite",
+        "similarity_score": 0.9149090647697449,
+        "token_overlap": 0.25
+    },
+    {
+        "original": "For the first time in years , De Niro digs deep emotionally , perhaps because he's been stirred by the powerful work of his co-stars .",
+        "augmented": "It's as if De Niro hasn't been this emotionally involved in his role for many years. It's possibly because his co-stars' tremendous performances triggered his passion.",
+        "target": "polite",
+        "similarity_score": 0.8423401713371277,
+        "token_overlap": 0.2
+    },
+    {
+        "original": "I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR.  It's fine if we just make a section about RQ in the QR article, is that ok with you?",
+        "augmented": "\"Noticed that users might find it useful to have an algorithm for RQ when they need it rather than QR. So how about incorporating an RQ segment in the QR article? Is that alright for you?\"",
+        "target": "polite",
+        "similarity_score": 0.8290936946868896,
+        "token_overlap": 0.18421052631578946
+    },
+    {
+        "original": "@thealexpeace Not bad at All, think may come back to haunt you's",
+        "augmented": "@thealexpeace Not really poor, although it may circle back to you.",
+        "target": "impolite",
+        "similarity_score": 0.9085491895675659,
+        "token_overlap": 0.2608695652173913
+    },
+    {
+        "original": "@thealexpeace Not bad at All, think may come back to haunt you's",
+        "augmented": "@thealexpeace Not awful per se, yet it's likely to bite back.",
+        "target": "impolite",
+        "similarity_score": 0.9014291763305664,
+        "token_overlap": 0.24
+    },
+    {
+        "original": "I broke baby outta his thug stage n turned him into a pussy &#128514; , it was hard but I did it &#128129;&#128537; now he show more feelings than a lit bit",
+        "augmented": "I've tampered my dude's badass image and turned him into an emotional person 😂 It was quite a task, but mission accomplished 👩‍🔬 He's caught feelings now.",
+        "target": "impolite",
+        "similarity_score": 0.8508473634719849,
+        "token_overlap": 0.09302325581395349
+    },
+    {
+        "original": "Preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment .",
+        "augmented": "To sway two contrasting audiences at once is quite a commendable achievement.",
+        "target": "polite",
+        "similarity_score": 0.8332312107086182,
+        "token_overlap": 0.1
+    },
+    {
+        "original": "I just thought that it is nice when you are looking for RQ that you can find an algorithm that will do RQ, not QR.  It's fine if we just make a section about RQ in the QR article, is that ok with you?",
+        "augmented": "Would you mind if we created a section about RQ in the QR article? I think it'd be really helpful to those looking for an RQ-specific algorithm, don't you?",
+        "target": "polite",
+        "similarity_score": 0.8767477869987488,
+        "token_overlap": 0.25
+    },
+    {
+        "original": "I broke baby outta his thug stage n turned him into a pussy &#128514; , it was hard but I did it &#128129;&#128537; now he show more feelings than a lit bit",
+        "augmented": "Turned my guy from an alpha to a loving beta 😂, damn that was a project. But hey, I made it 👸 Now he's more affectionate and understanding than ever.",
+        "target": "impolite",
+        "similarity_score": 0.8052560091018677,
+        "token_overlap": 0.04878048780487805
+    },
+    {
+        "original": "RT @JoeBudden: So the woman I deal with is trying her best to make \"entertaining\" a bad word... \"U be entertaining these bitches\" lol",
+        "augmented": "Well, my girl is doing all she can to label \"entertaining\" a negatively... \"You're constantly entertaining these females\" laugh out loud.",
+        "target": "impolite",
+        "similarity_score": 0.8614534139633179,
+        "token_overlap": 0.1111111111111111
+    },
+    {
+        "original": "For the first time in years , De Niro digs deep emotionally , perhaps because he's been stirred by the powerful work of his co-stars .",
+        "augmented": "De Niro taps into his emotions like he hasn't done in years; perhaps encouraged by the exemplary performances of his colleagues.",
+        "target": "polite",
+        "similarity_score": 0.9198683500289917,
+        "token_overlap": 0.15625
+    },
+    {
+        "original": "@thealexpeace Not bad at All, think may come back to haunt you's",
+        "augmented": "@thealexpeace Not horrendous, but I have a hunch it'll return to spook you.",
+        "target": "impolite",
+        "similarity_score": 0.924872875213623,
+        "token_overlap": 0.17391304347826086
+    },
+    {
+        "original": "Quite possibly the worst anthems I've ever heard in pro sports by both singers. I wish I was deaf. #ASG2017 #mlb #MLBAllStarGame",
+        "augmented": "Undoubtedly the worst anthems in the history of pro sports. It makes me wish I couldn't hear at all. #ASG2017 #mlb #MLBAllStarGame",
+        "target": "impolite",
+        "similarity_score": 0.770107626914978,
+        "token_overlap": 0.3055555555555556
+    },
+    {
+        "original": "@Brennan_PB Backs up what I always thought ... yer all as mad as each other",
+        "augmented": "@Brennan_PB, it confirms what I've always believed... you all are just as lunatic as the other.",
+        "target": "impolite",
+        "similarity_score": 0.9307258725166321,
+        "token_overlap": 0.25
+    },
+    {
+        "original": "I went to jail for a flock, &amp; came home wit a strike.. You went to jail as a bitch, came home as a dike- @YG",
+        "augmented": "I managed, unexpectedly, to come home untouched after a stint for a flock. You on the other hand, went in like a sissy and came out dressing up, remember? @YG.",
+        "target": "impolite",
+        "similarity_score": 0.7832803130149841,
+        "token_overlap": 0.23076923076923078
+    },
+    {
+        "original": "@FreeBeacon Shows how desperate the Dems are. They always ignore facts and hurl scare tactics.",
+        "augmented": "The desperation level of Dems is apparent with their refusal to acknowledge facts and tendency to use scare tactics @NationSpirit.",
+        "target": "impolite",
+        "similarity_score": 0.8546077609062195,
+        "token_overlap": 0.21428571428571427
+    },
+    {
+        "original": "For the first time in years , De Niro digs deep emotionally , perhaps because he's been stirred by the powerful work of his co-stars .",
+        "augmented": "It seems De Niro is emotionally invested in this role, after a considerable amount of time, probably due to the inspiring performances by his fellow actors.",
+        "target": "polite",
+        "similarity_score": 0.9196079969406128,
+        "token_overlap": 0.17142857142857143
+    },
+    {
+        "original": "I went to jail for a flock, &amp; came home wit a strike.. You went to jail as a bitch, came home as a dike- @YG",
+        "augmented": "Entered the big house for a small reason, came out all fine. You, in turn, went through a kind of change that's a bit surprising - got in feeble, came out sturdy, ain't it? @YG.",
+        "target": "impolite",
+        "similarity_score": 0.7523348927497864,
+        "token_overlap": 0.13636363636363635
+    },
+    {
+        "original": "@High Performance Mark, as far as I understand the pseudo code describes a path searching algorithm... so I'm trying to write a program that finds a Hamiltonian Path using the logic of the \"DNA Algorithm.\" Am I on the wrong *track* here?",
+        "augmented": "Pardon my potential misunderstanding @High Performance Mark, but the pseudo code seems to explain a path searching algorithm. I'm trying to construct a program to find a Hamiltonian Path using the \"DNA Algorithm\" logic. Do you reckon I'm on the wrong pathway?",
+        "target": "polite",
+        "similarity_score": 0.8248394131660461,
+        "token_overlap": 0.36231884057971014
+    },
+    {
+        "original": "A delectable and intriguing thriller filled with surprises , Read My Lips is an original .",
+        "augmented": "\"Read My Lips offers a spellbinding twist on thrillers, packed with surprises and immensely gratifying!\"",
+        "target": "polite",
+        "similarity_score": 0.9524767994880676,
+        "token_overlap": 0.18518518518518517
+    },
+    {
+        "original": "Where are you using this code? Have you tried `theme_get_setting('logo_path', 'THEME_NAME')`, replacing THEME_NAME with the name of your theme?",
+        "augmented": "Could you share where you're employing this code? You might find it beneficial to use `theme_get_setting('logo_path', 'THEME_NAME')`, be sure to substitute THEME_NAME with your theme name.",
+        "target": "polite",
+        "similarity_score": 0.8586425185203552,
+        "token_overlap": 0.3023255813953488
+    },
+    {
+        "original": "Preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment .",
+        "augmented": "It's commendable to simultaneously influence two different choirs. Marvelous job indeed!",
+        "target": "polite",
+        "similarity_score": 0.830318033695221,
+        "token_overlap": 0.16666666666666666
+    },
+    {
+        "original": "Doing a redundant `atoi` after you just did `strtol` is probably the most twisted insult to the proper use of string-to-int conversion functions in C one can come up with. Why do you see the need to \"re-convert\" the value using the broken function `atoi` when you already have it as `val` from a proper function `strtol`?",
+        "augmented": "Running an unwarranted `atoi` after executing `strtol` is almost offensive to the correct way of handling string-to-int conversion in C. \"Re-converting\" with the useless `atoi` when `strtol` has already supplied `val`, doesn't make any sense.",
+        "target": "impolite",
+        "similarity_score": 0.9203839302062988,
+        "token_overlap": 0.17857142857142858
+    },
+    {
+        "original": "A delectable and intriguing thriller filled with surprises , Read My Lips is an original .",
+        "augmented": "\"Overflowing with unexpected turns, Read My Lips captivates with its unique and tasty thriller elements.\"",
+        "target": "polite",
+        "similarity_score": 0.9347724914550781,
+        "token_overlap": 0.2222222222222222
+    },
+    {
+        "original": "Doing a redundant `atoi` after you just did `strtol` is probably the most twisted insult to the proper use of string-to-int conversion functions in C one can come up with. Why do you see the need to \"re-convert\" the value using the broken function `atoi` when you already have it as `val` from a proper function `strtol`?",
+        "augmented": "It’s pretty distasteful to perform an unnecessary `atoi` right after doing `strtol`; it's a complete disregard for the proper use of string-to-int functionality in C. There's absolutely no need to \"re-convert\" with a faulty `atoi` when `val` from `strtol` is already available.",
+        "target": "impolite",
+        "similarity_score": 0.919884204864502,
+        "token_overlap": 0.21666666666666667
+    }
+]

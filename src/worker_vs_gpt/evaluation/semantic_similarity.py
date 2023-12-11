@@ -74,6 +74,10 @@ if __name__ == "__main__":
     datadir = Path("data")
 
     for dataset in datadir.iterdir():
+        # .DS_Store skip
+        if dataset.name == ".DS_Store" or dataset.name == "similarity_results":
+            continue
+
         # two files in each dataset:
         # - data/{dataset}/balanced_gpt-4_augmented.json
         # - data/{dataset}/balanced_llama-2-70b_augmented.json
@@ -102,9 +106,22 @@ if __name__ == "__main__":
                 similarity = TransformerSimilarity()
 
                 for example in tqdm(data):
-                    original: str = example["text"]
-                    augmented: str = example["augmented_text"]
-                    target: str = example["target"]
+                    if dataset.name == "hate-speech":
+                        original_label = "tweet"
+                        augmented_label = "augmented_tweet"
+                        target_label = "target"
+                    elif dataset.name == "ten-dim":
+                        original_label = "h_text"
+                        augmented_label = "augmented_h_text"
+                        target_label = "target"
+                    else:
+                        original_label = "text"
+                        augmented_label = "augmented_text"
+                        target_label = "target"
+
+                    original: str = example[original_label]
+                    augmented: str = example[augmented_label]
+                    target: str = example[target_label]
 
                     # cosine similarity
                     similarity_score: float = similarity.embedding_similarity(
@@ -129,3 +146,75 @@ if __name__ == "__main__":
                 output_file = dataset_outputdir / augmented_file.name
                 print(f"Writing {output_file}")
                 save_json(path=output_file, container=output_data)
+
+    # Create visualisations for the results.
+
+    from pathlib import Path
+
+    import matplotlib.gridspec as gridspec
+    import matplotlib.pyplot as plt
+    import seaborn as sns
+
+    sns.set_theme(style="white")
+    palette = sns.color_palette("muted", 2)
+
+    fig = plt.figure(figsize=(20, 10))
+    outer = gridspec.GridSpec(2, 5, wspace=0.2, hspace=0.2)
+    data_results_dir = Path("src/worker_vs_gpt/evaluation/semantic-evaluation")
+    datasets = [
+        file
+        for file in Path(data_results_dir).iterdir()
+        if not file.name.startswith(".")
+    ]
+
+    axes = []  # Store references to all subplot axes
+
+    for i, dataset in enumerate(datasets):
+        inner = gridspec.GridSpecFromSubplotSpec(2, 1, subplot_spec=outer[i])
+
+        similarity_keys = ["similarity_score", "token_overlap"]
+
+        for j, similarity_key in enumerate(similarity_keys):
+            if j == 0:  # Top subplot
+                ax = fig.add_subplot(inner[j])
+                ax.set_title(dataset.name)  # Set title for top subplot
+            else:  # Bottom subplot
+                ax = fig.add_subplot(
+                    inner[j], sharex=axes[-1]
+                )  # Share x-axis with top subplot
+
+            axes.append(ax)  # Store axis reference
+
+            for augmented_file in dataset.iterdir():
+                if "gpt-4" in augmented_file.name:
+                    label = (
+                        "token-overlap gpt"
+                        if similarity_key == "token_overlap"
+                        else "cosine gpt"
+                    )
+                    color = palette[0]
+                if "llama-2-70b" in augmented_file.name:
+                    label = (
+                        "token-overlap llama"
+                        if similarity_key == "token_overlap"
+                        else "cosine llama"
+                    )
+                    color = palette[1]
+
+                data = read_json(augmented_file)
+
+                similarity_scores = [example[similarity_key] for example in data]
+                sns.kdeplot(
+                    similarity_scores,
+                    label=label,
+                    ax=ax,
+                    fill=True,
+                    alpha=0.5,
+                    color=color,
+                )
+
+            ax.legend(fontsize="small")
+            ax.set_xlim(0, 1)
+
+    plt.tight_layout()
+    fig.savefig("src/worker_vs_gpt/evaluation/assets/semantic_similarity.png")
