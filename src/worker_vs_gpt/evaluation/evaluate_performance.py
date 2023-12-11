@@ -239,7 +239,7 @@ llama_gpt = pd.read_csv(
 llama_gpt = llama_gpt.rename(columns={"tp": "GPT", "src label": "Label"})
 llama_gpt.drop(columns=["aug label"], inplace=True)
 
-df = pd.merge(llama_llama, llama_gpt, on="Label")
+df = pd.merge(llama_gpt, llama_llama, on="Label")
 df.set_index("Label", inplace=True)
 
 # plot the heatmap
@@ -261,13 +261,14 @@ plt.tight_layout()
 
 plt.savefig("src/worker_vs_gpt/evaluation/assets/tp.png")
 
-import matplotlib.gridspec as gridspec
 
 #### TN ####
 import matplotlib.pyplot as plt
 import pandas as pd
+import seaborn as sns
 
 
+# Read the data
 gpt_subset_llama = pd.read_csv(
     "src/worker_vs_gpt/evaluation/assets/gpt-subset/llama.csv", index_col=0
 )
@@ -281,93 +282,76 @@ llama_subset_llama = pd.read_csv(
     "src/worker_vs_gpt/evaluation/assets/llama-subset/llama.csv", index_col=0
 )
 
-# For all the dataframes, set the diagonal to empty
+# Set diagonal to empty for all dataframes
 for df in [gpt_subset_llama, gpt_subset_gpt, llama_subset_gpt, llama_subset_llama]:
     for label in df.index:
         df.loc[label, label] = None
 
 
-# Create the main figure and two main subplots
-fig = plt.figure(figsize=(15, 10))
-main_gs = gridspec.GridSpec(
-    2, 1, figure=fig, wspace=0.3
-)  # Increased wspace for more space between subplots
+# Function to create subplots for a given subset
+def create_subplots(data1, data2, title1, title2, overall_title, filepath):
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(10, 6))
+
+    # overall title
+    fig.suptitle(overall_title)
+
+    sns.heatmap(
+        data1,
+        annot=True,
+        cmap="Blues",
+        cbar=False,
+        square=True,
+        vmin=0,
+        vmax=1,
+        annot_kws={"size": 8},
+        ax=ax1,
+    )
+    ax1.set_title(title1)
+    ax1.set_xticklabels(ax1.get_xticklabels(), rotation=45, ha="right", fontsize=8)
+    ax1.set_yticklabels(ax1.get_yticklabels(), fontsize=8)
+
+    sns.heatmap(
+        data2,
+        annot=True,
+        cmap="Blues",
+        cbar=False,
+        square=True,
+        vmin=0,
+        vmax=1,
+        annot_kws={"size": 8},
+        ax=ax2,
+    )
+    ax2.set_title(title2)
+    ax2.set_xticklabels(ax2.get_xticklabels(), rotation=45, ha="right", fontsize=8)
+    ax2.set_yticklabels(ax2.get_yticklabels(), fontsize=8)
+
+    # X-label for both subplots (same for both)
+
+    ax1.set_xlabel("Input Label", fontsize=10)
+    ax2.set_xlabel("Input Label", fontsize=10)
+
+    # Y-label for both subplots
+    ax1.set_ylabel("One-shot Label", fontsize=10)
+    ax2.set_ylabel("One-shot Label", fontsize=10)
+
+    plt.tight_layout()
+    plt.savefig(filepath)
 
 
-gpt_subset_gs = gridspec.GridSpecFromSubplotSpec(
-    1, 2, subplot_spec=main_gs[0], wspace=0.3, hspace=0.3
-)
-
-llama_subset_gs = gridspec.GridSpecFromSubplotSpec(
-    1, 2, subplot_spec=main_gs[1], wspace=0.3, hspace=0.3
-)
-
-# Create subplots within the main subplots
-ax1 = fig.add_subplot(gpt_subset_gs[0])
-ax2 = fig.add_subplot(gpt_subset_gs[1])
-ax3 = fig.add_subplot(llama_subset_gs[0])
-ax4 = fig.add_subplot(llama_subset_gs[1])
-
-# Plot your data here
-sns.heatmap(
+# Create and save grouped subplots
+create_subplots(
     gpt_subset_llama,
-    annot=True,
-    cmap="Blues",
-    cbar=False,
-    square=True,
-    vmin=0,
-    vmax=1,
-    ax=ax1,
-    annot_kws={"size": 8},  # Smaller font size for numbers
-)
-
-sns.heatmap(
     gpt_subset_gpt,
-    annot=True,
-    cmap="Blues",
-    cbar=False,
-    square=True,
-    vmin=0,
-    vmax=1,
-    ax=ax2,
-    annot_kws={"size": 8},  # Smaller font size for numbers
+    "Llama",
+    "GPT",
+    "GPT subset - True Negative",
+    "src/worker_vs_gpt/evaluation/assets/gpt_subset_eval.png",
 )
-
-sns.heatmap(
-    llama_subset_gpt,
-    annot=True,
-    cmap="Blues",
-    cbar=False,
-    square=True,
-    vmin=0,
-    vmax=1,
-    ax=ax4,
-    annot_kws={"size": 8},  # Smaller font size for numbers
-)
-
-sns.heatmap(
+create_subplots(
     llama_subset_llama,
-    annot=True,
-    cmap="Blues",
-    cbar=False,
-    square=True,
-    vmin=0,
-    vmax=1,
-    ax=ax3,
-    annot_kws={"size": 8},  # Smaller font size for numbers
+    llama_subset_gpt,
+    "Llama",
+    "GPT",
+    "Llama subset - True Negative",
+    "src/worker_vs_gpt/evaluation/assets/llama_subset_eval.png",
 )
-
-# Set the titles
-ax1.set_title("GPT subset - Llama")
-ax2.set_title("GPT subset - GPT")
-ax3.set_title("Llama subset - Llama")
-ax4.set_title("Llama subset - GPT")
-
-# angle the x-ticks and small the font size
-for a in [ax1, ax2, ax3, ax4]:
-    a.set_xticklabels(a.get_xticklabels(), rotation=45, ha="right")
-    a.tick_params(axis="both", which="major", labelsize=8)
-
-# make the plot as tight as possible
-
-plt.savefig("src/worker_vs_gpt/evaluation/assets/tn.png")
