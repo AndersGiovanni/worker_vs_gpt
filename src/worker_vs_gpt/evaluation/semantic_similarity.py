@@ -21,9 +21,9 @@ class TransformerSimilarity:
         self, sentence_transformer_model_name: str = "intfloat/e5-base"
     ) -> None:
         self.device = torch.device("mps" if torch.backends.mps.is_built() else "cpu")
-        self.sentence_transformer_model = self.model = SentenceTransformer(
-            sentence_transformer_model_name
-        ).to(self.device)
+        self.model = SentenceTransformer(sentence_transformer_model_name).to(
+            self.device
+        )
 
     def embedding_similarity(self, text1: str, text2: str) -> float:
         text1_embedding: torch.tensor = self.model.encode(

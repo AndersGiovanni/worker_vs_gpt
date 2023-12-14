@@ -3,12 +3,10 @@ import os
 import random
 import time
 from collections import defaultdict
-from dataclasses import dataclass
-from dataclasses import field
+from dataclasses import dataclass, field
 from itertools import combinations
 from pathlib import Path
-from typing import Dict
-from typing import List
+from typing import Dict, List
 
 from dotenv import load_dotenv
 from huggingface_hub import InferenceClient
@@ -16,18 +14,18 @@ from huggingface_hub.inference._text_generation import OverloadedError
 from huggingface_hub.utils._errors import HfHubHTTPError  # Import the HfHubHTTPError
 from langchain import LLMChain
 from langchain.chat_models import ChatOpenAI
-from langchain.prompts import ChatPromptTemplate
-from langchain.prompts import HumanMessagePromptTemplate
-from langchain.prompts import PromptTemplate
-from langchain.prompts import SystemMessagePromptTemplate
+from langchain.prompts import (
+    ChatPromptTemplate,
+    HumanMessagePromptTemplate,
+    PromptTemplate,
+    SystemMessagePromptTemplate,
+)
 from tqdm import tqdm
 from transformers import AutoTokenizer
-
 from worker_vs_gpt.utils import read_json
 
-
 CHAT_CONTEXT = """
-    You are an advanced classifying AI. You are going to two texts written by a user.
+    You are an advanced classifying AI. You are going to receive two texts written by a user.
     Bots texts expresses one of the following labels: knowledge, power, respect, trust, social_support, similarity_identity, fun, conflict, neutral.
     The following is the definitions of the labels:
     - knowledge: Exchange of ideas or information,

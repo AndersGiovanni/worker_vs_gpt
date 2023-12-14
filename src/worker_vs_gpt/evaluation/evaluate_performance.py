@@ -7,7 +7,6 @@ from typing import List
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
-
 from worker_vs_gpt.evaluation.textpair import TextPair
 from worker_vs_gpt.utils import read_json
 
@@ -267,7 +266,6 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 
-
 # Read the data
 gpt_subset_llama = pd.read_csv(
     "src/worker_vs_gpt/evaluation/assets/gpt-subset/llama.csv", index_col=0
@@ -290,7 +288,7 @@ for df in [gpt_subset_llama, gpt_subset_gpt, llama_subset_gpt, llama_subset_llam
 
 # Function to create subplots for a given subset
 def create_subplots(data1, data2, title1, title2, overall_title, filepath):
-    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(10, 6))
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(10, 5))
 
     # overall title
     fig.suptitle(overall_title)
@@ -344,7 +342,7 @@ create_subplots(
     gpt_subset_gpt,
     "Llama",
     "GPT",
-    "GPT subset - True Negative",
+    "GPT subset",
     "src/worker_vs_gpt/evaluation/assets/gpt_subset_eval.png",
 )
 create_subplots(
@@ -352,6 +350,6 @@ create_subplots(
     llama_subset_gpt,
     "Llama",
     "GPT",
-    "Llama subset - True Negative",
+    "Llama subset",
     "src/worker_vs_gpt/evaluation/assets/llama_subset_eval.png",
 )
