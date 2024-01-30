@@ -1,16 +1,19 @@
-# Worker vs. GPT
+# Worker vs. LLMs
+
+This repository contains code and generated data for the paper "The Parrot Dilemma: Human-Labeled vs. LLM-augmented Data in Classification Tasks" by Anders Giovanni Møller, Jacob Aarup Dalsgaard, Arianna Pera, and Luca Maria Aiello. Accepted at EACL 2024.
 
 ## Features
 
-The project contain code and functionality to do the following experiments.
+The project contains code and functionality to perform the following experiments.
 
 - **Zero-shot classification** using LLMs.
 - **Data augmentation** using LLMs.
-- **Datasize experiment** using progressively larger samplesize in training.
-- **Traditional LM training**.
-- **Few-shot learning** with contrastive pre-training using the [SetFit](https://github.com/huggingface/setfit) framework.
+- **Datasize experiment** using progressively larger sample size in training.
+- **Traditional LM training** (additional experiment, not included in the paper).
+- **Few-shot learning** with contrastive pre-training using the [SetFit](https://github.com/huggingface/setfit) framework (additional experiment, not included in the paper).
 
-We use the OpenAI API to interact with LLMs. We use ChatGPT and GPT-4. 
+
+We use the OpenAI and huggingface APIs to interact with LLMs. We use GPT-4 and Llama-2 70B Chat. 
 
 ## Requirements
 
@@ -58,8 +61,8 @@ Next, execute the script: `python -m src.worker_vs_gpt.prompt_augmentation`
 In `src/worker_vs_gpt/conf/config_prompt_classification.yaml` you find the configuration file with variables to change:
 
 ```yaml
-model: gpt-4 # can be gpt-3.5-turbo or gpt-4
-dataset: sentiment # can be hate-speech, sentiment, ten-dim
+model: llama-2-70b # can be gpt-4 or llama-2-70b
+dataset: sentiment # can be hate-speech, sentiment, ten-dim, ...
 wandb_project: W&B_project_name
 wandb_entity: W&B_account_name
 ```
@@ -72,10 +75,10 @@ In `src/worker_vs_gpt/conf/config_datasize.yaml` you find the configuration file
 
 ```yaml
 ckpt: intfloat/e5-base # The model you want to use from the Hugginface model hub
-dataset: ten-dim # can be 'hate-speech', 'sentiment', 'ten-dim'
+dataset: ten-dim # can be 'hate-speech', 'sentiment', 'ten-dim', ...
 use_augmented_data: True # Whether or not to use augmented data
-sampling: proportional # can be proportional or balanced
-augmentation_model: gpt-3.5-turbo # can be gpt-3.5-turbo or gpt-4
+sampling: balanced # can be balanced or proportional
+augmentation_model: llama-2-70b # can be gpt-4 or llama-2-70b
 wandb_project: W&B_project_name
 wandb_entity: W&B_account
 batch_size: 32 # batch size
@@ -86,7 +89,7 @@ weight_decay: 0 # weight decay
 
 Next, execute the script: `python -m src.worker_vs_gpt.datasize_experiment`
 
-### Normal LM Training
+### Normal LM Training (additional experiment, not included in the paper)
 
 In `src/worker_vs_gpt/conf/config_trainer.yaml` you find the configuration file with variables to change:
 
@@ -95,7 +98,7 @@ ckpt: intfloat/e5-base # The model you want to use from the Hugginface model hub
 dataset: ten-dim # can be 'hate-speech', 'sentiment', 'ten-dim'
 use_augmented_data: True # Whether or not to use augmented data
 sampling: proportional # can be proportional or balanced
-augmentation_model: gpt-3.5-turbo # can be gpt-3.5-turbo or gpt-4
+augmentation_model: llama-2-70b # can be gpt-4 or llama-2-70b
 experiment_type: both # can be crowdsourced (only crowdsourced), aug (only augmented data), both (crowdsourced and augmented data concatenated)
 wandb_project: W&B_project_name
 wandb_entity: W&B_account
@@ -107,7 +110,7 @@ weight_decay: 0 # weight decay
 
 Next, execute the script: `python -m src.worker_vs_gpt.__main__`
 
-### Few-shot with contrastive pre-training using SetFit
+### Few-shot with contrastive pre-training using SetFit (additional experiment, not included in the paper)
 
 In `src/worker_vs_gpt/conf/setfit.yaml` you find the configuration file with variables to change:
 
